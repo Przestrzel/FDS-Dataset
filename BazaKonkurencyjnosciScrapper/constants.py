@@ -1,1 +1,1 @@
-BASE_URL = "https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/ogloszenia/szukaj?q"
+BASE_URL_QUERY = "https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/ogloszenia/szukaj?q="

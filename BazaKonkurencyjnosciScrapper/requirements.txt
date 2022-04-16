@@ -43,9 +43,11 @@ lxml==4.6.5
 Mako==1.1.4
 MarkupSafe==2.0.0
 nftables==0.1
+numpy==1.22.3
 olefile==0.46
 outcome==1.1.0
 packaging==21.3
+pandas==1.4.2
 paramiko==2.10.3
 Paste==3.5.0
 pexpect==4.8.0
