@@ -1,6 +1,7 @@
-import requests
 import json
 import sys
+
+import requests
 
 
 class APIService:
@@ -11,7 +12,7 @@ class APIService:
         self.__parameter = parameter
         self.__query = (self.__API_URL
                         + self.__data
-                        + self.__query_params() # usually city
+                        + self.__query_params()  # usually city
                         + 'per_page=100')
         self.__page = 1
         self.request = requests.get(self.__query)
@@ -22,7 +23,7 @@ class APIService:
                     + str(self.__parameter)
                     + "&")
         elif self.__data == "notices":
-            return ("error")
+            raise Exception("Server error")
 
     def __check_next_page(self):
         try:
