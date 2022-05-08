@@ -16,6 +16,8 @@ class APIService:
                         + 'per_page=100')
         self.__page = 1
         self.request = requests.get(self.__query)
+        self._max_page = int(json.dumps(self.request.json()['page_count']))
+        print(self._max_page)
 
     def __query_params(self):
         if self.__data == "tenders":
@@ -24,15 +26,6 @@ class APIService:
                     + "&")
         elif self.__data == "notices":
             raise Exception("Server error")
-
-    def __check_next_page(self):
-        try:
-            meta = self.get_meta()
-            self.__page = json.loads(meta).get('next_page')
-        except json.JSONDecodeError:
-            print("Please try later, the API isn't working")
-            print("Error with loads metadata")
-            sys.exit()
 
     def get_data(self):
         try:
@@ -44,23 +37,15 @@ class APIService:
             sys.exit()
 
     def get_next_page(self):
-        self.__check_next_page()
-        self.request = requests.get(self.__query + "&page=" + str(self.__page))
-
-    def get_meta(self):
-        try:
-            meta = json.dumps(self.request.json()['meta'])
-            return meta
-        except json.JSONDecodeError:
-            print("Please try later, the API isn't working")
-            print("Error with loads metadata")
-            sys.exit()
+        self.__page +=1
+        if self.is_page_avaible():
+            self.request = requests.get(self.__query + "&page=" + str(self.__page))
 
     def get_query(self):
         return self.__query
 
     def is_page_avaible(self):
-        if self.__page is not None:
+        if self.__page <= self._max_page:
             return True
         else:
             return False
