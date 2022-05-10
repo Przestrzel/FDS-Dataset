@@ -1,35 +1,25 @@
 {
     "auctions": [
         {
-            "auction_name": "Usługi tłumaczenia ustnego i pisemnego (z języka polskiego na język angielski oraz z języka angielskiego na język polski) na potrzeby projektu pn. „Łomża – Miasto, w którym żyję i pracuję” w ramach Programu Rozwój Lokalny, finansowanego z Norweskiego Mechanizmu Finansowanego 2014-2021 oraz ze środków Inicjatywy Bilateralnej.",
+            "auction_name": "Zakup z dostawą drukarek dla remontowanego na potrzeby Centrum Integracji Społecznej lokalu w budynku przy ul. Dwornej 13 w Łomży w ramach realizacji projektu „Regionalne Innowacje Społeczne – Centra Integracji Społecznej województwa podlaskiego”",
             "advertiser_name": "Miasto Łomża",
-            "start_date": "2022-02-24",
+            "start_date": "2020-10-16",
             "offer_winners": [
                 {
-                    "name": "Biuro Tłumaczeń Jacek Łuczak",
-                    "price": "18450.00 PLN"
+                    "name": "LEMFAX PHU Joanna Godlewska",
+                    "price": "10737.90 PLN"
                 }
             ],
             "offer_losers": [
                 {
-                    "name": "AGIt Agnieszka Rydz",
-                    "price": "44280.00 PLN"
-                },
+                    "name": "Lexprint Karol Bałazy",
+                    "price": "12607.50 PLN"
+                }
+            ],
+            "cpv": [
                 {
-                    "name": "GROY Translations Sp z o.o.",
-                    "price": "80478.90 PLN"
-                },
-                {
-                    "name": "MASTER Agnieszka Burnus-Rychlewska",
-                    "price": "72842.40 PLN"
-                },
-                {
-                    "name": "Skrivanek sp. z o.o.",
-                    "price": "98444.30 PLN"
-                },
-                {
-                    "name": "Wordlink Usługi Językowe Sp. z o.o.",
-                    "price": "43505.10 PLN"
+                    "cpv": "30232110-8",
+                    "cpv_description": "Drukarki laserowe"
                 }
             ]
         }

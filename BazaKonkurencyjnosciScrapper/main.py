@@ -3,12 +3,13 @@ import constants
 import json
 from offer import Offer
 from auction import Auction, Auctions
+from cpv import CPV
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
 
 driver = webdriver.Chrome(config.chrome_driver_path)
-sleep_time = 0.5
+sleep_time = 2
 
 
 def setup_city_configuration():
@@ -27,10 +28,10 @@ def setup_city_configuration():
 def get_links_at_site():
     selenium_links = driver.find_elements(By.XPATH, value="//a[@class='link-text']")
     links = []
-    for link in selenium_links:
-        normal_link = link.get_attribute("href")
-        if not ("kopia" in link.find_element(By.TAG_NAME, value="span").text.lower()):
-            links.append(normal_link)
+    for __link__ in selenium_links:
+        anchor = __link__.get_attribute("href")
+        if not ("kopia" in __link__.find_element(By.TAG_NAME, value="span").text.lower()):
+            links.append(anchor)
 
     return links
 
@@ -45,8 +46,8 @@ def get_auctions_links():
     return __auctions_links__
 
 
-def get_auction_offers(link):
-    driver.get(link)
+def get_auction_offers(__link__):
+    driver.get(__link__)
     sleep(sleep_time)
     offer_list = driver.find_elements(by=By.XPATH, value="//div[@class='offer__list']")
     offer_settlement = offer_list[0].find_elements(by=By.XPATH,
@@ -75,6 +76,19 @@ def get_auction_offers(link):
         return auction_winners, auction_losers
 
 
+def get_auction_cpv():
+    order_box = driver.find_elements(by=By.XPATH, value="//div[@class='box__content']")[0]
+    cpv_box = order_box.find_elements(by=By.XPATH, value="./child::div[@class='field-with-label ']")[2]
+    cpv_codes = cpv_box.find_elements(by=By.XPATH, value="./child::p[@class='text mdc-typography--subtitle2']")
+    cpv = []
+
+    for code in cpv_codes:
+        code_splitted = code.text.split()
+        cpv.append(CPV(code_splitted[0], " ".join(code_splitted[1:])))
+
+    return cpv
+
+
 def get_auction_data(auction_link):
     driver.get(auction_link)
     sleep(sleep_time)
@@ -95,22 +109,22 @@ def get_auction_data(auction_link):
     auction_advertiser_name = auction_advertiser_name_container[1].find_elements(by=By.XPATH,
                                                                                  value="./child::p[@class='text mdc-typography--subtitle2']")[
         0].text
-
+    cpv = get_auction_cpv()
     auction_winner, auction_losers = get_auction_offers(auction_link + "?sekcja=oferty")
     if auction_winner is None:
         return None
-    return Auction(auction_name, auction_advertiser_name, auction_start_date, auction_winner, auction_losers)
+    return Auction(auction_name, auction_advertiser_name, auction_start_date, auction_winner, auction_losers, cpv)
 
 
 for city in config.cities_to_scrap:
-    url = constants.BASE_URL_QUERY + city
-    driver.get(url)
-    setup_city_configuration()
+    # url = constants.BASE_URL_QUERY + city
+    # driver.get(url)
+    # setup_city_configuration()
 
-    auctions_links = get_auctions_links()
+    # auctions_links = get_auctions_links()
     auctions = Auctions()
 
-    for link in auctions_links:
+    for link in ["https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/ogloszenia/11994"]:
         auction = get_auction_data(link)
         if auction is not None:
             auctions.add_auction(auction)
