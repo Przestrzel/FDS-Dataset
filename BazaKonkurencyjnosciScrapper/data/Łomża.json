@@ -1,0 +1,27 @@
+{
+    "auctions": [
+        {
+            "auction_name": "Zakup z dostawą drukarek dla remontowanego na potrzeby Centrum Integracji Społecznej lokalu w budynku przy ul. Dwornej 13 w Łomży w ramach realizacji projektu „Regionalne Innowacje Społeczne – Centra Integracji Społecznej województwa podlaskiego”",
+            "advertiser_name": "Miasto Łomża",
+            "start_date": "2020-10-16",
+            "offer_winners": [
+                {
+                    "name": "LEMFAX PHU Joanna Godlewska",
+                    "price": "10737.90 PLN"
+                }
+            ],
+            "offer_losers": [
+                {
+                    "name": "Lexprint Karol Bałazy",
+                    "price": "12607.50 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "cpv": "30232110-8",
+                    "cpv_description": "Drukarki laserowe"
+                }
+            ]
+        }
+    ]
+}
