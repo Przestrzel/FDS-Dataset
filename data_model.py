@@ -32,7 +32,7 @@ class Tender(BaseModel):
 class PublicInstitution(BaseModel):
     name: str
     type: str
-    activity: str
+    activity: Optional[str] = None
     address_city: str
 
 

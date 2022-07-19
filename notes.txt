@@ -1,0 +1,7 @@
+title,
+description,
+cpvs -> code
+fundings -> isEuFund
+procedureType
+buyers ->  name, buyer_type,  adddress ->city, state
+lots ->awardDecisionDate, status, bids->(isWinning, bidders->name, price->netAmount, robustPrice->netAmonut), bidsCount
