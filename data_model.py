@@ -26,11 +26,13 @@ class Tender(BaseModel):
     lots: Optional[List[Bid]] = None
     CPV: Optional[str] = None
     is_euFund: bool = False
+    procedure_type: Optional[str] = None
 
 
 class PublicInstitution(BaseModel):
     name: str
     type: str
     activity: str
+    address_city: str
 
 
