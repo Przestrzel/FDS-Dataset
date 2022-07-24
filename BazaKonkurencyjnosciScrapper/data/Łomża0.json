@@ -1,0 +1,25 @@
+{
+    "auctions": [
+        {
+            "auction_name": "Dostawa specjalistycznego oprogramowania typu: CAD",
+            "advertiser_name": "PPHU Mariola Sp. z o.o.",
+            "start_date": "2021-01-14",
+            "end_date": "2021-01-22",
+            "is_price_criterium": true,
+            "status": "Zamknięte",
+            "conditions": [
+                "Wykonawcą zamówienia nie może być Wykonawca, z którym Zamawiający jest powiązany osobowo lub kapitałowo. Przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między zamawiającym a wykonawcą polegające na:\na) Uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej\nb) Posiadaniu co najmniej 10% udziałów lub akcji\nc) Pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika\nd) Pozostawianiu w takim stosunku pokrewnym lub faktycznym, który może budzić uzasadnione wątpliwości co do bezstronności w wyborze wykonawcy a w szczególności pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia przysposobienia opieki lub kurateli\nPowiązania będą weryfikowane na podstawie Oświadczenie Oferenta o braku powiązań z Zamawiającym – stanowiącym Załącznik nr 2 do zapytania ofertowego",
+                "1) Zamawiający zastrzega sobie prawo do unieważnienia postępowania lub jego części na każdym jego etapie bez podania przyczyn, a także do pozostawienia postepowania lub jego części bez wyboru oferty\n2) Wszelkie pytania odnośnie zapytania ofertowego prosimy kierować w formie pisemnej na adres e-mail podany jako adres elektroniczny do składania ofert. Jednocześnie Zamawiający zastrzega sobie prawo do nie udzielania odpowiedzi na pytania zadane przed upływem 3 dni od daty wyznaczonej jako datę składania ofert.\n3) Procedura wynikająca z Zasady konkurencyjności nie przewiduje środków odwoławczych\n4) Wybór oferty nastąpi w oparciu o ustalone w zapytaniu ofertowym kryteria oceny; wybór oferty jest dokumentowany protokołem postępowania o udzielenie zamówienia.\n5) Zamawiający zastrzega sobie prawo do podjęcia negocjacji cenowych z Wykonawcą, który złożył w oparciu o przyjęte kryteria najkorzystniejszą ofertę. Negocjacje cenowe zostaną podjęte w szczególności, gdy zaoferowana cena będzie wyższa od założonej przez Zamawiającego. Z przeprowadzonych negocjacji zostanie sporządzony protokół stanowiący załącznik do umowy na realizację przedmiotu zamówienia. \n6) O zamówienie mogą ubiegać się wykonawcy, którzy zaoferują przedmiot zamówienia zgodny z wymogami Zamawiającego określonymi w niniejszym zapytaniu ofertowym\n7) Oferty niespełniające któregokolwiek z wymagań zostaną odrzucone \n8) W przypadku oczywistych omyłek, braku podpisu, braku załącznika lub innego niż formularz ofertowy, Zamawiający może wezwać Wykonawcę do uzupełnienia braków. Wezwanie dokonywane jest w formie e-mail na adres wskazany w formularzu ofertowym. Wykonawca ma możliwość uzupełnienia wskazanych braków w terminie 3 dni roboczych od daty wysłania wezwania. Dla spełnienie terminu liczy się data wpływu uzupełnień od Wykonawcy na adres zamawiającego. W przypadku braku uzupełnień oferta zostanie odrzucona bez dalszego rozpatrzenia\nInformacja o wynikach postępowania zostanie zamieszczona w sposób w jaki została upubliczniona.",
+                "Załącznik 1. Formularz ofertowy\nZałącznik 2. Oświadczenie Oferenta o braku powiązań z Zamawiającym"
+            ],
+            "offer_winners": [
+                {
+                    "name": "MAT USŁUGI INFORMATYCZNE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+                    "price": "224290.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": []
+        }
+    ]
+}

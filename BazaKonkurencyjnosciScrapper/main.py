@@ -7,6 +7,8 @@ from cpv import CPV
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
+from os import listdir
+from os.path import isfile, join
 
 driver = webdriver.Chrome(config.chrome_driver_path)
 sleep_time = 2
@@ -19,7 +21,6 @@ def setup_city_configuration():
     announcement_status = driver.find_elements(by=By.XPATH, value="//input[@class='mdc-checkbox__native-control']")
     announcement_status[0].click()
     announcement_status[1].click()
-    announcement_status[2].click()
     announcement_status[3].click()
     driver.execute_script(
         "document.getElementsByClassName('mdc-dialog__surface')[0].scrollTo(0, document.body.scrollHeight);")
@@ -67,6 +68,12 @@ def get_auction_offers(__link__):
         return None, None
     else:
         offer_win = offer_list[0].find_elements(by=By.XPATH, value="./child::div//div[@class='box__content']//div[@class='field-with-label ']")
+        if len(offer_win) == 0:
+            offer_win = offer_list[0].find_elements(by=By.XPATH, value="./child::ul//div[@class='box__content']//div[@class='field-with-label ']")
+
+        if len(offer_win) == 0:
+            return None, None
+
         name = offer_win[0].text
         price = offer_win[2].text
         auction_winners.append(Offer(name, price))
@@ -157,20 +164,32 @@ def get_auction_data(auction_link):
                    conditions)
 
 
+def get_last_done_chunk(city_name):
+    onlyfiles = [f for f in listdir(config.path_to_data) if isfile(join(config.path_to_data, f))]
+    last_file = onlyfiles[-1]
+    last_file_index = last_file.split(city_name, 1)[1].split('.json', 1)[0]
+    return last_file_index
+
+
 for city in config.cities_to_scrap:
-    # url = constants.BASE_URL_QUERY + city
-    # driver.get(url)
-    # setup_city_configuration()
-
-    # auctions_links = get_auctions_links()
+    last_saved_file = get_last_done_chunk(city)
+    url = constants.BASE_URL_QUERY + city
+    driver.get(url)
+    setup_city_configuration()
+    auctions_links = get_auctions_links()
     auctions = Auctions()
+    auction_links_chunks = [auctions_links[x:x+20] for x in range(0, len(auctions_links), 20)]
 
-    for link in ["https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/ogloszenia/52846"]:
-        auction = get_auction_data(link)
-        if auction is not None:
-            auctions.add_auction(auction)
+    for index, links_chunk in enumerate(auction_links_chunks):
+        if index <= int(last_saved_file):
+            continue
+        print(index)
+        for link in links_chunk:
+            auction = get_auction_data(link)
+            if auction is not None:
+                auctions.add_auction(auction)
 
-    with open(f'data/{city}.json', 'w') as f:
-        json.dump(json.JSONDecoder().decode(auctions.to_json()), f, ensure_ascii=False, indent=4)
+        with open(f'data/{city}{index}.json', 'w') as f:
+            json.dump(json.JSONDecoder().decode(auctions.to_json()), f, ensure_ascii=False, indent=4)
 
 driver.close()
