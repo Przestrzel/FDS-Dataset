@@ -18,6 +18,8 @@ def setup_city_configuration():
     sleep(sleep_time)
     announcement_status = driver.find_elements(by=By.XPATH, value="//input[@class='mdc-checkbox__native-control']")
     announcement_status[0].click()
+    announcement_status[1].click()
+    announcement_status[2].click()
     announcement_status[3].click()
     driver.execute_script(
         "document.getElementsByClassName('mdc-dialog__surface')[0].scrollTo(0, document.body.scrollHeight);")
@@ -52,7 +54,8 @@ def get_auction_offers(__link__):
     offer_list = driver.find_elements(by=By.XPATH, value="//div[@class='offer__list']")
     offer_settlement = offer_list[0].find_elements(by=By.XPATH,
                                                    value="./child::p[@class='text mdc-typography--subtitle2']")
-    if "żadnej oferty" in offer_settlement[0].text:
+
+    if len(offer_settlement) == 0 or "żadnej oferty" in offer_settlement[0].text:
         return None, None
     offer_type_name = offer_list[0].find_elements(by=By.XPATH, value="./child::div[@class='offer-resolve__name']//h2")[0].text
     is_offer_multiple = True if "Rozstrzygnięcie części" in offer_type_name else False
@@ -89,18 +92,43 @@ def get_auction_cpv():
     return cpv
 
 
+def get_auction_conditions():
+    announcement = driver.find_elements(by=By.XPATH, value="//li[@class='announcement__part']")[0]
+    condition_box = announcement.find_elements(by=By.XPATH, value="./child::ul//li[@class='box box--long-content  mdc-theme--background mdc-elevation--z3']//div[@class='box__content']//div[@class='separate-content']")
+    conditions = []
+    for condition_element in condition_box:
+        condition_description = condition_element.find_elements(by=By.XPATH, value="./child::div[@class='field-with-label ']")[1]
+        text = condition_description.find_elements(by=By.XPATH, value="./child::p[@class='text long-text mdc-typography--subtitle2']")[0].text
+        conditions.append(text.replace("\\n", ""))
+
+    return conditions
+
+
+def get_price_criterium():
+    criteria = driver.find_elements(by=By.XPATH, value="//li[@class='box  mdc-theme--background mdc-elevation--z3']")[0]
+    box_criteria = criteria.find_elements(by=By.XPATH, value="./child::div[@class='box__content']")[0]
+    is_price_text = box_criteria.find_elements(by=By.XPATH, value="./child::p[@class='text mdc-typography--subtitle2']")[0].text
+    return is_price_text == "TAK"
+
+
 def get_auction_data(auction_link):
     driver.get(auction_link)
     sleep(sleep_time)
     auction_name = driver.find_elements(by=By.XPATH, value="//h1[@class='text text--main-title long-text mdc-typography--subtitle2']")[0].text
+    auction_status = driver.find_elements(by=By.XPATH, value="//h2[@class='text mdc-typography--subtitle2']")[0].text
     date_row = driver.find_elements(by=By.XPATH,
                                     value="//section[@class='grid-custom grid-custom--flex-m grid-custom--full-width ']")
     date_container = date_row[0].find_elements(by=By.XPATH,
                                                value="./child::div[@class='field-with-label announcement--date']")
-    date = date_container[1].find_element(by=By.XPATH, value="./child::p[@class='text mdc-typography--subtitle2']")
-    auction_start_date = date.text
-    if len(date.text) >= 10:
-        auction_start_date = date.text[:10]
+    end_date = date_container[0].find_element(by=By.XPATH, value="./child::p[@class='text mdc-typography--subtitle2']")
+    start_date = date_container[1].find_element(by=By.XPATH, value="./child::p[@class='text mdc-typography--subtitle2']")
+    auction_end_date = end_date.text
+    auction_start_date = start_date.text
+    if len(auction_start_date) >= 10:
+        auction_start_date = start_date.text[:10]
+
+    if len(auction_end_date) >= 10:
+        auction_end_date = end_date.text[:10]
 
     auction_advertiser_container = driver.find_elements(by=By.XPATH,
                                                         value="//aside[@class='details-preview__part details-preview__part--aside']")
@@ -110,10 +138,23 @@ def get_auction_data(auction_link):
                                                                                  value="./child::p[@class='text mdc-typography--subtitle2']")[
         0].text
     cpv = get_auction_cpv()
+    conditions = get_auction_conditions()
+    is_price_criterium = get_price_criterium()
     auction_winner, auction_losers = get_auction_offers(auction_link + "?sekcja=oferty")
     if auction_winner is None:
-        return None
-    return Auction(auction_name, auction_advertiser_name, auction_start_date, auction_winner, auction_losers, cpv)
+        auction_winner = []
+    if auction_losers is None:
+        auction_losers = []
+    return Auction(auction_name,
+                   auction_advertiser_name,
+                   auction_start_date,
+                   auction_end_date,
+                   auction_winner,
+                   auction_losers,
+                   cpv,
+                   is_price_criterium,
+                   auction_status,
+                   conditions)
 
 
 for city in config.cities_to_scrap:
@@ -124,7 +165,7 @@ for city in config.cities_to_scrap:
     # auctions_links = get_auctions_links()
     auctions = Auctions()
 
-    for link in ["https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/ogloszenia/11994"]:
+    for link in ["https://bazakonkurencyjnosci.funduszeeuropejskie.gov.pl/ogloszenia/52846"]:
         auction = get_auction_data(link)
         if auction is not None:
             auctions.add_auction(auction)
