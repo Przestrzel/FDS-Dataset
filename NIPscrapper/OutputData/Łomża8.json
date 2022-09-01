@@ -1,0 +1,4006 @@
+{
+    "companies": [
+        {
+            "company_name": "Atmoterm S.A.",
+            "nip_number": "7540339496 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000064312 ",
+            "regon_number": "530600238 ",
+            "legal_form": "spÛ≥ka akcyjna ",
+            "board_members": [
+                "Ryszard Andrzej Pazdan "
+            ],
+            "procuration_members": [
+                "Ryszard Andrzej Pazdan "
+            ],
+            "supervisory_board": [
+                "Ryszard Andrzej Pazdan "
+            ]
+        },
+        {
+            "company_name": "AGIT Agnieszka RYdz",
+            "nip_number": "9462158036 ",
+            "owner_name": "AGNIESZKA RYDZ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "431013440 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Kornelia Filut Studio",
+            "nip_number": "5621708169 ",
+            "owner_name": "Kornelia Filut ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "340469601 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Fundacja Luczak",
+            "nip_number": "6941681254 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000416245 ",
+            "regon_number": "021856182 ",
+            "legal_form": "fundacja ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "4mat sp. z o.o.",
+            "nip_number": "1132896494 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000579490 ",
+            "regon_number": "362711700 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Anna Emilia Szczeúniak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AGENCJA MARKETINGOWA BUKEM",
+            "nip_number": "9441499950 ",
+            "owner_name": "KRZYSZTOF KUKU£A ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "351606529 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AGATA KASPRZAK AGENCJA PROMOCYJNA \"STYLLE\"",
+            "nip_number": "7791476598 ",
+            "owner_name": "AGATA KASPRZAK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "301409302 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AGENCJA REKLAMOWA AYOA J”ZEF KRAåNIEJ",
+            "nip_number": "7421091050 ",
+            "owner_name": "J”ZEF KRAåNIEJ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "281418753 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EUREKA PLUS AGENCJA REKLAMY BARBARA FEDOROWICZ RYSZARD FEDOROWICZ",
+            "nip_number": "8131359042 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "690415867 ",
+            "legal_form": "spÛ≥ka cywilna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GRAFSIDE TOMASZ G”RNY",
+            "nip_number": "7181888523 ",
+            "owner_name": "TOMASZ G”RNY ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200734546 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Libra-Print Daniel Pu≥awski",
+            "nip_number": "7181925224 ",
+            "owner_name": "Daniel PU£AWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "451193225 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Mikodruk-Computer S.C. Jacek i Sylwia Miko≥ajczyk",
+            "nip_number": "6181852134 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "250839909 ",
+            "legal_form": "spÛ≥ka cywilna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PPHU \"LIR\" ELØBIETA ZAJET",
+            "nip_number": "5781179389 ",
+            "owner_name": "Eløbieta Zajet ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "170343308 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PRESTIGE SARA B£ASZCZYK",
+            "nip_number": "7393729433 ",
+            "owner_name": "SARA B£ASZCZYK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "280365664 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "JOANNA FORYå-MAZIAK STUDIO MR”WKA",
+            "nip_number": "6792522199 ",
+            "owner_name": "JOANNA FORYå-MAZIAK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "120742013 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "TOP ARTS SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9662153552 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000919490 ",
+            "regon_number": "389831120 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Artur Jezierski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "STUDIO SIEDEM Ø”£TOWSKI GRZEGORZ",
+            "nip_number": "6792556413 ",
+            "owner_name": "GRZEGORZ Ø”£TOWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "120959037 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AGENCJA WYDAWNICZO-REKLAMOWA \"PRAGMATIC MEDIA\" Tomasz Barszcz",
+            "nip_number": "6662011112 ",
+            "owner_name": "Tomasz Barszcz ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "301317712 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DARIUSZ JURAå R5 FILMS",
+            "nip_number": "5213331166 ",
+            "owner_name": "DARIUSZ JURAå ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "146140512 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Django Media Svitlana Hvozdyar",
+            "nip_number": "6792961906 ",
+            "owner_name": "Svitlana Hvozdyar ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "123153866 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Dominik judka",
+            "nip_number": "6891188912 ",
+            "owner_name": "Dominik Judka ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "180745393 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CSC Sp. zo.o.",
+            "nip_number": "7811889407 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000484742 ",
+            "regon_number": "302578544 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Magdalena Eløbieta Szwarc "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CITY TRADER SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•; CITY TRADER SP”£KA Z O.O.; CITY TRADER SP. Z O.O.",
+            "nip_number": "5252455398 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000328010 ",
+            "regon_number": "141824170 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Katarzyna Gurtat ZagÛrska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FlashStudio",
+            "nip_number": "5541844692 ",
+            "owner_name": "MONIKA PARUSZEWSKA-ACHTEL ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "092977619 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FUNDACJA \"MALI SZCZ åLIWI\" IM. JANUSZA KORCZAKA",
+            "nip_number": "9462299274 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000099653 ",
+            "regon_number": "432167116 ",
+            "legal_form": "fundacja ",
+            "board_members": [
+                "Tomasz Zdzieb≥owski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Fyd-Studio Antoni Cepel",
+            "nip_number": "7822841048 ",
+            "owner_name": "Antoni Cepel ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "381632710 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GLOBALISTA.EU MAREK NOROWSKI",
+            "nip_number": "7582047700 ",
+            "owner_name": "Marek NOROWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200381310 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Kamil Brzostowski",
+            "nip_number": "7181874047 ",
+            "owner_name": "Kamil Brzostowski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200687806 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LSW Group Micha≥ Laskowski",
+            "nip_number": "1251713258 ",
+            "owner_name": "Micha≥ Laskowski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "387796795 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Magdalena Sierpniowska New Art Media",
+            "nip_number": "6782671319 ",
+            "owner_name": "Magdalena Sierpniowska ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "388753693 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Barbara Lojewski",
+            "nip_number": "9690745388 ",
+            "owner_name": "Barbara LOJEWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "368589163 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MEDIALORD SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "1182085763 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000426688 ",
+            "regon_number": "146205387 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Adam Bortnowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MP Studios Bartosz Hamerlak",
+            "nip_number": "5482453434 ",
+            "owner_name": "Bartosz Hamerlak ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "243498670 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PARKOS MEDIA IRENEUSZ PROKOPIUK",
+            "nip_number": "5431079836 ",
+            "owner_name": "IRENEUSZ PROKOPIUK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200103656 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Pawe≥ Deryng Kontakt Media",
+            "nip_number": "9662123841 ",
+            "owner_name": "Pawe≥ Deryng ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "381254194 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PCFE Jakub Kliszcz",
+            "nip_number": "7361683053 ",
+            "owner_name": "Jakub Kliszcz ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "360051665 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Franciszek Tereszczuk PeliCam Media",
+            "nip_number": "1182222958 ",
+            "owner_name": "FRANCISZEK TERESZCZUK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "388741810 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PK PRODUCTIONS SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9462691931 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000805702 ",
+            "regon_number": "384447002 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Piotr Andrzej Adamczuk "
+            ],
+            "procuration_members": [
+                "Piotr Andrzej Adamczuk "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"NEW PRESS POLSKA\" sp. z o.o.",
+            "nip_number": "5242511451 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000213121 ",
+            "regon_number": "015760179 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "QBEK STUDIO Jakub Cegielski",
+            "nip_number": "5321905279 ",
+            "owner_name": "Jakub Cegielski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "142156060 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "RM-DRONE Remigiusz Majchrzak",
+            "nip_number": "6912213792 ",
+            "owner_name": "Remigiusz Majchrzak ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "363588555 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ARTUR ZDANOWICZ - ENTERTAINMENT,  SILVER FOX s.c. Artur Zdanowicz wspÛlnik spÛ≥ki cywilnej",
+            "nip_number": "5421321690 ",
+            "owner_name": "ARTUR ZDANOWICZ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200186033 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SOFTHAR  JANUSZ KARAå",
+            "nip_number": "6481092130 ",
+            "owner_name": "JANUSZ KARAå ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "241487225 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "STUDIO SIERMIX SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9970162883 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000947468 ",
+            "regon_number": "520980496 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Rafa≥ FurmaÒczyk "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THE LEGEND STUDIO JAKUB CZERWONKA",
+            "nip_number": "9471497855 ",
+            "owner_name": "JAKUB CZERWONKA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "473305463 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "This is studio Adam Piasecki",
+            "nip_number": "7282854359 ",
+            "owner_name": "Adam Piasecki ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "389666128 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ZIGZAG MEDIA IWONA GNIEDZIEJKO-P£UCIENNIK",
+            "nip_number": "5211410855 ",
+            "owner_name": "IWONA GNIEDZIEJKO-P£UCIENNIK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "140852565 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Damian Miszewski",
+            "nip_number": "5242741085 ",
+            "owner_name": "Damian Miszewski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "369581465 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AGIT Agnieszka RYdz",
+            "nip_number": "9462158036 ",
+            "owner_name": "AGNIESZKA RYDZ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "431013440 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GROY TRANSLATIONS SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9542823240 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000882832 ",
+            "regon_number": "388127978 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Jan Wierzchowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MASTER AGNIESZKA BURNUS-BOGUSZ",
+            "nip_number": "6291424959 ",
+            "owner_name": "AGNIESZKA BURNUS-BOGUSZ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "273642215 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SKRIVANEK SP Z O O",
+            "nip_number": "6342245400 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000024886 ",
+            "regon_number": "273716037 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Pavel Sk¯iv·nek "
+            ],
+            "procuration_members": [
+                "Pavel Sk¯iv·nek "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Justyna Witkowska uslugi jezykowe",
+            "nip_number": "7773329444 ",
+            "owner_name": "Justyna Witkowska ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "380910495 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Fundacja Luczak",
+            "nip_number": "6941681254 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000416245 ",
+            "regon_number": "021856182 ",
+            "legal_form": "fundacja ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "TUTU KRZYSZTOF TUTAJ",
+            "nip_number": "9151649358 ",
+            "owner_name": "KRZYSZTOF TUTAJ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "021408029 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Dobre Strony Micha≥ Bielecki",
+            "nip_number": "8882191927 ",
+            "owner_name": "Micha≥ Bielecki ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "061367670 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Lexprint KAROL BA£AZY",
+            "nip_number": "7181253641 ",
+            "owner_name": "Karol BA£AZY ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200137856 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LEMFAX PHU JOANNA GODLEWSKA",
+            "nip_number": "7181967168 ",
+            "owner_name": "JOANNA GODLEWSKA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "364518025 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MONIKA KLIMCZAK REHA-SENS CENTRUM DIAGNOZY I TERAPII",
+            "nip_number": "5521550875 ",
+            "owner_name": "MONIKA KLIMCZAK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "260451698 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Dominik Bielecki PHU Fare",
+            "nip_number": "5262671910 ",
+            "owner_name": "Dominik Bielecki ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "142435067 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Tech Mix  Katarzyna P≥onka",
+            "nip_number": "5471358850 ",
+            "owner_name": "Katarzyna P≥onka ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "072917981 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MOJA SZKO£A KORNELIA KLAMANN",
+            "nip_number": "5891632051 ",
+            "owner_name": "KORNELIA KLAMANN ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "193036672 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MOJE BAMBINO HOLDING SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7272751304 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000336730 ",
+            "regon_number": "100745932 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Maciej Kapica "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Dominik Bielecki PHU Fare",
+            "nip_number": "5262671910 ",
+            "owner_name": "Dominik Bielecki ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "142435067 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Leszek KrupiÒski WYDAWNICTWO I ZAOPATRZENIE SZKOLNE \"KRULEX\"",
+            "nip_number": "6561064118 ",
+            "owner_name": "Leszek KrupiÒski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "290660728 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MOJE BAMBINO HOLDING SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7272751304 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000336730 ",
+            "regon_number": "100745932 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Maciej Kapica "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Wilanka sp. z o.o.",
+            "nip_number": "7010819923 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000729180 ",
+            "regon_number": "380040717 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Dorota Bukalska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "13P sp. z o.o.",
+            "nip_number": "8992845962 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000735152 ",
+            "regon_number": "380447086 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Grzegorz Jakub Kociumbas "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EDU-PARTNER AGNIESZKA SKIERKA",
+            "nip_number": "5891833223 ",
+            "owner_name": "AGNIESZKA SKIERKA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "385387207 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PRZEDSIEBIORSTWO HANDLOWO- USLUGOWE - \"J”ZWO\"",
+            "nip_number": "6191577468 ",
+            "owner_name": "J”ZEF WOSI—SKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "250697220 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CEZAS Zaopatrzenie SzkÛ≥ KRZYSZTOF MOROZ",
+            "nip_number": "5992266470 ",
+            "owner_name": "KRZYSZTOF MOROZ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "080346868 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"INBAR\" FIRMA HANDLOWO-US£UGOWA IRENA BARTO£D",
+            "nip_number": "5831384939 ",
+            "owner_name": "IRENA BARTO£D ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "192059820 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Pro-Com Mariusz Faron",
+            "nip_number": "8371029551 ",
+            "owner_name": "MARIUSZ FARON ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "016354903 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Centrum Informatyki \"ZETO\" S.A.",
+            "nip_number": "5420202807 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000012499 ",
+            "regon_number": "050071679 ",
+            "legal_form": "spÛ≥ka akcyjna ",
+            "board_members": [
+                "Przemys≥aw Henryk Misiewicz "
+            ],
+            "procuration_members": [
+                "Przemys≥aw Henryk Misiewicz "
+            ],
+            "supervisory_board": [
+                "Przemys≥aw Henryk Misiewicz "
+            ]
+        },
+        {
+            "company_name": "Icod.Pl sp. z o.o.",
+            "nip_number": "5472161032 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000619228 ",
+            "regon_number": "364490479 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Wioletta Barbara Nycz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "INFOMECH JANUSZ MIZERA",
+            "nip_number": "8652037654 ",
+            "owner_name": "JANUSZ MIZERA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "180472819 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PIOTR MIKO£AJEK \"KOMSERWIS\"",
+            "nip_number": "7851455690 ",
+            "owner_name": "PIOTR MIKO£AJEK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "411150030 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DANUTA WALCZAK",
+            "nip_number": "6711192043 ",
+            "owner_name": "Danuta Walczak ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "320538648 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "F.H.U.\"HORYZONT\" Krzysztof Lech",
+            "nip_number": "6851656241 ",
+            "owner_name": "Krzysztof Lech ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "370426330 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PIOTR MAJDA REDICREO",
+            "nip_number": "7343257311 ",
+            "owner_name": "PIOTR MAJDA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "122773740 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "E-GRADZKI £ukasz Grπdzki",
+            "nip_number": "9661780123 ",
+            "owner_name": "£ukasz Grπdzki ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200790852 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "TOWARZYSTWO HANDLOWE ALPLAST SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "6711817193 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000548388 ",
+            "regon_number": "361034806 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Joanna Kinga Indycka "
+            ],
+            "procuration_members": [
+                "Joanna Kinga Indycka "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Wilu Jaros≥aw Wilk",
+            "nip_number": "6912094063 ",
+            "owner_name": "Jaros≥aw Wilk ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "521850399 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Wilanka sp. z o.o.",
+            "nip_number": "7010819923 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000729180 ",
+            "regon_number": "380040717 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Dorota Bukalska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LABOSPORT POLSKA Marcin Florek",
+            "nip_number": "5782785821 ",
+            "owner_name": "Marcin Florek ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "281358258 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FUNDACJA WSPARCIA ROZWOJU SPORTU TURYSTYKI I REKREACJI",
+            "nip_number": "7182159163 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000926331 ",
+            "regon_number": "520199967 ",
+            "legal_form": "fundacja ",
+            "board_members": [
+                "Ma≥gorzata Chomontowska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MAGDALENA SIåKIEWICZ NEW CHALLENGE",
+            "nip_number": "6562246838 ",
+            "owner_name": "MAGDALENA SIåKIEWICZ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "121347974 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MAIK GROUP Artur Maik",
+            "nip_number": "8351592349 ",
+            "owner_name": "Artur Maik ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "380121597 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SUN",
+            "nip_number": "9481938551 ",
+            "owner_name": "Joanna Kostrzewa ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "140522900 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"OLSZYNKA\" ADRIAN W•DO£OWSKI I DAWID G”RSKI SP”£KA CYWILNA",
+            "nip_number": "7182151569 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "382930906 ",
+            "legal_form": "inna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"ALPHA DIAGNOSTICS\" SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5270103095 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000133147 ",
+            "regon_number": "002016130 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Jan Kazimierz Miko≥ajczak "
+            ],
+            "procuration_members": [
+                "Jan Kazimierz Miko≥ajczak "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"DANLAB\" Danuta KatryÒska",
+            "nip_number": "6852047455 ",
+            "owner_name": "DANUTA KATRY—SKA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200181857 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FFW41 £UKASZ WNENK",
+            "nip_number": "5272387122 ",
+            "owner_name": "£UKASZ WNENK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "381399343 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "U BOGUSZA DANIEL BOGUSZEWSKI",
+            "nip_number": "8441859520 ",
+            "owner_name": "Daniel Boguszewski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "791061196 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CENTRUM DORADZTWA OZE TOMASZ KOWALCZYK",
+            "nip_number": "7691959073 ",
+            "owner_name": "Tomasz Kowalczyk ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "362597836 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FUNDACJA POMAGAMY24H.PL",
+            "nip_number": "9721310758 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000858916 ",
+            "regon_number": "387003346 ",
+            "legal_form": "fundacja ",
+            "board_members": [
+                "Dominika Julia Mroczek Dπbrowska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ENSAFE SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9452220992 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000740606 ",
+            "regon_number": "380801547 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Andrzej Migas "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "AM EVENTS ADAM BERKOWSKI",
+            "nip_number": "7621715816 ",
+            "owner_name": "ADAM BERKOWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "146689913 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AVL SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9552562249 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000956594 ",
+            "regon_number": "521324417 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Adrian Walczak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CMS-W Polska sp. z o.o.",
+            "nip_number": "5242579325 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000259572 ",
+            "regon_number": "140554075 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Em Poland sp. z o.o.",
+            "nip_number": "8222369589 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000733933 ",
+            "regon_number": "380364259 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Przemys≥aw Bogdan Chrupek "
+            ],
+            "procuration_members": [
+                "Przemys≥aw Bogdan Chrupek "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ALMIS DOMINIK ORLICKI",
+            "nip_number": "7791468400 ",
+            "owner_name": "DOMINIK ORLICKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "634580819 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "F. P. H  INTER-IREX  RENATA JATELNICKA",
+            "nip_number": "8121032351 ",
+            "owner_name": "RENATA JATELNICKA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "005121323 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Foxmedical sp. z o.o.",
+            "nip_number": "7831814921 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000836386 ",
+            "regon_number": "385882668 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Kamila Roksana Fedorowicz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "INTEGRA B.R.O.P. SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5252748195 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000728564 ",
+            "regon_number": "380030080 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Robert Zenon Gawryú "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Klotho",
+            "nip_number": "7692154644 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "100539010 ",
+            "legal_form": "inna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Medicabin sp. z o.o. sp.k.",
+            "nip_number": "5842767236 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000715481 ",
+            "regon_number": "369319796 ",
+            "legal_form": "spÛ≥ka komandytowa ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"MODUS\" PrzedsiÍbiorstwo Odzieøowe S.A.",
+            "nip_number": "5540310451 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000048943 ",
+            "regon_number": "091109499 ",
+            "legal_form": "spÛ≥ka akcyjna ",
+            "board_members": [
+                "Marek Ulewicz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Marek Ulewicz "
+            ]
+        },
+        {
+            "company_name": "NALEWAJKO ANNA - \"TRADEX\"P.P.H.",
+            "nip_number": "8121003987 ",
+            "owner_name": "Anna Nalewajko ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "670810020 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "S4K SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9591955556 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000501700 ",
+            "regon_number": "260754080 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Kajetan Micha≥ Balcerowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ZARYS INTERNATIONAL GROUP SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5472152091 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000529606 ",
+            "regon_number": "360127180 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Pawe≥ Ossowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BARBARA STA—CZYK NEOMED",
+            "nip_number": "1230018984 ",
+            "owner_name": "BARBARA STA—CZYK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "011937818 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Asseco Data Systems S.A.",
+            "nip_number": "5170359458 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000421310 ",
+            "regon_number": "180853177 ",
+            "legal_form": "spÛ≥ka akcyjna ",
+            "board_members": [
+                "Pawe≥ Marek Barchwic "
+            ],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Pawe≥ Marek Barchwic "
+            ]
+        },
+        {
+            "company_name": "4 MEDICINE REK SP”£KA KOMANDYTOWA",
+            "nip_number": "9512342866 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000389748 ",
+            "regon_number": "142986608 ",
+            "legal_form": "spÛ≥ka komandytowa ",
+            "board_members": [
+                "Miros≥aw W≥adys≥aw Rek "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ZESP”£ EKSPERT”W MANAGER PELCZAR SP”£KA JAWNA",
+            "nip_number": "6790145692 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000497142 ",
+            "regon_number": "350497506 ",
+            "legal_form": "spÛ≥ka partnerska ",
+            "board_members": [
+                "Ma≥gorzata Anna Pelczar "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Index Copernicus sp. z o.o.",
+            "nip_number": "7010326698 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000403736 ",
+            "regon_number": "145900211 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Leszek Maurycy Stypu≥kowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DJB Doradztwo Gospodarcze DOROTA JASK”LSKA-BRYZEK",
+            "nip_number": "1230398254 ",
+            "owner_name": "DOROTA JASK”LSKA-BRYZEK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "014860520 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "JP CONSULTING JERZY PERSJANOW",
+            "nip_number": "5221770868 ",
+            "owner_name": "JERZY PERSJANOW ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "142830102 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Zarzπdzanie i Finanse J & J. Klimas sp.j.",
+            "nip_number": "6482652358 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000294716 ",
+            "regon_number": "240813875 ",
+            "legal_form": "spÛ≥ka partnerska ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "TZ - CONSULTANS  TADEUSZ ZAWISTOWSKI",
+            "nip_number": "1250225083 ",
+            "owner_name": "TADEUSZ ZAWISTOWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "012835050 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PAWE£ DOBSKI \"SERVMED\", \" DOMET DOBSKI & DOBSKI\"",
+            "nip_number": "7790030653 ",
+            "owner_name": "PAWE£ DOBSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "632222470 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MIKROTIK WARSAW TRAINING CENTER PIOTR WASYK, MICHA£ FILIPEK SP”£KA CYWILNA",
+            "nip_number": "5272843726 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "369726691 ",
+            "legal_form": "inna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MIKROTIK WARSAW TRAINING CENTER PIOTR WASYK, MICHA£ FILIPEK SP”£KA CYWILNA",
+            "nip_number": "5272843726 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "369726691 ",
+            "legal_form": "inna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PROMAG SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5170359286 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000425119 ",
+            "regon_number": "180843167 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Piotr Dariusz Kozio≥ "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "R&R S.C.",
+            "nip_number": "5322043880 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "146111380 ",
+            "legal_form": "spÛ≥ka cywilna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PC Box Polska sp. z o.o.",
+            "nip_number": "1010000723 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000221752 ",
+            "regon_number": "015901042 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "\" Kamea\" Roman Czapski",
+            "nip_number": "7221161627 ",
+            "owner_name": "Roman Czapski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "451192131 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Mag-Complex",
+            "nip_number": "9580454017 ",
+            "owner_name": "Rados≥aw Jachimowski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "220880798 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "T MATIC GRUPA COMPUTER PLUS SP Z O O",
+            "nip_number": "5420201630 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000032441 ",
+            "regon_number": "002330724 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Wojciech Norbert Winogrodzki "
+            ],
+            "procuration_members": [
+                "Wojciech Norbert Winogrodzki "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "NIEPUBLICZNA PLAC”WKA KSZTALCENIA USTAWICZNEGO ,, CENTRUM KSZTA£CENIA KWIATKOWSKIEGO\" MICHA£ KWIATKOWSKI",
+            "nip_number": "5881945038 ",
+            "owner_name": "MICHA£ KWIATKOWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "221145457 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"WYDAWNICTWO NAUKOWE PWN\" SP”£KA AKCYJNA",
+            "nip_number": "5260152235 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000067444 ",
+            "regon_number": "012822460 ",
+            "legal_form": "spÛ≥ka akcyjna ",
+            "board_members": [
+                "Monika Anna Zderkiewicz "
+            ],
+            "procuration_members": [
+                "Monika Anna Zderkiewicz "
+            ],
+            "supervisory_board": [
+                "Monika Anna Zderkiewicz "
+            ]
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "TopSolution Marcin SkurczyÒski",
+            "nip_number": "8371501717 ",
+            "owner_name": "MARCIN SKURCZY—SKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "141654790 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "Liftex Zaklad Konserwacyjno remontowy Urzadzen Dzwigowych",
+            "nip_number": "6760003102 ",
+            "owner_name": "WOJCIECH OSTACHOWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "350218179 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LIFTPROJEKT Inøynieria Düwigowa",
+            "nip_number": "7591477682 ",
+            "owner_name": "Pawe≥ Rafalik ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "140966984 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LUBELSKA WYTW”RNIA DèWIG”W OSOBOWYCH \"LIFT-SERVICE\" SP”£KA AKCYJNA",
+            "nip_number": "7120102876 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000039258 ",
+            "regon_number": "430000493 ",
+            "legal_form": "spÛ≥ka akcyjna ",
+            "board_members": [
+                "Diego Pastori "
+            ],
+            "procuration_members": [
+                "Diego Pastori "
+            ],
+            "supervisory_board": [
+                "Diego Pastori "
+            ]
+        },
+        {
+            "company_name": "\"WINDA-WARSZAWA\" sp. z o.o.",
+            "nip_number": "5210124745 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000138921 ",
+            "regon_number": "010597881 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Tadeusz Trudnowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DZWIGI-PM.PL TERESA MANIEWSKA",
+            "nip_number": "8941545960 ",
+            "owner_name": "TERESA MANIEWSKA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "367836748 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "T MATIC GRUPA COMPUTER PLUS SP Z O O",
+            "nip_number": "5420201630 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000032441 ",
+            "regon_number": "002330724 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Wojciech Norbert Winogrodzki "
+            ],
+            "procuration_members": [
+                "Wojciech Norbert Winogrodzki "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "NIEPUBLICZNA PLAC”WKA KSZTALCENIA USTAWICZNEGO ,, CENTRUM KSZTA£CENIA KWIATKOWSKIEGO\" MICHA£ KWIATKOWSKI",
+            "nip_number": "5881945038 ",
+            "owner_name": "MICHA£ KWIATKOWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "221145457 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AMERICAN SYSTEMS Sp. z o.o.",
+            "nip_number": "7752549956 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000267819 ",
+            "regon_number": "100281496 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Robert BagiÒski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AMERICAN SYSTEMS Sp. z o.o.",
+            "nip_number": "7752549956 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000267819 ",
+            "regon_number": "100281496 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Robert BagiÒski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Inter - Polmozbyt sp. z o.o.",
+            "nip_number": "5240203024 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000117019 ",
+            "regon_number": "001376138 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Zbigniew Wiktor Zientkowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MEDIA VISAGE SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "6252459505 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000661900 ",
+            "regon_number": "366485790 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Andrzej Marcin Dubiel "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Inter Finanse sp. z o.o.",
+            "nip_number": "8971792077 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000477050 ",
+            "regon_number": "022247137 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CODER Systemy Komputerowe Arkadiusz Mankiewicz",
+            "nip_number": "7221123532 ",
+            "owner_name": "Arkadiusz Mankiewicz ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "450202488 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "C&C Dominik GrudzieÒ",
+            "nip_number": "7692005298 ",
+            "owner_name": "Dominik GrudzieÒ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "368432740 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "PRZEDSI BIORSTWO BUDOWY ELEKTROWNI I PRZEMYS£U \"BETON-STAL OSTRO£ KA\" SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7580000060 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000039452 ",
+            "regon_number": "550028432 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Jacek Wilga "
+            ],
+            "procuration_members": [
+                "Jacek Wilga "
+            ],
+            "supervisory_board": [
+                "Jacek Wilga "
+            ]
+        },
+        {
+            "company_name": "PrzedsiÍbiorstwo Handlowo Us≥ugowe Rav-Bud Rafa≥ Dzitkowski",
+            "nip_number": "7182071267 ",
+            "owner_name": "Rafa≥ Dzitkowski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200425070 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LIBRUM SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "6112533928 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000361519 ",
+            "regon_number": "231230570 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Zofia Kica "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AURIGA RAFA£ BORKOWSKI",
+            "nip_number": "5222483059 ",
+            "owner_name": "RAFA£ BORKOWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "017373794 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "\"NAWARA-SERWIS\" S.C. MARZENA I RAFA£ NAWARA",
+            "nip_number": "6121658598 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "231095616 ",
+            "legal_form": "spÛ≥ka cywilna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "FENIX SYSTEMS SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "1230916275 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000137639 ",
+            "regon_number": "016374188 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Julian JÛzef Krupski "
+            ],
+            "procuration_members": [
+                "Julian JÛzef Krupski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"IMAPAK\" PIOTR PIETRASIK",
+            "nip_number": "7270031072 ",
+            "owner_name": "PIOTR PIETRASIK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "471152558 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AKATEX SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5472187706 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000703570 ",
+            "regon_number": "368794561 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Edyta Katarzyna Wichary "
+            ],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Edyta Katarzyna Wichary "
+            ]
+        },
+        {
+            "company_name": "MACIAK HENRYK MAX-EL PRZEDSI BIORSTWO WIELOBRANØOWE",
+            "nip_number": "7120302575 ",
+            "owner_name": "HENRYK MACIAK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "004162426 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "TOTAL Marzena Ciszak",
+            "nip_number": "8211988610 ",
+            "owner_name": "Marzena Ciszak ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "146876070 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AlmiAir Sp. z o.o.",
+            "nip_number": "7812017715 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000883846 ",
+            "regon_number": "388158513 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Rafa≥ Wawrzyniak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "Linde Material Handling Polska sp. z o.o.",
+            "nip_number": "5260201904 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000133470 ",
+            "regon_number": "012087782 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Robert Wojciech Jurkiewicz "
+            ],
+            "procuration_members": [
+                "Robert Wojciech Jurkiewicz "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "AURIGA RAFA£ BORKOWSKI",
+            "nip_number": "5222483059 ",
+            "owner_name": "RAFA£ BORKOWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "017373794 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "JRJ CONSULTING-JAROS£AW BERDYGA",
+            "nip_number": "5251015220 ",
+            "owner_name": "JAROS£AW BERDYGA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "145840354 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Techsource sp. z o.o.",
+            "nip_number": "5361910602 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000411763 ",
+            "regon_number": "146009798 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Marcin Ga≥aj "
+            ],
+            "procuration_members": [
+                "Marcin Ga≥aj "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "RAVAPI - RAFA£ BERDYGA",
+            "nip_number": "9512473953 ",
+            "owner_name": "RAFA£ BERDYGA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "381878411 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ICE PRO KRZYSZTOF LASKA",
+            "nip_number": "8841229283 ",
+            "owner_name": "KRZYSZTOF LASKA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "021197584 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"GF MACHINING SOLUTIONS\" SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "1132369524 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000120656 ",
+            "regon_number": "015182386 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Mariusz Roland WardziÒski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "METAL-TRADE.PL WOJCIECH ADAMOWICZ",
+            "nip_number": "5911092825 ",
+            "owner_name": "WOJCIECH ADAMOWICZ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "192178909 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Abplanalp sp. z o.o.",
+            "nip_number": "5210081409 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000208646 ",
+            "regon_number": "011076925 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Pawe≥ Jerzy Pieúniewski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Pawe≥ Jerzy Pieúniewski "
+            ]
+        },
+        {
+            "company_name": "\"ITRO\" SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7831672763 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000387148 ",
+            "regon_number": "301751271 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Sebastian Sadowski Romanov "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EUPOL PAWE£ OWCZARZAK",
+            "nip_number": "7861493189 ",
+            "owner_name": "PAWE£ OWCZARZAK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "634288243 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "KRZYSZTOF £OØA—SKI KIN - CAD PROJECT",
+            "nip_number": "6871798694 ",
+            "owner_name": "KRZYSZTOF £OØA—SKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "180582152 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ZAK£AD WYROB”W GUMOWYCH GENES SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5451813854 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000446740 ",
+            "regon_number": "200755034 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Eugeniusz Mieczkowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Arbatech sp. z o.o.",
+            "nip_number": "7773029854 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000294911 ",
+            "regon_number": "300735040 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Agnieszka Gendaszyk "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FENIX SYSTEMS SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "1230916275 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000137639 ",
+            "regon_number": "016374188 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Julian JÛzef Krupski "
+            ],
+            "procuration_members": [
+                "Julian JÛzef Krupski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Logopak East sp. z o.o.",
+            "nip_number": "1230005510 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000240550 ",
+            "regon_number": "002156226 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Marek Jacek Marzec "
+            ],
+            "procuration_members": [
+                "Marek Jacek Marzec "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MINEBEA INTEC POLAND SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5252547893 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000450676 ",
+            "regon_number": "146542185 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Markus Bowe "
+            ],
+            "procuration_members": [
+                "Markus Bowe "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PACKSOL RYSZARD WARCZY—SKI",
+            "nip_number": "7841122283 ",
+            "owner_name": "RYSZARD WARCZY—SKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "639620989 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BIURO RACHUNKOWE \"JANTA\" JAN JANTA- LIPI—SKI",
+            "nip_number": "8421326915 ",
+            "owner_name": "JAN JANTA- LIPI—SKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "770705649 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "RADEX ZBIGNIEW I TOMASZ NAGAY SP”£KA JAWNA",
+            "nip_number": "8510000486 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000954982 ",
+            "regon_number": "006618988 ",
+            "legal_form": "spÛ≥ka komandytowa ",
+            "board_members": [
+                "Tomasz Boles≥aw Nagay "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "JACEK WIåNIEWSKI P.H.U. \"COMP-EX\"",
+            "nip_number": "5241611156 ",
+            "owner_name": "JACEK WIåNIEWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "015620449 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Atlas Copco Polska sp. z o.o.",
+            "nip_number": "5270011039 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000060819 ",
+            "regon_number": "010362907 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Alessandro Fantacone "
+            ],
+            "procuration_members": [
+                "Alessandro Fantacone "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PrzedsiÍbiorstwo Handlowo Us≥ugowe Jolanta W≥ottkowska Komprestor-Bis; Artes Liberales-Partner",
+            "nip_number": "9561540276 ",
+            "owner_name": "Jolanta W≥ottkowska ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "871098131 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GARDNER DENVER POLSKA SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "6770023980 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000094963 ",
+            "regon_number": "003882822 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Andrew Roger Schiesl "
+            ],
+            "procuration_members": [
+                "Andrew Roger Schiesl "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "All Pumps Dobromir BaraÒski",
+            "nip_number": "9691120147 ",
+            "owner_name": "DOBROMIR BARA—SKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "242625184 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FIRMA HANDLOWA TECH-TRADE SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9581460422 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000207290 ",
+            "regon_number": "193039736 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Anna Spryszak "
+            ],
+            "procuration_members": [
+                "Anna Spryszak "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "POLSKA GRUPA POMPOWA SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "6412550517 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000843997 ",
+            "regon_number": "386205800 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Katarzyna Krasuska "
+            ],
+            "procuration_members": [
+                "Katarzyna Krasuska "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ekohelp",
+            "nip_number": "7960012997 ",
+            "owner_name": "Tomasz Sajdak ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "005113170 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"TAJFUN POLAND SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•\"",
+            "nip_number": "5272559155 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000295565 ",
+            "regon_number": "141187756 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Alberto Maestre Hoffmann "
+            ],
+            "procuration_members": [
+                "Alberto Maestre Hoffmann "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"TAPFLO\" SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5840203417 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000078480 ",
+            "regon_number": "002895389 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Ma≥gorzata Violetta Wronkowska Kokot "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Aft (Waxoyl Polska) sp. z o.o. - w likwidacji",
+            "nip_number": "9491819457 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000113650 ",
+            "regon_number": "152055925 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SOFLAB TECHNOLOGY SP Z O O",
+            "nip_number": "6342673805 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000291341 ",
+            "regon_number": "240677886 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Dariusz Marcin BagiÒski "
+            ],
+            "procuration_members": [
+                "Dariusz Marcin BagiÒski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CENTRUM DORADZTWA OZE TOMASZ KOWALCZYK",
+            "nip_number": "7691959073 ",
+            "owner_name": "Tomasz Kowalczyk ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "362597836 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Maciej Przyczka Dental Service",
+            "nip_number": "8982218198 ",
+            "owner_name": "Maciej Przyczka ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "363875310 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Marcin Bartyzel- \"MEDIDENT\"",
+            "nip_number": "5511701605 ",
+            "owner_name": "Marcin Bartyzel ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "070892550 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "S≥awomir Lukaj LUKAJ",
+            "nip_number": "5512529373 ",
+            "owner_name": "S≥awomir Lukaj ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "367050657 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "RBB - Electric  Robert BagiÒski",
+            "nip_number": "7181806962 ",
+            "owner_name": "Robert BAGI—SKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "451143948 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PV Sun Monika Monczewska",
+            "nip_number": "5711624074 ",
+            "owner_name": "Monika Monczewska ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "281597603 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BUSINESS MASTERS Centrum Edukacji Jadwiga Drzewosz",
+            "nip_number": "7311170015 ",
+            "owner_name": "Jadwiga Drzewosz ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "471085738 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Centrum Informatyki \"ZETO\" S.A.",
+            "nip_number": "5420202807 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000012499 ",
+            "regon_number": "050071679 ",
+            "legal_form": "spÛ≥ka akcyjna ",
+            "board_members": [
+                "Przemys≥aw Henryk Misiewicz "
+            ],
+            "procuration_members": [
+                "Przemys≥aw Henryk Misiewicz "
+            ],
+            "supervisory_board": [
+                "Przemys≥aw Henryk Misiewicz "
+            ]
+        },
+        {
+            "company_name": "ELTRIX WIELGUS ROBERT",
+            "nip_number": "5220023945 ",
+            "owner_name": "Robert Wielgus ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "010681038 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ERA PV SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "1182187297 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000768602 ",
+            "regon_number": "382334469 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Wojciech Boles≥aw Olborski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SOON ENERGY POLAND SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9512400687 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000584205 ",
+            "regon_number": "362973825 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Bruno S· Cunha "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"HEIDELBERG POLSKA\" SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5240102346 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000043088 ",
+            "regon_number": "012564236 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Krzysztof Pindral "
+            ],
+            "procuration_members": [
+                "Krzysztof Pindral "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Blaze Of Solutions sp. z o.o.",
+            "nip_number": "6342931041 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000734770 ",
+            "regon_number": "380393232 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "S≥awomir £ukasz Ko≥tun "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "IT-PROCES ADAM S£UGOCKI",
+            "nip_number": "7532307895 ",
+            "owner_name": "ADAM S£UGOCKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "365625504 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BAT FORUM MASZYNY I TECHNOLOGIE SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5922253396 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000391873 ",
+            "regon_number": "221465647 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Jacek Wojciech KÍdzierski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PABLO Sp. z o.o.",
+            "nip_number": "9482585669 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000387585 ",
+            "regon_number": "142983277 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Pawe≥ Micha≥ Idzikowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Vincent sp. z o.o.",
+            "nip_number": "5840301723 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000177015 ",
+            "regon_number": "190523845 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Jacek Czes≥aw Wendykier "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GEMA  MGR INØ.EUGENIUSZ G•SKA",
+            "nip_number": "6341297398 ",
+            "owner_name": "EUGENIUSZ G•SKA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "271075752 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EMPIS MATEUSZ PRZYROWSKI",
+            "nip_number": "1132576393 ",
+            "owner_name": "MATEUSZ PRZYROWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "140782497 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PHU \"PULS\" BIELECKI WIES£AW",
+            "nip_number": "8131020964 ",
+            "owner_name": "WIES£AW BIELECKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "690347657 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MONIKA KLIMCZAK REHA-SENS CENTRUM DIAGNOZY I TERAPII",
+            "nip_number": "5521550875 ",
+            "owner_name": "MONIKA KLIMCZAK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "260451698 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CENTRUM DORADZTWA OZE TOMASZ KOWALCZYK",
+            "nip_number": "7691959073 ",
+            "owner_name": "Tomasz Kowalczyk ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "362597836 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PrzedsiÍbiorstwo Zaopatrzenia SzkÛ≥ \"CEZAS\" sp. z o.o.",
+            "nip_number": "5250004579 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000372067 ",
+            "regon_number": "000178040 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PODLASKIE CENTRUM TECHNIKI BIUROWEJ I MEDIALNEJ \"BIFAX\" SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5420202233 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000027333 ",
+            "regon_number": "050006794 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Iwona Czakwin "
+            ],
+            "procuration_members": [
+                "Iwona Czakwin "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ZESP”£ EKSPERT”W MANAGER PELCZAR SP”£KA JAWNA",
+            "nip_number": "6790145692 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000497142 ",
+            "regon_number": "350497506 ",
+            "legal_form": "spÛ≥ka partnerska ",
+            "board_members": [
+                "Ma≥gorzata Anna Pelczar "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Pneumatik S.A.",
+            "nip_number": "7772419702 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000023240 ",
+            "regon_number": "639679853 ",
+            "legal_form": "spÛ≥ka akcyjna ",
+            "board_members": [
+                "Rafa≥ Wawrzyniak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Rafa≥ Wawrzyniak "
+            ]
+        },
+        {
+            "company_name": "WALTER KOMPRESSORTECHNIK POLSKA SP Z O O",
+            "nip_number": "7282531923 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000208444 ",
+            "regon_number": "473242455 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Jaros≥aw Przemys≥aw Andrzejewski "
+            ],
+            "procuration_members": [
+                "Jaros≥aw Przemys≥aw Andrzejewski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Czemar sp. z o.o.",
+            "nip_number": "7521453363 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000605867 ",
+            "regon_number": "363966224 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Marek Andrzej Staruszkiewicz "
+            ],
+            "procuration_members": [
+                "Marek Andrzej Staruszkiewicz "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Radwag Wagi Elektroniczne Witold Lewandowski",
+            "nip_number": "7960000327 ",
+            "owner_name": "Witold Lewandowski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "005097004 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PCC - Cert sp. z o.o. sp.k.",
+            "nip_number": "8961539543 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000524001 ",
+            "regon_number": "022501239 ",
+            "legal_form": "spÛ≥ka komandytowa ",
+            "board_members": [
+                "Magdalena Katarzyna Szwak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Safe IT Jan Lasek",
+            "nip_number": "5213472694 ",
+            "owner_name": "Jan Lasek ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "386362280 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ARGAT ZAPERT ARKADIUSZ",
+            "nip_number": "7181671812 ",
+            "owner_name": "Arkadiusz ZAPERT ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200429866 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FRIZO SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9571067640 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000446550 ",
+            "regon_number": "221812190 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "S≥awomir Filip Kubiczek "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THERMOLUX- CH£ODNICTWO KLIMATYZACJA MAREK J DRZEJCZAK",
+            "nip_number": "5221045297 ",
+            "owner_name": "Marek JÍdrzejczak ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "011460983 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PrzedsiÍbiorstwo Produkcyjno-Handlowe \"COOL\" Daria Kalinowska",
+            "nip_number": "1132092502 ",
+            "owner_name": "Daria Kalinowska ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "141954109 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Zarzπdzanie i Finanse J & J. Klimas sp.j.",
+            "nip_number": "6482652358 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000294716 ",
+            "regon_number": "240813875 ",
+            "legal_form": "spÛ≥ka partnerska ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "INFRATRADE SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "9442158180 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000275914 ",
+            "regon_number": "120437570 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Tomasz StaÒczuk "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Multi Construction sp. z o.o.",
+            "nip_number": "5252672428 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000518637 ",
+            "regon_number": "147371975 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THERMOLUX- CH£ODNICTWO KLIMATYZACJA MAREK J DRZEJCZAK",
+            "nip_number": "5221045297 ",
+            "owner_name": "Marek JÍdrzejczak ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "011460983 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "HB Polska Sp. z o.o.",
+            "nip_number": "1230898873 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000030176 ",
+            "regon_number": "016298493 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Patryk Piotr GÛrski "
+            ],
+            "procuration_members": [
+                "Patryk Piotr GÛrski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Logis sp. z o.o.",
+            "nip_number": "6462737614 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000264025 ",
+            "regon_number": "240421224 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PROMAG SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5170359286 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000425119 ",
+            "regon_number": "180843167 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Piotr Dariusz Kozio≥ "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "HSM Polska sp. z o.o.",
+            "nip_number": "1080002503 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000274983 ",
+            "regon_number": "140808802 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Heiko Hund "
+            ],
+            "procuration_members": [
+                "Heiko Hund "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Panasiuk Jerzy Luxor-Maszyny Do OdpadÛw",
+            "nip_number": "7121021708 ",
+            "owner_name": "JERZY PANASIUK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "430471040 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Rafa≥ Barton Bartontech",
+            "nip_number": "5581002545 ",
+            "owner_name": "Rafa≥ Barton ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "091510109 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SINO PACK CARE DARIUSZ ZUZEK SP”£KA JAWNA",
+            "nip_number": "6793136386 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000930430 ",
+            "regon_number": "365824416 ",
+            "legal_form": "spÛ≥ka partnerska ",
+            "board_members": [
+                "Dariusz Zuzek "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CENTRUM DORADZTWA OZE TOMASZ KOWALCZYK",
+            "nip_number": "7691959073 ",
+            "owner_name": "Tomasz Kowalczyk ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "362597836 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "OZON FOOD Krzysztof Kibler",
+            "nip_number": "9482548289 ",
+            "owner_name": "Krzysztof Kibler ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "142389226 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MOJA SZKO£A KORNELIA KLAMANN",
+            "nip_number": "5891632051 ",
+            "owner_name": "KORNELIA KLAMANN ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "193036672 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Includo - Jaros≥aw Wiazowski",
+            "nip_number": "5731144590 ",
+            "owner_name": "Jaros≥aw Wiazowski ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "151564085 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "REVITAL-INVEST SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7743228359 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000614919 ",
+            "regon_number": "364295447 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Krzysztof Marcin G≥owacki "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "KULIKOWSKA MONIKA",
+            "nip_number": "7181948343 ",
+            "owner_name": "Monika Kulikowska ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200293504 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "INTECH SYSTEM SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5542965050 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000730488 ",
+            "regon_number": "380080237 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Janusz Mariusz Szewczyk "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FLOW NAUKA SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7123359676 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000714233 ",
+            "regon_number": "369270529 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Rafa≥ Muda "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "NEW DIGITAL STREET SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5223172976 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000815016 ",
+            "regon_number": "384909052 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Henryk Feliks Lewandowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LIMITECH Marlena Ferlewicz",
+            "nip_number": "8581685617 ",
+            "owner_name": "MARLENA FERLEWICZ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "388528134 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"REYNPOL\" SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5210089078 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000082831 ",
+            "regon_number": "001410556 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Waldemar Bia≥kowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"V8 AUTOMATYKA SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•\"",
+            "nip_number": "7412142167 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000686393 ",
+            "regon_number": "367775610 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Szymon SteÊ "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SULTAN GIDA SANAYI VE TURIZM ANONIM SIRKETI SP”£KA AKCYJNA ODDZIA£ W POLSCE",
+            "nip_number": "1090000285 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000267521 ",
+            "regon_number": "140755454 ",
+            "legal_form": "oddzia≥ zagranicznego przedsiÍbiorcy ",
+            "board_members": [
+                "Gurcan Er "
+            ],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Gurcan Er "
+            ]
+        },
+        {
+            "company_name": "MPC Pawe≥ Oleksiewicz",
+            "nip_number": "7751656615 ",
+            "owner_name": "Pawe≥ Oleksiewicz ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "472275263 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"OPTEAM POLAND\" sp. z o.o.",
+            "nip_number": "2050001327 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000292912 ",
+            "regon_number": "240830767 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Linde Material Handling Polska sp. z o.o.",
+            "nip_number": "5260201904 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000133470 ",
+            "regon_number": "012087782 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Robert Wojciech Jurkiewicz "
+            ],
+            "procuration_members": [
+                "Robert Wojciech Jurkiewicz "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Material Handling Experts Murawski i WspÛlnicy Sp. K ",
+            "nip_number": "8222350934 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000576036 ",
+            "regon_number": "362536020 ",
+            "legal_form": "spÛ≥ka komandytowa ",
+            "board_members": [
+                "Maciej Mirosz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"STILL POLSKA\" sp. z o.o.",
+            "nip_number": "7811004366 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000018980 ",
+            "regon_number": "630278383 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Borys Andrzej Wochna "
+            ],
+            "procuration_members": [
+                "Borys Andrzej Wochna "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Toyota Material Handling Polska sp. z o.o.",
+            "nip_number": "5221006096 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000046001 ",
+            "regon_number": "010758321 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Marek Micha≥ Wyleøych "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"KUHN-POLSKA\" sp. z o.o.",
+            "nip_number": "5213356367 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000240957 ",
+            "regon_number": "140223444 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Gunter Kuhn "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ALL SUN SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7182141795 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000559351 ",
+            "regon_number": "361011432 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Joanna Eløbieta Sanicka "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CENTRUM DORADZTWA OZE TOMASZ KOWALCZYK",
+            "nip_number": "7691959073 ",
+            "owner_name": "Tomasz Kowalczyk ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "362597836 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ALL SUN SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7182141795 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000559351 ",
+            "regon_number": "361011432 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Joanna Eløbieta Sanicka "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ALL SUN SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7182141795 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000559351 ",
+            "regon_number": "361011432 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Joanna Eløbieta Sanicka "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"INBAR\" FIRMA HANDLOWO-US£UGOWA IRENA BARTO£D",
+            "nip_number": "5831384939 ",
+            "owner_name": "IRENA BARTO£D ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "192059820 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DIVERTI Graøyna Tomaszek",
+            "nip_number": "6381649202 ",
+            "owner_name": "Graøyna Tomaszek ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "369168038 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EMPIS MATEUSZ PRZYROWSKI",
+            "nip_number": "1132576393 ",
+            "owner_name": "MATEUSZ PRZYROWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "140782497 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PORTAL PZP SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "8672240660 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000578182 ",
+            "regon_number": "362607010 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Anna Zofia Serpina Forkasiewicz "
+            ],
+            "procuration_members": [
+                "Anna Zofia Serpina Forkasiewicz "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PZP24.PL SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "8971797896 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000505029 ",
+            "regon_number": "022393643 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Tomasz ChÍÊ "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LIMITECH Marlena Ferlewicz",
+            "nip_number": "8581685617 ",
+            "owner_name": "MARLENA FERLEWICZ ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "388528134 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"REYNPOL\" SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "5210089078 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000082831 ",
+            "regon_number": "001410556 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Waldemar Bia≥kowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"V8 AUTOMATYKA SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•\"",
+            "nip_number": "7412142167 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000686393 ",
+            "regon_number": "367775610 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Szymon SteÊ "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Mapa Insaat Ve Ticaret A.S. S.A. Oddzia≥ w Polsce w likwidacji",
+            "nip_number": "1070016001 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000352370 ",
+            "regon_number": "142310271 ",
+            "legal_form": "inna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MPC Pawe≥ Oleksiewicz",
+            "nip_number": "7751656615 ",
+            "owner_name": "Pawe≥ Oleksiewicz ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "472275263 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"OPTEAM POLAND\" sp. z o.o.",
+            "nip_number": "2050001327 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000292912 ",
+            "regon_number": "240830767 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Linde Material Handling Polska sp. z o.o.",
+            "nip_number": "5260201904 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000133470 ",
+            "regon_number": "012087782 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Robert Wojciech Jurkiewicz "
+            ],
+            "procuration_members": [
+                "Robert Wojciech Jurkiewicz "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Material Handling Experts Murawski i WspÛlnicy Sp. K ",
+            "nip_number": "8222350934 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000576036 ",
+            "regon_number": "362536020 ",
+            "legal_form": "spÛ≥ka komandytowa ",
+            "board_members": [
+                "Maciej Mirosz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"STILL POLSKA\" sp. z o.o.",
+            "nip_number": "7811004366 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000018980 ",
+            "regon_number": "630278383 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Borys Andrzej Wochna "
+            ],
+            "procuration_members": [
+                "Borys Andrzej Wochna "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Toyota Material Handling Polska sp. z o.o.",
+            "nip_number": "5221006096 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000046001 ",
+            "regon_number": "010758321 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Marek Micha≥ Wyleøych "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"KUHN-POLSKA\" sp. z o.o.",
+            "nip_number": "5213356367 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000240957 ",
+            "regon_number": "140223444 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Gunter Kuhn "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CENTRUM DORADZTWA OZE TOMASZ KOWALCZYK",
+            "nip_number": "7691959073 ",
+            "owner_name": "Tomasz Kowalczyk ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "362597836 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ALL SUN SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7182141795 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000559351 ",
+            "regon_number": "361011432 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Joanna Eløbieta Sanicka "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ALL SUN SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7182141795 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000559351 ",
+            "regon_number": "361011432 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Joanna Eløbieta Sanicka "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ALL SUN SP”£KA Z OGRANICZON• ODPOWIEDZIALNOåCI•",
+            "nip_number": "7182141795 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000559351 ",
+            "regon_number": "361011432 ",
+            "legal_form": "spÛ≥ka z ograniczonπ odpowiedzialnoúciπ ",
+            "board_members": [
+                "Joanna Eløbieta Sanicka "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"INBAR\" FIRMA HANDLOWO-US£UGOWA IRENA BARTO£D",
+            "nip_number": "5831384939 ",
+            "owner_name": "IRENA BARTO£D ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "192059820 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DIVERTI Graøyna Tomaszek",
+            "nip_number": "6381649202 ",
+            "owner_name": "Graøyna Tomaszek ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "369168038 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EMPIS MATEUSZ PRZYROWSKI",
+            "nip_number": "1132576393 ",
+            "owner_name": "MATEUSZ PRZYROWSKI ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "140782497 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"DOMINAL\" W. PERKOWSKI, J. PERKOWSKI SP”£KA JAWNA",
+            "nip_number": "5421016372 ",
+            "owner_name": null,
+            "phone_number": null,
+            "krs_number": "0000148110 ",
+            "regon_number": "050328635 ",
+            "legal_form": "spÛ≥ka partnerska ",
+            "board_members": [
+                "Waldemar Perkowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DIVERTI Graøyna Tomaszek",
+            "nip_number": "6381649202 ",
+            "owner_name": "Graøyna Tomaszek ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "369168038 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DIVERTI Graøyna Tomaszek",
+            "nip_number": "6381649202 ",
+            "owner_name": "Graøyna Tomaszek ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "369168038 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EDU-PARTNER AGNIESZKA SKIERKA",
+            "nip_number": "5891833223 ",
+            "owner_name": "AGNIESZKA SKIERKA ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "385387207 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"SALVI\" S≥awomir Czaja",
+            "nip_number": "9570133553 ",
+            "owner_name": "S≥awomir Czaja ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "192108010 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MATUSZCZYK DAWID ALFAcomp",
+            "nip_number": "6422907323 ",
+            "owner_name": "DAWID MATUSZCZYK ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "240659010 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Robert Zawadzki ZAVA MEDIA",
+            "nip_number": "5431839968 ",
+            "owner_name": "Robert Zawadzki ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "141293760 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "OPTISYSTEM - Mariusz Buzun",
+            "nip_number": "5421550396 ",
+            "owner_name": "Mariusz Buzun ",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "451091520 ",
+            "legal_form": "indywidualna dzia≥alnoúÊ gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        }
+    ]
+}

@@ -53,42 +53,80 @@ def open_detail_page(my_url):
     print("Company name : " + company_name)
 
     phone_block_div = basic_data_section.find("div", {"class" : "phone "})
-    if phone_block_div is not None:
-        phone_number = phone_block_div.find("span").text
-        print("Phone number : " + phone_number)
-    else:
-        phone_number = None
+    phone_number = get_phone_number(phone_block_div)
 
     register_data_section = soup2.find("section", {"id" : "company-registry-data-section"})
     all_divs = register_data_section.find_all("div", {"class": "registry-details__row"})
 
-    nip_number = None
-    owner_name = None
-    krs_number = None
-    regon_number = None
-    legal_form = None
+    krs_number, legal_form, nip_number, owner_name, regon_number = None, None, None, None, None
     for single_div in all_divs:
-        if nip_number is None and get_field_by_name(single_div.text, "NIP ") is not None:
-            nip_number = get_field_by_name(single_div.text, "NIP ")
-            print("Nip number : " + nip_number)
-        if owner_name is None and get_field_by_name(single_div.text, "Przedsiębiorca ") is not None:
-            owner_name = get_field_by_name(single_div.text, "Przedsiębiorca ")
-            print("Owner name : " + owner_name)
-        if krs_number is None and get_field_by_name(single_div.text, "KRS ") is not None:
-            krs_number = get_field_by_name(single_div.text, "KRS ")
-            print("KRS number : " + krs_number)
-        if regon_number is None and get_field_by_name(single_div.text, "REGON ") is not None:
-            regon_number = get_field_by_name(single_div.text, "REGON ")
-            print("REGON number : " + regon_number)
-        if legal_form is None and get_field_by_name(single_div.text, "Forma prawna ") is not None:
-            legal_form = get_field_by_name(single_div.text, "Forma prawna ")
-            print("Legal form : " + legal_form)
+        krs_number, legal_form, nip_number, owner_name, regon_number = get_company_official_details(krs_number, legal_form, nip_number, owner_name, regon_number, single_div)
 
-    procuration_members = []
-    board_members_array = []
-    supervisory_board = []
+    procuration_members, board_members_array, supervisory_board = [], [], []
 
     company_authorities_section = soup2.find("section", {"id": "company-authorities-section"})
+    get_board_members(company_authorities_section, board_members_array)
+    stock_company_divs = soup2.find_all("div", {"class":"flex flex-wrap w-full ng-star-inserted"})
+
+    for stock_company_div in stock_company_divs:
+        get_procuration_members(company_authorities_section, procuration_members, stock_company_div)
+        get_supervisory_board(company_authorities_section, stock_company_div, supervisory_board)
+
+    company = Company(company_name, nip_number, owner_name, phone_number, krs_number, regon_number, legal_form, board_members_array, procuration_members, supervisory_board)
+    return company
+
+
+def get_company_official_details(krs_number, legal_form, nip_number, owner_name, regon_number, single_div):
+    if nip_number is None and get_field_by_name(single_div.text, "NIP ") is not None:
+        nip_number = get_field_by_name(single_div.text, "NIP ")
+        print("Nip number : " + nip_number)
+    if owner_name is None and get_field_by_name(single_div.text, "Przedsiębiorca ") is not None:
+        owner_name = get_field_by_name(single_div.text, "Przedsiębiorca ")
+        print("Owner name : " + owner_name)
+    if krs_number is None and get_field_by_name(single_div.text, "KRS ") is not None:
+        krs_number = get_field_by_name(single_div.text, "KRS ")
+        print("KRS number : " + krs_number)
+    if regon_number is None and get_field_by_name(single_div.text, "REGON ") is not None:
+        regon_number = get_field_by_name(single_div.text, "REGON ")
+        print("REGON number : " + regon_number)
+    if legal_form is None and get_field_by_name(single_div.text, "Forma prawna ") is not None:
+        legal_form = get_field_by_name(single_div.text, "Forma prawna ")
+        print("Legal form : " + legal_form)
+    return krs_number, legal_form, nip_number, owner_name, regon_number
+
+
+def get_supervisory_board(company_authorities_section, stock_company_div, supervisory_board):
+    if " RADA NADZORCZA " in stock_company_div.text:
+        print("Rada nadzorcza")
+        board_members_names = company_authorities_section.find("div", {"class": "authority-name ng-star-inserted"})
+        new_member = ""
+        for member in board_members_names:
+            if member.text != "" and not member.text.startswith(" "):
+                new_member = member.text
+            elif member.text.startswith(" "):
+                new_member += member.text
+                print(new_member)
+                supervisory_board.append(new_member)
+                new_member = ""
+    return
+
+
+def get_procuration_members(company_authorities_section, procuration_members, stock_company_div):
+    if "PROKURA" in stock_company_div.text:
+        print("Prokura")
+        new_member = ""
+        board_members_names = company_authorities_section.find("div", {"class": "authority-name"})
+        for member in board_members_names:
+            if member.text != "" and not member.text.startswith(" "):
+                new_member = member.text
+            elif member.text.startswith(" "):
+                new_member += member.text
+                print(new_member)
+                procuration_members.append(new_member)
+                new_member = ""
+    return
+
+def get_board_members(company_authorities_section, board_members_array):
     if company_authorities_section is not None:
         board_members = company_authorities_section.find("div", {"class": "board-members"})
 
@@ -103,36 +141,16 @@ def open_detail_page(my_url):
                     print(new_member)
                     board_members_array.append(new_member)
                     new_member = ""
+    return
 
-    stock_company_divs = soup2.find_all("div", {"class":"flex flex-wrap w-full ng-star-inserted"})
-    for stock_company_div in stock_company_divs:
 
-        if "PROKURA" in stock_company_div.text:
-            print("Prokura")
-            board_members_names = company_authorities_section.find("div", {"class": "authority-name"})
-            for member in board_members_names:
-                if member.text != "" and not member.text.startswith(" "):
-                    new_member = member.text
-                elif member.text.startswith(" "):
-                    new_member += member.text
-                    print(new_member)
-                    procuration_members.append(new_member)
-                    new_member = ""
-
-        if " RADA NADZORCZA " in stock_company_div.text:
-            print("Rada nadzorcza")
-            board_members_names = company_authorities_section.find("div", {"class": "authority-name ng-star-inserted"})
-            new_member = ""
-            for member in board_members_names:
-                if member.text != "" and not member.text.startswith(" "):
-                    new_member = member.text
-                elif member.text.startswith(" "):
-                    new_member += member.text
-                    print(new_member)
-                    supervisory_board.append(new_member)
-                    new_member = ""
-    company = Company(company_name, nip_number, owner_name, phone_number, krs_number, regon_number, legal_form, board_members_array, procuration_members, supervisory_board)
-    return company
+def get_phone_number(phone_block_div):
+    if phone_block_div is not None:
+        phone_number = phone_block_div.find("span").text
+        print("Phone number : " + phone_number)
+    else:
+        phone_number = None
+    return phone_number
 
 
 def check_auction_attender(attenders):
@@ -141,8 +159,7 @@ def check_auction_attender(attenders):
         for offer_attender in attenders:
             hdr = {'User-Agent': 'Mozilla/5.0'}
             new_link = START_LINK + replace_polish_characters(offer_attender.name).replace(' ', '+') + END_LINK
-            tmp = new_link.encode('utf-8')
-            to_path = tmp.decode("utf-8")
+            to_path = encode_decode_request_path(new_link)
             req = Request(to_path, headers=hdr)
             print(new_link)
 
@@ -158,10 +175,7 @@ def check_auction_attender(attenders):
 
                 link_start = "https://aleo.com/pl/"
                 detail_page_link = link_start + new_link['href']
-                hdr = {'User-Agent': 'Mozilla/5.0'}
-                tmp = detail_page_link.encode('utf-8')
-                to_path = tmp.decode("utf-8")
-
+                to_path = encode_decode_request_path(detail_page_link)
                 req = Request(to_path, headers=hdr)
 
                 exception = False
@@ -176,6 +190,12 @@ def check_auction_attender(attenders):
                     company = open_detail_page(req)
                     companies.append(company)
     return companies
+
+
+def encode_decode_request_path(new_link):
+    tmp = new_link.encode('utf-8')
+    to_path = tmp.decode("utf-8")
+    return to_path
 
 
 def replace_polish_characters(base_text):
@@ -206,34 +226,8 @@ def replace_polish_characters(base_text):
 
 if __name__ == '__main__':
     print("Start processing...")
-    # tmp = "https://aleo.com/pl/firmy?phrase=Platfroma+Filtrowentylacyjna+Sp+z.o.o.&showAuthorityPlate=true"
-    #
-    # hdr = {'User-Agent': 'Mozilla/5.0'}
-    # req = Request(tmp, headers=hdr)
-    #
-    # html = urlopen(req).read()
-    # soup = BeautifulSoup(html, features="html.parser")
-    # table = soup.find("div", {"class": "bg-white shadow-custom ng-star-inserted"})
-    # header = table.find("div", {"class": "catalog-row-container"})
-    # new_link = header.find('a', href=True)
-    #
-    # link_start = "https://aleo.com/pl/"
-    # detail_page_link = link_start + new_link['href']
-    # hdr = {'User-Agent': 'Mozilla/5.0'}
-    # tmp = detail_page_link.encode('utf-8')
-    # to_path = tmp.decode("utf-8")
-    #
-    # req = Request(to_path, headers=hdr)
-    # print("Before 404 check")
-    # try:
-    #     urlopen(req).getcode()
-    # except Exception as e:
-    #     code = 404
-    # print("After 404 check")
-    # company = open_detail_page(req)
-    # companies.append(company)
 
-    for iterator in range(7, 16): #nie jest brany pod uwage na razie ten json bez indexu liczbowego
+    for iterator in range(8, 16): #nie jest brany pod uwage na razie ten json bez indexu liczbowego
         start = "D:\inzynierka_wakajki\scrapery\FDS-Dataset\BazaKonkurencyjnosciScrapper\data\Łomża"
         end = ".json"
         file_path = start + str(iterator) + end
