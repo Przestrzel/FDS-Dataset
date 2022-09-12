@@ -191,6 +191,43 @@ def check_auction_attender(attenders):
                     companies.append(company)
     return companies
 
+def check_single_auction_attender(attender_name):
+
+    attender_name_string = str(attender_name)
+    hdr = {'User-Agent': 'Mozilla/5.0'}
+    new_link = START_LINK + replace_polish_characters(attender_name_string).replace(' ', '+') + END_LINK
+    to_path = encode_decode_request_path(new_link)
+    req = Request(to_path, headers=hdr)
+    print(new_link)
+
+    check_validity(req)
+
+    results_exist = check_existing_result(req)
+    if results_exist:
+        html = urlopen(req).read()
+        soup = BeautifulSoup(html, features="html.parser")
+        table = soup.find("div", {"class": "bg-white shadow-custom ng-star-inserted"})
+        header = table.find("div", {"class": "catalog-row-container"})
+        new_link = header.find('a', href=True)
+
+        link_start = "https://aleo.com/pl/"
+        detail_page_link = link_start + new_link['href']
+        to_path = encode_decode_request_path(detail_page_link)
+        req = Request(to_path, headers=hdr)
+
+        exception = False
+
+        try:
+            urlopen(req).getcode()
+        except Exception as e:
+            print(e)
+            exception = True
+
+        if not exception:
+            return open_detail_page(req)
+
+    return None
+
 
 def encode_decode_request_path(new_link):
     tmp = new_link.encode('utf-8')
@@ -224,26 +261,63 @@ def replace_polish_characters(base_text):
     return return_text
 
 
+def createComapniesListFromCity():
+    city_names = ["Grudziądz", "Lubawa", "Mława", "Łomża"]
+    fetched_comapnies_list = set()
+    firstBoundary = 1
+    secondBoundary = -1
+    for city_name in city_names:
+        if city_name == "Grudziądz":
+            secondBoundary = 15
+        elif city_name == "Lubawa":
+            secondBoundary = 3
+        elif city_name == "Mława":
+            secondBoundary = 1
+        elif city_name == "Łomża":
+            secondBoundary = 15
+
+        for iterator in range (firstBoundary, secondBoundary + 1):
+            start = "D:\inzynierka_wakajki\scrapery\FDS-Dataset\BazaKonkurencyjnosciScrapper\data\\" + str(city_name)
+            end = ".json"
+            file_path = start + str(iterator) + end
+            companies = Companies()
+            with open(file_path, 'rb') as f:
+                file_text = json.load(f)
+                for singleAuction in file_text['auctions']:
+
+                    dictInString = json.dumps(singleAuction)
+                    # Parse JSON into an object with attributes corresponding to dict keys.
+                    x = json.loads(dictInString, object_hook=lambda d: SimpleNamespace(**d))
+
+                    for loser_company in x.offer_losers:
+                        fetched_comapnies_list.add(loser_company.name)
+
+                    for winning_company in x.offer_winners:
+                        fetched_comapnies_list.add(winning_company.name)
+
+    with open(f'OutputData/CompaniesList.txt', 'a') as f:
+        for company_name in fetched_comapnies_list:
+            f.write(company_name + '\n')
+
+    return 1
+
+
 if __name__ == '__main__':
     print("Start processing...")
+    createComapniesListFromCity()
 
-    for iterator in range(8, 16): #nie jest brany pod uwage na razie ten json bez indexu liczbowego
-        start = "D:\inzynierka_wakajki\scrapery\FDS-Dataset\BazaKonkurencyjnosciScrapper\data\Łomża"
-        end = ".json"
-        file_path = start + str(iterator) + end
-        companies = Companies()
-        with open(file_path, 'rb') as f:
-            file_text = json.load(f)
-            for singleAuction in file_text['auctions']:
-                dictInString = json.dumps(singleAuction)
-                # Parse JSON into an object with attributes corresponding to dict keys.
-                x = json.loads(dictInString, object_hook=lambda d: SimpleNamespace(**d))
-                losers_companies = check_auction_attender(x.offer_losers)
-                winning_companies = check_auction_attender(x.offer_winners)
-                companies.add_companies(losers_companies)
-                companies.add_companies(winning_companies)
+    print("Companies list is fetched")
+    companies = Companies()
+    with open(f'OutputData/CompaniesList.txt', 'rb') as f:
+        companies_from_file = f.readlines()
 
-        with open(f'OutputData/Łomża' + str(iterator) + '.json', 'w') as f:
+        for company_name_from_file in companies_from_file:
+            company_to_add = check_single_auction_attender(company_name_from_file)
+            if company_to_add is not None:
+                companies.add_company(company_to_add)
+
+        with open(f'OutputData/Companies2.json', 'w', encoding='utf8') as f:
             json.dump(json.JSONDecoder().decode(companies.to_json()), f, ensure_ascii=False, indent=4)
 
+    createComapniesListFromCity()
     print("End processing...")
