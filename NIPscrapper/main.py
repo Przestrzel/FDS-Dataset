@@ -55,6 +55,10 @@ def open_detail_page(my_url):
     phone_block_div = basic_data_section.find("div", {"class" : "phone "})
     phone_number = get_phone_number(phone_block_div)
 
+    address_block_div = basic_data_section.find("div", {"class" : "address"})
+    postal_code, city_name = None, None
+    postal_code, city_name = get_postal_code_and_city_name(address_block_div)
+
     register_data_section = soup2.find("section", {"id" : "company-registry-data-section"})
     all_divs = register_data_section.find_all("div", {"class": "registry-details__row"})
 
@@ -72,7 +76,7 @@ def open_detail_page(my_url):
         get_procuration_members(company_authorities_section, procuration_members, stock_company_div)
         get_supervisory_board(company_authorities_section, stock_company_div, supervisory_board)
 
-    company = Company(company_name, nip_number, owner_name, phone_number, krs_number, regon_number, legal_form, board_members_array, procuration_members, supervisory_board)
+    company = Company(company_name, nip_number, owner_name, city_name, postal_code, phone_number, krs_number, regon_number, legal_form, board_members_array, procuration_members, supervisory_board)
     return company
 
 
@@ -151,6 +155,19 @@ def get_phone_number(phone_block_div):
     else:
         phone_number = None
     return phone_number
+
+
+def get_postal_code_and_city_name(address_block_div):
+    if address_block_div is not None:
+        address = address_block_div.find("div", {"class":"address-data"}).text
+        elements = address.split(" ")
+        postal_code = elements[len(elements) - 2]
+        city_name = elements[len(elements) - 1]
+        print("Postal code : " + postal_code)
+        print("City name : " + city_name)
+        return postal_code, city_name
+    else:
+        return None, None
 
 
 def check_auction_attender(attenders):
@@ -316,7 +333,7 @@ if __name__ == '__main__':
             if company_to_add is not None:
                 companies.add_company(company_to_add)
 
-        with open(f'OutputData/Companies2.json', 'w', encoding='utf8') as f:
+        with open(f'OutputData/Companies3.json', 'w', encoding='utf8') as f:
             json.dump(json.JSONDecoder().decode(companies.to_json()), f, ensure_ascii=False, indent=4)
 
     createComapniesListFromCity()
