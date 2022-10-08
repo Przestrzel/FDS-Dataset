@@ -601,6 +601,401 @@
                 }
             ],
             "EU": false
+        },
+        {
+            "auction_name": "Dostawa form stalowych umożliwiających produkcję elementów wykorzystywanych m.in. do przydomowych oczyszczalni ścieków",
+            "advertiser_name": "FRUKKO Łukasz Wiśniewski",
+            "start_date": "2021-01-21",
+            "end_date": "2021-01-28",
+            "is_price_criterium": true,
+            "status": "Zamknięte",
+            "conditions": [
+                "Z postępowania o udzielenie zamówienia wykluczeniu podlegają Wykonawcy, którzy są powiązani osobowo lub kapitałowo z Zamawiającym. Przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między Zamawiającym lub osobami uprawnionymi do zaciągania zobowiązań w imieniu Zamawiającego lub osobami wykonującymi dla Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy a Wykonawcą, polegające w\nszczególności na:\na. uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb. posiadaniu co najmniej 10% udziałów lub akcji;\nc. pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd. pozostawaniu w takim stosunku prawnym lub faktycznym, który może budzić uzasadnione wątpliwości co do bezstronności w wyborze wykonawcy, w szczególności pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli.\n\nPowyższy warunek udziału stanowi warunek dostępowy i będzie oceniany na podstawie złożonego oświadczenia na zasadzie spełnia / nie spełnia. Oświadczenie o braku powiązań pomiędzy podmiotami należy przygotować zgodnie ze wzorem oświadczenia, stanowiącym załącznik do niniejszego ogłoszenia.",
+                "Oferent zobowiązany jest dołączyć do oferty:\n1. Oświadczenie o braku powiązań pomiędzy podmiotami - zgodnie ze wzorem oświadczenia, stanowiącym załącznik do niniejszego ogłoszenia.\n\nOferta oraz załączniki muszą być podpisane przez oferenta."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "43415000-5",
+                    "description": "Formy odlewnicze"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Dostawa formy stalowej umożliwiającej produkcję przydomowych biologicznych oczyszczalni ścieków",
+            "advertiser_name": "FRUKKO Łukasz Wiśniewski",
+            "start_date": "2020-12-15",
+            "end_date": "2020-12-22",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Z postępowania o udzielenie zamówienia wykluczeniu podlegają Wykonawcy, którzy są powiązani osobowo lub kapitałowo z Zamawiającym. Przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między Zamawiającym lub osobami uprawnionymi do zaciągania zobowiązań w imieniu Zamawiającego lub osobami wykonującymi dla Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy a Wykonawcą, polegające w\nszczególności na:\na. uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb. posiadaniu co najmniej 10% udziałów lub akcji;\nc. pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd. pozostawaniu w takim stosunku prawnym lub faktycznym, który może budzić uzasadnione wątpliwości co do bezstronności w wyborze wykonawcy, w szczególności pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli.\n\nPowyższy warunek udziału stanowi warunek dostępowy i będzie oceniany na podstawie złożonego oświadczenia na zasadzie spełnia / nie spełnia. Oświadczenie o braku powiązań pomiędzy podmiotami należy przygotować zgodnie ze wzorem oświadczenia, stanowiącym załącznik do niniejszego ogłoszenia.",
+                "Oferent zobowiązany jest dołączyć do oferty:\n1. Oświadczenie o braku powiązań pomiędzy podmiotami - zgodnie ze wzorem oświadczenia, stanowiącym załącznik do niniejszego ogłoszenia.\n\nOferta oraz załączniki muszą być podpisane przez oferenta."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "KAMKO Kamil Kot",
+                    "price": "145140.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "43415000-5",
+                    "description": "Formy odlewnicze"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zamówienie z dnia 22.02.2021 r. na dostarczenie usługi szkoleń zawodowych w ramach projektu „NOWE kompetencje i kwalifikacje w pracy – wsparcie dla osób w niekorzystnej sytuacji na rynku pracy z pow. m. Łomża, łomżyński, kolneński, zambrowski” o nr RPPD.02.01.00-20-0264/18",
+            "advertiser_name": "Cognitio - Centrum Przedsiębiorczości i Szkoleń s.c.",
+            "start_date": "2021-02-22",
+            "end_date": "2021-03-02",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Zamawiający wymaga złożenia w Ofercie następujących oświadczeń i dokumentów, a mianowicie:\n1. Aktualnego odpisu z właściwego rejestru (KRS) lub zaświadczenia o wpisie do ewidencji działalności gospodarczej (CEIDG);\n2. Wpis do Rejestru Instytucji Szkoleniowych.\n3. Dowód wniesienia wadium (odrębnie dla każdej części zamówienia)\n4. Wykaz wykonanych usług – minimum 500 godzin kursów/szkoleń zawodowych z zakresu szkoleń wymienionych w zapytaniu ofertowym, lub minimum 2 – letnie doświadczenie zawodowe w obrębie tematyki szkoleń zawartych w zapytaniu. Na potwierdzenie doświadczenia należy przestawić wykaz przeprowadzonych szkoleń popartych referencjami bądź CV z udokumentowanym potwierdzeniem doświadczenia.\n5. Oświadczeń Oferenta, że nie zachodzą okoliczności wyłączające go z ubiegania się o zamówienie, w szczególności:\n• wobec Oferenta nie wszczęto postępowania upadłościowego, ani nie ogłoszono jego upadłości,\n• Oferent nie zalega z opłacaniem podatków, opłat lub składek na ubezpieczenie społeczne,\n• Oferent nie jest osobą fizyczną prawomocnie skazaną za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia publicznego lub za inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowych,\n• Oferent nie jest osobą prawną, której urzędujących członków władz skazano za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia publicznego albo inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowych,\n• Oferent znajduje się w sytuacji ekonomicznej i finansowej zapewniającej niezakłóconą realizację zamówienia,\n• Oferent nie jest powiązany osobowo ani kapitałowo z Zamawiającym. Przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między beneficjentem lub osobami upoważnionymi do zaciągania zobowiązań w imieniu beneficjenta lub osobami wykonującymi w imieniu beneficjenta czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy a wykonawcą, polegające w szczególności na:\na) uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej,\nb) posiadaniu co najmniej 10% udziałów lub akcji\nc) pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika,\nd) pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Stowarzyszenie na rzecz rodziny i osób zagrożonych wykluczeniem społecznym HOLOS",
+                    "price": "2600.00 PLN"
+                }
+            ],
+            "offer_losers": [
+                {
+                    "name": "Centrum Szkoleniowe Lektor Wioletta Stefankowska – Skórka",
+                    "price": "8100.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                },
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                },
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zamówienie z dnia 19.03.2021 r. na dostarczenie usługi szkoleń zawodowych w ramach projektu „NOWE kompetencje i kwalifikacje w pracy – wsparcie dla osób w niekorzystnej sytuacji na rynku pracy z pow. m. Łomża, łomżyński, kolneński, zambrowski” o nr RPPD.02.01.00-20-0264/18",
+            "advertiser_name": "Cognitio - Centrum Przedsiębiorczości i Szkoleń s.c.",
+            "start_date": "2021-03-19",
+            "end_date": "2021-03-29",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Zamawiający wymaga złożenia w Ofercie następujących oświadczeń i dokumentów, a mianowicie:\n1. Aktualnego odpisu z właściwego rejestru (KRS) lub zaświadczenia o wpisie do ewidencji działalności gospodarczej (CEIDG);\n2. Wpis do Rejestru Instytucji Szkoleniowych.\n3. Dowód wniesienia wadium (odrębnie dla każdej części zamówienia)\n4. Wykaz wykonanych usług – minimum 500 godzin kursów/szkoleń zawodowych z zakresu szkoleń wymienionych w zapytaniu ofertowym, lub minimum 2 – letnie doświadczenie zawodowe w obrębie tematyki szkoleń zawartych w zapytaniu. Na potwierdzenie doświadczenia należy przestawić wykaz przeprowadzonych szkoleń popartych referencjami bądź CV z udokumentowanym potwierdzeniem doświadczenia.\n5. Oświadczeń Oferenta, że nie zachodzą okoliczności wyłączające go z ubiegania się o zamówienie, w szczególności:\n• wobec Oferenta nie wszczęto postępowania upadłościowego, ani nie ogłoszono jego upadłości,\n• Oferent nie zalega z opłacaniem podatków, opłat lub składek na ubezpieczenie społeczne,\n• Oferent nie jest osobą fizyczną prawomocnie skazaną za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia publicznego lub za inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowych,\n• Oferent nie jest osobą prawną, której urzędujących członków władz skazano za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia publicznego albo inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowych,\n• Oferent znajduje się w sytuacji ekonomicznej i finansowej zapewniającej niezakłóconą realizację zamówienia,\n• Oferent nie jest powiązany osobowo ani kapitałowo z Zamawiającym. Przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między beneficjentem lub osobami upoważnionymi do zaciągania zobowiązań w imieniu beneficjenta lub osobami wykonującymi w imieniu beneficjenta czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy a wykonawcą, polegające w szczególności na:\na) uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej,\nb) posiadaniu co najmniej 10% udziałów lub akcji\nc) pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika,\nd) pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zamówienie z dnia 08.04.2021 r. na dostarczenie usługi szkoleń zawodowych w ramach projektu „NOWE kompetencje i kwalifikacje w pracy – wsparcie dla osób w niekorzystnej sytuacji na rynku pracy z pow. m. Łomża, łomżyński, kolneński, zambrowski” o nr RPPD.02.01.00-20-0264/18",
+            "advertiser_name": "Cognitio - Centrum Przedsiębiorczości i Szkoleń s.c.",
+            "start_date": "2021-04-08",
+            "end_date": "2021-04-16",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Zamawiający wymaga złożenia w Ofercie następujących oświadczeń i dokumentów, a mianowicie:\n1. Aktualnego odpisu z właściwego rejestru (KRS) lub zaświadczenia o wpisie do ewidencji działalności gospodarczej (CEIDG);\n2. Wpis do Rejestru Instytucji Szkoleniowych.\n3. Dowód wniesienia wadium (odrębnie dla każdej części zamówienia)\n4. Wykaz wykonanych usług – minimum 500 godzin kursów/szkoleń zawodowych z zakresu szkoleń wymienionych w zapytaniu ofertowym, lub minimum 2 – letnie doświadczenie zawodowe w obrębie tematyki szkoleń zawartych w zapytaniu. Na potwierdzenie doświadczenia należy przestawić wykaz przeprowadzonych szkoleń popartych referencjami bądź CV z udokumentowanym potwierdzeniem doświadczenia.\n5. Oświadczeń Oferenta, że nie zachodzą okoliczności wyłączające go z ubiegania się o zamówienie, w szczególności:\n• wobec Oferenta nie wszczęto postępowania upadłościowego, ani nie ogłoszono jego upadłości,\n• Oferent nie zalega z opłacaniem podatków, opłat lub składek na ubezpieczenie społeczne,\n• Oferent nie jest osobą fizyczną prawomocnie skazaną za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia publicznego lub za inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowych,\n• Oferent nie jest osobą prawną, której urzędujących członków władz skazano za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia publicznego albo inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowych,\n• Oferent znajduje się w sytuacji ekonomicznej i finansowej zapewniającej niezakłóconą realizację zamówienia,\n• Oferent nie jest powiązany osobowo ani kapitałowo z Zamawiającym. Przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między beneficjentem lub osobami upoważnionymi do zaciągania zobowiązań w imieniu beneficjenta lub osobami wykonującymi w imieniu beneficjenta czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy a wykonawcą, polegające w szczególności na:\na) uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej,\nb) posiadaniu co najmniej 10% udziałów lub akcji\nc) pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika,\nd) pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Stowarzyszenie na rzecz rodziny i osób zagrożonych wykluczeniem społecznym HOLOS",
+                    "price": "6000.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                },
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zamówienie z dnia 09.03.2021 r. na dostarczenie usługi szkoleń zawodowych w ramach projektu „NOWE kompetencje i kwalifikacje w pracy – wsparcie dla osób w niekorzystnej sytuacji na rynku pracy z pow. m. Łomża, łomżyński, kolneński, zambrowski” o nr RPPD.02.01.00-20-0264/18",
+            "advertiser_name": "Cognitio - Centrum Przedsiębiorczości i Szkoleń s.c.",
+            "start_date": "2021-03-09",
+            "end_date": "2021-03-17",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Zamawiający wymaga złożenia w Ofercie następujących oświadczeń i dokumentów, a mianowicie:\n1. Aktualnego odpisu z właściwego rejestru (KRS) lub zaświadczenia o wpisie do ewidencji działalności gospodarczej (CEIDG);\n2. Wpis do Rejestru Instytucji Szkoleniowych.\n3. Dowód wniesienia wadium (odrębnie dla każdej części zamówienia)\n4. Wykaz wykonanych usług – minimum 500 godzin kursów/szkoleń zawodowych z zakresu szkoleń wymienionych w zapytaniu ofertowym, lub minimum 2 – letnie doświadczenie zawodowe w obrębie tematyki szkoleń zawartych w zapytaniu. Na potwierdzenie doświadczenia należy przestawić wykaz przeprowadzonych szkoleń popartych referencjami bądź CV z udokumentowanym potwierdzeniem doświadczenia.\n5. Oświadczeń Oferenta, że nie zachodzą okoliczności wyłączające go z ubiegania się o zamówienie, w szczególności:\n• wobec Oferenta nie wszczęto postępowania upadłościowego, ani nie ogłoszono jego upadłości,\n• Oferent nie zalega z opłacaniem podatków, opłat lub składek na ubezpieczenie społeczne,\n• Oferent nie jest osobą fizyczną prawomocnie skazaną za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia publicznego lub za inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowych,\n• Oferent nie jest osobą prawną, której urzędujących członków władz skazano za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia publicznego albo inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowych,\n• Oferent znajduje się w sytuacji ekonomicznej i finansowej zapewniającej niezakłóconą realizację zamówienia,\n• Oferent nie jest powiązany osobowo ani kapitałowo z Zamawiającym. Przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między beneficjentem lub osobami upoważnionymi do zaciągania zobowiązań w imieniu beneficjenta lub osobami wykonującymi w imieniu beneficjenta czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy a wykonawcą, polegające w szczególności na:\na) uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej,\nb) posiadaniu co najmniej 10% udziałów lub akcji\nc) pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika,\nd) pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+            "advertiser_name": "Certes Sp. z o.o.",
+            "start_date": "2022-09-28",
+            "end_date": "2022-10-05",
+            "is_price_criterium": true,
+            "status": "Zamknięte",
+            "conditions": [
+                "1) O zamówienie mogą ubiegać się Oferenci, którzy spełniają łącznie następujące kryteria: \na) nie są powiązani osobowo lub kapitałowo z Zamawiającym poprzez:\na. uczestnictwo w spółce jako wspólnik spółki cywilnej lub spółki osobowej, \nb. posiadanie co najmniej 10% udziałów lub akcji, o ile niższy próg nie wynika z przepisów prawa lub nie został określony przez IZ PO, \nc. pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika, \nd. pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli.\nb) nie znajdują się w sytuacji ekonomicznej i finansowej mogącej budzić poważne wątpliwości co do możliwości prawidłowego wykonania zamówienia, nie wszczęto wobec nich postępowania upadłościowego, ani nie ogłoszono upadłości; nie zalegają z opłacaniem podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne, \nc) posiadają uprawnienia do wykonywania określonej działalności lub czynności, jeżeli przepisy prawa nakładają obowiązek ich posiadania,\nd) posiadają odpowiedni potencjał kadrowy i techniczny do realizacji zamówienia,\ne) firma/osoba reprezentująca firmę nie została skazana za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia.\nf) Oferent, który składa ofertę powinien wykazać, że w okresie ostatnich trzech lat (a jeśli okres prowadzenia działalności jest krótszy – to w tym okresie ) przed upływem terminu składania ofert wykonał przynajmniej trzy usługi (wycieczki) w zakresie odpowiadającym swoim rodzajem usługom stanowiącym przedmiot zamówienia, na co powinien wraz z ofertą przedstawić odpowiednie dokumenty potwierdzające spełnienie tego warunku.\ng) Oferent powinien posiadać odpowiednią polisę OC, którą powinien przedstawić razem z ofertą."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "63511000-4",
+                    "description": "Organizacja wycieczek"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Cyfrowy Senior",
+            "advertiser_name": "Stowarzyszenie Europartner Akademicki Klub Integracji Europejskiej",
+            "start_date": "2020-09-03",
+            "end_date": "2020-09-11",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia może ubiegać się Wykonawcy, którzy spełnia następujące warunki:\n1. są osobami fizycznymi prowadzącymi działalność gospodarczą lub osobami prawnymi, dysponującymi potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia.\n2. używają wyłącznie produktów spełniających normy jakościowe produktów spożywczych, zgodnie z przepisami prawnymi w tym zakresie (załącznik nr 2).\n3. kontrolują aktualność badań sanitarno-epidemiologicznych pracowników mających kontakt z przygotowaniem, wydawaniem i transportem cateringu (załącznik nr 2).\nNiespełnienie warunków udziału w postępowaniu skutkuje wykluczeniem Wykonawcy z postępowania. Oferta Wykonawcy wykluczonego zostanie odrzucona.",
+                "Formularz ofertowy wraz z oświadczeniami:\noświadczenie o używaniu wyłącznie produktów spełniających normy jakościowe produktów spożywczych, zgodnie z przepisami prawnymi w tym zakresie (załącznik nr 2),\noświadczenie o kontrolowaniu aktualności badań sanitarno-epidemiologicznych pracowników mających kontakt z przygotowaniem, wydawaniem i transportem cateringu (załącznik nr 2).\noświadczenie dotyczące braku powiązań osobowych lub kapitałowych – sporządzone według wzoru stanowiącego załącznik nr 3,\noświadczenie o spełnieniu klauzuli społecznej oznaczającej zatrudnienie przy realizacji zamówienia na umowę o pracę co najmniej 1 osoby bezrobotnej, niepełnosprawnej lub osoby, o której mowa w przepisach o zatrudnieniu socjalnym (art. 1 ust. 2 ustawy o zatrudnieniu socjalnym) według załącznika nr 4;"
+            ],
+            "offer_winners": [
+                {
+                    "name": "Ponadregionalne Konsorcjum Szkoleniowo Egzaminacyjne Antoni Cichocki",
+                    "price": "15.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "15894200-3",
+                    "description": "Posiłki gotowe"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "usługi Konsultanta Wojewódzkiego Podlaskiej Sieci Doradztwa Zawodowego w ramach projektu „Podlaska Sieć Doradztwa Zawodowego” współfinansowanego ze środków Unii Europejskiej w ramach Europejskiego Funduszu Społecznego w ramach Regionalnego Programu Operacyjnego Województwa Podlaskiego na lata 2014-2020, zwanego dalej Projektem.",
+            "advertiser_name": "Białostocka Fundacja Kształcenia Kadr",
+            "start_date": "2020-09-16",
+            "end_date": "2020-09-24",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia mogą się ubiegać Wykonawcy, którzy spełniają warunek udziału w postępowaniu, dotyczący wiedzy i doświadczenia. \nZamawiający uzna warunek za spełniony jeżeli Wykonawca wykaże, że samodzielnie spełnia wskazane poniżej wymagania albo dysponuje na potrzeby realizacji zamówienia jedną osobą, która spełnia wskazane poniżej wymagania, mianowicie:\n1. wykształcenie wyższe mgr z/i przygotowanie pedagogiczne;\n2. kurs kwalifikacyjny/studia podyplomowe z obszaru zarządzania oświatą;\n3. zatrudnienie w ośrodku doskonalenia nauczycieli \n4. doświadczenie w pracy z nauczycielami (min. 5 lat),\n5. doświadczenie związane z doradztwem zawodowym ( min. 3 lata) \n6. doświadczenie w prowadzeniu szkoleń dla nauczycieli (min. 50 godzin dydaktycznych)\n\nOcena spełniania przedstawionych powyższych warunków udziału w postępowania zostanie dokonana wg formuły: „spełnia – nie spełnia” i nastąpi na podstawie oświadczeń i wykazu doświadczenia przedstawionego zgodnie z Załącznikiem nr 1.\nZamawiający zastrzega sobie prawo weryfikacji kwalifikacji i doświadczenia Wykonawcy/Wykonawców.",
+                "1. W toku oceny ofert Zamawiający może żądać od Wykonawców wyjaśnień dotyczących treści złożonych ofert. Wykonawcy będą zobowiązani do przedstawienia wyjaśnień w terminie określonym przez Zamawiającego.\na. Zamawiający zastrzega sobie prawo do podjęcia negocjacji z Wykonawcą, który przedstawi najkorzystniejszą ofertę, w przypadku, gdy cena tej oferty przekroczy o mniej niż 25% kwotę zaplanowaną w budżecie projektu na realizację powyższego działania.\nb. Zamawiający zastrzega sobie możliwość wyboru kolejnej wśród najkorzystniejszych ofert, jeżeli oferent, którego oferta zostanie wybrana jako najkorzystniejsza, uchyli się od umowy o realizację przedmiotu niniejszego zamówienia.\n2. Zamawiający zastrzega sobie prawo do unieważnienia postępowania w przypadku, gdy:\na. Wystąpi istotna zmiana okoliczności powodująca, że prowadzenie postępowania lub wykonanie zamówienia nie leży w interesie publicznym, czego nie można było wcześniej przewidzieć;\nb. Postępowanie obarczone jest niemożliwą do usunięcia wadą, uniemożliwiającą zawarcie niepodlegającej unieważnieniu umowy w sprawie zamówienia;\nc. Jeżeli Zamawiający uzna, że oferta, którą musiałby wybrać jako najkorzystniejszą nie gwarantuje uzyskania założonego efektu merytorycznego;\nd. Jeśli Zamawiający uzna, że udzielenie zamówienia w bieżącym postępowaniu nie doprowadzi do realizacji jego celu.\n3. Ponadto Zamawiający zastrzega sobie prawo do unieważnienia zapytania ofertowego bez podawania przyczyny.\n\nInformacje związane z ochroną danych osobowych:\n1. Zgodnie z art. 13 ust. 1 i ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz.Urz.UE.L. 2016.119.1), dalej jako RODO, Zamawiający niniejszym informuje o zasadach przetwarzania danych osobowych oraz o przysługujących Wykonawcom prawach z tym związanych, mianowicie:\n1) Administratorem Pani/Pana danych osobowych jest: Białostocka Fundacja Kształcenia Kadr z siedzibą w Białymstoku przy ul. Spółdzielczej 8, 15-441 Białystok;\n2) inspektorem ochrony danych osobowych w ramach Zamawiającego jest Pan/Pani Andrzej Rybus-Tołłoczko, e-mail: IODO@RT-NET.PL;\n3) Państwa dane osobowe przetwarzane będą w celu przeprowadzenia postępowania o udzielenie zamówienia publicznego prowadzonym zgodnie z wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020 zatwierdzonymi przez Ministerstwo Rozwoju w dniu 22 sierpnia 2019 r., którego przedmiotem są: usługi Konsultanta Wojewódzkiego Podlaskiej Sieci Doradztwa Zawodowego w ramach projektu „Podlaska Sieć Doradztwa Zawodowego”, nr postępowania: 1/PSDZ/RPOWP/2020 - na podstawie art. 6 ust. 1 lit. c RODO;\n4) odbiorcami Pani/Pana danych osobowych będą osoby lub podmioty, którym udostępniona zostanie dokumentacja postępowania w oparciu o art. 8 oraz art. 96 ust. 3 Pzp;\n5) Pani/Pana dane osobowe będą przechowywane, zgodnie z art. 97 ust. 1 ustawy Pzp, przez okres 4 lat od dnia zakończenia postępowania o udzielenie zamówienia albo do czasu rozliczenia Regionalnego Programu Operacyjnego Województwa Podlaskiego na lata 2014-2020 w zależności od tego, które z tych zdarzeń nastąpi jako ostatnie;\n6) obowiązek podania przez Panią/Pana danych osobowych bezpośrednio Pani/Pana dotyczących jest wymogiem ustawowym określonym w przepisach ustawy Pzp, związanym z udziałem w postępowaniu o udzielenie zamówienia publicznego; konsekwencje niepodania określonych danych wynikają z ustawy Pzp;\n7) w odniesieniu do Pani/Pana danych osobowych decyzje nie będą podejmowane w sposób zautomatyzowany, stosowanie do art. 22 RODO;\n8) posiada Pani/Pan:\n na podstawie art. 15 RODO prawo dostępu do danych osobowych Pani/Pana\n dotyczących;\n na podstawie art. 16 RODO prawo do sprostowania Pani/Pana danych osobowych;\n na podstawie art. 18 RODO prawo żądania od administratora ograniczenia\n przetwarzania danych osobowych z zastrzeżeniem przypadków, o których mowa w art. 18 ust. 2 RODO;\n prawo do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, gdy uzna Pani/Pan, że przetwarzanie danych osobowych Pani/Pana dotyczących narusza przepisy RODO;\n9) nie przysługuje Pani/Panu:\n w związku z art. 17 ust. 3 lit. b, d lub e RODO prawo do usunięcia danych\n osobowych;\n prawo do przenoszenia danych osobowych, o którym mowa w art. 20 RODO;\n na podstawie art. 21 RODO prawo sprzeciwu, wobec przetwarzania danych\n osobowych, gdyż podstawą prawną przetwarzania Pani/Pana danych osobowych jest art. 6 ust. 1 lit. c RODO.",
+                "• Załącznik 1: Wzór formularza ofertowego,\n• Załącznik 2: Pisemne opracowanie programów"
+            ],
+            "offer_winners": [
+                {
+                    "name": "Ryszard Chodyniecki",
+                    "price": "63.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "79414000-9",
+                    "description": "Usługi doradcze w zakresie zarządzania zasobami ludzkimi"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "„Regionalne Innowacje Społeczne – Centra Integracji Społecznej województwa podlaskiego”",
+            "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+            "start_date": "2020-09-18",
+            "end_date": "2020-09-30",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udział w postępowaniu mogą ubiegać się Wykonawcy posiadający doświadczenie w realizacji egzaminów kwalifikacyjnych. Zamawiający uzna warunek za spełniony, jeżeli Wykonawca wykaże, że w okresie trzech lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, wykonał należycie lub wykonuje (dotyczy usług będących w trakcie realizacji) usługę lub usługi, których przedmiot obejmował przeprowadzenie egzaminów kwalifikacyjnych osób, które ukończyły naukę zawodu o łącznej wartości nie mniejszej niż 2500 PLN brutto.\nW przypadku, gdy złożone przez Wykonawców dokumenty na potwierdzenie spełniania warunków udziału w postępowaniu będą zawierały kwoty wyrażone w walutach innych niż PLN, do oceny spełniania każdego warunku zawierającego daną kwotę lub wartość, wielkości te Wykonawca przeliczy po średnim kursie waluty obcej ogłoszonym przez NBP w dniu publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym UE lub w kolejnym dniu, jeżeli w dniu publikacji ogłoszenia NBP nie ogłosi średnich kursów walut.\nOcena spełniania tego warunku nastąpi na podstawie oświadczenia Wykonawcy zawartego w formularzu ofertowym zgodnie z Załącznikiem nr 1 oraz na podstawie opisu/wykazu doświadczenia przedstawionego zgodnie z Załącznikiem nr 2 wraz z załączonymi dowodami określającymi czy usługi zostały wykonane lub są wykonywane należycie, przy czym dowodami, o których mowa, są referencje bądź inne dokumenty wystawione przez podmiot, na rzecz którego usługi były wykonywane, a w przypadku usług będących w trakcie realizacji są wykonywane.\nW przypadku oferty wspólnej składanej przez konsorcjum osób prawnych oraz/lub osób fizycznych badane będzie łączne doświadczenie podmiotów tworzących konsorcjum.",
+                "Brak powiązań kapitałowych i osobowych Wykonawcy z Zamawiającym. Ocena spełniania tego warunku nastąpi na podstawie oświadczenia Wykonawcy o braku powiązań kapitałowych i osobowych Wykonawcy z Zamawiającym zgodnie Załącznikiem nr 3. W przypadku składania oferty wspólnej oświadczenie składa osobno każdy z podmiotów składających ofertę wspólną."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Zakład Remontowo-Budowlany mgr Sylwester Zawadzki",
+                    "price": "65170.00 PLN"
+                }
+            ],
+            "offer_losers": [
+                {
+                    "name": "Centrum Szkolenia Operatorów Sigma Artur Krasny",
+                    "price": "13203.00 PLN"
+                },
+                {
+                    "name": "Ośrodek Szkolenia Kierowców \"FILIP\" Maciej Paweł Zaręba",
+                    "price": "3319.74 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Cyfrowy Senior",
+            "advertiser_name": "Stowarzyszenie Europartner Akademicki Klub Integracji Europejskiej",
+            "start_date": "2020-09-03",
+            "end_date": "2020-09-11",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Posiadanie uprawnień do Wykonywania określonej działalności lub czynności, jeżeli przepisy prawa nakładają obowiązek ich posiadania. Wykonawca posiada zarejestrowaną działalność gospodarczą w obszarze wynajmu sal lub posiada na własność lokale oferowane w ofercie lub posiada uprawnienia do podnajmu oferowanych lokali. Zamawiający ma prawo żądać dokumentów potwierdzających wskazane uprawnienia, a Oferent zobowiązuje się je złożyć na każde żądanie Zamawiającego. Wykonawca posiada prawo do dysponowania salą wskazaną w ofercie.",
+                "Dysponowanie odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia. Budynek i sale, w których odbywać będą się spotkania nie posiadają barier architektonicznych (dostępność dla osób z niepełnosprawnościami).",
+                "Wykonawca oświadcza, że znajduje się w sytuacji ekonomicznej i finansowej pozwalającej na wykonanie zamówienia.",
+                "Wykonawca wskaże osobę, która będzie z jego ramienia, w porozumieniu z przedstawicielem Zamawiającego, koordynowała realizację usługi.",
+                "Formularz ofertowy wraz z oświadczeniami:\nOświadczenie o spełnianiu warunków udziału w postępowaniu - załącznik nr 2,\nOświadczenie dotyczące braku powiązań osobowych lub kapitałowych - załącznik nr 3,"
+            ],
+            "offer_winners": [
+                {
+                    "name": "Ponadregionalne Konsorcjum Szkoleniowo Egzaminacyjne Antoni Cichocki",
+                    "price": "54.12 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "70220000-9",
+                    "description": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Rozwój Ekonomii Społecznej",
+            "advertiser_name": "Stowarzyszenie Europartner Akademicki Klub Integracji Europejskiej",
+            "start_date": "2022-04-05",
+            "end_date": "2022-04-13",
+            "is_price_criterium": false,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Wykonawca musi posiadać uprawnienia do wykonywania określonej działalności lub czynności, jeżeli przepisy prawa nakładają obowiązek ich posiadania. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie, zgodnie z Załącznikiem nr 1 (formularz ofertowy).",
+                "O udzielenie zamówienia mogą się ubiegać oferenci, którzy spełniają Warunek dopuszczający nr 1 - Wykonawca obligatoryjnie musi posiadać minimum 3 letnie doświadczenie zawodowe lub dysponuje osobami posiadającymi minimum 3 letnie doświadczenie zawodowe w obszarze, w którym prowadzone będzie doradztwo. Oferty, które nie spełniają powyższego warunku nie będą brane pod uwagę. Zamawiający dokona oceny spełnienia warunku dopuszczającego na zasadzie\n„spełnia – nie spełnia”, na podstawie dołączonych do oferty:\ni. sporządzonego według wzoru stanowiącego Załącznik nr 2 do Zapytania Ofertowego - Formularz ofertowy oświadczenia oferenta w przedmiocie posiadanego doświadczenia w wyżej wymienionym zakresie\nii. sporządzonego według wzoru stanowiącego Załącznik nr 3 do Zapytania Ofertowego wykazu usług oraz załączonych referencji, zgodnie z wykazem w Załączniku nr 3, załączonego CV (ze zgodą na przetwarzanie danych osobowych i własnoręcznym podpisem), udostępnionych kopii dokumentów potwierdzających wykształcenie (dyplomy ukończenia studiów wszystkich stopni, dyplomy ze szkoleń, certyﬁkaty).",
+                "O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie, zgodnie z Załącznikiem nr 1 (formularz ofertowy) oraz wypełnić Załącznik nr 3 - wykaz osób, które będą uczestniczyć w wykonaniu zamówienia dotyczącego realizacji doradztwa oraz ich doświadczenia.",
+                "7. Wykonawca musi znajdować się w sytuacji ekonomicznej i ﬁnansowej zapewniającej wykonanie zamówienia. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie zgodnie z Załącznikiem nr 2 - Oświadczenie o spełnianiu warunków udziału w postepowaniu oraz braku podstaw do wykluczenia z postępowania.",
+                "W celu potwierdzenia spełnienia warunków Wykonawca musi złożyć wraz z ofertą następujące oświadczenia i dokumenty:\na) oświadczenie dotyczące braku powiązań osobowych lub kapitałowych oraz oświadczenie o spełnianiu warunków udziału w postępowaniu – sporządzone według wzoru stanowiącego załącznik nr 2 do zapytania ofertowego;\nb) wykaz osób, które będą uczestniczyć w wykonywaniu zamówienia/części zamówienia, wraz z informacją na temat ich kwaliﬁkacji zawodowych, 3 letniego doświadczenia zawodowego w danym- obszarze tematycznym określonym w przedmiocie zamówienia i wykształcenia niezbędnych do wykonania zamówienia. Wykaz należy sporządzić według wzoru stanowiącego Załącznik nr 3 do zapytania ofertowego;\nc) w przypadku, gdy oferent jest przedsiębiorcą aktualny na dzień składania oferty wydruk z CEIDG lub KRS.\nd) CV (ze zgodą na przetwarzanie danych osobowych i własnoręcznym podpisem) osób, które będą uczestniczyć w wykonywaniu zamówienia/części zamówienia.\ne) Kopie dokumentów potwierdzających wykształcenie (dyplomy ukończenia studiów wszystkich\n \nstopni, dyplomy ze szkoleń, certyﬁkaty), potwierdzonych za zgodność z oryginałem, osób, które będą uczestniczyć w wykonywaniu zamówienia/części zamówienia.",
+                "Osoby zdolne do wykonania zamówienia muszą posiadać minimum 3 letnie doświadczenie zawodowe w obszarze, w którym prowadzone będzie doradztwo oraz:\na) posiadać umiejętność rozpoznania potrzeb w obszarze tematycznym doradztwa wśród UP, w oparciu o nie przygotować proces doradztwa, czyli określić jego cele, oczekiwane efekty, metody i materiały doradcze. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie, zgodnie z Załącznikiem nr 1 (formularz ofertowy);\nb) dysponować wystarczającą wiedzą merytoryczną i umiejętnościami praktycznymi z zakresu objętego doradztwem oraz wiedzą i umiejętnościami w zakresie doradztwa potrzebnymi do jego realizacji. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie, zgodnie z Załącznikiem nr 1 (formularz ofertowy);\nc) posiadać umiejętność przygotowania procesu, który będzie uwzględniał rozwój uczestnika projektu i jego potrzeby edukacyjne. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie, zgodnie z Załącznikiem nr 1 (formularz ofertowy),\nd) posiadać umiejętność rozwiązywania sytuacji trudnych podczas doradztwa w sposób konstruktywny dla procesu uczenia. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie, zgodnie z Załącznikiem nr 1 (formularz ofertowy),\ne) posiadać niezbędne umiejętności techniczne związane z prowadzeniem doradztwa i umiejętności techniczne wykorzystania odpowiednich środków dydaktycznych. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie, zgodnie z Załącznikiem nr 1 (formularz ofertowy).",
+                "1. W postępowaniu mogą brać udział Wykonawcy (osoby ﬁzyczne, osoby prawne, jednostki organizacyjne nieposiadające osobowości prawnej), którzy spełniają wszystkie warunki łącznie określone w niniejszym zapytaniu ofertowym (posiadają wymagane doświadczenie oraz kwaliﬁkacje) oraz wykażą, że nie podlegają wykluczeniu z postępowania zgodnie z zasadą konkurencyjności.\n2. O udzielenie zamówienia mogą się ubiegać oferenci, którzy spełnią obligatoryjnie Warunek dopuszczający nr 2 - Wykonawca nie jest powiązany osobowo lub kapitałowo z Zamawiającym\n \n. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie zgodnie z Załącznikiem nr 2 - Oświadczenie o spełnianiu warunków udziału w postepowaniu oraz braku podstaw do wykluczenia z postępowania. Przez powiązania kapitałowe lub osobowe rozumie się\nwzajemne powiązania między beneﬁcjentem lub osobami upoważnionymi do zaciągania zobowiązań w imieniu beneﬁcjenta lub osobami wykonującymi w imieniu beneﬁcjenta czynności związane z przeprowadzeniem procedury wyboru wykonawcy a wykonawcą, polegające w szczególności na::\na) uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej,\nb) posiadaniu co najmniej 10% udziałów lub akcji,\nc) pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika,\nd) pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli.\n3. Wyłącznie Wykonawca ponosi wszelkie koszty związane z dojazdem na doradztwo w różne regiony subregionu łomżyńskiego (wszelkie koszty dojazdu, zakwaterowania, wyżywienia itp.).\n4. Wykonawca akceptacje prowadzenie doradztwa we wskazanych przez Zamawiającego miejscach, bez możliwości ich zmiany (pełna dyspozycyjność).\n5. Wykonawca musi realizować przedmiot zamówienia w miejscu i czasie ściśle określonym\nprzez Zamawiającego, w oparciu o przedstawiany na bieżąco przez Zamawiającego harmonogram, uaktualniany w odniesieniu do możliwości i potrzeb Uczestników Projektu.\n6. Wykonawca zobowiązany jest do znajomości oraz stosowania podczas doradztwa Standardów Ośrodków Wsparcia Ekonomii Społecznej z dnia 7 listopada 2019 r. W celu udokumentowania spełnienia niniejszego warunku należy złożyć oświadczenie, zgodnie z Załącznikiem nr 1 (formularz ofertowy)."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Katarzyna Sokólska",
+                    "price": "95.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "79000000-4",
+                    "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+                },
+                {
+                    "code": "79000000-4",
+                    "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Wykonanie usługi zapewnienia miejsc noclegowych, wyżywienia, transportu oraz ubezpieczenia studentów PWSZ w Suwałkach w okresie od 04.2021 do 06.2022 ramach projektu Zintegrowany Program Uczelni II na rzecz Rozwoju Regionalnego” nr POWR.03.05.00-00-ZR02/18",
+            "advertiser_name": "Państwowa Wyższa Szkoła Zawodowa im. prof. Edwarda F. Szczepanika w Suwałkach",
+            "start_date": "2020-12-04",
+            "end_date": "2020-12-16",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Zamawiający uzna wyżej wymieniony warunek za spełniony, jeżeli Wykonawca wykaże, że jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia na sumę gwarancyjną nie mniejszą niż 100.000,00 zł.",
+                "Zamawiający uzna wyżej wymieniony warunek za spełniony, jeżeli Wykonawca wykaże, że w okresie ostatnich trzech lat przed upływem terminu składania ofert, (a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie), należycie wykonał co najmniej 3 zamówienia polegające na zorganizowaniu grupowych (nie mniejszej niż 10 osób) co najmniej 3 dniowych imprez turystycznych/wycieczek/wyjazdów obejmujących zakwaterowanie i wyżywienie osób.",
+                "1. Do oferty, w celu wykazania spełniania warunków udziału w postępowaniu oraz braku podstaw wykluczenia, Wykonawca zobowiązany jest dołączyć aktualne na dzień składania ofert:\n1) wykaz usług wykonanych, a w przypadku świadczeń okresowych lub ciągłych również wykonywanych, w okresie ostatnich 3 lat przed upływem terminu składania ofert albo wniosków o dopuszczenie do udziału w postępowaniu, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których dostawy lub usługi zostały wykonane, oraz załączeniem dowodów określających czy te dostawy lub usługi zostały wykonane lub są wykonywane należycie, przy czym dowodami, o których mowa, są referencje bądź inne dokumenty wystawione przez podmiot, na rzecz którego dostawy lub usługi były wykonywane, a w przypadku świadczeń okresowych lub ciągłych są wykonywane, a jeżeli z uzasadnionej przyczyny o obiektywnym charakterze wykonawca nie jest w stanie uzyskać tych dokumentów – oświadczenie wykonawcy; w przypadku świadczeń okresowych lub ciągłych nadal wykonywanych referencje bądź inne dokumenty potwierdzające ich należyte wykonywanie powinny być wydane nie wcześniej niż 3 miesiące przed upływem terminu składania ofert albo wniosków o dopuszczenie do udziału w postępowaniu; Wzór wykazu stanowi załącznik nr 3 do ogłoszenia.\n2) dokument potwierdzający, że Wykonawca posiada ubezpieczenie od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia na sumę gwarancyjną min. 100 000,00 zł\n\n2. W celu wykazania braku podstaw do wykluczenia z postępowania o udzielenie zamówienia należy przedłożyć\n1) oświadczenie, że nie podlega wykluczeniu z postępowania na podstawie art. 24 ust. 1 pkt. 12-23 oraz art. 24 ust. 5 pkt. 1 ustawy Pzp (znajduje się w formularzu ofertowym)\n2) odpis z właściwego rejestru lub z centralnej ewidencji i informacji o działalności gospodarczej, jeżeli odrębne przepisy wymagają wpisu do rejestru lub ewidencji, w celu potwierdzenia braku podstaw do wykluczenia na podstawie art. 24 ust. 5 pkt 1 Pzp\n\n3. Pozostałe dokumenty, które należy dołączyć do oferty: \n1) FORMULARZ OFERTOWY sporządzony przez wykonawcę według instrukcji podanej – załącznik nr 1 do OGŁOSZENIA.\n2) Opis przedmiotu zamówienia - załącznik nr 4 do OGŁOSZENIA zaparafowany przez Wykonawcę\n3) Pełnomocnictwo do podpisania oferty. Pełnomocnictwo należy załączyć do oferty tylko w przypadku, gdy oferta jest podpisania przez osobę nie figurującą w rejestrze lub wpisie do ewidencji działalności gospodarczej. Brak podpisu na ofercie lub podpisanie oferty przez osobę do tego nieupoważnioną spowoduje konieczność odrzucenia oferty. W przypadku składnia oferty przez podmioty występujące wspólnie, dokument ustanawiający Pełnomocnika do reprezentowania ich w postępowaniu o udzielenie zamówienia albo reprezentowania w postępowaniu i zawarcia umowy w sprawie niniejszego zamówienia publicznego jeżeli oferta nie jest podpisana przez wszystkich Wykonawców występujących wspólnie. Postępowanie o udzielenie zamówienia publicznego nie jest postępowaniem sądowym, stwierdzić należy, że złożenie dokumentu pełnomocnictwa lub prokury albo jego odpisu, wypisu lub kopii przez pełnomocnika wykonawcy w postępowaniu o udzielenie zamówienia publicznego nie podlega opłacie skarbowej. Pełnomocnictwo należy złożyć wyłącznie w formie oryginału lub kopii notarialnej;",
+                "O udzielenie zamówienia mogą ubiegać się wykonawcy, którzy:\n1. nie podlegają wykluczeniu zgodnie z art. 24 ust. 1 oraz art. 24 ust. 5 pkt. 1 ustawy PZP\n2. nie posiadają powiązań kapitałowych lub osobowych z zamawiającym\nPrzez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między beneficjentem lub osobami upoważnionymi do zaciągania zobowiązań w imieniu beneficjenta lub osobami wykonującymi w imieniu beneficjenta czynności związane z przeprowadzeniem procedury wyboru wykonawcy a wykonawcą, polegające w szczególności na:\na) uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej\nb) posiadaniu co najmniej 10% udziałów lub akcji, o ile niższy próg nie wynika z przepisów prawa lub nie został określony przez IZ PO15.\nc) pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika\nd) pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli.\n3. spełniają warunki udziału w postępowaniu"
+            ],
+            "offer_winners": [
+                {
+                    "name": "Cristal Travelnet Sp. z o.o.",
+                    "price": "24363.00 PLN"
+                }
+            ],
+            "offer_losers": [
+                {
+                    "name": "ATTIS S.C.",
+                    "price": "29096.00 PLN"
+                },
+                {
+                    "name": "Biuro Usługowo – Turystyczne ATLANTIC",
+                    "price": "28363.00 PLN"
+                },
+                {
+                    "name": "Inventum Sp. z o.o.",
+                    "price": "34947.00 PLN"
+                },
+                {
+                    "name": "Magdalena Siśkiewicz New Challenge",
+                    "price": "37920.00 PLN"
+                },
+                {
+                    "name": "Sun & More Sp. z o.o.",
+                    "price": "29850.00 PLN"
+                },
+                {
+                    "name": "UpHotel Sp. z o.o.",
+                    "price": "29904.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "55110000-4",
+                    "description": "Hotelarskie usługi noclegowe"
+                },
+                {
+                    "code": "55300000-3",
+                    "description": "Usługi restauracyjne i dotyczące podawania posiłków"
+                },
+                {
+                    "code": "60000000-8",
+                    "description": "Usługi transportowe (z wyłączeniem transportu odpadów)"
+                },
+                {
+                    "code": "60172000-4",
+                    "description": "Wynajem autobusów i autokarów wraz z kierowcą"
+                },
+                {
+                    "code": "66512100-3",
+                    "description": "Usługi ubezpieczenia od następstw nieszczęśliwych wypadków"
+                }
+            ],
+            "EU": false
         }
     ]
 }

@@ -1,6 +1,87 @@
 {
     "auctions": [
         {
+            "auction_name": "Zapytanie ofertowe nr 1/2022 Dostawa komponentów do produkcji paszy",
+            "advertiser_name": "Tenebria sp. z o.o.",
+            "start_date": "2022-09-02",
+            "end_date": "2022-09-12",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Oferent znajduje się w sytuacji ekonomicznej i finansowej zapewniającej wykonanie Zamówienia. Zamawiający uzna, że Oferent spełnia w/w warunek, jeżeli: Oferent przedłoży stosowne oświadczenie, które jest elementem załącznika nr 1.\nOferent nie znajduje się w stanie upadłości ani likwidacji, nie wszczęto wobec Oferenta postępowania upadłościowego czy likwidacyjnego. Zamawiający uzna, że Oferent spełnia w/w warunek, jeżeli: Oferent przedłoży stosowne oświadczenie, które jest elementem załącznika nr 1."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "03000000-1",
+                    "description": "Produkty rolnictwa, hodowli, rybołówstwa, leśnictwa i podobne"
+                },
+                {
+                    "code": "03211100-4",
+                    "description": "Pszenica"
+                },
+                {
+                    "code": "03211120-0",
+                    "description": "Pszenica zwykła"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 41/2020 w trybie zasady konkurencyjności na dostawę wyposażenia laboratorium balistycznego",
+            "advertiser_name": "Lubawa S.A.",
+            "start_date": "2020-09-15",
+            "end_date": "2020-09-29",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego.",
+                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Forcepol sp. z o.o.",
+                    "price": "8985.50 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "38000000-5",
+                    "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 43/2020 w trybie zasady konkurencyjności na dostawę wciągarek linowych",
+            "advertiser_name": "Lubawa spółka akcyjna",
+            "start_date": "2020-09-30",
+            "end_date": "2020-10-14",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. Zamawiający wymaga, by oferent w okresie ostatnich trzech lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, dostarczył co najmniej trzy wciągarki linowe elektryczne.\n2. W celu wykazania spełniania wymagań wobec oferenta należy uzupełnić informacje odnoszące się do wymagań w formularzu oferty oraz złożyć na wezwanie zamawiającego referencje lub inny dokument, z którego wynika należyte wykonanie dostawy, o której mowa w pkt 1. Zamawiający wystosuje powyższe wezwanie wyłącznie do oferenta, którego oferta została najwyżej oceniona. Oferent może z własnej inicjatywy złożyć dokument wraz z ofertą.",
+                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą.",
+                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Referencje lub inny dokument, z którego wynika należyte wykonanie dostaw. Zamawiający wystosuje powyższe wezwanie wyłącznie do oferenta, którego oferta została najwyżej oceniona. Oferent może z własnej inicjatywy złożyć dokument wraz z ofertą."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Scapol Sp.z o.o.",
+                    "price": "805.50 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "38000000-5",
+                    "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                }
+            ],
+            "EU": false
+        },
+        {
             "auction_name": "Zapytanie ofertowe nr 46/2020 w trybie zasady konkurencyjności na dostawę testera cyfrowego do badania wytrzymałości na rozerwanie i przebicie",
             "advertiser_name": "Lubawa spółka akcyjna",
             "start_date": "2020-10-21",
@@ -32,7 +113,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 50 /2020 w trybie zasady konkurencyjności na dostawę manekinów",
@@ -57,7 +139,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 56/2020 w trybie zasady konkurencyjności na dostawę urządzenia do cięcia laserowego CO2 z dnia 10 grudnia 2020 r.",
@@ -83,7 +166,8 @@
                     "code": "38636110-6",
                     "description": "Lasery przemysłowe"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 40/2020 w trybie zasady konkurencyjności na dostawę dynamometrów",
@@ -117,7 +201,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 54/2020 w trybie zasady konkurencyjności na dostawę aparatu do badania szczelności",
@@ -137,7 +222,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 2/2021 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych",
@@ -151,13 +237,19 @@
                 "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego."
             ],
             "offer_winners": [],
-            "offer_losers": [],
+            "offer_losers": [
+                {
+                    "name": "Cal Narzędzia S.C. Zygmunt Indyka, Maciej Indyka",
+                    "price": "175500.00 PLN"
+                }
+            ],
             "cpv": [
                 {
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 49/2020 w trybie zasady konkurencyjności na dostawę wyposażenia laboratorium balistycznego",
@@ -191,7 +283,8 @@
                     "code": "39151200-7",
                     "description": "Stoły robocze"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 4/2021 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych",
@@ -205,13 +298,50 @@
                 "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego."
             ],
             "offer_winners": [],
-            "offer_losers": [],
+            "offer_losers": [
+                {
+                    "name": "Astronik Andrzej Suchecki",
+                    "price": "1195.00 PLN"
+                },
+                {
+                    "name": "F.H.U. EL-KAN KANIA JOANNA",
+                    "price": "2200.00 PLN"
+                }
+            ],
             "cpv": [
                 {
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 53/2020 w trybie zasady konkurencyjności na dostawę urządzenia do cięcia laserowego CO2 z dnia 20 listopada 2020 r.",
+            "advertiser_name": "Lubawa spółka akcyjna",
+            "start_date": "2020-11-20",
+            "end_date": "2020-12-04",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Referencje lub inny dokument, z którego wynika należyte wykonanie dostaw.",
+                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą.",
+                "1. Zamawiający wymaga, by oferent w okresie ostatnich dwóch lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, dostarczył co najmniej trzy urządzenia do cięcia laserowego o wartości nie mniejszej niż 400 000 zł każde.\n2. W przypadku, gdy wartość dostawy wyrażona jest w walucie innej niż PLN, Wykonawca zobowiązany jest do jej przeliczenia na PLN przyjmując jako podstawę średni kurs danej waluty opublikowany przez NBP (wg tabeli średnich walut obcych) w dniu publikacji niniejszego zapytania.\n3. W celu wykazania spełniania wymagań wobec oferenta należy uzupełnić informacje odnoszące się do wymagań w formularzu oferty oraz złożyć wraz z ofertą referencje lub inny dokument, z którego wynika należyte wykonanie dostaw, o których mowa w pkt 1."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Logos Media sp. z o. o.",
+                    "price": "338000.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "38636110-6",
+                    "description": "Lasery przemysłowe"
+                }
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 47/2020 w trybie zasady konkurencyjności na dostawę plotera wycinającego",
@@ -237,7 +367,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 45/2020 w trybie zasady konkurencyjności na dostawę wciągarek linowych",
@@ -258,7 +389,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 38/2020 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych (norma 1149-1, 1149-2)",
@@ -278,7 +410,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 39/2020 w trybie zasady konkurencyjności na dostawę infrastruktury laboratorium BHP (dygestorium chemicznego)",
@@ -299,7 +432,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 3/2021 w trybie zasady konkurencyjności na dostawę twardościomierzy",
@@ -349,7 +483,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 42/2020 w trybie zasady konkurencyjności na dostawę infrastruktury laboratorium BHP (dygestorium chemicznego)",
@@ -380,7 +515,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": true
         },
         {
             "auction_name": "Zapytanie ofertowe nr 44 /2020 w trybie zasady konkurencyjności na dostawę manekinów",
@@ -400,7 +536,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 48/2020 w trybie zasady konkurencyjności na dostawę wyposażenia tunelu balistycznego - deszczownicy",
@@ -420,108 +557,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
-        },
-        {
-            "auction_name": "Zapytanie ofertowe nr 51/2020 w trybie zasady konkurencyjności na dostawę wciągarek linowych",
-            "advertiser_name": "Lubawa spółka akcyjna",
-            "start_date": "2020-11-06",
-            "end_date": "2020-11-20",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "1. Zamawiający wymaga, by oferent w okresie ostatnich trzech lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, dostarczył co najmniej trzy wciągarki linowe elektryczne.\n2. W celu wykazania spełniania wymagań wobec oferenta należy uzupełnić informacje odnoszące się do wymagań w formularzu oferty oraz złożyć na wezwanie zamawiającego referencje lub inny dokument, z którego wynika należyte wykonanie dostawy, o której mowa w pkt 1. Zamawiający wystosuje powyższe wezwanie wyłącznie do oferenta, którego oferta została najwyżej oceniona. Oferent może z własnej inicjatywy złożyć dokument wraz z ofertą.",
-                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Referencje lub inny dokument, z którego wynika należyte wykonanie dostaw. Zamawiający wystosuje powyższe wezwanie wyłącznie do oferenta, którego oferta została najwyżej oceniona. Oferent może z własnej inicjatywy złożyć dokument wraz z ofertą.",
-                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą."
             ],
-            "offer_winners": [
-                {
-                    "name": "Cal Narzędzia S.C. Zygmunt Indyka, Maciej Indyka",
-                    "price": "3500.00 PLN"
-                }
-            ],
-            "offer_losers": [],
-            "cpv": [
-                {
-                    "code": "38000000-5",
-                    "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-                }
-            ]
-        },
-        {
-            "auction_name": "Zapytanie ofertowe nr 52/2020 w trybie zasady konkurencyjności na dostawę maszyn szwalniczych oraz zgrzewarek maszynowych",
-            "advertiser_name": "Lubawa spółka akcyjna",
-            "start_date": "2020-11-10",
-            "end_date": "2020-12-11",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "1. Zamawiający wymaga, by oferent w okresie ostatnich dwóch lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy w tym okresie, zrealizował co najmniej dwie dostawy, z których każda obejmowała dostarczenie maszyn szwalniczych o wartości minimum 250 000 złotych.\n2. W przypadku, gdy wartość dostawy wyrażona jest w walucie innej niż PLN, Wykonawca zobowiązany jest do jej przeliczenia na PLN przyjmując jako podstawę średni kurs danej waluty opublikowany przez NBP (wg tabeli średnich walut obcych) w dniu publikacji niniejszego zapytania.\n3. W celu wykazania spełniania wymagań wobec oferenta należy uzupełnić informacje odnoszące się do wymagań w formularzu oferty oraz złożyć wraz z ofertą referencje lub inny dokument, z którego wynika należyte wykonanie dostaw, o których mowa w pkt 1.",
-                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Referencje lub inny dokument, z którego wynika należyte wykonanie dostaw.",
-                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą."
-            ],
-            "offer_winners": [
-                {
-                    "name": "Dolnośląska Korporacja Handlowa Spółka Akcyjna",
-                    "price": "573560.00 PLN"
-                }
-            ],
-            "offer_losers": [],
-            "cpv": [
-                {
-                    "code": "42710000-6",
-                    "description": "Maszyny do produkcji wyrobów włókienniczych"
-                },
-                {
-                    "code": "42715000-1",
-                    "description": "Maszyny do szycia"
-                }
-            ]
-        },
-        {
-            "auction_name": "Zapytanie ofertowe nr 55/2020 w trybie zasady konkurencyjności na dostawę wyposażenia tunelu balistycznego - deszczownicy",
-            "advertiser_name": "Lubawa Spółka Akcyjna",
-            "start_date": "2020-12-02",
-            "end_date": "2020-12-17",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą.",
-                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego."
-            ],
-            "offer_winners": [],
-            "offer_losers": [],
-            "cpv": [
-                {
-                    "code": "38000000-5",
-                    "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-                }
-            ]
-        },
-        {
-            "auction_name": "Zapytanie ofertowe nr 57/2020 w trybie zasady konkurencyjności na dostawę aparatu do badania szczelności",
-            "advertiser_name": "Lubawa Spółka Akcyjna",
-            "start_date": "2020-12-14",
-            "end_date": "2020-12-21",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą.",
-                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego."
-            ],
-            "offer_winners": [
-                {
-                    "name": "PPHU Grandro sc Grażyna Rogala Andrzej Rogala",
-                    "price": "7850.00 PLN"
-                }
-            ],
-            "offer_losers": [],
-            "cpv": [
-                {
-                    "code": "38000000-5",
-                    "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-                }
-            ]
+            "EU": false
         }
     ]
 }

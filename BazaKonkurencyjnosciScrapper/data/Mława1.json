@@ -1,6 +1,97 @@
 {
     "auctions": [
         {
+            "auction_name": "ZAPYTANIE OFERTOWE NR 3/RPMA/2021/SK",
+            "advertiser_name": "Custom Media Group Agnieszka Kędzierska",
+            "start_date": "2021-07-29",
+            "end_date": "2021-08-06",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Fundacja Akademia Rozwoju",
+                    "price": "17280.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                },
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                },
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "ZAPYTANIE OFERTOWE NR 4A/2022",
+            "advertiser_name": "Custom Media Group Agnieszka Kędzierska",
+            "start_date": "2022-03-28",
+            "end_date": "2022-04-05",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu.",
+                "Zapraszamy do zapoznania się z treścią zapytania ofertowego znajdującego się w załączeniu."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "ZAPYTANIE OFERTOWE NR 2/M",
+            "advertiser_name": "Grupa Szkoleniowo Doradcza Europlus sp. z o. o.",
+            "start_date": "2022-05-27",
+            "end_date": "2022-06-03",
+            "is_price_criterium": true,
+            "status": "Zamknięte",
+            "conditions": [
+                "zgodnie z treścią zapytania",
+                "zgodnie z treścią zapytania",
+                "zgodnie z treścią zapytania",
+                "zgodnie z treścią zapytania",
+                "zgodnie z treścią zapytania",
+                "zgodnie z treścią zapytania",
+                "zgodnie z treścią zapytania"
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "30132200-5",
+                    "description": "Maszyny do liczenia banknotów"
+                }
+            ],
+            "EU": true
+        },
+        {
             "auction_name": "Wykonanie usługi pn.:\n1) Zadanie nr 1: „Obsługa biurowo-administracyjna GDDKiA Oddziału w Olsztynie w zakresie sekretariatu Biura Kierownika Projektu KP-6 przy ul. Żwirki 18 w Mławie”\n2) Zadanie nr 2: „Obsługa biurowo-administracyjna GDDKiA Oddziału w Olsztynie w zakresie sekretariatu Biura Kierownika Projektu KP-7 przy ul. Grzebskiego 10 w Mławie”",
             "advertiser_name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Olsztynie",
             "start_date": "2022-07-01",
@@ -11,8 +102,27 @@
                 "Wykonawca nie może być powiązany z Zamawiającym osobowo lub kapitałowo.\nPrzez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między Zamawiającym lub osobami upoważnionymi do zaciągania zobowiązań w imieniu Zamawiającego lub osobami wykonującymi w imieniu Zamawiającego czynności związane z przeprowadzeniem procedury wyboru wykonawcy a wykonawcą, polegające w szczególności na:\na) uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej,\nb) posiadaniu co najmniej 10% udziałów lub akcji, o ile niższy próg nie wynika z przepisów prawa lub nie został określony przez IZ PO,\nc) pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika,\nd) pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli."
             ],
             "offer_winners": [],
-            "offer_losers": [],
-            "cpv": []
+            "offer_losers": [
+                {
+                    "name": "'KOPERTEX'' Katarzyna Gołębiewska-Wdziekońska",
+                    "price": "59409.00 PLN"
+                },
+                {
+                    "name": "Manbroker Sp. z o.o.",
+                    "price": "6888.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "79610000-3",
+                    "description": "Zapewnianie usług personelu"
+                },
+                {
+                    "code": "79610000-3",
+                    "description": "Zapewnianie usług personelu"
+                }
+            ],
+            "EU": false
         },
         {
             "auction_name": "ZAPYTANIE OFERTOWE NR 3A/2022",
@@ -32,7 +142,21 @@
             ],
             "offer_winners": [],
             "offer_losers": [],
-            "cpv": []
+            "cpv": [
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                },
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                },
+                {
+                    "code": "80000000-4",
+                    "description": "Usługi edukacyjne i szkoleniowe"
+                }
+            ],
+            "EU": true
         },
         {
             "auction_name": "Przeprowadzenie szkolenia \"Pracownik ds. rachunkowości i księgowości oraz administracji\"",
@@ -57,7 +181,13 @@
                 }
             ],
             "offer_losers": [],
-            "cpv": []
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": false
         },
         {
             "auction_name": "Wykonania prac badawczo-rozwojowych w zakresie opracowania rozwiązania technologicznego oraz konstrukcji prototypu „Szarpaka”.",
@@ -80,7 +210,13 @@
                 }
             ],
             "offer_losers": [],
-            "cpv": []
+            "cpv": [
+                {
+                    "code": "73110000-6",
+                    "description": "Usługi badawcze"
+                }
+            ],
+            "EU": true
         },
         {
             "auction_name": "Opracowanie innowacyjnego, mobilnego przesiewacza bębnowego do kruszyw z funkcją płuczki i odwadniacza",
@@ -106,7 +242,8 @@
                     "code": "73120000-9",
                     "description": "Usługi eksperymentalno-rozwojowe"
                 }
-            ]
+            ],
+            "EU": false
         }
     ]
 }

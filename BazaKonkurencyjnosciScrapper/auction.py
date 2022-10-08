@@ -3,7 +3,7 @@ import json
 
 class Auction:
 
-    def __init__(self, auction_name, advertiser_name, start_date, end_date, offer_winners, offer_losers, cpv, is_price_criterium, status, conditions):
+    def __init__(self, auction_name, advertiser_name, start_date, end_date, offer_winners, offer_losers, cpv, is_price_criterium, status, conditions, eu_word):
         self.auction_name = auction_name.replace("\\n", "")
         self.advertiser_name = advertiser_name.replace("\\n", "")
         self.start_date = start_date.replace("\\n", "")
@@ -14,6 +14,7 @@ class Auction:
         self.offer_winners = offer_winners
         self.offer_losers = offer_losers
         self.cpv = cpv
+        self.EU = eu_word
 
     def to_json(self):
         return json.dumps(self, default=lambda o: o.__dict__, ensure_ascii=False)

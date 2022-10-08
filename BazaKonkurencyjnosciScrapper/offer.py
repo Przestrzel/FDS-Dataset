@@ -3,10 +3,10 @@ import json
 
 class Offer:
 
-    def __init__(self, name, price):
+    def __init__(self, name, price, is_rejected: bool = False):
         self.name = Offer.extract_name(name)
         self.price = Offer.extract_price(price)
-
+        
     @staticmethod
     def extract_name(name: str):
         name = name.replace("Nazwa podmiotu", "")

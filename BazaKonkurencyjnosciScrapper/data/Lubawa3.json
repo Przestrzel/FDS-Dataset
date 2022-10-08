@@ -1,6 +1,87 @@
 {
     "auctions": [
         {
+            "auction_name": "Zapytanie ofertowe nr 1/2022 Dostawa komponentów do produkcji paszy",
+            "advertiser_name": "Tenebria sp. z o.o.",
+            "start_date": "2022-09-02",
+            "end_date": "2022-09-12",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Oferent znajduje się w sytuacji ekonomicznej i finansowej zapewniającej wykonanie Zamówienia. Zamawiający uzna, że Oferent spełnia w/w warunek, jeżeli: Oferent przedłoży stosowne oświadczenie, które jest elementem załącznika nr 1.\nOferent nie znajduje się w stanie upadłości ani likwidacji, nie wszczęto wobec Oferenta postępowania upadłościowego czy likwidacyjnego. Zamawiający uzna, że Oferent spełnia w/w warunek, jeżeli: Oferent przedłoży stosowne oświadczenie, które jest elementem załącznika nr 1."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "03000000-1",
+                    "description": "Produkty rolnictwa, hodowli, rybołówstwa, leśnictwa i podobne"
+                },
+                {
+                    "code": "03211100-4",
+                    "description": "Pszenica"
+                },
+                {
+                    "code": "03211120-0",
+                    "description": "Pszenica zwykła"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 41/2020 w trybie zasady konkurencyjności na dostawę wyposażenia laboratorium balistycznego",
+            "advertiser_name": "Lubawa S.A.",
+            "start_date": "2020-09-15",
+            "end_date": "2020-09-29",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego.",
+                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Forcepol sp. z o.o.",
+                    "price": "8985.50 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "38000000-5",
+                    "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 43/2020 w trybie zasady konkurencyjności na dostawę wciągarek linowych",
+            "advertiser_name": "Lubawa spółka akcyjna",
+            "start_date": "2020-09-30",
+            "end_date": "2020-10-14",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. Zamawiający wymaga, by oferent w okresie ostatnich trzech lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, dostarczył co najmniej trzy wciągarki linowe elektryczne.\n2. W celu wykazania spełniania wymagań wobec oferenta należy uzupełnić informacje odnoszące się do wymagań w formularzu oferty oraz złożyć na wezwanie zamawiającego referencje lub inny dokument, z którego wynika należyte wykonanie dostawy, o której mowa w pkt 1. Zamawiający wystosuje powyższe wezwanie wyłącznie do oferenta, którego oferta została najwyżej oceniona. Oferent może z własnej inicjatywy złożyć dokument wraz z ofertą.",
+                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą.",
+                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Referencje lub inny dokument, z którego wynika należyte wykonanie dostaw. Zamawiający wystosuje powyższe wezwanie wyłącznie do oferenta, którego oferta została najwyżej oceniona. Oferent może z własnej inicjatywy złożyć dokument wraz z ofertą."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Scapol Sp.z o.o.",
+                    "price": "805.50 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "38000000-5",
+                    "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                }
+            ],
+            "EU": false
+        },
+        {
             "auction_name": "Zapytanie ofertowe nr 46/2020 w trybie zasady konkurencyjności na dostawę testera cyfrowego do badania wytrzymałości na rozerwanie i przebicie",
             "advertiser_name": "Lubawa spółka akcyjna",
             "start_date": "2020-10-21",
@@ -32,7 +113,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 50 /2020 w trybie zasady konkurencyjności na dostawę manekinów",
@@ -57,7 +139,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 56/2020 w trybie zasady konkurencyjności na dostawę urządzenia do cięcia laserowego CO2 z dnia 10 grudnia 2020 r.",
@@ -83,7 +166,8 @@
                     "code": "38636110-6",
                     "description": "Lasery przemysłowe"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 40/2020 w trybie zasady konkurencyjności na dostawę dynamometrów",
@@ -117,7 +201,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 54/2020 w trybie zasady konkurencyjności na dostawę aparatu do badania szczelności",
@@ -137,7 +222,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 2/2021 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych",
@@ -151,13 +237,19 @@
                 "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego."
             ],
             "offer_winners": [],
-            "offer_losers": [],
+            "offer_losers": [
+                {
+                    "name": "Cal Narzędzia S.C. Zygmunt Indyka, Maciej Indyka",
+                    "price": "175500.00 PLN"
+                }
+            ],
             "cpv": [
                 {
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 49/2020 w trybie zasady konkurencyjności na dostawę wyposażenia laboratorium balistycznego",
@@ -191,7 +283,8 @@
                     "code": "39151200-7",
                     "description": "Stoły robocze"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 4/2021 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych",
@@ -205,13 +298,50 @@
                 "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego."
             ],
             "offer_winners": [],
-            "offer_losers": [],
+            "offer_losers": [
+                {
+                    "name": "Astronik Andrzej Suchecki",
+                    "price": "1195.00 PLN"
+                },
+                {
+                    "name": "F.H.U. EL-KAN KANIA JOANNA",
+                    "price": "2200.00 PLN"
+                }
+            ],
             "cpv": [
                 {
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 53/2020 w trybie zasady konkurencyjności na dostawę urządzenia do cięcia laserowego CO2 z dnia 20 listopada 2020 r.",
+            "advertiser_name": "Lubawa spółka akcyjna",
+            "start_date": "2020-11-20",
+            "end_date": "2020-12-04",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Referencje lub inny dokument, z którego wynika należyte wykonanie dostaw.",
+                "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą.",
+                "1. Zamawiający wymaga, by oferent w okresie ostatnich dwóch lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, dostarczył co najmniej trzy urządzenia do cięcia laserowego o wartości nie mniejszej niż 400 000 zł każde.\n2. W przypadku, gdy wartość dostawy wyrażona jest w walucie innej niż PLN, Wykonawca zobowiązany jest do jej przeliczenia na PLN przyjmując jako podstawę średni kurs danej waluty opublikowany przez NBP (wg tabeli średnich walut obcych) w dniu publikacji niniejszego zapytania.\n3. W celu wykazania spełniania wymagań wobec oferenta należy uzupełnić informacje odnoszące się do wymagań w formularzu oferty oraz złożyć wraz z ofertą referencje lub inny dokument, z którego wynika należyte wykonanie dostaw, o których mowa w pkt 1."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Logos Media sp. z o. o.",
+                    "price": "338000.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "38636110-6",
+                    "description": "Lasery przemysłowe"
+                }
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 47/2020 w trybie zasady konkurencyjności na dostawę plotera wycinającego",
@@ -237,7 +367,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 45/2020 w trybie zasady konkurencyjności na dostawę wciągarek linowych",
@@ -258,7 +389,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 38/2020 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych (norma 1149-1, 1149-2)",
@@ -278,7 +410,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 39/2020 w trybie zasady konkurencyjności na dostawę infrastruktury laboratorium BHP (dygestorium chemicznego)",
@@ -299,7 +432,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 3/2021 w trybie zasady konkurencyjności na dostawę twardościomierzy",
@@ -349,7 +483,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 42/2020 w trybie zasady konkurencyjności na dostawę infrastruktury laboratorium BHP (dygestorium chemicznego)",
@@ -380,7 +515,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": true
         },
         {
             "auction_name": "Zapytanie ofertowe nr 44 /2020 w trybie zasady konkurencyjności na dostawę manekinów",
@@ -400,7 +536,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 48/2020 w trybie zasady konkurencyjności na dostawę wyposażenia tunelu balistycznego - deszczownicy",
@@ -420,7 +557,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 51/2020 w trybie zasady konkurencyjności na dostawę wciągarek linowych",
@@ -446,7 +584,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 52/2020 w trybie zasady konkurencyjności na dostawę maszyn szwalniczych oraz zgrzewarek maszynowych",
@@ -476,7 +615,8 @@
                     "code": "42715000-1",
                     "description": "Maszyny do szycia"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 55/2020 w trybie zasady konkurencyjności na dostawę wyposażenia tunelu balistycznego - deszczownicy",
@@ -490,13 +630,19 @@
                 "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego."
             ],
             "offer_winners": [],
-            "offer_losers": [],
+            "offer_losers": [
+                {
+                    "name": "APISystems sp. z o. o.",
+                    "price": "63589.28 PLN"
+                }
+            ],
             "cpv": [
                 {
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 57/2020 w trybie zasady konkurencyjności na dostawę aparatu do badania szczelności",
@@ -521,38 +667,29 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
-            "auction_name": "Zapytanie ofertowe nr 42/2020 w trybie zasady konkurencyjności na dostawę infrastruktury laboratorium BHP (dygestorium chemicznego)",
-            "advertiser_name": "Lubawa spółka akcyjna",
-            "start_date": "2020-09-29",
-            "end_date": "2020-10-16",
+            "auction_name": "Zapytanie ofertowe nr 58/2020 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych",
+            "advertiser_name": "Lubawa Spółka Akcyjna",
+            "start_date": "2020-12-14",
+            "end_date": "2020-12-21",
             "is_price_criterium": true,
             "status": "Rozstrzygnięte",
             "conditions": [
-                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Referencje lub inny dokument, z którego wynika należyte wykonanie dostaw. Zamawiający wystosuje powyższe wezwanie wyłącznie do oferenta, którego oferta została najwyżej oceniona. Oferent może z własnej inicjatywy złożyć dokument wraz z ofertą.",
                 "1. W zapytaniu ofertowym nie mogą brać udziału oferenci, którzy są powiązani osobowo lub kapitałowo z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego.\n2. W celu wykazania spełniania wymagania wobec oferenta określonego w pkt 1 należy złożyć wraz z ofertą oświadczenie o braku powiązań z zamawiającym według załącznika nr 2 do zapytania ofertowego.\n3. Oferent powiązany z zamawiającym w sposób określony w załączniku nr 2 do zapytania ofertowego zostanie wykluczony z postępowania, a jego oferta zostanie uznana za odrzuconą.",
-                "1. Zamawiający wymaga, by oferent w okresie ostatnich trzech lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, dostarczył co najmniej dwa razy wyposażenie infrastruktury laboratorium BHP (dygestorium chemicznego).\n2. W celu wykazania spełniania wymagań wobec oferenta należy uzupełnić informacje odnoszące się do wymagań w formularzu oferty oraz złożyć na wezwanie zamawiającego referencje lub inny dokument, z którego wynika należyte wykonanie dostawy, o której mowa w pkt 1. Zamawiający wystosuje powyższe wezwanie wyłącznie do oferenta, którego oferta została najwyżej oceniona. Oferent może z własnej inicjatywy złożyć dokument wraz z ofertą."
+                "1. Oferta złożona zgodnie z wymaganiami opisanymi w zapytaniu i sporządzona przy wykorzystaniu formularza oferty stanowiącego załącznik nr 1 do zapytania.\n2. Oświadczenie o braku powiązań z Zamawiającym według załącznika nr 2 do zapytania ofertowego."
             ],
-            "offer_winners": [
-                {
-                    "name": "DCD Lab Sp.z o.o. Spółka Komandytowa",
-                    "price": "16800.00 PLN"
-                }
-            ],
-            "offer_losers": [
-                {
-                    "name": "Tadeusz Flieger \"TAWO\"",
-                    "price": "44000.00 PLN"
-                }
-            ],
+            "offer_winners": [],
+            "offer_losers": [],
             "cpv": [
                 {
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr 1/2021 w trybie zasady konkurencyjności na dostawę wyposażenia tunelu balistycznego - deszczownicy",
@@ -577,7 +714,8 @@
                     "code": "38000000-5",
                     "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Postępowanie znak OSO.2601.2.2021 - „Przebudowa istniejących sal dydaktycznych w budynku szkoły oraz w części budynków warsztatów szkolnych w Lubawie na internat i sale dydaktyczne – ETAP III – kontynuacja wraz z dalszą termomodernizacją”",
@@ -595,12 +733,7 @@
                 "1. Wykonawca składa formularz ofertowy ze wskazaniem ceny za wszystkie elementy stanowiące przedmiot zamówienia.\n2. Na ofertę składają się następujące dokumenty i oświadczenia poprzez bazę konkurencyjności skany poniższych dokumentów:\n1) formularz ofertowy – zgodnie z załącznikiem nr 1 do ZO, \n2) oświadczenie o braku powiązań z Zamawiającym zgodnie z załącznikiem nr 2 do ZO - w przypadku podmiotów składających ofertę wspólną przedmiotowe oświadczenie składa każdy wykonawca oddzielnie we własnym imieniu, \n3) wykaz osób - zgodnie z załącznikiem nr 4 do ZO,\n4) pełnomocnictwo w przypadku ustanowienia przez Wykonawcę pełnomocnika. Z treści pełnomocnictwa musi jednoznacznie wynikać zakres umocowania do czynności związanych z postępowaniem o udzielenie zamówienia, w szczególności do podpisania i złożenia oferty. W przypadku powzięcia przez Zamawiającego wątpliwości do załączonego pełnomocnictwa zamawiający zastrzega sobie możliwość żądania przedstawienia oryginału udzielonego pełnomocnictwa lub notarialnie potwierdzoną jego kopię.\n5) w przypadku wspólnego ubiegania się o udzielenie zamówienia przez kilku wykonawców- podpisane przez wszystkie podmioty wspólnie ubiegające się o udzielenie zamówienia. W przypadku powzięcia przez Zamawiającego wątpliwości do załączonego pełnomocnictwa zamawiający zastrzega sobie możliwość żądania przedstawienia oryginału udzielonego pełnomocnictwa lub notarialnie potwierdzoną jego kopię, \n6) pisemne zobowiązania lub inne dokumenty, w przypadku, gdy Wykonawca w celu potwierdzenia spełniania warunków udziału w postępowaniu, w stosownych sytuacjach oraz w odniesieniu do konkretnego zamówienia, lub jego części polega na zdolnościach technicznych lub zawodowych (doświadczeniu zawodowym i/lub osobach zdolnych do wykonania zamówienia) innych podmiotów niezależnie od charakteru prawnego łączących go z nim stosunków prawnych.",
                 "1. W postępowaniu nie mogą brać udziału podmioty, które powiązane są z Zamawiającym (beneficjentem) lub osobami upoważnionymi do zaciągania zobowiązań w imieniu Zamawiającego (beneficjenta) lub osobami wykonującymi w imieniu Zamawiającego (beneficjenta) czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy osobowo lub kapitałowo, w szczególności poprzez:\n1) uczestniczenie w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\n2) posiadanie co najmniej 10% udziałów lub akcji;\n3) pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\n4) pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli.\nOcena spełniania warunku nastąpi na podstawie wypełnionego przez Wykonawcę załącznika nr 2 do ZO, o którym mowa w §VI ust. 2 pkt 2 ZO.\n3. Informacja dla wykonawców polegających na zasobach innych podmiotów w celu potwierdzenia spełniania warunków udziału w postępowaniu:\n1) Wykonawca może w celu potwierdzenia spełniania warunków udziału w postępowaniu, w stosownych sytuacjach oraz w odniesieniu do konkretnego zamówienia, polegać na zdolnościach technicznych lub zawodowych (doświadczenie zawodowe i/lub osoby zdolnej do wykonania zamówienia) innych podmiotów niezależnie od charakteru prawnego łączących go z nim stosunków prawnych,\n2) Wykonawca, który polega na zdolnościach lub sytuacji innych podmiotów, musi udowodnić Zamawiającemu, że realizując zamówienie, będzie dysponował niezbędnymi zasobami tych podmiotów, w szczególności przedstawiając zobowiązanie tych podmiotów do oddania mu do dyspozycji niezbędnych zasobów na potrzeby realizacji zamówienia, \n3) Zamawiający oceni, czy udostępniane wykonawcy przez inne podmioty zdolności techniczne lub zawodowe (doświadczenie zawodowe i/lub osoby zdolne do wykonania zamówienia), pozwalają na wykazanie przez wykonawcę spełniania warunków udziału w postępowaniu,\n4) W odniesieniu do warunków dotyczących doświadczenia, wykonawcy mogą polegać na zdolnościach innych podmiotów, jeśli podmioty te zrealizują usługi, do realizacji których te zdolności są wymagane,\n5) Zamawiający może, na każdym etapie postępowania, uznać, że wykonawca nie posiada wymaganych zdolności, jeżeli zaangażowanie zasobów technicznych lub zawodowych wykonawcy w inne przedsięwzięcia gospodarcze wykonawcy może mieć negatywny wpływ na realizację zamówienia.\n6) Jeżeli zdolności techniczne lub zawodowe (doświadczenie zawodowe i/lub osoby zdolne do wykonania zamówienia) podmiotu, na którego zdolnościach polega Wykonawca, nie potwierdzają spełnienia przez Wykonawcę warunków udziału w postępowaniu lub zachodzą wobec tych podmiotów podstawy do wykluczenia, Zamawiający zażąda, aby Wykonawca w terminie określonym przez Zamawiającego:\na) zastąpił ten podmiot innym podmiotem lub podmiotami lub \nb) zobowiązał się do osobistego wykonania odpowiedniej części zamówienia, jeżeli wykaże doświadczenie zawodowe, o którym mowa w ust. 2 pkt 2, \n7) W celu oceny czy Wykonawca, polegając na zdolnościach lub sytuacji innych podmiotów (doświadczenie zawodowe i/lub osoby zdolne do wykonania zamówienia), będzie dysponował niezbędnymi zasobami w stopniu umożliwiającym należyte wykonanie zamówienia oraz oceny, czy stosunek łączący wykonawcę z tymi podmiotami gwarantuje rzeczywisty dostęp do ich zasobów, Zamawiający żąda przedstawienia zobowiązania podmiotu trzeciego (oświadczenia) lub innego dokumentu potwierdzającego udostępnienie zasobów przez inne podmioty ? musi bezspornie i jednoznacznie wynikać w szczególności: \na) zakres dostępnych Wykonawcy zasobów innego podmiotu, \nb) sposób wykorzystania zasobów innego podmiotu, przez Wykonawcę, przy wykonywaniu zamówienia, \nc) zakres i okres udziału innego podmiotu przy wykonywaniu zamówienia, \nd) czy podmiot, na zdolnościach którego Wykonawca polega w odniesieniu do warunków udziału w postępowaniu dotyczących wykształcenia, kwalifikacji zawodowych lub doświadczenia zrealizuje roboty budowlane lub usługi, których wskazane zdolności dotyczą. \nZobowiązanie, o którym mowa w ust. 3 pkt 7 należy złożyć w oryginale wraz z ofertą."
             ],
-            "offer_winners": [
-                {
-                    "name": "ARCHI- BUD MICHAŁ KAMIŃSKI PROJEKTOWANIE I NADZÓR BUDOWLANY",
-                    "price": "24600.00 PLN"
-                }
-            ],
+            "offer_winners": [],
             "offer_losers": [],
             "cpv": [
                 {
@@ -615,7 +748,104 @@
                     "code": "71540000-5",
                     "description": "Usługi zarządzania budową"
                 }
-            ]
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr VBCH/RPWM.01.05.02/2019/1 na realizację robót budowlanych związanych z rozbudową budynku produkcyjno-magazynowego wraz z infrastrukturą towarzyszącą w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy VBCH Design poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020",
+            "advertiser_name": "Piotr Wiergowski VBCH Design",
+            "start_date": "2022-03-17",
+            "end_date": "2022-04-01",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1) Kompletna oferta musi być sporządzona w formie pisemnej i zawierać: \na) formularz ofertowy do zapytania ofertowego - (Załącznik nr 1)\nb) oświadczenie o braku powiązań kapitałowych lub osobowych - (Załącznik nr 2)."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "45000000-7",
+                    "description": "Roboty budowlane"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Przez naukę i zabawę do pełnej sprawności - Rodzinne Centrum Integracyjne Lubawa",
+            "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+            "start_date": "2021-01-04",
+            "end_date": "2021-02-05",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. O udzielenie przedmiotowego zamówienia mogą ubiegać się Wykonawcy, którzy spełniają następujące warunki udziału w postępowaniu:\n1) Wykonawca musi wykazać, że jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia na sumę gwarancyjną minimum:\na) 10.000,00 złotych dotyczy części 1 zamówienia.\nb) 100.000,00 złotych dotyczy części 2 zamówienia.\n2. Jeżeli wykonawca nie złożył dokumentów potwierdzających okoliczności, o których mowa w ust. 1, lub innych dokumentów niezbędnych do przeprowadzenia postępowania, dokumenty są niekompletne, zawierają błędy lub budzą wskazane przez zamawiającego wątpliwości, zamawiający wzywa do ich złożenia, uzupełnienia lub poprawienia lub do udzielenia wyjaśnień w terminie przez siebie wskazanym.\n3. Zamawiający dokona spełnienia oceny warunków udziału w postępowaniu poprzez zastosowanie kryterium spełnia - nie spełnia tj. zgodnie z zasadą czy dokumenty zostały załączone do oferty i czy spełniają określone w zapytaniu wymagania. Z treści załączonych oświadczeń i dokumentów musi wynikać jednoznacznie, iż w/w warunku Wykonawca spełnił. \n4. Oferta podlega odrzuceniu w przypadku, gdy:\n1) jej treść nie odpowiada treści zapytania ofertowego lub\n2) została złożona przez podmiot:\na) niespełniający warunków udziału w postępowaniu,\nb) powiązany osobowo lub kapitałowo z beneficjentem lub osobami, o których mowa w dziale XI niniejszego zapytania,\n3) została złożona po terminie składania ofert,\n4) została złożona przez podmiot nieuprawniony do jej złożenia."
+            ],
+            "offer_winners": [
+                {
+                    "name": "\"RYTMAR\" S.C. Marek Rytlewski, Łukasz Rytlewski",
+                    "price": "202950.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "32562000-0",
+                    "description": "Kable światłowodowe"
+                },
+                {
+                    "code": "34144900-7",
+                    "description": "Pojazdy elektryczne"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe Nr ROPS-I.9112.1.2022 z dnia 20 czerwca 2022 r. na przeprowadzenie doradztwa specjalistycznego w zakresie tworzenia i funkcjonowania CUS.",
+            "advertiser_name": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego",
+            "start_date": "2022-06-20",
+            "end_date": "2022-06-28",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Część I: dysponowanie co najmniej 1 osobą – doradcą realizującym przedmiot zamówienia, który:\na) posiada wykształcenie wyższe magisterskie z zakresu prawa lub administracji, \nb) posiada co najmniej 2 letnie doświadczenie zawodowe w zakresie prowadzenia doradztwa/szkoleń/warsztatów z zakresu prawa w obszarze pomocy i integracji społecznej, w tym liczba godzin przeprowadzonego doradztwa/szkoleń/warsztatów w powyższym zakresie wynosi co najmniej 30.",
+                "O udzielenie zamówienia mogą się ubiegać Wykonawcy, którzy nie podlegają wykluczeniu na podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Centrum Profilaktyki i Reedukacji \"Atelier\"",
+                    "price": "2856.00 PLN"
+                }
+            ],
+            "offer_losers": [
+                {
+                    "name": "Exempli Spółdzielnia Socjalna",
+                    "price": "3240.00 PLN"
+                },
+                {
+                    "name": "Mackiewicz Parzych i Partnerzy – Radcowie Prawni",
+                    "price": "7200.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "73220000-0",
+                    "description": "Usługi doradcze w zakresie rozwoju"
+                },
+                {
+                    "code": "73220000-0",
+                    "description": "Usługi doradcze w zakresie rozwoju"
+                },
+                {
+                    "code": "73220000-0",
+                    "description": "Usługi doradcze w zakresie rozwoju"
+                },
+                {
+                    "code": "73220000-0",
+                    "description": "Usługi doradcze w zakresie rozwoju"
+                }
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr VBCH/RPWM.01.03.04/2020/1 na realizację robót budowlanych związanych z kompleksowym uzbrojeniem terenu inwestycyjnego w ramach projektu pod nazwą „Przygotowanie terenu inwestycyjnego na potrzeby firmy VBCH Design” dofinansowanego w ramach poddziałania 1.3.4 „Tereny inwestycyjne” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
@@ -643,89 +873,8 @@
                     "code": "45230000-8",
                     "description": "Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei"
                 }
-            ]
-        },
-        {
-            "auction_name": "Zapytanie ofertowe nr VBCH/RPWM.01.05.02/2019/1 na realizację robót budowlanych związanych z rozbudową budynku produkcyjno-magazynowego wraz z infrastrukturą towarzyszącą w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy VBCH Design poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020",
-            "advertiser_name": "Piotr Wiergowski VBCH Design",
-            "start_date": "2022-03-17",
-            "end_date": "2022-04-01",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "1) Kompletna oferta musi być sporządzona w formie pisemnej i zawierać: \na) formularz ofertowy do zapytania ofertowego - (Załącznik nr 1)\nb) oświadczenie o braku powiązań kapitałowych lub osobowych - (Załącznik nr 2)."
             ],
-            "offer_winners": [],
-            "offer_losers": [],
-            "cpv": [
-                {
-                    "code": "45000000-7",
-                    "description": "Roboty budowlane"
-                }
-            ]
-        },
-        {
-            "auction_name": "Przez naukę i zabawę do pełnej sprawności - Rodzinne Centrum Integracyjne Lubawa",
-            "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
-            "start_date": "2021-01-04",
-            "end_date": "2021-02-05",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "1. O udzielenie przedmiotowego zamówienia mogą ubiegać się Wykonawcy, którzy spełniają następujące warunki udziału w postępowaniu:\n1) Wykonawca musi wykazać, że jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia na sumę gwarancyjną minimum:\na) 10.000,00 złotych dotyczy części 1 zamówienia.\nb) 100.000,00 złotych dotyczy części 2 zamówienia.\n2. Jeżeli wykonawca nie złożył dokumentów potwierdzających okoliczności, o których mowa w ust. 1, lub innych dokumentów niezbędnych do przeprowadzenia postępowania, dokumenty są niekompletne, zawierają błędy lub budzą wskazane przez zamawiającego wątpliwości, zamawiający wzywa do ich złożenia, uzupełnienia lub poprawienia lub do udzielenia wyjaśnień w terminie przez siebie wskazanym.\n3. Zamawiający dokona spełnienia oceny warunków udziału w postępowaniu poprzez zastosowanie kryterium spełnia - nie spełnia tj. zgodnie z zasadą czy dokumenty zostały załączone do oferty i czy spełniają określone w zapytaniu wymagania. Z treści załączonych oświadczeń i dokumentów musi wynikać jednoznacznie, iż w/w warunku Wykonawca spełnił. \n4. Oferta podlega odrzuceniu w przypadku, gdy:\n1) jej treść nie odpowiada treści zapytania ofertowego lub\n2) została złożona przez podmiot:\na) niespełniający warunków udziału w postępowaniu,\nb) powiązany osobowo lub kapitałowo z beneficjentem lub osobami, o których mowa w dziale XI niniejszego zapytania,\n3) została złożona po terminie składania ofert,\n4) została złożona przez podmiot nieuprawniony do jej złożenia."
-            ],
-            "offer_winners": [],
-            "offer_losers": [],
-            "cpv": []
-        },
-        {
-            "auction_name": "Zapytanie ofertowe Nr ROPS-I.9112.1.2022 z dnia 20 czerwca 2022 r. na przeprowadzenie doradztwa specjalistycznego w zakresie tworzenia i funkcjonowania CUS.",
-            "advertiser_name": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego",
-            "start_date": "2022-06-20",
-            "end_date": "2022-06-28",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "Część I: dysponowanie co najmniej 1 osobą – doradcą realizującym przedmiot zamówienia, który:\na) posiada wykształcenie wyższe magisterskie z zakresu prawa lub administracji, \nb) posiada co najmniej 2 letnie doświadczenie zawodowe w zakresie prowadzenia doradztwa/szkoleń/warsztatów z zakresu prawa w obszarze pomocy i integracji społecznej, w tym liczba godzin przeprowadzonego doradztwa/szkoleń/warsztatów w powyższym zakresie wynosi co najmniej 30.",
-                "O udzielenie zamówienia mogą się ubiegać Wykonawcy, którzy nie podlegają wykluczeniu na podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego."
-            ],
-            "offer_winners": [],
-            "offer_losers": [],
-            "cpv": []
-        },
-        {
-            "auction_name": "Przygotowanie odbiornika testowego do przyjęcia ładowania o mocy co najmniej 400kW, na mobilnej podstawie, dla EVPS Sp. z o. o. w ramach projektu „Ładowanie pełną mocą. Balansowanie pracy ładowarek pojazdów elektrycznych w sieci elektroenergetycznej”",
-            "advertiser_name": "EVPS Sp. z o. o.",
-            "start_date": "2020-10-01",
-            "end_date": "2020-10-08",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "Wykonawca realizujący zadanie musi posiadać odpowiednią wiedzę i doświadczenie do wykonania zamówienia.",
-                "Wykonawca musi posiadać odpowiedni potencjał techniczny w zakresie wyposażenia do wykonania zakresu zamówienia.",
-                "Załącznik nr 1 - Formularz ofertowy\nZałącznik nr 2 - Oświadczenie o zachowaniu poufności\nZałącznik nr 3 - Oświadczenie o braku powiązań osobowych lub kapitałowych\nZałącznik nr 4 - Oświadczenie o spełnianiu warunków udziału w postępowaniu\nZałącznik nr 5 - Wzór umowy"
-            ],
-            "offer_winners": [
-                {
-                    "name": "Innotechnika Sp. z o. o.",
-                    "price": "338250.00 PLN"
-                }
-            ],
-            "offer_losers": [],
-            "cpv": [
-                {
-                    "code": "31440000-2",
-                    "description": "Baterie"
-                },
-                {
-                    "code": "31611000-2",
-                    "description": "Zestawy instalacji elektrycznej"
-                },
-                {
-                    "code": "31720000-9",
-                    "description": "Urządzenia elektromechaniczne"
-                }
-            ]
+            "EU": true
         },
         {
             "auction_name": "Realizacja zadań związanych z platformą IT dla projektu pn. „Przez naukę i zabawę do pełnej sprawności - Rodzinne Centrum Integracyjne Lubawa",
@@ -750,7 +899,8 @@
                     "code": "48000000-8",
                     "description": "Pakiety oprogramowania i systemy informatyczne"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Dostawa wyposażenia obiektu centrum rehabilitacyjnego, terapeutyczno-psychologiczno-wychowawczego oraz rekreacyjno - edukacyjnego realizowaną w ramach projektu pn. „Przez naukę i zabawę do pełnej sprawności - Rodzinne Centrum Integracyjne Lubawa”.",
@@ -804,7 +954,8 @@
                     "code": "48000000-8",
                     "description": "Pakiety oprogramowania i systemy informatyczne"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Promocja produktu sieciowego w ramach projektu pn. „Przez naukę i zabawę do pełnej sprawności - Rodzinne Centrum Integracyjne Lubawa” oraz pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
@@ -846,7 +997,8 @@
                     "code": "79800000-2",
                     "description": "Usługi drukowania i powiązane"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "ZO/1/2022 Zakup środka trwałego w postaci wycinarki plazmowej CNC",
@@ -880,7 +1032,13 @@
                     "price": "230625.00 PLN"
                 }
             ],
-            "cpv": []
+            "cpv": [
+                {
+                    "code": "42611000-2",
+                    "description": "Obrabiarki specjalnego zastosowania"
+                }
+            ],
+            "EU": false
         },
         {
             "auction_name": "ZO/2/2022 „Zakup usługi doradczo-analitycznej.\"",
@@ -905,7 +1063,48 @@
                 }
             ],
             "offer_losers": [],
-            "cpv": []
+            "cpv": [
+                {
+                    "code": "79000000-4",
+                    "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Przygotowanie odbiornika testowego do przyjęcia ładowania o mocy co najmniej 400kW, na mobilnej podstawie, dla EVPS Sp. z o. o. w ramach projektu „Ładowanie pełną mocą. Balansowanie pracy ładowarek pojazdów elektrycznych w sieci elektroenergetycznej”",
+            "advertiser_name": "EVPS Sp. z o. o.",
+            "start_date": "2020-10-01",
+            "end_date": "2020-10-08",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Wykonawca realizujący zadanie musi posiadać odpowiednią wiedzę i doświadczenie do wykonania zamówienia.",
+                "Wykonawca musi posiadać odpowiedni potencjał techniczny w zakresie wyposażenia do wykonania zakresu zamówienia.",
+                "Załącznik nr 1 - Formularz ofertowy\nZałącznik nr 2 - Oświadczenie o zachowaniu poufności\nZałącznik nr 3 - Oświadczenie o braku powiązań osobowych lub kapitałowych\nZałącznik nr 4 - Oświadczenie o spełnianiu warunków udziału w postępowaniu\nZałącznik nr 5 - Wzór umowy"
+            ],
+            "offer_winners": [
+                {
+                    "name": "Innotechnika Sp. z o. o.",
+                    "price": "338250.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "31440000-2",
+                    "description": "Baterie"
+                },
+                {
+                    "code": "31611000-2",
+                    "description": "Zestawy instalacji elektrycznej"
+                },
+                {
+                    "code": "31720000-9",
+                    "description": "Urządzenia elektromechaniczne"
+                }
+            ],
+            "EU": false
         },
         {
             "auction_name": "Wykonanie usługi doradczo – wdrożeniowej wraz z opracowaniem finalnego produktu tj. „Księgi standardów” – księgi kodów i znaków w zakresie promocji produktu sieciowego w ramach projektu pn. „Przez naukę i zabawę do pełnej sprawności – Rodzinne Centrum Integracyjne Lubawa” oraz pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”.",
@@ -925,35 +1124,13 @@
                 }
             ],
             "offer_losers": [],
-            "cpv": []
-        },
-        {
-            "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.03.04/2020/1 na realizację robót budowlanych związanych z kompleksowym uzbrojeniem terenu inwestycyjnego w ramach projektu pod nazwą „Przygotowanie terenu inwestycyjnego na potrzeby firmy Szkłomal – etap II” dofinansowanego w ramach poddziałania 1.3.4 „Tereny inwestycyjne” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
-            "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
-            "start_date": "2022-06-24",
-            "end_date": "2022-07-11",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "1) Kompletna oferta musi być sporządzona w formie pisemnej i zawierać: \na) formularz ofertowy do zapytania ofertowego - (Załącznik nr 1)\nb) oświadczenie o braku powiązań kapitałowych lub osobowych - (Załącznik nr 2)."
-            ],
-            "offer_winners": [
-                {
-                    "name": "Firma Budowlana Marzena Lewicka",
-                    "price": "1130000.00 PLN"
-                }
-            ],
-            "offer_losers": [],
             "cpv": [
                 {
-                    "code": "45100000-8",
-                    "description": "Przygotowanie terenu pod budowę"
-                },
-                {
-                    "code": "45230000-8",
-                    "description": "Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei"
+                    "code": "79411000-8",
+                    "description": "Ogólne usługi doradcze w zakresie zarządzania"
                 }
-            ]
+            ],
+            "EU": false
         },
         {
             "auction_name": "Zapytanie ofertowe nr SZKŁOMALS/RPWM.01.03.04/2020/1 na realizację robót budowlanych związanych z kompleksowym uzbrojeniem terenu inwestycyjnego w ramach projektu pod nazwą „Przygotowanie terenu inwestycyjnego na potrzeby firmy Szkłomal Spółka z o.o.” dofinansowanego w ramach poddziałania 1.3.4 „Tereny inwestycyjne” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
@@ -981,7 +1158,37 @@
                     "code": "45230000-8",
                     "description": "Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei"
                 }
-            ]
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.03.04/2020/1 na realizację robót budowlanych związanych z kompleksowym uzbrojeniem terenu inwestycyjnego w ramach projektu pod nazwą „Przygotowanie terenu inwestycyjnego na potrzeby firmy Szkłomal – etap II” dofinansowanego w ramach poddziałania 1.3.4 „Tereny inwestycyjne” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+            "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+            "start_date": "2022-06-24",
+            "end_date": "2022-07-11",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1) Kompletna oferta musi być sporządzona w formie pisemnej i zawierać: \na) formularz ofertowy do zapytania ofertowego - (Załącznik nr 1)\nb) oświadczenie o braku powiązań kapitałowych lub osobowych - (Załącznik nr 2)."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Firma Budowlana Marzena Lewicka",
+                    "price": "1130000.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "45100000-8",
+                    "description": "Przygotowanie terenu pod budowę"
+                },
+                {
+                    "code": "45230000-8",
+                    "description": "Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei"
+                }
+            ],
+            "EU": true
         },
         {
             "auction_name": "Realizacja zadań związanych z platformą IT dla projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
@@ -1007,63 +1214,8 @@
                     "code": "48000000-8",
                     "description": "Pakiety oprogramowania i systemy informatyczne"
                 }
-            ]
-        },
-        {
-            "auction_name": "Wykonanie robót budowlanych w ramach projektu pn. Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA",
-            "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
-            "start_date": "2020-12-23",
-            "end_date": "2021-01-11",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "Wykonawca musi wykazać, że w celu realizacji przedmiotowego zamówienia dysponuje następującymi osobami odpowiedzialnymi za kierowanie robotami budowlanymi, posiadającymi kwalifikacje zawodowe, uprawnienia i doświadczenie niezbędne do wykonania zamówienia tj.:\na) Kierownik robót w specjalności konstrukcyjno - budowlanej pełniącym jednocześnie rolę kierownika budowy, posiadający:\n• uprawnienia budowlane do kierowania robotami budowlanymi w specjalności konstrukcyjno – budowlanej bez ograniczeń,\n• doświadczenie polegające na pełnieniu funkcji Kierownika budowy lub Kierownika robót budowlanych w swojej specjalności na co najmniej 1 (jednym) zakończonym kontrakcie/ zadaniu/ budowie,\nb) Kierownik robót w specjalności sanitarnej, posiadający:\n• uprawnienia budowlane do kierowania robotami w specjalności instalacyjnej w zakresie sieci, instalacji i urządzeń cieplnych, wentylacyjnych, gazowych, wodociągowych i kanalizacyjnych bez ograniczeń,\n• doświadczenie polegające na pełnieniu funkcji Kierownika budowy lub Kierownika robót budowlanych w swojej specjalności na co najmniej 1 (jednym) zakończonym kontrakcie/ zadaniu/ budowie,\nc) Kierownik robót w specjalności elektrycznej, posiadający:\n• uprawnienia budowlane do kierowania robotami w specjalności instalacyjnej w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych bez ograniczeń,\n• doświadczenie polegające na pełnieniu funkcji Kierownika budowy lub Kierownika robót budowlanych w swojej specjalności na co najmniej 1 (jednym) zakończonym kontrakcie/ zadaniu/ budowie.\nZamawiający, określając wymogi w zakresie posiadanych uprawnień budowlanych wymaga uprawnień w rozumieniu ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz.U.2020.1333), przy czym:\n• Zamawiający zaakceptuje uprawnienia budowlane odpowiadające wymaganym uprawnieniom, które zostały wydane na podstawie wcześniej obowiązujących przepisów prawa oraz odpowiadające im uprawnienia wydane obywatelom państw Europejskiego Obszaru Gospodarczego oraz Konfederacji Szwajcarskiej, z zastrzeżeniem art. 12 a oraz innych przepisów ustawy Prawo budowlane oraz ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz.U.2020.220),\n• na podstawie art. 104 ustawy Prawo budowlane osoby, które przed dniem wejścia w życie ustawy, uzyskały uprawnienia budowlane lub stwierdzenie posiadania przygotowania zawodowego do pełnienia samodzielnych funkcji technicznych w budownictwie, zachowują uprawnienia do pełnienia tych funkcji w dotychczasowym zakresie. Zakres uprawnień budowlanych należy odczytywać zgodnie z treścią decyzji o ich nadaniu i w oparciu o przepisy będące podstawą ich nadania. Ponadto, zgodnie z art. 12a ustawy Prawo budowlane samodzielne funkcje techniczne w budownictwie, określone w art. 12 ust. 1 ustawy Prawo budowlane, mogą również wykonywać osoby, których odpowiednie kwalifikacje zawodowe zostały uznane na zasadach określonych w przepisach odrębnych.",
-                "Wykonawca musi wykazać, że w okresie ostatnich pięciu lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie wykonał co najmniej:\na) robotę budowlaną polegającą na budowie obiektu kubaturowego o wartości minimum 2 mln zł brutto (słownie: dwa miliony złotych) oraz\nb) robotę budowlaną polegającą na budowie boiska ze sztucznej trawy o powierzchni minimum 1000 m2 (kompleksowo – roboty ziemne, podbudowy, nawierzchnia) oraz\nc) robotę budowlaną polegającą na budowie instalacji sanitarnej w obiekcie kubaturowym o wartości minimum 400.000,00 zł brutto (słownie: czterysta tysięcy złotych).",
-                "Wykonawca musi wykazać, że jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia na sumę gwarancyjną minimum 2 mln zł (słownie: dwa miliony złotych).\nWykonawca musi wykazać, że posiada środki finansowe lub zdolność kredytową w wysokości nie mniejszej niż 1,5 mln zł (słownie: jeden milion pięćset tysięcy złotych).",
-                "1. Wypełniony formularz ofertowy (wg załącznika nr 1),\n2. Wykaz osób, skierowanych przez wykonawcę do realizacji zamówienia publicznego, w szczególności odpowiedzialnych za świadczenie usług wraz z informacjami na temat ich kwalifikacji zawodowych, uprawnień, doświadczenia i wykształcenia niezbędnych do wykonania zamówienia publicznego, a także zakresu wykonywanych przez nie czynności wraz z oświadczeniem, że osoby które będą uczestniczyć w wykonywaniu zamówienia, posiadają wymagane uprawnienia oraz informacją o podstawie do dysponowania tymi osobami (wg załącznika nr 2).\n3. Dokumenty potwierdzające doświadczenie wykazanych kierowników robót.\n4. Wykaz wykonanych robót budowlanych wykonanych nie wcześniej niż w okresie ostatnich 5 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, wraz z podaniem ich rodzaju, wartości, daty, miejsca wykonania i podmiotów, na rzecz których roboty te zostały wykonane, z załączeniem dowodów określających czy te roboty budowlane zostały wykonane należycie, w szczególności informacji o tym czy roboty zostały wykonane zgodnie z przepisami prawa budowlanego i prawidłowo ukończone (wg załącznika nr 3).\n5. Dokument potwierdzający, że wykonawca jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia.\n6. Informacja banku lub spółdzielczej kasy oszczędnościowo-kredytowej potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową Wykonawcy w okresie nie wcześniejszym niż 1 miesiąc przed upływem terminu składania ofert.\n7. Dowód wniesienia wadium.\n8. Kosztorys ofertowym sporządzony metodą szczegółową, sporządzony na podstawie dokumentacji projektowej. Wykonawca zobowiązany jest do przedłożenia trzech odrębnych kosztorysów ofertowych dla poszczególnych płatników.\n9. Dokument potwierdzający umocowanie do złożenia oferty.\n10. Oświadczenie o braku powiązań kapitałowych (wg załącznika nr 6).\n11. Oświadczenie RODO (wg załącznika nr 7)."
             ],
-            "offer_winners": [
-                {
-                    "name": "Przedsiębiorstwo Usług Inwestycyjnych Andrzej Dzieniszewski",
-                    "price": "10969746.00 PLN"
-                }
-            ],
-            "offer_losers": [],
-            "cpv": []
-        },
-        {
-            "auction_name": "Zapytanie ofertowe na dostawę sprzętu nagłaśniającego i radiomagnetofonów dla uczestników projektu \"Aktywny przedszkolak\". Postępowanie prowadzone w trybie zasady konkurencyjności.",
-            "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
-            "start_date": "2020-09-23",
-            "end_date": "2020-10-05",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
-                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
-                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
-                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
-                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
-                "1. W postępowaniu nie mogą brać udziału podmioty, które powiązane są z zamawiającym lub osobami upoważnionymi do zaciągania zobowiązań w imieniu zamawiającego lub osobami wykonującymi w imieniu beneficjenta czynności związane z przygotowaniem przeprowadzeniem procedury wyboru Wykonawcy osobowo lub kapitałowo, w szczególności poprzez:\na) uczestnictwo w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb) posiadanie co najmniej 10% udziałów lub akcji;\nc) pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd) pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli.\nOcena spełniania warunku nastąpi na podstawie wypełnionego przez Wykonawcę załącznika nr 3 do ZO, o którym mowa w §VI ust. 2 pkt 2) ZO."
-            ],
-            "offer_winners": [
-                {
-                    "name": "RuncoR Arkadiusz Jeziorski",
-                    "price": "2469.00 PLN"
-                }
-            ],
-            "offer_losers": [
-                {
-                    "name": "Biuro Inżynieryjne Martex Marcin Puźniak",
-                    "price": "2983.98 PLN"
-                }
-            ],
-            "cpv": [
-                {
-                    "code": "32000000-3",
-                    "description": "Sprzęt radiowy, telewizyjny, komunikacyjny, telekomunikacyjny i podobny"
-                }
-            ]
+            "EU": false
         },
         {
             "auction_name": "Dostawa wyposażenia realizowana w ramach projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
@@ -1109,35 +1261,43 @@
                     "code": "42995000-7",
                     "description": "Różne maszyny czyszczące"
                 }
-            ]
+            ],
+            "EU": true
         },
         {
-            "auction_name": "Zapytanie ofertowe nr DREWHIT/RPWM.01.04.04/2018/4 na dostawę ścisku hydraulicznego w ramach projektu pod nazwą „Internacjonalizacja działalności firmy Drew-Hit” dofinansowanego w ramach poddziałania 1.4.4 „Internacjonalizacja MŚP” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020",
-            "advertiser_name": "\"Drew-Hit\" Adam Marciniak",
-            "start_date": "2020-12-10",
-            "end_date": "2020-12-18",
+            "auction_name": "Zapytanie ofertowe na dostawę sprzętu nagłaśniającego i radiomagnetofonów dla uczestników projektu \"Aktywny przedszkolak\". Postępowanie prowadzone w trybie zasady konkurencyjności.",
+            "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+            "start_date": "2020-09-23",
+            "end_date": "2020-10-05",
             "is_price_criterium": true,
             "status": "Rozstrzygnięte",
             "conditions": [
-                "1) Kompletna oferta musi być sporządzona w formie pisemnej i zawierać: \na) formularz ofertowy do zapytania ofertowego - (Załącznik nr 1). \nb) oświadczenie o braku powiązań kapitałowych lub osobowych - (Załącznik nr 2).\nc) szczegółową specyfikację techniczną - która będzie stanowić podstawę do stwierdzenia, czy przedmiot oferty odpowiada zapisom szczegółowych warunków zamówienia."
+                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
+                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
+                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
+                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
+                "Zamawiający nie wyznacza szczegółowego warunku w tym zakresie",
+                "1. W postępowaniu nie mogą brać udziału podmioty, które powiązane są z zamawiającym lub osobami upoważnionymi do zaciągania zobowiązań w imieniu zamawiającego lub osobami wykonującymi w imieniu beneficjenta czynności związane z przygotowaniem przeprowadzeniem procedury wyboru Wykonawcy osobowo lub kapitałowo, w szczególności poprzez:\na) uczestnictwo w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb) posiadanie co najmniej 10% udziałów lub akcji;\nc) pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd) pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli.\nOcena spełniania warunku nastąpi na podstawie wypełnionego przez Wykonawcę załącznika nr 3 do ZO, o którym mowa w §VI ust. 2 pkt 2) ZO."
             ],
             "offer_winners": [
                 {
-                    "name": "ITA Spółka z ograniczoną odpowiedzialnością Spółka Komandytowa",
-                    "price": "128250.00 PLN"
+                    "name": "RuncoR Arkadiusz Jeziorski",
+                    "price": "2469.00 PLN"
                 }
             ],
-            "offer_losers": [],
+            "offer_losers": [
+                {
+                    "name": "Biuro Inżynieryjne Martex Marcin Puźniak",
+                    "price": "2983.98 PLN"
+                }
+            ],
             "cpv": [
                 {
-                    "code": "42636100-4",
-                    "description": "Prasy hydrauliczne"
-                },
-                {
-                    "code": "42642100-9",
-                    "description": "Obrabiarki do obróbki drewna"
+                    "code": "32000000-3",
+                    "description": "Sprzęt radiowy, telewizyjny, komunikacyjny, telekomunikacyjny i podobny"
                 }
-            ]
+            ],
+            "EU": true
         },
         {
             "auction_name": "Dostawa mobilnego środka transportu realizowana w ramach projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
@@ -1167,7 +1327,65 @@
                     "code": "34121000-1",
                     "description": "Autobusy i autokary"
                 }
-            ]
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Wykonanie robót budowlanych w ramach projektu pn. Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA",
+            "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+            "start_date": "2020-12-23",
+            "end_date": "2021-01-11",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Wykonawca musi wykazać, że w celu realizacji przedmiotowego zamówienia dysponuje następującymi osobami odpowiedzialnymi za kierowanie robotami budowlanymi, posiadającymi kwalifikacje zawodowe, uprawnienia i doświadczenie niezbędne do wykonania zamówienia tj.:\na) Kierownik robót w specjalności konstrukcyjno - budowlanej pełniącym jednocześnie rolę kierownika budowy, posiadający:\n• uprawnienia budowlane do kierowania robotami budowlanymi w specjalności konstrukcyjno – budowlanej bez ograniczeń,\n• doświadczenie polegające na pełnieniu funkcji Kierownika budowy lub Kierownika robót budowlanych w swojej specjalności na co najmniej 1 (jednym) zakończonym kontrakcie/ zadaniu/ budowie,\nb) Kierownik robót w specjalności sanitarnej, posiadający:\n• uprawnienia budowlane do kierowania robotami w specjalności instalacyjnej w zakresie sieci, instalacji i urządzeń cieplnych, wentylacyjnych, gazowych, wodociągowych i kanalizacyjnych bez ograniczeń,\n• doświadczenie polegające na pełnieniu funkcji Kierownika budowy lub Kierownika robót budowlanych w swojej specjalności na co najmniej 1 (jednym) zakończonym kontrakcie/ zadaniu/ budowie,\nc) Kierownik robót w specjalności elektrycznej, posiadający:\n• uprawnienia budowlane do kierowania robotami w specjalności instalacyjnej w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych bez ograniczeń,\n• doświadczenie polegające na pełnieniu funkcji Kierownika budowy lub Kierownika robót budowlanych w swojej specjalności na co najmniej 1 (jednym) zakończonym kontrakcie/ zadaniu/ budowie.\nZamawiający, określając wymogi w zakresie posiadanych uprawnień budowlanych wymaga uprawnień w rozumieniu ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz.U.2020.1333), przy czym:\n• Zamawiający zaakceptuje uprawnienia budowlane odpowiadające wymaganym uprawnieniom, które zostały wydane na podstawie wcześniej obowiązujących przepisów prawa oraz odpowiadające im uprawnienia wydane obywatelom państw Europejskiego Obszaru Gospodarczego oraz Konfederacji Szwajcarskiej, z zastrzeżeniem art. 12 a oraz innych przepisów ustawy Prawo budowlane oraz ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz.U.2020.220),\n• na podstawie art. 104 ustawy Prawo budowlane osoby, które przed dniem wejścia w życie ustawy, uzyskały uprawnienia budowlane lub stwierdzenie posiadania przygotowania zawodowego do pełnienia samodzielnych funkcji technicznych w budownictwie, zachowują uprawnienia do pełnienia tych funkcji w dotychczasowym zakresie. Zakres uprawnień budowlanych należy odczytywać zgodnie z treścią decyzji o ich nadaniu i w oparciu o przepisy będące podstawą ich nadania. Ponadto, zgodnie z art. 12a ustawy Prawo budowlane samodzielne funkcje techniczne w budownictwie, określone w art. 12 ust. 1 ustawy Prawo budowlane, mogą również wykonywać osoby, których odpowiednie kwalifikacje zawodowe zostały uznane na zasadach określonych w przepisach odrębnych.",
+                "Wykonawca musi wykazać, że w okresie ostatnich pięciu lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie wykonał co najmniej:\na) robotę budowlaną polegającą na budowie obiektu kubaturowego o wartości minimum 2 mln zł brutto (słownie: dwa miliony złotych) oraz\nb) robotę budowlaną polegającą na budowie boiska ze sztucznej trawy o powierzchni minimum 1000 m2 (kompleksowo – roboty ziemne, podbudowy, nawierzchnia) oraz\nc) robotę budowlaną polegającą na budowie instalacji sanitarnej w obiekcie kubaturowym o wartości minimum 400.000,00 zł brutto (słownie: czterysta tysięcy złotych).",
+                "Wykonawca musi wykazać, że jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia na sumę gwarancyjną minimum 2 mln zł (słownie: dwa miliony złotych).\nWykonawca musi wykazać, że posiada środki finansowe lub zdolność kredytową w wysokości nie mniejszej niż 1,5 mln zł (słownie: jeden milion pięćset tysięcy złotych).",
+                "1. Wypełniony formularz ofertowy (wg załącznika nr 1),\n2. Wykaz osób, skierowanych przez wykonawcę do realizacji zamówienia publicznego, w szczególności odpowiedzialnych za świadczenie usług wraz z informacjami na temat ich kwalifikacji zawodowych, uprawnień, doświadczenia i wykształcenia niezbędnych do wykonania zamówienia publicznego, a także zakresu wykonywanych przez nie czynności wraz z oświadczeniem, że osoby które będą uczestniczyć w wykonywaniu zamówienia, posiadają wymagane uprawnienia oraz informacją o podstawie do dysponowania tymi osobami (wg załącznika nr 2).\n3. Dokumenty potwierdzające doświadczenie wykazanych kierowników robót.\n4. Wykaz wykonanych robót budowlanych wykonanych nie wcześniej niż w okresie ostatnich 5 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, wraz z podaniem ich rodzaju, wartości, daty, miejsca wykonania i podmiotów, na rzecz których roboty te zostały wykonane, z załączeniem dowodów określających czy te roboty budowlane zostały wykonane należycie, w szczególności informacji o tym czy roboty zostały wykonane zgodnie z przepisami prawa budowlanego i prawidłowo ukończone (wg załącznika nr 3).\n5. Dokument potwierdzający, że wykonawca jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia.\n6. Informacja banku lub spółdzielczej kasy oszczędnościowo-kredytowej potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową Wykonawcy w okresie nie wcześniejszym niż 1 miesiąc przed upływem terminu składania ofert.\n7. Dowód wniesienia wadium.\n8. Kosztorys ofertowym sporządzony metodą szczegółową, sporządzony na podstawie dokumentacji projektowej. Wykonawca zobowiązany jest do przedłożenia trzech odrębnych kosztorysów ofertowych dla poszczególnych płatników.\n9. Dokument potwierdzający umocowanie do złożenia oferty.\n10. Oświadczenie o braku powiązań kapitałowych (wg załącznika nr 6).\n11. Oświadczenie RODO (wg załącznika nr 7)."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Przedsiębiorstwo Usług Inwestycyjnych Andrzej Dzieniszewski",
+                    "price": "10969746.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "09332000-5",
+                    "description": "Instalacje słoneczne"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr DREWHIT/RPWM.01.04.04/2018/4 na dostawę ścisku hydraulicznego w ramach projektu pod nazwą „Internacjonalizacja działalności firmy Drew-Hit” dofinansowanego w ramach poddziałania 1.4.4 „Internacjonalizacja MŚP” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020",
+            "advertiser_name": "\"Drew-Hit\" Adam Marciniak",
+            "start_date": "2020-12-10",
+            "end_date": "2020-12-18",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1) Kompletna oferta musi być sporządzona w formie pisemnej i zawierać: \na) formularz ofertowy do zapytania ofertowego - (Załącznik nr 1). \nb) oświadczenie o braku powiązań kapitałowych lub osobowych - (Załącznik nr 2).\nc) szczegółową specyfikację techniczną - która będzie stanowić podstawę do stwierdzenia, czy przedmiot oferty odpowiada zapisom szczegółowych warunków zamówienia."
+            ],
+            "offer_winners": [
+                {
+                    "name": "ITA Spółka z ograniczoną odpowiedzialnością Spółka Komandytowa",
+                    "price": "128250.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "42636100-4",
+                    "description": "Prasy hydrauliczne"
+                },
+                {
+                    "code": "42642100-9",
+                    "description": "Obrabiarki do obróbki drewna"
+                }
+            ],
+            "EU": true
         },
         {
             "auction_name": "Dostawa wyposażenia realizowana w ramach projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
@@ -1180,14 +1398,92 @@
                 "Dotyczy części 1 dostawa łodzi:\nWykonawca musi wykazać, że w okresie ostatnich 3 lat przed upływem terminu składania ofert wykonał co najmniej jedno zamówienie odpowiadające swoim rodzajem przedmiotowi zamówienia tj. dostawie łodzi o wartości minimum 150.000,00 zł brutto.",
                 "1. Wypełniony formularz ofertowy (wg załącznika nr 1),\n2. Wykaz dostaw wykonanych w okresie ostatnich 3 lat, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których dostawy zostały wykonane oraz załączeniem dowodów określających czy te dostawy zostały wykonane, przy czym dowodami, o których mowa, są referencje bądź inne dokumenty sporządzone przez podmiot, na rzecz którego dostawy zostały wykonane (wg załącznika nr 4) – dotyczy części 1 dostawa łodzi.\n3. Dokument potwierdzający, że wykonawca jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia \n– dotyczy części 2 dostawa pozostałego wyposażenia.\n4. Informacja banku lub spółdzielczej kasy oszczędnościowo-kredytowej potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową Wykonawcy w okresie nie wcześniejszym niż 1 miesiąc przed upływem terminu składania ofert \n– dotyczy części 2 dostawa pozostałego wyposażenia.\n5. Dowód wniesienia wadium.\n6. Dokument potwierdzający umocowanie do złożenia oferty.\n7. Oświadczenie o braku powiązań kapitałowych (wg załącznika nr 5).\n8. Oświadczenie RODO (wg załącznika nr 6)."
             ],
-            "offer_winners": [],
+            "offer_winners": [
+                {
+                    "name": "\"RYTMAR\" S.C. Marek Rytlewski, Łukasz Rytlewski",
+                    "price": "4523099.00 PLN"
+                }
+            ],
             "offer_losers": [],
             "cpv": [
                 {
                     "code": "34522000-2",
                     "description": "Łodzie rekreacyjne i sportowe"
                 }
-            ]
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Opieka lekarsko – weterynaryjna",
+            "advertiser_name": "Fundacja Albatros",
+            "start_date": "2022-02-16",
+            "end_date": "2022-02-25",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Wymagania dot. uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów - Zamawiający uzna, że Wykonawca spełnia ww. warunek, jeżeli Wykonawca posiada uprawienia do wykonywania zawodu lekarza weterynarii.",
+                "Wymagania dot. zdolności technicznej lub zawodowej - Zamawiający uzna, że Wykonawca spełnia ww. warunek, jeżeli wykaże posiadanie nieprzerwanego min. 5 letniego stażu pracy ze zwierzętami wolnożyjącymi."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "85200000-1",
+                    "description": "Usługi weterynaryjne"
+                },
+                {
+                    "code": "85200000-1",
+                    "description": "Usługi weterynaryjne"
+                },
+                {
+                    "code": "85200000-1",
+                    "description": "Usługi weterynaryjne"
+                },
+                {
+                    "code": "85200000-1",
+                    "description": "Usługi weterynaryjne"
+                },
+                {
+                    "code": "85200000-1",
+                    "description": "Usługi weterynaryjne"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "ZAPYTANIE OFERTOWE Na dostawę z instalacją sprzętu elektronicznego dla uczestników projektu „Jestem SOBĄ w mojej szkole”. Postępowanie prowadzone w trybie zasady konkurencyjności",
+            "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+            "start_date": "2020-11-18",
+            "end_date": "2020-12-04",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [],
+            "offer_winners": [
+                {
+                    "name": "RuncoR Arkadiusz Jeziorski",
+                    "price": "48900.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "30213000-5",
+                    "description": "Komputery osobiste"
+                },
+                {
+                    "code": "30231000-7",
+                    "description": "Ekrany i konsole komputerowe"
+                },
+                {
+                    "code": "30236000-2",
+                    "description": "Różny sprzęt komputerowy"
+                },
+                {
+                    "code": "48624000-8",
+                    "description": "Pakiety oprogramowania dla systemów operacyjnych komputerów osobistych (PC)"
+                }
+            ],
+            "EU": true
         },
         {
             "auction_name": "Wykonanie instalacji fotowoltaicznej w ramach projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”.",
@@ -1222,56 +1518,8 @@
                     "code": "45000000-7",
                     "description": "Roboty budowlane"
                 }
-            ]
-        },
-        {
-            "auction_name": "Opieka lekarsko – weterynaryjna",
-            "advertiser_name": "Fundacja Albatros",
-            "start_date": "2022-02-16",
-            "end_date": "2022-02-25",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [
-                "Wymagania dot. uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów - Zamawiający uzna, że Wykonawca spełnia ww. warunek, jeżeli Wykonawca posiada uprawienia do wykonywania zawodu lekarza weterynarii.",
-                "Wymagania dot. zdolności technicznej lub zawodowej - Zamawiający uzna, że Wykonawca spełnia ww. warunek, jeżeli wykaże posiadanie nieprzerwanego min. 5 letniego stażu pracy ze zwierzętami wolnożyjącymi."
             ],
-            "offer_winners": [],
-            "offer_losers": [],
-            "cpv": []
-        },
-        {
-            "auction_name": "ZAPYTANIE OFERTOWE Na dostawę z instalacją sprzętu elektronicznego dla uczestników projektu „Jestem SOBĄ w mojej szkole”. Postępowanie prowadzone w trybie zasady konkurencyjności",
-            "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
-            "start_date": "2020-11-18",
-            "end_date": "2020-12-04",
-            "is_price_criterium": true,
-            "status": "Rozstrzygnięte",
-            "conditions": [],
-            "offer_winners": [
-                {
-                    "name": "RuncoR Arkadiusz Jeziorski",
-                    "price": "48900.00 PLN"
-                }
-            ],
-            "offer_losers": [],
-            "cpv": [
-                {
-                    "code": "30213000-5",
-                    "description": "Komputery osobiste"
-                },
-                {
-                    "code": "30231000-7",
-                    "description": "Ekrany i konsole komputerowe"
-                },
-                {
-                    "code": "30236000-2",
-                    "description": "Różny sprzęt komputerowy"
-                },
-                {
-                    "code": "48624000-8",
-                    "description": "Pakiety oprogramowania dla systemów operacyjnych komputerów osobistych (PC)"
-                }
-            ]
+            "EU": true
         },
         {
             "auction_name": "Realizacja usługi transportowej dla uczestników projektu \"Jestem SOBĄ w mojej szkole\"",
@@ -1296,7 +1544,13 @@
                 }
             ],
             "offer_losers": [],
-            "cpv": []
+            "cpv": [
+                {
+                    "code": "60172000-4",
+                    "description": "Wynajem autobusów i autokarów wraz z kierowcą"
+                }
+            ],
+            "EU": true
         },
         {
             "auction_name": "Ładowanie pełną mocą. Balansowanie pracy ładowarek pojazdów elektrycznych w sieci elektroenergetycznej",
@@ -1318,7 +1572,35 @@
                     "code": "48100000-9",
                     "description": "Przemysłowe specyficzne pakiety oprogramowania"
                 }
-            ]
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Wykonanie strony internetowej oraz realizację kampanii promocyjnej dla EVPS Sp. z o. o. w ramach projektu w ramach poddziałania 3.3.3. Wsparcie MŚP w promocji marek produktowych – GO TO BRAND w ramach programu operacyjnego inteligentny rozwój 2014-2020 nr umowy POIR.03.03.03-28-0010/21-00",
+            "advertiser_name": "EVPS Sp. z o. o.",
+            "start_date": "2022-08-24",
+            "end_date": "2022-09-01",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "a) Nieprzerwane działanie firmy w obrębie realizacji stron internetowych i kampanii promocyjnych w internecie od przynajmniej 24 miesięcy wstecz od daty publikacji niniejszego ogłoszenia\nb) 8. Wykonawca wykonał w ciągu ostatnich dwóch lat co najmniej 5 stron internetowych i przeprowadził 5 kampanii reklamowych – należy wskazać nazwy i adresy firm, na rzecz, których strony i kampanie zostały wykonane.",
+                "Obroty firmy za ostatni pełny rok podatkowy wyniosły co najmniej 500’000,00zł. (W przypadku spółki z o.o. wymagane jest tu jako załącznik sprawozdanie finansowe).",
+                "7. Firma wniosła wadium dla podpisania umowy oraz zabezpieczenie należytego wykonania umowy na kwotę 10’000zł do dnia złożenia oferty, lecz nie później niż 31.08.2022r. W przypadku wyboru firmy i nie podpisania przez nią umowy w niniejszym postępowaniu, wpłacone wadium przepada na rzecz Zamawiającego. (wymagane jest tu załączenie potwierdzenia przelewu)"
+            ],
+            "offer_winners": [
+                {
+                    "name": "Mayeryn sp. z o.o.",
+                    "price": "52300.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "72413000-8",
+                    "description": "Usługi w zakresie projektowania stron WWW"
+                }
+            ],
+            "EU": true
         }
     ]
 }
