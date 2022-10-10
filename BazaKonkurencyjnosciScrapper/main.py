@@ -11,12 +11,12 @@ from os import listdir
 from os.path import isfile, join
 from difflib import SequenceMatcher
 from selenium import webdriver
+import config
 
-driver = webdriver.Firefox()
+driver = webdriver.Chrome(config.path)
 
 
-path_to_data = '/home/alice/Documents/FDS-Dataset/BazaKonkurencyjnosciScrapper/data'
-cities_to_scrap = [ "Gdańsk"]
+cities_to_scrap = [ "Gdansk"]
 
 sleep_time = 2
 
@@ -162,7 +162,7 @@ def get_price_criterium():
 
 def get_auction_data(auction_link):
     driver.get(auction_link)
-    sleep(2*sleep_time)
+    sleep(5*sleep_time)
     auction_name = driver.find_elements(by=By.XPATH, value="//h1[@class='text text--main-title long-text mdc-typography--subtitle2']")[0].text
     auction_status = driver.find_elements(by=By.XPATH, value="//h2[@class='text mdc-typography--subtitle2']")[0].text
     date_row = driver.find_elements(by=By.XPATH,
@@ -216,7 +216,7 @@ def get_auction_data(auction_link):
 
 
 def get_last_done_chunk(city_name):
-    onlyfiles = [f for f in listdir(path_to_data) if isfile(join(path_to_data, f))]
+    onlyfiles = [f for f in listdir(config.path_to_data) if isfile(join(config.path_to_data, f))]
     last_file = onlyfiles[-1]
     try:
         last_file_index = last_file.split(city_name, 1)[1].split('.json', 1)[0]
@@ -242,7 +242,7 @@ for city in cities_to_scrap:
             auction = get_auction_data(link)
             if auction is not None:
                 auctions.add_auction(auction)
-        with open(f'data/{city}{index}.json', 'w') as f:
+        with open(f'data/{city}{index}.json', 'w', encoding='utf-8') as f:
             json.dump(json.JSONDecoder().decode(auctions.to_json()), f, ensure_ascii=False, indent=4)
 
 driver.close()
