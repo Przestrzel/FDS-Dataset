@@ -1,5 +1,3 @@
-import HEAD as HEAD
-
 import constants
 import json
 from offer import Offer
@@ -254,7 +252,7 @@ for city in cities_to_scrap:
         with open(join(config.path_to_data, f'{city}_links.txt'), 'w', encoding='utf-8') as file:
             for links in auctions_links:
                 file.write(f'{links}\n')
-    auction_links_chunks = [auctions_links[x:x+LINKS_PER_FILE] for x in range(last_saved_file*LINKS_PER_FILE, len(auctions_links), LINKS_PER_FILE)]
+    auction_links_chunks = [auctions_links[x:int(x)+LINKS_PER_FILE] for x in range(last_saved_file*LINKS_PER_FILE, len(auctions_links), LINKS_PER_FILE)]
 
     for index, links_chunk in enumerate(auction_links_chunks):
         if index <= int(last_saved_file):
