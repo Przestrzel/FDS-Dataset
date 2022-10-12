@@ -1,0 +1,3004 @@
+{
+    "companies": [
+        {
+            "company_name": "Eleonora Baranska",
+            "nip_number": "8722430524 ",
+            "owner_name": "Eleonora Baranska ",
+            "city_name": "Głowaczowa",
+            "postal_code": "39-217",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "388047423 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Salon Fryzjerski Joanna Sidor-Siłacz",
+            "nip_number": "9532337437 ",
+            "owner_name": "Joanna Sidor-Siłacz ",
+            "city_name": "Koronowo",
+            "postal_code": "86-010",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "093218011 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FILIP SWIETLIK - DEMONTAŻ MASZYN",
+            "nip_number": "9670365659 ",
+            "owner_name": "Filip Swietlik ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-890",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "340139016 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Aleksandra Stefaniuk EL-POMIAR",
+            "nip_number": "8981401291 ",
+            "owner_name": "Aleksandra Stefaniuk ",
+            "city_name": "Wrocław",
+            "postal_code": "50-249",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "932883452 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"OPTEAM POLAND\" sp. z o.o.",
+            "nip_number": "2050001327 ",
+            "owner_name": null,
+            "city_name": "Kraków",
+            "postal_code": "31-128",
+            "phone_number": null,
+            "krs_number": "0000292912 ",
+            "regon_number": "240830767 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Tomasz Gajewski PRZEDSIĘBIORSTWO PROJEKTOWO-INWESTYCYJNE \"TG ELEKTRYK\". Nazwa skrócona: P.P.I. \"TG ELEKTRYK\"",
+            "nip_number": "5781811769 ",
+            "owner_name": "Tomasz Gajewski ",
+            "city_name": "Kamionek Wielki",
+            "postal_code": "82-340",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "170923365 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"GF MACHINING SOLUTIONS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "1132369524 ",
+            "owner_name": null,
+            "city_name": "SĘKOCIN NOWY",
+            "postal_code": "05-090",
+            "phone_number": null,
+            "krs_number": "0000120656 ",
+            "regon_number": "015182386 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Bruno Pierre Allemand "
+            ],
+            "procuration_members": [
+                "Bruno Pierre Allemand "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PCC - Cert sp. z o.o. sp.k.",
+            "nip_number": "8961539543 ",
+            "owner_name": null,
+            "city_name": "Kobierzyce",
+            "postal_code": "55-040",
+            "phone_number": null,
+            "krs_number": "0000524001 ",
+            "regon_number": "022501239 ",
+            "legal_form": "spółka komandytowa ",
+            "board_members": [
+                "Magdalena Katarzyna Szwak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Grela Janina \"Kosynier\" s.c",
+            "nip_number": "6590000931 ",
+            "owner_name": "Janina Grela ",
+            "city_name": "Racławice",
+            "postal_code": "32-222",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "003681259 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "JBBR STRATEGY & INNOVATION SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5252628114 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "03-935",
+            "phone_number": null,
+            "krs_number": "0000573460 ",
+            "regon_number": "362428051 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Jakub Błaszczyk "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ATO GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5272845814 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "01-042",
+            "phone_number": null,
+            "krs_number": "0000725328 ",
+            "regon_number": "369860099 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Jerzy Iłendo "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GASTROHOUSE MARCIN CHODUBSKI",
+            "nip_number": "5881631630 ",
+            "owner_name": "MARCIN CHODUBSKI ",
+            "city_name": "Wejherowo",
+            "postal_code": "84-200",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "220810154 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Cyklinowanie \"ZIELSCY\" Agnieszka Zielska",
+            "nip_number": "5321780435 ",
+            "owner_name": "AGNIESZKA ZIELSKA ",
+            "city_name": "Warszawa",
+            "postal_code": "04-790",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "141602913 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MULTIROLO RAFAŁ PENCZAR",
+            "nip_number": "5861028066 ",
+            "owner_name": "RAFAŁ PENCZAR ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-299",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "191850724 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EUR CONSULTING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5781017184 ",
+            "owner_name": null,
+            "city_name": "PRUSZCZ GDAŃSKI",
+            "postal_code": "83-000",
+            "phone_number": null,
+            "krs_number": "0000037435 ",
+            "regon_number": "170285150 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Joanna Patrycja Rojek Rybak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MICHAL FARKAŠ",
+            "nip_number": "6342780702 ",
+            "owner_name": "MICHAL FARKAŠ ",
+            "city_name": "Będzin",
+            "postal_code": "42-500",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "364718072 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LOBBY MEBLE S.C.",
+            "nip_number": "9452189785 ",
+            "owner_name": null,
+            "city_name": "Kraków",
+            "postal_code": "31-302",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "363460565 ",
+            "legal_form": "spółka cywilna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EUR CONSULTING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5781017184 ",
+            "owner_name": null,
+            "city_name": "PRUSZCZ GDAŃSKI",
+            "postal_code": "83-000",
+            "phone_number": null,
+            "krs_number": "0000037435 ",
+            "regon_number": "170285150 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Joanna Patrycja Rojek Rybak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"REPROGRAF - GRAFIKUS\" SPÓŁKA AKCYJNA",
+            "nip_number": "5272263265 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "01-141",
+            "phone_number": null,
+            "krs_number": "0000303652 ",
+            "regon_number": "016174845 ",
+            "legal_form": "spółka akcyjna ",
+            "board_members": [
+                "Leszek Zenobiusz Juchniewicz "
+            ],
+            "procuration_members": [
+                "Leszek Zenobiusz Juchniewicz "
+            ],
+            "supervisory_board": [
+                "Leszek Zenobiusz Juchniewicz "
+            ]
+        },
+        {
+            "company_name": "Krzysztof Zawadzki",
+            "nip_number": "5671703895 ",
+            "owner_name": "Krzysztof Zawadzki ",
+            "city_name": "Koryciska",
+            "postal_code": "09-142",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "130817915 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PRZEDSIEBIORSTWO HANDLOWO- USLUGOWE - \"JÓZWO\"",
+            "nip_number": "6191577468 ",
+            "owner_name": "JÓZEF WOSIŃSKI ",
+            "city_name": "Żdżary",
+            "postal_code": "98-430",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "250697220 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-280",
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "URBANSKI",
+            "nip_number": "8882775775 ",
+            "owner_name": "ADAM URBAŃSKI ",
+            "city_name": "WŁOCŁAWEK",
+            "postal_code": "87-800",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "341330704 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Media Division Adrian Kilanowski",
+            "nip_number": "5711697044 ",
+            "owner_name": "Adrian Kilanowski ",
+            "city_name": "Bartniczka",
+            "postal_code": "87-321",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "341572169 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GRUPA4BIM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "6772467913 ",
+            "owner_name": null,
+            "city_name": "KRAKÓW",
+            "postal_code": "30-081",
+            "phone_number": null,
+            "krs_number": "0000919775 ",
+            "regon_number": "389844334 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Wojciech Jędrosz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CENTRUM OPIEKI I REHABILITACJI \"ZDROWIE\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "9491644526 ",
+            "owner_name": null,
+            "city_name": "CZĘSTOCHOWA",
+            "postal_code": "42-200",
+            "phone_number": null,
+            "krs_number": "0000536862 ",
+            "regon_number": "151501469 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Anna Iwona Kryś "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EUROCHEM BGD",
+            "nip_number": "8731002377 ",
+            "owner_name": null,
+            "city_name": "Tarnów",
+            "postal_code": "33-101",
+            "phone_number": null,
+            "krs_number": "0000055452 ",
+            "regon_number": "850312610 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Wacław Bronisław Bacik "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FINETECH CONSTRUCTION SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5252697948 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "02-822",
+            "phone_number": null,
+            "krs_number": "0000662712 ",
+            "regon_number": "366531290 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Robert Żołędowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "JM CONSULTING JACEK OWCZAREK",
+            "nip_number": "7271982510 ",
+            "owner_name": "JACEK OWCZAREK ",
+            "city_name": "Konstantynów Łódzki",
+            "postal_code": "95-050",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "380313233 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Bizserver",
+            "nip_number": "6793095397 ",
+            "owner_name": null,
+            "city_name": "Kraków",
+            "postal_code": "30-716",
+            "phone_number": null,
+            "krs_number": "0000476995 ",
+            "regon_number": "122958533 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Paweł Dawid Klima "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ROTOR MARIA CIESIÓŁKA",
+            "nip_number": "5861403469 ",
+            "owner_name": "MARIA CIESIÓŁKA ",
+            "city_name": "Gdynia",
+            "postal_code": "81-601",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "363914983 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "POL-WORK KAMIL SZOSTAK",
+            "nip_number": "5651422673 ",
+            "owner_name": "KAMIL SZOSTAK ",
+            "city_name": "Celestynów",
+            "postal_code": "05-430",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "146162040 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ZAKŁAD DOSKONALENIA ZAWODOWEGO",
+            "nip_number": "8730006700 ",
+            "owner_name": null,
+            "city_name": "TARNÓW",
+            "postal_code": "33-100",
+            "phone_number": null,
+            "krs_number": "0000047210 ",
+            "regon_number": "850002162 ",
+            "legal_form": "inna ",
+            "board_members": [
+                "Rafał Marcin Lisowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MEDICUS",
+            "nip_number": "6462703070 ",
+            "owner_name": null,
+            "city_name": "TYCHY",
+            "postal_code": "43-100",
+            "phone_number": null,
+            "krs_number": "0000244946 ",
+            "regon_number": "240121083 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Adam Henryk Klębowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Ecoblack S.C.",
+            "nip_number": "9591950665 ",
+            "owner_name": null,
+            "city_name": "Kielce",
+            "postal_code": "25-640",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "260661421 ",
+            "legal_form": "spółka cywilna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GRUPA PRODUCENCKA VODAR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "8950019366 ",
+            "owner_name": null,
+            "city_name": "WROCŁAW",
+            "postal_code": "51-180",
+            "phone_number": null,
+            "krs_number": "0000056051 ",
+            "regon_number": "930100813 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Zdzisław Dębski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"PURINOVA\" sp. z o.o.",
+            "nip_number": "9930501149 ",
+            "owner_name": null,
+            "city_name": "Bydgoszcz",
+            "postal_code": "85-825",
+            "phone_number": null,
+            "krs_number": "0000269659 ",
+            "regon_number": "120373337 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Piotr Sękowski "
+            ],
+            "procuration_members": [
+                "Piotr Sękowski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Chem Applied Sławomir Lach",
+            "nip_number": "8421680597 ",
+            "owner_name": "Sławomir Lach ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-175",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "388268503 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "WITKO STANISŁAW Stanisław Witko",
+            "nip_number": "8151038909 ",
+            "owner_name": "STANISŁAW WITKO ",
+            "city_name": "Łańcut",
+            "postal_code": "37-100",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "005151241 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LAB-JOT LTD. SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5222992714 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "02-486",
+            "phone_number": null,
+            "krs_number": "0000405134 ",
+            "regon_number": "145917967 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Tomasz Władysław Dzięczewski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Sigma sp. z o.o.",
+            "nip_number": "8971818210 ",
+            "owner_name": null,
+            "city_name": "Poznań",
+            "postal_code": "61-806",
+            "phone_number": null,
+            "krs_number": "0000594436 ",
+            "regon_number": "363356678 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Giorgi Chikvinidze "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "KANCELARIA PRAWA PODATKOWEGO,BIURO RACHUNKOWE JUSTYNA JANOTA",
+            "nip_number": "6341797333 ",
+            "owner_name": "JUSTYNA JANOTA ",
+            "city_name": "Katowice",
+            "postal_code": "40-688",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "243042250 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "INPROGRESS SZKOLENIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "6772369990 ",
+            "owner_name": null,
+            "city_name": "KRAKÓW",
+            "postal_code": "30-149",
+            "phone_number": null,
+            "krs_number": "0000427134 ",
+            "regon_number": "122613604 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Michał Jerzy Pacyna "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PRZEMYSLAW STRULAK",
+            "nip_number": "7010307123 ",
+            "owner_name": "PRZEMYSLAW STRULAK ",
+            "city_name": "Konstancin-Jeziorna",
+            "postal_code": "05-520",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "363179510 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"BIO-RAD POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "9510028953 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "01-208",
+            "phone_number": null,
+            "krs_number": "0000148843 ",
+            "regon_number": "010660496 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Norman David Schwartz "
+            ],
+            "procuration_members": [
+                "Norman David Schwartz "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "zaklad uslug buowlanych",
+            "nip_number": "7311601780 ",
+            "owner_name": "ROBERT PIERZCHAŁA ",
+            "city_name": "ksawerow",
+            "postal_code": "95-054",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "101091250 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"MERCK\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5260204802 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "02-305",
+            "phone_number": null,
+            "krs_number": "0000006628 ",
+            "regon_number": "011099984 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Philip Julian Krzyzek "
+            ],
+            "procuration_members": [
+                "Philip Julian Krzyzek "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SIEĆ BADAWCZA ŁUKASIEWICZ - INSTYTUT NAPĘDÓW I MASZYN ELEKTRYCZNYCH KOMEL",
+            "nip_number": "6340133163 ",
+            "owner_name": null,
+            "city_name": "KATOWICE",
+            "postal_code": "40-203",
+            "phone_number": null,
+            "krs_number": "0000858338 ",
+            "regon_number": "387017992 ",
+            "legal_form": "instytut badawczy ",
+            "board_members": [],
+            "procuration_members": [
+                "Stanisław Albert Gawron "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AVLPRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5242768049 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "03-876",
+            "phone_number": null,
+            "krs_number": "0000504758 ",
+            "regon_number": "147181743 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Marcin Borowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PRESTIGE LINGUA JOANNA GABRYŚ-TRYBAŁA",
+            "nip_number": "5831908839 ",
+            "owner_name": "JOANNA GABRYŚ-TRYBAŁA ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-438",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "220321350 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"HOMAG POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5213021632 ",
+            "owner_name": null,
+            "city_name": "ŚRODA WIELKOPOLSKA",
+            "postal_code": "63-000",
+            "phone_number": null,
+            "krs_number": "0000094644 ",
+            "regon_number": "016010517 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Michał Krzysztof Piłat "
+            ],
+            "procuration_members": [
+                "Michał Krzysztof Piłat "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AS AUDYT, SZKOLENIA JACEK SUDOMIRSKI",
+            "nip_number": "5561279048 ",
+            "owner_name": "JACEK SUDOMIRSKI ",
+            "city_name": "Bydgoszcz",
+            "postal_code": "85-132",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "091487511 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EDUKACJA IT SŁAWOMIR MALEC",
+            "nip_number": "5541525395 ",
+            "owner_name": "SŁAWOMIR MALEC ",
+            "city_name": "Bydgoszcz",
+            "postal_code": "85-079",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "091548483 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PRV sp. z o.o. sp. z o.o.",
+            "nip_number": "8792681585 ",
+            "owner_name": null,
+            "city_name": "Toruń",
+            "postal_code": "87-100",
+            "phone_number": null,
+            "krs_number": "0000591435 ",
+            "regon_number": "363241142 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AS PROFESSIONAL BEAUTY STANISŁAW SZEWIECZEK",
+            "nip_number": "5832091990 ",
+            "owner_name": "STANISŁAW SZEWIECZEK ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-809",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "190997945 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Szkoła Jazdy RAJDER Sebastian Wesołowski",
+            "nip_number": "8792018094 ",
+            "owner_name": "Sebastian Wesołowski ",
+            "city_name": "Toruń",
+            "postal_code": "87-100",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "340204570 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Blaze Of Solutions sp. z o.o.",
+            "nip_number": "6342931041 ",
+            "owner_name": null,
+            "city_name": "Katowice",
+            "postal_code": "40-096",
+            "phone_number": null,
+            "krs_number": "0000734770 ",
+            "regon_number": "380393232 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Sławomir Łukasz Kołtun "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"SEWERIZA\" Seweryn Kuliński",
+            "nip_number": "9181882125 ",
+            "owner_name": "Seweryn Kuliński ",
+            "city_name": "Zielona Góra",
+            "postal_code": "66-015",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "081110010 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "TESORA  Marzena Paczyńska",
+            "nip_number": "5471958484 ",
+            "owner_name": "Marzena Paczyńska ",
+            "city_name": "Bielsko-Biała",
+            "postal_code": "43-300",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "242794509 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Maciej Przyczka Dental Service",
+            "nip_number": "8982218198 ",
+            "owner_name": "Maciej Przyczka ",
+            "city_name": "Wrocław",
+            "postal_code": "50-220",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "363875310 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "T-MOBILE POLSKA S.A.",
+            "nip_number": "5261040567 ",
+            "owner_name": null,
+            "city_name": "Warszawa",
+            "postal_code": "02-674",
+            "phone_number": null,
+            "krs_number": "0000391193 ",
+            "regon_number": "011417295 ",
+            "legal_form": "spółka akcyjna ",
+            "board_members": [
+                "Goran Marković "
+            ],
+            "procuration_members": [
+                "Goran Marković "
+            ],
+            "supervisory_board": [
+                "Goran Marković "
+            ]
+        },
+        {
+            "company_name": "Import Eksport Kamil Kołyszko",
+            "nip_number": "8481720024 ",
+            "owner_name": "Kamil Kołyszko ",
+            "city_name": "Warszawa",
+            "postal_code": "01-307",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "385720115 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "OLBUD Aleksander Zawadzki",
+            "nip_number": "5631156688 ",
+            "owner_name": "Aleksander Zawadzki ",
+            "city_name": "Chełm",
+            "postal_code": "22-100",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "110114106 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BBR COMPANY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5833399247 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-017",
+            "phone_number": null,
+            "krs_number": "0000845385 ",
+            "regon_number": "386265370 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Bartłomiej Siebert "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PPHU \"ACCA\" MARIAN DAK",
+            "nip_number": "5930101637 ",
+            "owner_name": "Marian Dak ",
+            "city_name": "Pruszcz Gdański",
+            "postal_code": "83-000",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "002886166 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BIG AUTOHANDEL SP Z O O",
+            "nip_number": "5840250262 ",
+            "owner_name": null,
+            "city_name": "Gdańsk",
+            "postal_code": "80-718",
+            "phone_number": null,
+            "krs_number": "0000112181 ",
+            "regon_number": "190002626 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Waldemar Jankowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Waldemar Jankowski "
+            ]
+        },
+        {
+            "company_name": "Mesco sp. z o.o.",
+            "nip_number": "6452540293 ",
+            "owner_name": null,
+            "city_name": "Tarnowskie Góry",
+            "postal_code": "42-600",
+            "phone_number": null,
+            "krs_number": "0000298306 ",
+            "regon_number": "240548500 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Stanisław Piotr Wowra "
+            ],
+            "procuration_members": [
+                "Stanisław Piotr Wowra "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AGNIESZKA GŁUSZCZYŃSKA Usługi Psychologiczne ALCHEMIA",
+            "nip_number": "5831771286 ",
+            "owner_name": "AGNIESZKA GŁUSZCZYŃSKA ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-180",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "191363160 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BIURO PROMOCJI EXPORTU \"EURO TARGI\" TERESA PRONDZINSKA",
+            "nip_number": "1180188832 ",
+            "owner_name": "TERESA PRONDZINSKA ",
+            "city_name": "Warszawa",
+            "postal_code": "03-301",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "140358196 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FIRMA USŁUGOWA K-SERWIS KAROL KWIDZINSKI",
+            "nip_number": "9570779870 ",
+            "owner_name": "KAROL KWIDZINSKI ",
+            "city_name": "Egiertowo",
+            "postal_code": "83-312",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "220578800 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PPHU   \"LIR\"  ELŻBIETA ZAJET",
+            "nip_number": "5781179389 ",
+            "owner_name": "Elżbieta Zajet ",
+            "city_name": "Elbląg",
+            "postal_code": "82-300",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "170343308 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "TECHFILTER ADRIAN DOMAŃSKI",
+            "nip_number": "6161033427 ",
+            "owner_name": "ADRIAN DOMAŃSKI ",
+            "city_name": "Osiecznica",
+            "postal_code": "59-724",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "020734420 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"HABA\" sp. z o.o.",
+            "nip_number": "8911613740 ",
+            "owner_name": null,
+            "city_name": "Warszawa",
+            "postal_code": "04-761",
+            "phone_number": null,
+            "krs_number": "0000370792 ",
+            "regon_number": "340838033 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MiriSys Polska Cutting Systems Michał Pinkowski",
+            "nip_number": "7842067847 ",
+            "owner_name": "MICHAŁ PINKOWSKI ",
+            "city_name": "Gniezno",
+            "postal_code": "62-200",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "369172850 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Asseco Data Systems S.A.",
+            "nip_number": "5170359458 ",
+            "owner_name": null,
+            "city_name": "Gdynia",
+            "postal_code": "81-321",
+            "phone_number": null,
+            "krs_number": "0000421310 ",
+            "regon_number": "180853177 ",
+            "legal_form": "spółka akcyjna ",
+            "board_members": [
+                "Paweł Marek Barchwic "
+            ],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Paweł Marek Barchwic "
+            ]
+        },
+        {
+            "company_name": "Impel Catering \"Company\" Sp. z o.o. Sp. K.",
+            "nip_number": "8942598912 ",
+            "owner_name": null,
+            "city_name": "Wrocław",
+            "postal_code": "53-111",
+            "phone_number": null,
+            "krs_number": "0000773603 ",
+            "regon_number": "932139104 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Elżbieta Sylwia Kantowicz "
+            ],
+            "procuration_members": [
+                "Elżbieta Sylwia Kantowicz "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PAWEŁ NESSEL",
+            "nip_number": "5211421681 ",
+            "owner_name": "PAWEŁ NESSEL ",
+            "city_name": "Warszawa",
+            "postal_code": "02-691",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "016123954 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "New Estate sp.z o.o.",
+            "nip_number": "6751508015 ",
+            "owner_name": null,
+            "city_name": "Kraków",
+            "postal_code": "31-502",
+            "phone_number": null,
+            "krs_number": "0000523975 ",
+            "regon_number": "123211486 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Sławomir Krzysztof Hajduga "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EDUKACJA IT SŁAWOMIR MALEC",
+            "nip_number": "5541525395 ",
+            "owner_name": "SŁAWOMIR MALEC ",
+            "city_name": "Bydgoszcz",
+            "postal_code": "85-079",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "091548483 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "VIRTUAL TECHNOLOGIES IT Sp. z o.o.",
+            "nip_number": "6452536469 ",
+            "owner_name": null,
+            "city_name": "Katowice",
+            "postal_code": "40-022",
+            "phone_number": null,
+            "krs_number": "0000449989 ",
+            "regon_number": "243075202 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Krystyna Wanda Zięba "
+            ],
+            "procuration_members": [
+                "Krystyna Wanda Zięba "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MOJE BAMBINO HOLDING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "7272751304 ",
+            "owner_name": null,
+            "city_name": "M. ŁÓDŹ",
+            "postal_code": "93-428",
+            "phone_number": null,
+            "krs_number": "0000336730 ",
+            "regon_number": "100745932 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Maciej Kapica "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PRO-ENVIRONMENT POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5213717598 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "02-089",
+            "phone_number": null,
+            "krs_number": "0000594456 ",
+            "regon_number": "363425563 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Grzegorz Karol Gołąb "
+            ],
+            "procuration_members": [
+                "Grzegorz Karol Gołąb "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Szkolenia za miastem",
+            "nip_number": "5130065408 ",
+            "owner_name": "Jolanta Pawlik-Rusek ",
+            "city_name": "Minoga",
+            "postal_code": "32-046",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "122583790 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GORAL KRZYSZTOF",
+            "nip_number": "7121177617 ",
+            "owner_name": "KRZYSZTOF GORAL ",
+            "city_name": "Lublin",
+            "postal_code": "20-539",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "430649064 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"STORE IQ\" sp. z o.o.",
+            "nip_number": "9662098942 ",
+            "owner_name": null,
+            "city_name": "Białystok",
+            "postal_code": "15-063",
+            "phone_number": null,
+            "krs_number": "0000571081 ",
+            "regon_number": "362234654 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Kamil Krystian Gąsiorowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "POLSKIE TOWARZYSTWO EKONOMICZNE",
+            "nip_number": "5260300196 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "00-042",
+            "phone_number": null,
+            "krs_number": "0000099464 ",
+            "regon_number": "007022016 ",
+            "legal_form": "inna ",
+            "board_members": [
+                "Danuta Rucińska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Aleksandra Sitarek",
+            "nip_number": "9532452411 ",
+            "owner_name": "ALEKSANDRA SITAREK ",
+            "city_name": "BYDGOSZCZ",
+            "postal_code": "85-687",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "521671283 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "M&M CONCEPT Malwina Leszczyńska",
+            "nip_number": "5213488287 ",
+            "owner_name": "Malwina Leszczyńska ",
+            "city_name": "Warszawa",
+            "postal_code": "00-768",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "146845282 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Inter Chem Artur Podwysocki",
+            "nip_number": "8361264428 ",
+            "owner_name": "Artur Podwysocki ",
+            "city_name": "Skierniewice",
+            "postal_code": "96-100",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "141996639 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Antoni Cichocki Ponadregionalne Konsorcjum Szkoleniowo-Egzaminacyjne",
+            "nip_number": "7191025410 ",
+            "owner_name": "Antoni Cichocki ",
+            "city_name": "Sojczyn Borowy",
+            "postal_code": "19-200",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "450185519 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PAWEL",
+            "nip_number": "5251346419 ",
+            "owner_name": "Paweł PAWŁOWSKI ",
+            "city_name": "Warszawa",
+            "postal_code": "01-786",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "011816776 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "P.H.U. DK.K Izabela Przybysz",
+            "nip_number": "9670123229 ",
+            "owner_name": "IZABELA PRZYBYSZ ",
+            "city_name": "Bydgoszcz",
+            "postal_code": "85-407",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "093192174 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BarCocktail- Krzysztof Mięsiak",
+            "nip_number": "9570935933 ",
+            "owner_name": "Krzysztof Mięsiak ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-336",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "220815973 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DRUKARNIA APLA ARTUR BULBA",
+            "nip_number": "8851137625 ",
+            "owner_name": "ARTUR BULBA ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-531",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "220064188 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PRZEDSIĘBIORSTWO HANDLOWE VINC ANDRZEJ JURKIEWICZ",
+            "nip_number": "5860206985 ",
+            "owner_name": "Andrzej Jurkiewicz ",
+            "city_name": "Bystra",
+            "postal_code": "83-021",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "190316566 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"KLIMAT\" sp. z o.o.",
+            "nip_number": "6342529706 ",
+            "owner_name": null,
+            "city_name": "Katowice",
+            "postal_code": "40-582",
+            "phone_number": null,
+            "krs_number": "0000200056 ",
+            "regon_number": "278236610 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MASTERSAT Krzysztof Gorzałka",
+            "nip_number": "9491912317 ",
+            "owner_name": "Krzysztof Gorzałka ",
+            "city_name": "Częstochowa",
+            "postal_code": "42-209",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "241361866 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "DRUKARNIA \"SIL-VEG-DRUK\" S.C.",
+            "nip_number": "5751609767 ",
+            "owner_name": null,
+            "city_name": "Lubliniec",
+            "postal_code": "42-700",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "150365478 ",
+            "legal_form": "spółka cywilna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SUN",
+            "nip_number": "9481938551 ",
+            "owner_name": "Joanna Kostrzewa ",
+            "city_name": "Kraków",
+            "postal_code": "31-305",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "140522900 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ITerka24 POGOTOWIE INFORMATYCZNE MICHAŁ KAWCZYŃSKI",
+            "nip_number": "5821548486 ",
+            "owner_name": "MICHAŁ KAWCZYŃSKI ",
+            "city_name": "Braniewo",
+            "postal_code": "14-500",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "281562390 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "NOVA CENTRUM EDUKACYJNE",
+            "nip_number": "5252558974 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "00-023",
+            "phone_number": null,
+            "krs_number": "0000467126 ",
+            "regon_number": "146748188 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Monika Bartosiak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"GABART\" Gabriela Urgacz-Łossowska",
+            "nip_number": "5221832902 ",
+            "owner_name": "GABRIELA URGACZ-ŁOSSOWSKA ",
+            "city_name": "Warszawa",
+            "postal_code": "01-918",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "016440399 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SPB CONTECH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5842772734 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-320",
+            "phone_number": null,
+            "krs_number": "0000732319 ",
+            "regon_number": "380261789 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Tomasz Kuchta "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BIOCOURSE.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "9542770868 ",
+            "owner_name": null,
+            "city_name": "KATOWICE",
+            "postal_code": "40-013",
+            "phone_number": null,
+            "krs_number": "0000645769 ",
+            "regon_number": "365822647 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Dariusz Jastrzębski "
+            ],
+            "procuration_members": [
+                "Dariusz Jastrzębski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-280",
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "ZUGIL SPÓŁKA AKCYJNA",
+            "nip_number": "8320003234 ",
+            "owner_name": null,
+            "city_name": "WIELUŃ",
+            "postal_code": "98-300",
+            "phone_number": null,
+            "krs_number": "0000132844 ",
+            "regon_number": "730016361 ",
+            "legal_form": "spółka akcyjna ",
+            "board_members": [
+                "Jerzy Jokiel "
+            ],
+            "procuration_members": [
+                "Jerzy Jokiel "
+            ],
+            "supervisory_board": [
+                "Jerzy Jokiel "
+            ]
+        },
+        {
+            "company_name": "CAMBRIDGE SCHOOL OF ENGLISH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5252147188 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "00-023",
+            "phone_number": null,
+            "krs_number": "0000085970 ",
+            "regon_number": "016153582 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Maria Czaja Dysiewicz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Witold Modrzyński \" Serve\"",
+            "nip_number": "5911209658 ",
+            "owner_name": "Witold Modrzyński ",
+            "city_name": "Lublewo Gdańskie",
+            "postal_code": "83-050",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "191967857 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-280",
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "RENATA PŁONKA ABC BIURO",
+            "nip_number": "5490009576 ",
+            "owner_name": "RENATA PŁONKA ",
+            "city_name": "Kęty",
+            "postal_code": "32-650",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "070394898 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ONNERA POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "1132470571 ",
+            "owner_name": null,
+            "city_name": "PALMIRY",
+            "postal_code": "05-152",
+            "phone_number": null,
+            "krs_number": "0000186330 ",
+            "regon_number": "015671665 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Mikel Aizbitarte Zendoia "
+            ],
+            "procuration_members": [
+                "Mikel Aizbitarte Zendoia "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"METTLER-TOLEDO\" sp. z o.o.",
+            "nip_number": "5211010340 ",
+            "owner_name": null,
+            "city_name": "Warszawa",
+            "postal_code": "02-822",
+            "phone_number": null,
+            "krs_number": "0000145903 ",
+            "regon_number": "010878657 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Dieter Johannes Menne "
+            ],
+            "procuration_members": [
+                "Dieter Johannes Menne "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FIDEMSOFT Marek Baziński",
+            "nip_number": "9560017673 ",
+            "owner_name": "Marek Baziński ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-241",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "870314220 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "KANCELARIA RADCY PRAWNEGO KAROL PATALON",
+            "nip_number": "7441487093 ",
+            "owner_name": "KAROL PATALON ",
+            "city_name": "Olsztyn",
+            "postal_code": "10-012",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "361627587 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BIURO TURYSTYKI SZKOLNEJ EUROTRAMPING",
+            "nip_number": "7551366746 ",
+            "owner_name": "WOJCIECH TOKARZ ",
+            "city_name": "OPOLE",
+            "postal_code": "45-089",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "160038091 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "INSTYTUT MATERIAŁÓW BUDOWLANYCH I TECHNOLOGII BETONU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5242693340 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "01-940",
+            "phone_number": null,
+            "krs_number": "0000343707 ",
+            "regon_number": "142086098 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Grażyna Alina Bundyra Oracz "
+            ],
+            "procuration_members": [
+                "Grażyna Alina Bundyra Oracz "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ART COLOR MODELS Jolanta Kucharzyk",
+            "nip_number": "8131011356 ",
+            "owner_name": "JOLANTA KUCHARZYK ",
+            "city_name": "Rzeszów",
+            "postal_code": "35-326",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "690308290 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"JARD\" sp. z o.o.",
+            "nip_number": "5262585033 ",
+            "owner_name": null,
+            "city_name": "Warszawa",
+            "postal_code": "00-488",
+            "phone_number": null,
+            "krs_number": "0000031188 ",
+            "regon_number": "017350570 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Robert Edward Durlak "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "FOCUS HOTELS SPÓŁKA AKCYJNA",
+            "nip_number": "9671347422 ",
+            "owner_name": null,
+            "city_name": "BYDGOSZCZ",
+            "postal_code": "85-033",
+            "phone_number": null,
+            "krs_number": "0000522623 ",
+            "regon_number": "341041740 ",
+            "legal_form": "spółka akcyjna ",
+            "board_members": [
+                "Łukasz Adam Płoszyński "
+            ],
+            "procuration_members": [
+                "Łukasz Adam Płoszyński "
+            ],
+            "supervisory_board": [
+                "Łukasz Adam Płoszyński "
+            ]
+        },
+        {
+            "company_name": "LAGUNA MARCIN MAKOWSKI",
+            "nip_number": "1132328525 ",
+            "owner_name": "MARCIN MAKOWSKI ",
+            "city_name": "Warszawa",
+            "postal_code": "03-977",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "015646785 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Szczypta Piękna Sandra Szczypta",
+            "nip_number": "6121781399 ",
+            "owner_name": "Sandra Szczypta ",
+            "city_name": "Groblice",
+            "postal_code": "55-010",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "520347209 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "CENTRUM NAUKOWO-BADAWCZE OCHRONY PRZECIWPOŻAROWEJ IM. JÓZEFA TULISZKOWSKIEGO - PAŃSTWOWY INSTYTUT BADAWCZY",
+            "nip_number": "5321829288 ",
+            "owner_name": null,
+            "city_name": "JÓZEFÓW",
+            "postal_code": "05-420",
+            "phone_number": null,
+            "krs_number": "0000149404 ",
+            "regon_number": "000591685 ",
+            "legal_form": "instytut badawczy ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "KLUB ROZRYWKI \"TINA\" MAŁGORZATA GOŚLICKA",
+            "nip_number": "8921012284 ",
+            "owner_name": "MAŁGORZATA GOŚLICKA ",
+            "city_name": "Rypin",
+            "postal_code": "87-500",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "910240978 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ABOOK SP Z O O",
+            "nip_number": "9521822413 ",
+            "owner_name": null,
+            "city_name": "Warszawa",
+            "postal_code": "04-985",
+            "phone_number": null,
+            "krs_number": "0000070678 ",
+            "regon_number": "016134981 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Piotr Artur Niedziałek "
+            ],
+            "procuration_members": [
+                "Piotr Artur Niedziałek "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "INWENTOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "8672250144 ",
+            "owner_name": null,
+            "city_name": "TARNOBRZEG",
+            "postal_code": "39-400",
+            "phone_number": null,
+            "krs_number": "0000852716 ",
+            "regon_number": "386653065 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Radosław Jagiełło "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"DELTA TOUR\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5262237697 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "00-732",
+            "phone_number": null,
+            "krs_number": "0000033367 ",
+            "regon_number": "013224465 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Aleksander Wojciech Szymerski "
+            ],
+            "procuration_members": [
+                "Aleksander Wojciech Szymerski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "KOŁO EMERYTÓW PRZY ORANGE POLSKA S.A. W WARSZAWIE",
+            "nip_number": "5262520430 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "00-549",
+            "phone_number": null,
+            "krs_number": "0000171006 ",
+            "regon_number": "016389570 ",
+            "legal_form": "inna ",
+            "board_members": [
+                "Maria Ewa Rzymkowska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Toyota Material Handling Polska sp. z o.o.",
+            "nip_number": "5221006096 ",
+            "owner_name": null,
+            "city_name": "Jaktorów",
+            "postal_code": "96-313",
+            "phone_number": null,
+            "krs_number": "0000046001 ",
+            "regon_number": "010758321 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Marek Michał Wyleżych "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PIOTR MAJDA REDICREO",
+            "nip_number": "7343257311 ",
+            "owner_name": "PIOTR MAJDA ",
+            "city_name": "Kraków",
+            "postal_code": "31-314",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "122773740 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "VICTUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "8762485454 ",
+            "owner_name": null,
+            "city_name": "ŁASIN",
+            "postal_code": "86-320",
+            "phone_number": null,
+            "krs_number": "0000776893 ",
+            "regon_number": "382841232 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Paweł Włodzimierz Makowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "UNIBAX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "8790179456 ",
+            "owner_name": null,
+            "city_name": "TORUŃ",
+            "postal_code": "87-100",
+            "phone_number": null,
+            "krs_number": "0000116620 ",
+            "regon_number": "870012593 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Jakub Kamil Nadachewicz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ATTIS S.C.",
+            "nip_number": "5222863052 ",
+            "owner_name": null,
+            "city_name": "Warszawa",
+            "postal_code": "01-493",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "141096083 ",
+            "legal_form": "inna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BIURO USLUGOWO HANDLOWE",
+            "nip_number": "5841898060 ",
+            "owner_name": "ANDRZEJ ZYGLER ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-281",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "191065913 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BIOCOURSE.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "9542770868 ",
+            "owner_name": null,
+            "city_name": "KATOWICE",
+            "postal_code": "40-013",
+            "phone_number": null,
+            "krs_number": "0000645769 ",
+            "regon_number": "365822647 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Dariusz Jastrzębski "
+            ],
+            "procuration_members": [
+                "Dariusz Jastrzębski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "THOTHPRO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+            "nip_number": "5213678154 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-280",
+            "phone_number": null,
+            "krs_number": "0000521916 ",
+            "regon_number": "147390470 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": [
+                "Piotr Tomasz Lassota "
+            ]
+        },
+        {
+            "company_name": "AKADEMIA SZKOLENIA ZAWODOWEGO",
+            "nip_number": "8522582287 ",
+            "owner_name": null,
+            "city_name": "SZCZECIN",
+            "postal_code": "70-372",
+            "phone_number": null,
+            "krs_number": "0000371672 ",
+            "regon_number": "320932612 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Mieczysława Igielska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "VITAIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "6751751862 ",
+            "owner_name": null,
+            "city_name": "KRAKÓW",
+            "postal_code": "31-539",
+            "phone_number": null,
+            "krs_number": "0000902229 ",
+            "regon_number": "389005250 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Monika Anna Zakrzewska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Rafał Zimoń- RAFFA",
+            "nip_number": "7311715851 ",
+            "owner_name": "Rafał Zimoń ",
+            "city_name": "Pabianice",
+            "postal_code": "95-200",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "100519696 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SI CONSULTING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "7792407263 ",
+            "owner_name": null,
+            "city_name": "POZNAŃ",
+            "postal_code": "60-702",
+            "phone_number": null,
+            "krs_number": "0000427750 ",
+            "regon_number": null,
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Olga Zinguerman "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "eduMKa Marek Kruk",
+            "nip_number": "5422171850 ",
+            "owner_name": "MAREK KRUK ",
+            "city_name": "Białystok",
+            "postal_code": "15-349",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "381772658 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LIFTPROJEKT RAFALIK SPÓŁKA KOMANDYTOWA",
+            "nip_number": "5252720357 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "01-030",
+            "phone_number": null,
+            "krs_number": "0000691568 ",
+            "regon_number": "368101003 ",
+            "legal_form": "spółka komandytowa ",
+            "board_members": [
+                "Paweł Rafalik "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Sławomir Lukaj LUKAJ",
+            "nip_number": "5512529373 ",
+            "owner_name": "Sławomir Lukaj ",
+            "city_name": "Zawadka",
+            "postal_code": "34-100",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "367050657 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "VIKTORIIA MUSIAL",
+            "nip_number": "7822909668 ",
+            "owner_name": "VIKTORIIA MUSIAL ",
+            "city_name": "Poznań",
+            "postal_code": "61-751",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "521779980 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Ad-rem Firma Szkoleniowa Anna Jędrzejczak-Wróblewska",
+            "nip_number": "7262464750 ",
+            "owner_name": "Anna Jędrzejczak-Wróblewska ",
+            "city_name": "Łódź",
+            "postal_code": "91-473",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "368889474 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "WIENER TOWARZYSTWO UBEZPIECZEŃ SPÓŁKA AKCYJNA VIENNA INSURANCE GROUP",
+            "nip_number": "5240302393 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "02-675",
+            "phone_number": null,
+            "krs_number": "0000033882 ",
+            "regon_number": "010594552 ",
+            "legal_form": "spółka akcyjna ",
+            "board_members": [
+                "Anna Katarzyna Włodarczyk Moczkowska "
+            ],
+            "procuration_members": [
+                "Anna Katarzyna Włodarczyk Moczkowska "
+            ],
+            "supervisory_board": [
+                "Anna Katarzyna Włodarczyk Moczkowska "
+            ]
+        },
+        {
+            "company_name": "PROCESSTEAM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5242716070 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "01-459",
+            "phone_number": null,
+            "krs_number": "0000363350 ",
+            "regon_number": "142542633 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Leszek Paweł Dzięgielewski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EDYTA FRASZCZAK",
+            "nip_number": "7262543024 ",
+            "owner_name": "EDYTA FRASZCZAK ",
+            "city_name": "Łódź",
+            "postal_code": "90-612",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "387118090 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "NATAMON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5892073501 ",
+            "owner_name": null,
+            "city_name": "CHMIELNO",
+            "postal_code": "83-333",
+            "phone_number": null,
+            "krs_number": "0000975835 ",
+            "regon_number": "522245648 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Natalia Diadii "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "POLSKA GRUPA POMPOWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "6412550517 ",
+            "owner_name": null,
+            "city_name": "RUDA ŚLĄSKA",
+            "postal_code": "41-706",
+            "phone_number": null,
+            "krs_number": "0000843997 ",
+            "regon_number": "386205800 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Katarzyna Krasuska "
+            ],
+            "procuration_members": [
+                "Katarzyna Krasuska "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"LOGOS\" CENTRUM EDUKACYJNE  JAN ROMAŃCZUK",
+            "nip_number": "8212384699 ",
+            "owner_name": "Jan ROMAŃCZUK ",
+            "city_name": "Łomża",
+            "postal_code": "18-400",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200059263 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "VWR INTERNATIONAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5832705185 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-175",
+            "phone_number": null,
+            "krs_number": "0000002325 ",
+            "regon_number": "192303533 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Piotr Jakubowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BARTOSZ GADOMSKI Gadomski Consulting",
+            "nip_number": "7582139454 ",
+            "owner_name": "BARTOSZ GADOMSKI ",
+            "city_name": "Warszawa",
+            "postal_code": "00-717",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "141593002 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MANBROKER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5842728526 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-308",
+            "phone_number": null,
+            "krs_number": "0000432092 ",
+            "regon_number": "221736744 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Sabina Karolina Markowicz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MERCK LIFE SCIENCE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "7781002137 ",
+            "owner_name": null,
+            "city_name": "POZNAŃ",
+            "postal_code": "61-626",
+            "phone_number": null,
+            "krs_number": "0000046102 ",
+            "regon_number": "630231571 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Paweł Piwko "
+            ],
+            "procuration_members": [
+                "Paweł Piwko "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "as-truck Sp.Jawna",
+            "nip_number": "9520009118 ",
+            "owner_name": null,
+            "city_name": "Warszawa",
+            "postal_code": "04-866",
+            "phone_number": null,
+            "krs_number": "0000021163 ",
+            "regon_number": "010879728 ",
+            "legal_form": "spółka partnerska ",
+            "board_members": [
+                "Andrzej Bogusław Skarżyński "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PRZEDSIĘBIORSTWO BUDOWY ELEKTROWNI I PRZEMYSŁU \"BETON-STAL OSTROŁĘKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "7580000060 ",
+            "owner_name": null,
+            "city_name": "OSTROŁĘKA",
+            "postal_code": "07-401",
+            "phone_number": null,
+            "krs_number": "0000039452 ",
+            "regon_number": "550028432 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Jacek Wilga "
+            ],
+            "procuration_members": [
+                "Jacek Wilga "
+            ],
+            "supervisory_board": [
+                "Jacek Wilga "
+            ]
+        },
+        {
+            "company_name": "UroEstetic Natalia Pietrzak",
+            "nip_number": "7312002946 ",
+            "owner_name": "Natalia Pietrzak ",
+            "city_name": "Wodzierady",
+            "postal_code": "98-105",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "521486539 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "USŁUGI MONTERSKO-SPAWALNICZE Sylwester Sawczuk",
+            "nip_number": "7441820078 ",
+            "owner_name": "SYLWESTER SAWCZUK ",
+            "city_name": "Kłodawa",
+            "postal_code": "83-035",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "380765946 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Pfi sp. z o.o. w likwidacji",
+            "nip_number": "8513141224 ",
+            "owner_name": null,
+            "city_name": "Szczecin",
+            "postal_code": "70-542",
+            "phone_number": null,
+            "krs_number": "0000378784 ",
+            "regon_number": "320964612 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "EWA WIECZOREK WIGO",
+            "nip_number": "7771382492 ",
+            "owner_name": "EWA WIECZOREK ",
+            "city_name": "Poznań",
+            "postal_code": "61-131",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "360703748 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Mapi Life Sciences Poland sp. z o.o.",
+            "nip_number": "5222996586 ",
+            "owner_name": null,
+            "city_name": "Warszawa",
+            "postal_code": "02-135",
+            "phone_number": null,
+            "krs_number": "0000420255 ",
+            "regon_number": "146123123 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "AMPro Agnieszka Masternak",
+            "nip_number": "6831986550 ",
+            "owner_name": "Agnieszka Masternak ",
+            "city_name": "Wieliczka",
+            "postal_code": "32-020",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "522942264 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Zeus Packaging",
+            "nip_number": "5272628809 ",
+            "owner_name": null,
+            "city_name": "Poznań",
+            "postal_code": "61-248",
+            "phone_number": null,
+            "krs_number": "0000357803 ",
+            "regon_number": "142435038 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Brian O'sullivan "
+            ],
+            "procuration_members": [
+                "Brian O'sullivan "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "TIM TOMASZ URBANOWSKI",
+            "nip_number": "7182007393 ",
+            "owner_name": "TOMASZ URBANOWSKI ",
+            "city_name": "Łomża",
+            "postal_code": "18-400",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "363046908 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "INNONOVAWSB SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5842796982 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-244",
+            "phone_number": null,
+            "krs_number": "0000860226 ",
+            "regon_number": "387035501 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Katarzyna Hanna Litwin "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Andy-Design Andrzej Glomski usługi tapicerskie",
+            "nip_number": "5921320156 ",
+            "owner_name": "Andrzej Glomski ",
+            "city_name": "Rokitki",
+            "postal_code": "83-112",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "388880888 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"OŚWIATA-LINGWISTA\" NADBAŁTYCKIE CENTRUM EDUKACJI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5832448742 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-107",
+            "phone_number": null,
+            "krs_number": "0000044142 ",
+            "regon_number": "191376820 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Katarzyna Maria Ostrowska "
+            ],
+            "procuration_members": [
+                "Katarzyna Maria Ostrowska "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "NET PC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5833089127 ",
+            "owner_name": null,
+            "city_name": "GDAŃSK",
+            "postal_code": "80-802",
+            "phone_number": null,
+            "krs_number": "0000344789 ",
+            "regon_number": "220925302 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Maciej Czapluk "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "4E WOJCIECH BIAŁECKI",
+            "nip_number": "9580035295 ",
+            "owner_name": "WOJCIECH BIAŁECKI ",
+            "city_name": "Gdynia",
+            "postal_code": "81-538",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "385790558 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Izabela Kossewska",
+            "nip_number": "5842340354 ",
+            "owner_name": "Izabela Kossewska ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-333",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "520761446 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "P.H.P.U.\"ELEKTRA\" S.C.",
+            "nip_number": "5730115333 ",
+            "owner_name": null,
+            "city_name": "Częstochowa",
+            "postal_code": "42-200",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "150061809 ",
+            "legal_form": "spółka cywilna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "R&R S.C.",
+            "nip_number": "5322043880 ",
+            "owner_name": null,
+            "city_name": "Józefów",
+            "postal_code": "05-420",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "146111380 ",
+            "legal_form": "spółka cywilna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "WOJEWÓDZKA STACJA POGOTOWIA RATUNKOWEGO W POZNANIU",
+            "nip_number": "7792009143 ",
+            "owner_name": null,
+            "city_name": "Poznań",
+            "postal_code": "60-346",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "639686132 ",
+            "legal_form": "samodzielny publiczny zakład opieki zdrowotnej ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "ZAKŁAD BUDOWLANO-DEKARSKI MAREK PLECHOWSKI",
+            "nip_number": "5831698483 ",
+            "owner_name": "MAREK PLECHOWSKI ",
+            "city_name": "Gdańsk",
+            "postal_code": "80-765",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "220329095 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Grast & MTB sp. z o.o.",
+            "nip_number": "1132250562 ",
+            "owner_name": null,
+            "city_name": "Warszawa",
+            "postal_code": "03-716",
+            "phone_number": null,
+            "krs_number": "0000026718 ",
+            "regon_number": "016316481 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Michał Emanuel Martowicz "
+            ],
+            "procuration_members": [
+                "Michał Emanuel Martowicz "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MARWIK MAREK WOŹNIAK",
+            "nip_number": "6471566218 ",
+            "owner_name": "Marek Woźniak ",
+            "city_name": "Rydułtowy",
+            "postal_code": "44-280",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "364451025 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PPHU \"JAK\"",
+            "nip_number": "6372045290 ",
+            "owner_name": "Paweł Kyć ",
+            "city_name": "Wolbrom",
+            "postal_code": "32-340",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "120249198 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MAŁECKA KARINA AVIS EKOLOGICZNE PLACE ZABAW",
+            "nip_number": "7451270001 ",
+            "owner_name": "KARINA MAŁECKA ",
+            "city_name": "Lublin",
+            "postal_code": "20-230",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "060606150 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"DELTA TOUR\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "5262237697 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "00-732",
+            "phone_number": null,
+            "krs_number": "0000033367 ",
+            "regon_number": "013224465 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Aleksander Wojciech Szymerski "
+            ],
+            "procuration_members": [
+                "Aleksander Wojciech Szymerski "
+            ],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "LOGOS CENTRUM EDUKACYJNE JAN ROMAŃCZUK, TOMASZ WYSOCKI SPÓLKA CYWILNA",
+            "nip_number": "7182102631 ",
+            "owner_name": null,
+            "city_name": "Łomża",
+            "postal_code": "18-400",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "200291273 ",
+            "legal_form": "inna ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "INTER ALCOHOLS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "7312068603 ",
+            "owner_name": null,
+            "city_name": "KONSTANTYNÓW ŁÓDZKI",
+            "postal_code": "95-050",
+            "phone_number": null,
+            "krs_number": "0000847461 ",
+            "regon_number": "386372231 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Maciej Romanowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Ideacto sp. z o.o.",
+            "nip_number": "8951961542 ",
+            "owner_name": null,
+            "city_name": "Wrocław",
+            "postal_code": "50-038",
+            "phone_number": null,
+            "krs_number": "0000338986 ",
+            "regon_number": "021086413 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Nikodem Krajewski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "GREGORJAN Paulina Kilian",
+            "nip_number": "1231057472 ",
+            "owner_name": "Paulina Kilian ",
+            "city_name": "Łoziska",
+            "postal_code": "05-500",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "364504075 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PISKOZUB ZBIGNIEW",
+            "nip_number": "6420006194 ",
+            "owner_name": "ZBIGNIEW PISKOZUB ",
+            "city_name": "Radlin",
+            "postal_code": "44-310",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "272459532 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BUSINESS MASTERS COMMUNITY FOUNDATION",
+            "nip_number": "1231511675 ",
+            "owner_name": null,
+            "city_name": "PIASECZNO",
+            "postal_code": "05-500",
+            "phone_number": null,
+            "krs_number": "0000955768 ",
+            "regon_number": "521778667 ",
+            "legal_form": "fundacja ",
+            "board_members": [
+                "Grażyna Izabella Jaworska Piotrowska "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "OŚRODEK SZKOLENIA DOKSZTAŁCANIA I DOSKONALENIA KADR KURSOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "9462713354 ",
+            "owner_name": null,
+            "city_name": "LUBLIN",
+            "postal_code": "20-013",
+            "phone_number": null,
+            "krs_number": "0000943881 ",
+            "regon_number": "520838700 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Anna Mirosław "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "SZULIM IRENEUSZ Hotel \"SREBRNY ŚWIERK\"",
+            "nip_number": "9521013317 ",
+            "owner_name": "IRENEUSZ SZULIM ",
+            "city_name": "Okuniew",
+            "postal_code": "05-079",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "011328841 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "TADEUSZ BOGUSZ \"TEBEX\"",
+            "nip_number": "6770042977 ",
+            "owner_name": "TADEUSZ BOGUSZ ",
+            "city_name": "Śledziejowice",
+            "postal_code": "32-020",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "350294140 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Pharmacy Project Tomasz Wojdat",
+            "nip_number": "5921995925 ",
+            "owner_name": "Tomasz Wojdat ",
+            "city_name": "Borkowo",
+            "postal_code": "80-180",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "222054165 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "MARIKA WATO",
+            "nip_number": "6572762837 ",
+            "owner_name": "MARIKA WATO ",
+            "city_name": "Tyczyn",
+            "postal_code": "36-020",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "260568377 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Artur Urbaniec Hurtownia kosmetyczna Vanity",
+            "nip_number": "9492023105 ",
+            "owner_name": "Artur Urbaniec ",
+            "city_name": "Wrocław",
+            "postal_code": "53-332",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "241564434 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "BARBARA GODLEWSKA",
+            "nip_number": "8441139174 ",
+            "owner_name": "BARBARA GODLEWSKA ",
+            "city_name": "Suwałki",
+            "postal_code": "16-400",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "790227045 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "QUANTUM DESIGN Zbigniew Czyż",
+            "nip_number": "8133335057 ",
+            "owner_name": "Zbigniew Czyż ",
+            "city_name": "Rzeszów",
+            "postal_code": "35-061",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "521531122 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "Joanna Siwek JOANNA",
+            "nip_number": "7361622330 ",
+            "owner_name": "Joanna Siwek ",
+            "city_name": "Zakopane",
+            "postal_code": "34-500",
+            "phone_number": null,
+            "krs_number": null,
+            "regon_number": "120081132 ",
+            "legal_form": "indywidualna działalność gospodarcza ",
+            "board_members": [],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "\"PRO-EDU-MASTER\"",
+            "nip_number": "7811976299 ",
+            "owner_name": null,
+            "city_name": "POZNAŃ",
+            "postal_code": "60-446",
+            "phone_number": null,
+            "krs_number": "0000739413 ",
+            "regon_number": "380719142 ",
+            "legal_form": "fundacja ",
+            "board_members": [
+                "Joanna Maria Pasternak Jurkiewicz "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "PARTIUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+            "nip_number": "1231441176 ",
+            "owner_name": null,
+            "city_name": "NOWA IWICZNA",
+            "postal_code": "05-500",
+            "phone_number": null,
+            "krs_number": "0000791263 ",
+            "regon_number": "383663494 ",
+            "legal_form": "spółka z ograniczoną odpowiedzialnością ",
+            "board_members": [
+                "Aleksander Zębrowski "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        },
+        {
+            "company_name": "KRAJOWA IZBA TARGOWA",
+            "nip_number": "5252673066 ",
+            "owner_name": null,
+            "city_name": "WARSZAWA",
+            "postal_code": "00-074",
+            "phone_number": null,
+            "krs_number": "0000632616 ",
+            "regon_number": "365212104 ",
+            "legal_form": "izba gospodarcza ",
+            "board_members": [
+                "Andrzej Stanisław Szulc "
+            ],
+            "procuration_members": [],
+            "supervisory_board": []
+        }
+    ]
+}

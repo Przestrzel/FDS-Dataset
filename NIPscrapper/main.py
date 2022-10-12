@@ -1,4 +1,5 @@
 import json
+import re
 from types import SimpleNamespace
 
 from urllib.request import urlopen, Request
@@ -130,6 +131,7 @@ def get_procuration_members(company_authorities_section, procuration_members, st
                 new_member = ""
     return
 
+
 def get_board_members(company_authorities_section, board_members_array):
     if company_authorities_section is not None:
         board_members = company_authorities_section.find("div", {"class": "board-members"})
@@ -161,8 +163,15 @@ def get_postal_code_and_city_name(address_block_div):
     if address_block_div is not None:
         address = address_block_div.find("div", {"class":"address-data"}).text
         elements = address.split(" ")
-        postal_code = elements[len(elements) - 2]
-        city_name = elements[len(elements) - 1]
+        postal_code_array = re.findall('[0-9][0-9]-[0-9][0-9][0-9]', address)
+        if len(postal_code_array) == 0:
+            postal_code = ""
+            city_name = elements[len(elements) - 1]
+        else:
+            postal_code = postal_code_array[0]
+            postal_code_start_index = address.find(postal_code)
+            city_name = address[postal_code_start_index + 7:]
+
         print("Postal code : " + postal_code)
         print("City name : " + city_name)
         return postal_code, city_name
@@ -208,11 +217,13 @@ def check_auction_attender(attenders):
                     companies.append(company)
     return companies
 
+
 def check_single_auction_attender(attender_name):
 
     attender_name_string = str(attender_name)
     hdr = {'User-Agent': 'Mozilla/5.0'}
-    new_link = START_LINK + replace_polish_characters(attender_name_string).replace(' ', '+') + END_LINK
+    new_link = START_LINK + replace_polish_characters(attender_name_string) #+ END_LINK
+    #new_link = START_LINK + attender_name_string.replace(" ", "%20")
     to_path = encode_decode_request_path(new_link)
     req = Request(to_path, headers=hdr)
     print(new_link)
@@ -273,7 +284,11 @@ def replace_polish_characters(base_text):
         .replace("Ń", "N")\
         .replace("“", '"')\
         .replace("”", '"')\
-        .replace("„", '"')
+        .replace("„", '"')\
+        .replace("–", "-")\
+        .replace(" ", "%20")\
+        .replace("’", "'") \
+        .replace('\xad', '')
 
     return return_text
 
@@ -321,19 +336,20 @@ def createComapniesListFromCity():
 
 if __name__ == '__main__':
     print("Start processing...")
-    createComapniesListFromCity()
+    # createComapniesListFromCity()
 
     print("Companies list is fetched")
     companies = Companies()
-    with open(f'OutputData/CompaniesList.txt', 'rb') as f:
+    with open(f'OutputData/CompaniesList.txt', 'r', encoding='utf8') as f:
         companies_from_file = f.readlines()
 
         for company_name_from_file in companies_from_file:
+            print(company_name_from_file)
             company_to_add = check_single_auction_attender(company_name_from_file)
             if company_to_add is not None:
                 companies.add_company(company_to_add)
 
-        with open(f'OutputData/Companies3.json', 'w', encoding='utf8') as f:
+        with open(f'OutputData/CompaniesFromRest.json', 'w', encoding='utf8') as f:
             json.dump(json.JSONDecoder().decode(companies.to_json()), f, ensure_ascii=False, indent=4)
 
     createComapniesListFromCity()
