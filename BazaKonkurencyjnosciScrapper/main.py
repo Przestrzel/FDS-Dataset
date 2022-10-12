@@ -1,3 +1,5 @@
+import HEAD as HEAD
+
 import constants
 import json
 from offer import Offer
@@ -214,12 +216,11 @@ def get_auction_data(auction_link):
 
 
 def get_last_done_chunk(city_name):
-    onlyfiles = [f for f in listdir(config.path_to_data) if isfile(join(config.path_to_data, f))]
-    try:
-        last_file = onlyfiles[-1]
-        last_file_index = last_file.split(city_name, 1)[1].split('.json', 1)[0]
-    except Exception:
-        last_file_index = 0
+    onlyfiles = [f for f in listdir(config.path_to_data) if isfile(join(config.path_to_data, f)) and f.startswith(city_name)]
+    if len(onlyfiles) == 0:
+        return 0
+    last_file = onlyfiles[-1]
+    last_file_index = last_file.split(city_name, 1)[1].split('.json', 1)[0]
     return last_file_index
 
 
