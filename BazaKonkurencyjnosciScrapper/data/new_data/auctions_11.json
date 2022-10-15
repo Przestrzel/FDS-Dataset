@@ -1,0 +1,1830 @@
+[
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 3.ZK.WDD.2022 NA CATERING",
+        "advertiser_name": "Wioska Dzikich Dzieci Natalia Gurin-Ostrowska",
+        "start_date": "2022-09-15",
+        "end_date": "2022-09-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 1100,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Ośrodek Wsparcia Ekonomii Społecznej DOBRA ROBOTA na subregion metropolitalny",
+        "advertiser_name": "Fundacja Pokolenia",
+        "start_date": "2022-09-13",
+        "end_date": "2022-09-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79342000-3",
+                "description": "Usługi marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 1101,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE 01/10/2022/OR na zrealizowanie zadania Komputer – 1 szt.,",
+        "advertiser_name": "Orplast spółka z ograniczoną odpowiedzialnością spółka jawna",
+        "start_date": "2022-10-03",
+        "end_date": "2022-10-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30211000-1",
+                "description": "Komputery wysokowydajne"
+            }
+        ],
+        "EU": true,
+        "id": 1102,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie maszyny do obróbki wibrościernej - 10/WIERTNICA/2021",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2021-12-01",
+        "end_date": "2022-01-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42631000-8",
+                "description": "Obrabiarki do wykańczania metali"
+            },
+            {
+                "code": "51500000-7",
+                "description": "Usługi instalowania maszyn i urządzeń"
+            }
+        ],
+        "EU": false,
+        "id": 1103,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie zrobotyzowanego stanowiska do spawania - 7/WIERTNICA/2020",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2020-10-26",
+        "end_date": "2020-12-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42662000-4",
+                "description": "Sprzęt spawalniczy"
+            }
+        ],
+        "EU": false,
+        "id": 1104,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie pieca lutowniczego - 1/WDMUCHIWARKA/2020",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2020-12-11",
+        "end_date": "2021-01-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42341000-8",
+                "description": "Piece przemysłowe"
+            },
+            {
+                "code": "51500000-7",
+                "description": "Usługi instalowania maszyn i urządzeń"
+            }
+        ],
+        "EU": false,
+        "id": 1105,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie oczyszczarki do obróbki strumieniowej - 4/MEDYCZNE/2021",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2021-01-15",
+        "end_date": "2021-02-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42631000-8",
+                "description": "Obrabiarki do wykańczania metali"
+            },
+            {
+                "code": "51500000-7",
+                "description": "Usługi instalowania maszyn i urządzeń"
+            }
+        ],
+        "EU": false,
+        "id": 1106,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, montaż i uruchomienie automatycznej przecinarki do rur - 5/MEDYCZNE/2021",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2021-02-16",
+        "end_date": "2021-03-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42630000-1",
+                "description": "Obrabiarki do obróbki metali"
+            },
+            {
+                "code": "51500000-7",
+                "description": "Usługi instalowania maszyn i urządzeń"
+            }
+        ],
+        "EU": false,
+        "id": 1107,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie oczyszczarki do obróbki strumieniowo-ściernej - 8/WIERTNICA/2021",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2021-06-18",
+        "end_date": "2021-07-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42631000-8",
+                "description": "Obrabiarki do wykańczania metali"
+            },
+            {
+                "code": "51500000-7",
+                "description": "Usługi instalowania maszyn i urządzeń"
+            }
+        ],
+        "EU": false,
+        "id": 1108,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie maszyny do obróbki wibrościernej - 10/WIERTNICA/2022",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2022-07-05",
+        "end_date": "2022-08-05",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "42631000-8",
+                "description": "Obrabiarki do wykańczania metali"
+            },
+            {
+                "code": "51500000-7",
+                "description": "Usługi instalowania maszyn i urządzeń"
+            }
+        ],
+        "EU": false,
+        "id": 1109,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe na wydruk i dostawę do siedziby Zamawiającego plakatów i naklejek informacyjno-edukacyjnych",
+        "advertiser_name": "InnoBaltica Sp. z o.o.",
+        "start_date": "2022-07-06",
+        "end_date": "2022-07-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79823000-9",
+                "description": "Usługi drukowania i dostawy"
+            }
+        ],
+        "EU": false,
+        "id": 1110,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ABC Małego Biznesu",
+        "advertiser_name": "Powiat Miasta Gdańska/ Gdański Urząd Pracy",
+        "start_date": "2022-02-25",
+        "end_date": "2022-03-08",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1111,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Organizacja i realizacja kursu p.n.: „Kadry i Płace” w formie on-line dla 1 osoby –Uczestnika projektu „System Aktywizacji Społeczno-Zawodowej w Gdańsku – komponent aktywnej integracji II” - powtórzone",
+        "advertiser_name": "Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną koło w Gdańsku",
+        "start_date": "2022-02-07",
+        "end_date": "2022-02-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 1112,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie tokarki CNC z oprzyrządowaniem - 6/WIERTNICA/2020",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2020-09-07",
+        "end_date": "2020-10-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42621100-6",
+                "description": "Tokarki sterowane komputerowo"
+            }
+        ],
+        "EU": false,
+        "id": 1113,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Realizacja usług związanych z organizacją wyjazdu zagranicznego do Tallina w celu nawiązania współpracy dla Pomorskiej Specjalnej Strefy Ekonomicznej sp. z o.o./Gdańskiego Parku Naukowo-Technologicznego z siedzibą w Gdańsku",
+        "advertiser_name": "Pomorska Specjalna Strefa Ekonomiczna Sp. z o. o.",
+        "start_date": "2022-07-07",
+        "end_date": "2022-07-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 1114,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Moja Mammografia – Moje Życie”",
+        "advertiser_name": "Geneva Trust Polska sp. z o.o.",
+        "start_date": "2022-02-22",
+        "end_date": "2022-03-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80320000-3",
+                "description": "Usługi edukacji medycznej"
+            }
+        ],
+        "EU": true,
+        "id": 1115,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Realizacja usług związanych z organizacją wyjazdu zagranicznego do Bergamo (Włochy) w celu nawiązania współpracy dla Pomorskiej Specjalnej Strefy Ekonomicznej sp. z o.o./Gdańskiego Parku Naukowo-Technologicznego z siedzibą w Gdańsku",
+        "advertiser_name": "Pomorska Specjalna Strefa Ekonomiczna Sp. z o. o.",
+        "start_date": "2022-08-31",
+        "end_date": "2022-09-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 1116,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 4/POWER/2022 - usługa transportowa",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2022-04-13",
+        "end_date": "2022-04-21",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60000000-8",
+                "description": "Usługi transportowe (z wyłączeniem transportu odpadów)"
+            }
+        ],
+        "EU": false,
+        "id": 1117,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie pionowego centrum obróbkowego CNC - 5/369/2020",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2020-11-01",
+        "end_date": "2020-12-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42612200-1",
+                "description": "Pionowe, wrzecionowate centra obróbkowe"
+            }
+        ],
+        "EU": false,
+        "id": 1118,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ABC Małego Biznesu",
+        "advertiser_name": "Powiat Miasta Gdańska/ Gdański Urząd Pracy",
+        "start_date": "2022-06-30",
+        "end_date": "2022-07-08",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1119,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Realizacja usług związanych z organizacją wyjazdu zagranicznego do Sewilli w celu nawiązania współpracy dla Pomorskiej Specjalnej Strefy Ekonomicznej sp. z o.o./Gdańskiego Parku Naukowo-Technologicznego z siedzibą w Gdańsku",
+        "advertiser_name": "Pomorska Specjalna Strefa Ekonomiczna Sp. z o. o.",
+        "start_date": "2022-07-05",
+        "end_date": "2022-07-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 1120,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Realizacja usług związanych z organizacją czterech wyjazdów zagranicznych w celu nawiązania współpracy dla Pomorskiej Specjalnej Strefy Ekonomicznej Sp. z o.o. z siedzibą w Gdańsku",
+        "advertiser_name": "Pomorska Specjalna Strefa Ekonomiczna Sp. z o. o.",
+        "start_date": "2022-05-24",
+        "end_date": "2022-06-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 1121,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie wycinarki laserowej do rur i profili - 6/MEDYCZNE/2022",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2022-03-11",
+        "end_date": "2022-04-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42632000-5",
+                "description": "Obrabiarki sterowane komputerowo do metalu"
+            }
+        ],
+        "EU": false,
+        "id": 1122,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa, instalacja oraz uruchomienie tokarki CNC z osią Y - 9/WIERTNICA/2021",
+        "advertiser_name": "Terma Sp. z o.o.",
+        "start_date": "2021-11-14",
+        "end_date": "2021-12-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42621100-6",
+                "description": "Tokarki sterowane komputerowo"
+            }
+        ],
+        "EU": false,
+        "id": 1123,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowa 9/2022- Promocja- udział w konferencji Web Summit 2022",
+        "advertiser_name": "SentiOne SA",
+        "start_date": "2022-09-30",
+        "end_date": "2022-10-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55100000-1",
+                "description": "Usługi hotelarskie"
+            }
+        ],
+        "EU": false,
+        "id": 1124,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "projektu „Mutacje nabywane w trakcie rozwoju i życia człowieka powodujące zwiększone ryzyko chorób, w szczególności nowotworów”",
+        "advertiser_name": "Gdański Uniwersytet Medyczny",
+        "start_date": "2020-10-23",
+        "end_date": "2020-11-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": true,
+        "id": 1125,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wykonanie oprogramowania systemu zgodnie z projektem: Implementacja aplikacji webowej oraz aplikacji mobilnych, służących do konfiguracji komputera nurkowego – etap 2",
+        "advertiser_name": "RSX Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2020-09-21",
+        "end_date": "2020-09-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": true,
+        "id": 1126,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe na spawarki TIG i spawarki MIG",
+        "advertiser_name": "Vent Trade Sp. z o. o.",
+        "start_date": "2021-06-15",
+        "end_date": "2021-06-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42662000-4",
+                "description": "Sprzęt spawalniczy"
+            }
+        ],
+        "EU": true,
+        "id": 1127,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ORGANIZACJA WYDARZENIA GOSPODARCZEGO OBEJMUJĄCEGO WYJAZD DO SINGAPURU",
+        "advertiser_name": "Regionalna Izba Gospodarcza Pomorza",
+        "start_date": "2022-09-06",
+        "end_date": "2022-09-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "63510000-7",
+                "description": "Usługi biur podróży i podobne"
+            }
+        ],
+        "EU": false,
+        "id": 1128,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 33/0092/2021- Organizacja wyjazdów edukacyjno-integracyjnych dla rodziców i dzieci",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-07-22",
+        "end_date": "2021-07-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 1129,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Kompleksowa organizacja i obsługa stoiska wystawienniczego, w tym w szczególności usługa transportu, montażu i demontażu stoiska targowego wraz z zapewnieniem obsługi technicznej dla Członka Klastra JAKUSZ sp. z o.o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-10-04",
+        "end_date": "2021-10-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 1130,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transportu eksponatów wraz z ubezpieczeniem na Targi Made In Poland dla Członka Klastra REAKTO., odbywających się w dn. 8-9.06.2022 r., w Berlinie",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-05-25",
+        "end_date": "2022-06-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1131,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy JAKUSZ",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-06-02",
+        "end_date": "2022-06-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1132,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy Technomex",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-05-05",
+        "end_date": "2022-05-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1133,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy REAKTO",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-05-13",
+        "end_date": "2022-05-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1134,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 3/POWER/2022 - usługa noclegowa i cateringowa",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2022-04-13",
+        "end_date": "2022-04-21",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": false,
+        "id": 1135,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych na misję gospodarczą do Kazachstanu, Uzbekistanu i Kirgistanu w styczniu 2022, dla członka Klastra - firmy JAKUSZ Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-12-22",
+        "end_date": "2022-01-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1136,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Organizacja pokazów i prezentacji produktów w zakresie promocji marki produktowej, dla członka Klastra - firmy Proteh Glassdeep Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-12-30",
+        "end_date": "2022-01-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79950000-8",
+                "description": "Usługi w zakresie organizowania wystaw, targów i kongresów"
+            }
+        ],
+        "EU": false,
+        "id": 1137,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transportu eksponatów wraz z ubezpieczeniem na Targi Dallas Build Expo 2022 dla Członka Klastra firmy mTap Smart City Sp. z o. o., które odbędą się w dn. 16-17 marca 2022 roku w USA.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-02-25",
+        "end_date": "2022-03-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1138,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transportu eksponatów wraz z ubezpieczeniem na Targi Iffa 2022 dla Członka Klastra N&N Nadratowski Sp.j.\", odbywających się w dn. 14 - 19 maja 2022 roku w Frankfurcie.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-04-28",
+        "end_date": "2022-05-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1139,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe na nożyce gilotynowe",
+        "advertiser_name": "Vent Trade Sp. z o. o.",
+        "start_date": "2021-11-09",
+        "end_date": "2021-11-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42630000-1",
+                "description": "Obrabiarki do obróbki metali"
+            }
+        ],
+        "EU": true,
+        "id": 1140,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Wirtualny model stanowiący zindywidualizowany element zabudowy stoiska dla Proteh Glassdeep”",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-05-06",
+        "end_date": "2021-05-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 1141,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transport eksponatów wraz z ubezpieczeniem na Targi DIMDEX i AIM dla Członka Klastra - firmy Spectre Solutions Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-02-21",
+        "end_date": "2022-02-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60000000-8",
+                "description": "Usługi transportowe (z wyłączeniem transportu odpadów)"
+            }
+        ],
+        "EU": false,
+        "id": 1142,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra - firmy PHU Technomex",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-09-05",
+        "end_date": "2022-09-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1143,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Wykonanie stoiska targowego dla firmy KAKADO Sp. z o.o.”",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-08-27",
+        "end_date": "2021-09-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "Zapytanie",
+                "description": "ofertowe dotyczące realizacji zamówienia pn.: „Wykonanie stoiska targowego dla firmy KAKADO Sp. z o.o.” Dotyczy realizacji projektu pn: „UWE - Usługi wsparcia eksportu dla innowacyjnych firm oraz produktów Klastra Logistyczno- Transportowego Północ - Południe”. Projekt jest współfinansowany ze środków Europejskiego Funduszu Rozwoju Regionalnego. I. Wstęp 1. Postępowanie prowadzone jest z zachowaniem zasad uczciwej konkurencji, efektywności, jawności i przejrzystości, w zgodzie z regulacjami wytycznych w zakresie kwalifikowalności wydatków w ramach EFRR, EFS oraz FS na lata 2014–2020. 2. Nie stosuje się przepisów w rozumieniu ustawy z dnia 29 stycznia 2004 r. prawo zamówień publicznych. 3. Postępowanie prowadzone jest w języku polskim. II. Zamawiający Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o. Trzy Lipy 3 80-172 Gdańsk NIP 5833156579 III. Opis przedmiotu zamówienia Przedmiotem zamówienia jest wykonanie stoiska o pow. 20m2, zgodnie z następującymi wymaganiami: - stoisko narożne, - kolor ścianek: biały, - kolor wykładziny: szary, - grafika z logo Zamawiającego umieszczona na froncie, Wyposażenie meblowe stoiska: - krzesło białe: 4 szt., - gablota wysoka: 1 szt., gablota powinna posiadać półki szklane i możliwość zamknięcia na klucz, - stolik narożny (recepcja): 1 szt. - stolik czarny: 1 szt., - krzesło barowe czarne: 1 szt., - wieszak ścienny: 1 szt., - kosz na śmieci: 1 szt. Wyposażenie techniczne stosika: - gniazdo 230V - 1 szt., - naświetlacz 60W - 10 szt., - światła oświetlające ściany wewnątrz stoiska. Lokalizacja stoiska na terenie pawilonu stanowi załącznik do niniejszego ogłoszenia. Kody i nazwy CPV: 79956000–0 Usługi w zakresie organizacji targów i wystaw IV. Terminy Oferty należy składać do 03.09.2021 roku. Oferty złożone po tym terminie nie będą rozpatrywane. Termin wykonania przedmiotu Zamówienia: 1 tydzień od zawarcia umowy V. Miejsce i sposób składania ofert 1.Oferty w odpowiedzi na zapytanie należy złożyć w formie elektronicznej (skan podpisanego dokumentu lub dokumenty podpisane kwalifikowanym podpisem elektronicznym) poprzez Bazę Konkurencyjności lub mailowo na adres: zamowienia.klaster@cksp.pl. 2. Ocena ofert nastąpi w ciągu 3 dni od końca okresu składania. 3. Zamawiający może żądać od Oferentów wyjaśnień dotyczących złożonych ofert. VI. Kontakt z zamawiającym Kontakt zamawiającego z oferentami, w tym pytania dotyczące postępowania powinny być kierowane za pomocą Bazy Konkurencyjności lub mailowo, na adres: zamowienia.klaster@cksp.pl VII. Warunki udziału Z udziału w postępowaniu wykluczone są podmioty powiązane kapitałowo bądź osobowo z zamawiającym. Przez powiązania te rozumie się wzajemne powiązania między zamawiającym lub osobami upoważnionymi do zaciągania zobowiązań w jego imieniu lub osobami wykonującymi w jego imieniu czynności związanych z procedurą wyboru wykonawcy, a oferentem / wykonawcą, polegające w szczególności na: a) uczestnictwie w spółce jako wspólnik spółki cywilnej lub spółki osobowej, b) posiadaniu co najmniej 10 % udziałów lub akcji, c) pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika, d) pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli. VIII. Wymogi oferty 1. Oferta powinna być sporządzona w języku polskim, na załączonym formularzu ofertowym. 2. Oferent może złożyć tylko jedną ofertę i w jednym egzemplarzu. 3. Oferta powinna zawierać: a) Nazwę i adres oferenta, datę sporządzenia, numer i termin ważności. b) Cenę netto oraz brutto obejmującą wszystkie koszty związane z realizacją zamówienia c) Warunki płatności. d) Wstępną wizualizację, propozycję zabudowy stoiska w formie plików graficznych. e) Adres poczty elektronicznej wskazany do kontaktów. 4.Wyceny w walucie obcej, zostaną przeliczone według średniego kursu NBP z dnia poprzedzającego wybór oferty. 5. Oferta powinna być ważna przynajmniej 30 dni. 6. Oferent ponosi koszty udziału w postępowaniu i nie może domagać się ich zwrotu. 7. Oferta powinna zostać przygotowana na załączonym edytowalnym formularzu oferty, wydrukowana i popisana wraz z oświadczeniami tam zawartymi. Dopuszcza się dodatkowe załączniki np. wizualizacje IX. Odrzucenie oferty Oferta może zostać odrzucona, gdy: a) złożył ją podmiot wykluczony z postępowania, b) nie spełnia warunków zapytania ofertowego oraz załączników, które stanowią integralną jego część. c) zawiera istotne błędy w cenie i/lub parametrach technicznych. Kody CPV 39133000-3 Zestawy wystawowe 71500000-3 Usługi związane z budownictwem"
+            },
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 1144,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Działanie 2.3 Proinnowacyjne usługi dla przedsiębiorstw Poddziałanie 2.3.2 Bony na innowacje dla MŚP, Etap I usługowy - konkurs ogólny, Programu Operacyjnego Inteligentny Rozwój 2014-2020.",
+        "advertiser_name": "Flov Piotr Trzciałkowski",
+        "start_date": "2020-09-08",
+        "end_date": "2020-09-17",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "71320000-7",
+                "description": "Usługi inżynieryjne w zakresie projektowania"
+            },
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            },
+            {
+                "code": "73100000-3",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
+            }
+        ],
+        "EU": true,
+        "id": 1145,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ORGANIZACJA WYDARZENIA GOSPODARCZEGO OBEJMUJĄCEGO WYJAZD DO ISLANDII",
+        "advertiser_name": "Regionalna Izba Gospodarcza Pomorza",
+        "start_date": "2021-12-07",
+        "end_date": "2021-12-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "63510000-7",
+                "description": "Usługi biur podróży i podobne"
+            },
+            {
+                "code": "66510000-8",
+                "description": "Usługi ubezpieczeniowe"
+            },
+            {
+                "code": "79952000-2",
+                "description": "Usługi w zakresie organizacji imprez"
+            }
+        ],
+        "EU": false,
+        "id": 1146,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 16/0092/2021 - Organizacja wyjazdów edukacyjno-integracyjnych dla rodziców i dzieci",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-04-22",
+        "end_date": "2021-04-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 1147,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Produkcja i dostawa kontenera wystawowego dla firmy CZMUDA GROUP Sp. z.o.o",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-08-25",
+        "end_date": "2021-09-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39133000-3",
+                "description": "Zestawy wystawowe"
+            }
+        ],
+        "EU": true,
+        "id": 1148,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wykonanie projektu obudowy komputera nurkowego, z uwzględnieniem ergonomii i wzornictwa, a także przygotowanie dokumentacji technicznej pozwalającej na wykonanie narzędzi do późniejszej produkcji seryjnej urządzenia",
+        "advertiser_name": "RSX Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2020-10-16",
+        "end_date": "2020-10-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": true,
+        "id": 1149,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe na prasę krawędziową",
+        "advertiser_name": "Vent Trade Sp. z o. o.",
+        "start_date": "2021-10-28",
+        "end_date": "2021-11-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42630000-1",
+                "description": "Obrabiarki do obróbki metali"
+            }
+        ],
+        "EU": true,
+        "id": 1150,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra- Instytutu Badawczego KOMAG",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-06-15",
+        "end_date": "2022-06-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1151,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy ALTKOM AKADEMIA S.A.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-24",
+        "end_date": "2022-08-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1152,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra - firmy Devtalents Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-29",
+        "end_date": "2022-09-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1153,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy ALTKOM AKADEMIA S.A.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-24",
+        "end_date": "2022-09-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1154,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych do USA dla członka Klastra - firmy Devtalents Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-31",
+        "end_date": "2022-09-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1155,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 16/0092/2021 - Organizacja wyjazdów edukacyjno-integracyjnych dla rodziców i dzieci",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-04-22",
+        "end_date": "2021-04-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 1156,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Produkcja i dostawa kontenera wystawowego dla firmy CZMUDA GROUP Sp. z.o.o",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-08-25",
+        "end_date": "2021-09-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39133000-3",
+                "description": "Zestawy wystawowe"
+            }
+        ],
+        "EU": true,
+        "id": 1157,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wykonanie projektu obudowy komputera nurkowego, z uwzględnieniem ergonomii i wzornictwa, a także przygotowanie dokumentacji technicznej pozwalającej na wykonanie narzędzi do późniejszej produkcji seryjnej urządzenia",
+        "advertiser_name": "RSX Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2020-10-16",
+        "end_date": "2020-10-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": true,
+        "id": 1158,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transport eksponatów wraz z ubezpieczeniem na Targi WETEX and Dubai Solar Show 2021 dla Członka Klastra - firmy LUG Light Factory Sp. z o.o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-09-15",
+        "end_date": "2021-09-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60000000-8",
+                "description": "Usługi transportowe (z wyłączeniem transportu odpadów)"
+            }
+        ],
+        "EU": true,
+        "id": 1159,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transport eksponatów wraz z ubezpieczeniem na Targi GITEX Global 2021 dla Członka Klastra - firmy VIZ-ART AUTOMATION Adam Aleksandrowicz",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-09-20",
+        "end_date": "2021-09-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60000000-8",
+                "description": "Usługi transportowe (z wyłączeniem transportu odpadów)"
+            }
+        ],
+        "EU": true,
+        "id": 1160,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transport eksponatów wraz z ubezpieczeniem na Targi GITEX Global 2021 dla Członka Klastra - firmy Spectre Solutions Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-09-30",
+        "end_date": "2021-10-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60000000-8",
+                "description": "Usługi transportowe (z wyłączeniem transportu odpadów)"
+            }
+        ],
+        "EU": true,
+        "id": 1161,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych na misję gospodarczą do w styczniu 2022, dla członka Klastra - firmy JAKUSZ Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-01-05",
+        "end_date": "2022-01-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1162,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transportu eksponatów wraz z ubezpieczeniem na Targi Dallas Build Expo 2022 dla Członka Klastra firmy mTap Smart City Sp. z o. o., które odbędą się w dn. 16-17 marca 2022 roku w USA.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-02-17",
+        "end_date": "2022-02-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1163,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy Glassdeep",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-07-05",
+        "end_date": "2022-07-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1164,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy PHU Technomex Sp. z o.o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-07-27",
+        "end_date": "2022-08-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1165,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa licencji do oprogramowania Unity w ramach projektu Opracowanie systemu opartego o algorytm sztucznej inteligencji modyfikującego parametry gry w trakcie trwania rozgrywki w celu maksymalizacji przychodów twórców gier wykorzystujących silnik Unity oraz zwiększenia ich oszczędności w procesie dostosowania gier do potrzeb graczy.",
+        "advertiser_name": "BoomBit S.A.",
+        "start_date": "2021-03-03",
+        "end_date": "2021-03-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48700000-5",
+                "description": "Pakiety oprogramowania użytkowego"
+            }
+        ],
+        "EU": true,
+        "id": 1166,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 10/POWER/2021 - Usługa przeprowadzenia kursów",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2021-05-13",
+        "end_date": "2021-05-21",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1167,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy Technomex",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-04-26",
+        "end_date": "2022-05-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1168,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra - firmy Pragmasoft",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-09-14",
+        "end_date": "2022-09-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1169,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy ALTKOM AKADEMIA S.A. - Warszawa - Lizbona",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-09-27",
+        "end_date": "2022-10-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1170,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAKUP BILETÓW LOTNICZYCH, MIEJC NOCLEGOWYCH, USŁUG TRANSPORTOWYCH UBEZPIECZEŃ i BILETÓW WSTĘPU DLA UCZESTNIKÓW WYDARZENIA GOSPODARCZEGO W DUBAJU W RAMACH PROJEKTU \"Pomorski Broker Eksportowy. Kompleksowy system wspierania eksportu w województwie pomorskim”.",
+        "advertiser_name": "Regionalna Izba Gospodarcza Pomorza",
+        "start_date": "2021-08-26",
+        "end_date": "2021-09-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "63510000-7",
+                "description": "Usługi biur podróży i podobne"
+            },
+            {
+                "code": "66510000-8",
+                "description": "Usługi ubezpieczeniowe"
+            },
+            {
+                "code": "79952000-2",
+                "description": "Usługi w zakresie organizacji imprez"
+            }
+        ],
+        "EU": false,
+        "id": 1171,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transportu eksponatów wraz z ubezpieczeniem na Targi Smart Building Expo Mediolan dla Członka Klastra firmy mTap Smart City Sp. z o. o., które są zaplanowane na 22-24 listopada 2021 roku",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-11-09",
+        "end_date": "2021-11-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1172,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy Cenzin",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-04-14",
+        "end_date": "2022-04-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1173,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy Technomex",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-04-14",
+        "end_date": "2022-04-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1174,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych na misję gospodarczą do Kazachstanu, Uzbekistanu i Kirgistanu w styczniu i lutym 2022, dla członka Klastra - firmy JAKUSZ Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-01-12",
+        "end_date": "2022-01-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1175,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych oraz transferu z lotniska do hotelu dla członka Klastra - EKSTRAKLASY LIVE PARK sp. z o.o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-18",
+        "end_date": "2022-08-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1176,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych do USA dla członka Klastra - firmy JAKUSZ",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-09-29",
+        "end_date": "2022-10-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1177,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa infrastruktury informatycznej w ramach projektu Opracowanie systemu opartego o algorytm sztucznej inteligencji modyfikującego parametry gry w trakcie trwania rozgrywki w celu maksymalizacji przychodów twórców gier wykorzystujących silnik Unity oraz zwiększenia ich oszczędności w procesie dostosowania gier do potrzeb graczy.",
+        "advertiser_name": "BoomBit S.A.",
+        "start_date": "2021-03-03",
+        "end_date": "2021-03-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48800000-6",
+                "description": "Systemy i serwery informacyjne"
+            }
+        ],
+        "EU": true,
+        "id": 1178,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy Pragmasoft",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-04-29",
+        "end_date": "2022-05-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1179,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra - DEVTALENTS Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-09",
+        "end_date": "2022-08-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1180,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych do Dubaju dla członka Klastra - firmy Devtalents Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-31",
+        "end_date": "2022-09-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1181,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra - firmy Devtalents Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-29",
+        "end_date": "2022-09-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1182,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra - firmy Devtalents Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-29",
+        "end_date": "2022-09-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1183,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra - firmy Smart Faktor",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-09-22",
+        "end_date": "2022-09-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1184,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra - firmy JAKUSZ",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-09-28",
+        "end_date": "2022-10-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1185,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wykonanie, dostawa i montaż standów do eksponatów podczas Targów GITEX Global 2021 dla Członka Klastra - firmy VIZ-ART Automation Sp. z o. o..",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-10-04",
+        "end_date": "2021-10-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60000000-8",
+                "description": "Usługi transportowe (z wyłączeniem transportu odpadów)"
+            }
+        ],
+        "EU": false,
+        "id": 1186,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Usługi doradcze z zakresu umiędzynarodowienia na rynku japońskim i tajwańskim członka klastra - firmy WaSH Innovation Sp.z o.o.”- AUCHIN",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-08-19",
+        "end_date": "2021-08-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79411100-9",
+                "description": "Usługi doradcze w zakresie rozwoju działalności gospodarczej"
+            }
+        ],
+        "EU": true,
+        "id": 1187,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Projekt i budowa stoiska wystawienniczego na targi GITEX, organizowane w dn. 17-21 października 2021 roku w Dubaju.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-10-07",
+        "end_date": "2021-10-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 1188,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Projekt i budowa stoiska wystawienniczego na targi WETEX and Dubai Solar Show, organizowane w dn. 5-7 października 2021 roku w Dubaju",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-09-13",
+        "end_date": "2021-09-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 1189,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Projekt i budowa stoiska wystawienniczego na targi ADIPEC, organizowane w dn. 15-18 listopada 2021 roku w Abu Dhabi",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-10-25",
+        "end_date": "2021-11-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 1190,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup bezzałogowego statku powietrznego (drona) przemysłowego",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-06-27",
+        "end_date": "2022-07-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45111290-7",
+                "description": "Roboty przygotowawcze do świadczenia usług"
+            }
+        ],
+        "EU": false,
+        "id": 1191,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Organizacja pokazów i prezentacji produktów w zakresie promocji marki produktowej, dla członka Klastra - firmy Proteh Glassdeep Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-02-08",
+        "end_date": "2022-02-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79950000-8",
+                "description": "Usługi w zakresie organizowania wystaw, targów i kongresów"
+            }
+        ],
+        "EU": false,
+        "id": 1192,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych na targi GITEX Technology Week, odbywające się w dn. 17-21 października w Dubaju",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-09-23",
+        "end_date": "2021-09-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1193,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Organizacja pokazów i prezentacji produktów w zakresie promocji marki produktowej, dla członka Klastra - firmy Proteh Glassdeep Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-05-17",
+        "end_date": "2022-05-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79950000-8",
+                "description": "Usługi w zakresie organizowania wystaw, targów i kongresów"
+            }
+        ],
+        "EU": false,
+        "id": 1194,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy Glassdeep",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-05-17",
+        "end_date": "2022-05-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1195,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Organizacja pokazów i prezentacji produktów w zakresie promocji marki produktowej, dla członka Klastra - firmy Proteh Glassdeep Sp. z o. o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-07-08",
+        "end_date": "2022-07-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79950000-8",
+                "description": "Usługi w zakresie organizowania wystaw, targów i kongresów"
+            }
+        ],
+        "EU": false,
+        "id": 1196,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra - firmy Wash Innovation",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-09-27",
+        "end_date": "2022-10-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1197,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wykonanie, dostawa i montaż standów do eksponatów podczas Targów GITEX Global 2021 dla Członka Klastra - firmy VIZ-ART Automation Sp. z o. o..",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-10-04",
+        "end_date": "2021-10-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60000000-8",
+                "description": "Usługi transportowe (z wyłączeniem transportu odpadów)"
+            }
+        ],
+        "EU": false,
+        "id": 1198,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Projekt i budowa stoiska wystawienniczego na targi GITEX Technology Week, organizowane w dn. 6-10 grudnia 2020 roku w Dubaju",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2020-10-30",
+        "end_date": "2020-11-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 1199,
+        "city": "Gdańsk"
+    }
+]

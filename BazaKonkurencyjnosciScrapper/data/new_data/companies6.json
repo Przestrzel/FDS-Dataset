@@ -1,0 +1,402 @@
+[
+    {
+        "id": 600,
+        "name": "Eden Catering Kamila Żywiecka"
+    },
+    {
+        "id": 601,
+        "name": "Anna Grzegorczyk"
+    },
+    {
+        "id": 602,
+        "name": "Quale Anna Gazda"
+    },
+    {
+        "id": 603,
+        "name": "ASIG Igor Kwiatkowski"
+    },
+    {
+        "id": 604,
+        "name": "EKSPERTON Adam Hejnowski"
+    },
+    {
+        "id": 605,
+        "name": "ERBUD Obsługa Inwestycji Budowlanych Robert Gregorczyk"
+    },
+    {
+        "id": 606,
+        "name": "PREDA Sp. z o.o. sp.k."
+    },
+    {
+        "id": 607,
+        "name": "Termocent Sp. z o.o."
+    },
+    {
+        "id": 608,
+        "name": "MKPJ GROUP JASEK Sp. J."
+    },
+    {
+        "id": 609,
+        "name": "LP Serwis Sp. z o.o."
+    },
+    {
+        "id": 610,
+        "name": "BCODERS S.A."
+    },
+    {
+        "id": 611,
+        "name": "Atut Centrum Sp. z o.o."
+    },
+    {
+        "id": 612,
+        "name": "Centrum Informatyczne Polsoft S.C."
+    },
+    {
+        "id": 613,
+        "name": "Media-Pol Paweł Szymczuk"
+    },
+    {
+        "id": 614,
+        "name": "Merkator Sp. z o.o."
+    },
+    {
+        "id": 615,
+        "name": "PRO-COM MARIUSZ FARON"
+    },
+    {
+        "id": 616,
+        "name": "Anlab s. r. o."
+    },
+    {
+        "id": 617,
+        "name": "Animalab Sp. z o.o."
+    },
+    {
+        "id": 618,
+        "name": "Securitum Audyty Sp. z o.o. Sp. komandytowa"
+    },
+    {
+        "id": 619,
+        "name": "NASK S.A."
+    },
+    {
+        "id": 620,
+        "name": "TESTARMY GROUP SA"
+    },
+    {
+        "id": 621,
+        "name": "VK Global Digital Pvt. Ltd."
+    },
+    {
+        "id": 622,
+        "name": "Centrum Szkoleniowe Gielar Sp. z o.o."
+    },
+    {
+        "id": 623,
+        "name": "Q PLAN-Wojciech Mielnik"
+    },
+    {
+        "id": 624,
+        "name": "Jarosław Kwiatkowski -Projektowanie"
+    },
+    {
+        "id": 625,
+        "name": "4C Centrum Ekonomii Społecznej sp. z o.o."
+    },
+    {
+        "id": 626,
+        "name": "BAREL Jerzy Urban i Wspólnicy Spółka Jawna"
+    },
+    {
+        "id": 627,
+        "name": "FIDES - TRAVEL Marek Piekarski"
+    },
+    {
+        "id": 628,
+        "name": "Biuro Usługowo-Turystyczne ATLANTIC"
+    },
+    {
+        "id": 629,
+        "name": "Dariusz Tusznio BTiT NOVUM TRAVEL"
+    },
+    {
+        "id": 630,
+        "name": "Magdalena Siśkiewicz New Challenge"
+    },
+    {
+        "id": 631,
+        "name": "Sun & More Sp. z o.o."
+    },
+    {
+        "id": 632,
+        "name": "Małgorzata Jarczewska"
+    },
+    {
+        "id": 633,
+        "name": "Kinga Pietrzak"
+    },
+    {
+        "id": 634,
+        "name": "Agata Wojtczak"
+    },
+    {
+        "id": 635,
+        "name": "Magdalena Ołdak"
+    },
+    {
+        "id": 636,
+        "name": "PRO NC Łukasz Chudzik"
+    },
+    {
+        "id": 637,
+        "name": "Karolina Wittek cogito bis"
+    },
+    {
+        "id": 638,
+        "name": "Agnieszka Głuszczyńska ALCHEMIA Usługi Psychologiczne"
+    },
+    {
+        "id": 639,
+        "name": "Aleksandra Brzezińska"
+    },
+    {
+        "id": 640,
+        "name": "Kursy i szkolenia Tomasz Wysocki"
+    },
+    {
+        "id": 641,
+        "name": "REDICREO s.c. Piotr Chmiela , Piotr Majda , Mieszko Sylwestrzak"
+    },
+    {
+        "id": 642,
+        "name": "Pretor Sp. z o.o."
+    },
+    {
+        "id": 643,
+        "name": "Zink Studio Grażyna Zalewska-Pawlisz"
+    },
+    {
+        "id": 644,
+        "name": "Studio Graficzne LINIA2 Izabela Polak-Kaim"
+    },
+    {
+        "id": 645,
+        "name": "Trampolina Centrum Szkoleń Wojciech Walla"
+    },
+    {
+        "id": 646,
+        "name": "Kancelaria Adwokacka adw.Karol Kordyka"
+    },
+    {
+        "id": 647,
+        "name": "Towarzystwo Handlowe ALPLAST Sp. z o.o. sp. k."
+    },
+    {
+        "id": 648,
+        "name": "Lobby-meble s.c. Tomasz Madlewski, Krzysztof Łudzik"
+    },
+    {
+        "id": 649,
+        "name": "3S S.A."
+    },
+    {
+        "id": 650,
+        "name": "Orange Polska S.A"
+    },
+    {
+        "id": 651,
+        "name": "Telnap Telecom Sp. z o.o."
+    },
+    {
+        "id": 652,
+        "name": "ZATOKA REAL ESTATE SP.Z O.O"
+    },
+    {
+        "id": 653,
+        "name": "Waldemar Żbik Szkolenia ES"
+    },
+    {
+        "id": 654,
+        "name": "Studio Forma"
+    },
+    {
+        "id": 655,
+        "name": "2Pi Group Spółka z ograniczoną odpowiedzialnością Spółka komandytowa"
+    },
+    {
+        "id": 656,
+        "name": "UPHOTEL SP. Z O.O."
+    },
+    {
+        "id": 657,
+        "name": "MAGDALENA SIŚKIEWICZ NEW CHALLENGE"
+    },
+    {
+        "id": 658,
+        "name": "Ośrodek Szkolenia Kursowego i Ustawicznego"
+    },
+    {
+        "id": 659,
+        "name": "SUN & MORE SP. Z O.O."
+    },
+    {
+        "id": 660,
+        "name": "Zatoka Real Estate Sp.z.o.o"
+    },
+    {
+        "id": 661,
+        "name": "SCANDIC POLEN SP.ZO.O"
+    },
+    {
+        "id": 662,
+        "name": "UpHOTEL Sp.z.o.o"
+    },
+    {
+        "id": 663,
+        "name": "Sysadvisors sp. z o.o. sp. k."
+    },
+    {
+        "id": 664,
+        "name": "CloudFerro Sp. z o.o."
+    },
+    {
+        "id": 665,
+        "name": "Hostersi Sp. z o.o."
+    },
+    {
+        "id": 666,
+        "name": "I-HT Sp. z o.o."
+    },
+    {
+        "id": 667,
+        "name": "MAIN Sp. z o.o."
+    },
+    {
+        "id": 668,
+        "name": "Netia S.A."
+    },
+    {
+        "id": 669,
+        "name": "Rafał Łazarz Lapti Comp"
+    },
+    {
+        "id": 670,
+        "name": "Remote Admin Sp. Z o.o."
+    },
+    {
+        "id": 671,
+        "name": "T-Mobile Polska S.A."
+    },
+    {
+        "id": 672,
+        "name": "Biuro Turystyczne POLTUR Kazimierz Puk"
+    },
+    {
+        "id": 673,
+        "name": "Agencja Turystyczna GRZYBOWSKI Bogusław Grzybowski"
+    },
+    {
+        "id": 674,
+        "name": "Sławomir Wojtak Biuro Usługowo Turystyczne Atlantic"
+    },
+    {
+        "id": 675,
+        "name": "Nova Centrum Edukacyjne Sp. z o. o."
+    },
+    {
+        "id": 676,
+        "name": "AGENCJA TURYSTYCZNA GRZYBOWSKI"
+    },
+    {
+        "id": 677,
+        "name": "Sun & More sp. z o. o."
+    },
+    {
+        "id": 678,
+        "name": "M CONCEPT Monika Dewerenda"
+    },
+    {
+        "id": 679,
+        "name": "Maria Węgrzyn"
+    },
+    {
+        "id": 680,
+        "name": "Indywidualna Praktyka Lekarska Michał Nowakowski"
+    },
+    {
+        "id": 681,
+        "name": "LaborTech Polska Marceli Fuczek"
+    },
+    {
+        "id": 682,
+        "name": "ELHYS SP. Z O.O."
+    },
+    {
+        "id": 683,
+        "name": "Palat Limited"
+    },
+    {
+        "id": 684,
+        "name": "ON-ARCH Barbara Szczęsna-Dyńska"
+    },
+    {
+        "id": 685,
+        "name": "KAPPA Radosław Paszylk"
+    },
+    {
+        "id": 686,
+        "name": "Krystyna Połubińska Multi Pol Agencja Public Relations"
+    },
+    {
+        "id": 687,
+        "name": "PRO-INSTAL Franciszek Żukowski"
+    },
+    {
+        "id": 688,
+        "name": "Biuro Obsługi Inwestycji \"INWEST - WYBRZEŻE\" Sp. z o.o."
+    },
+    {
+        "id": 689,
+        "name": "Development Design Sp. z o.o."
+    },
+    {
+        "id": 690,
+        "name": "PRIDM MICHAŁ DRYWA"
+    },
+    {
+        "id": 691,
+        "name": "Przedsiębiorstwo Inżynieryjne ALFA Przemysław Marszałkowski"
+    },
+    {
+        "id": 692,
+        "name": "SMARTCO WOJCIECH ORLIK"
+    },
+    {
+        "id": 693,
+        "name": "Krajowy Instytut Medyczny"
+    },
+    {
+        "id": 694,
+        "name": "Pogoprojekt Robert Pogorzelski"
+    },
+    {
+        "id": 695,
+        "name": "Website Style Dawid Szmigiel"
+    },
+    {
+        "id": 696,
+        "name": "Niepubliczny Zakład Opieki Zdrowotnej ETER-MED sp. z o.o."
+    },
+    {
+        "id": 697,
+        "name": "CLINSCIENCE SPÓŁKA Z OGRANICZONA ODPOWIEDZIALNOSCIA"
+    },
+    {
+        "id": 698,
+        "name": "Piotr Borostowski"
+    },
+    {
+        "id": 699,
+        "name": "Zbigniew Giżyński"
+    }
+]

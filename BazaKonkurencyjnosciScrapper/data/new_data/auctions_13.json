@@ -1,0 +1,1934 @@
+[
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy VIZ ART Automation",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-04-14",
+        "end_date": "2022-04-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1300,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 10/0009/2022\nOrganizacja 5 turnusów 7 dniowych obozu żeglarskiego dla dzieci i młodzieży szkół podstawowych.",
+        "advertiser_name": "ZHP Chorągiew Gdańska",
+        "start_date": "2022-05-20",
+        "end_date": "2022-05-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55270000-3",
+                "description": "Usługi świadczone przez placówki oferujące wyżywienie i miejsca noclegowe"
+            }
+        ],
+        "EU": true,
+        "id": 1301,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy PHU Technomex Sp. z o.o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-06-24",
+        "end_date": "2022-07-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1302,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych dla członka Klastra firmy JAKUSZ",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-07-06",
+        "end_date": "2022-07-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1303,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych oraz transferu z lotniska do hotelu dla członka Klastra - EKSTRAKLASY LIVE PARK sp. z o.o.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-08-02",
+        "end_date": "2022-08-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": false,
+        "id": 1304,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Transport eksponatów na Targi Cannes Yachting Festival i targi Abu Dhabi International Boat Show",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-08-12",
+        "end_date": "2021-08-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": true,
+        "id": 1305,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup biletów lotniczych na targi GITEX Technology Week, organizowane w dn. 6-10 grudnia 2020 roku w Dubaju",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2020-11-19",
+        "end_date": "2020-11-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60400000-2",
+                "description": "Usługi transportu lotniczego"
+            }
+        ],
+        "EU": true,
+        "id": 1306,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Budowa robota transportowego do intralogistyki.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-12-07",
+        "end_date": "2021-12-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45111290-7",
+                "description": "Roboty przygotowawcze do świadczenia usług"
+            }
+        ],
+        "EU": false,
+        "id": 1307,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Budowa robota transportowego do intralogistyki.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2022-01-14",
+        "end_date": "2022-01-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45111290-7",
+                "description": "Roboty przygotowawcze do świadczenia usług"
+            }
+        ],
+        "EU": false,
+        "id": 1308,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup rozpuszczalników organicznych - zapytanie ofertowe nr 201002_51",
+        "advertiser_name": "Recepton Sp. z o.o.",
+        "start_date": "2020-10-02",
+        "end_date": "2020-10-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1309,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup odczynników chemicznych - zapytanie ofertowe nr 201006_52",
+        "advertiser_name": "Recepton Sp. z o. o.",
+        "start_date": "2020-10-06",
+        "end_date": "2020-10-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1310,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "W rodzinie siła - rozwój usług społecznych na obszarze Miasta Malbork i gmin sąsiednich",
+        "advertiser_name": "Związek Harcerstwa Polskiego, Chorągiew Gdańska",
+        "start_date": "2020-10-06",
+        "end_date": "2020-10-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45311200-2",
+                "description": "Roboty w zakresie instalacji elektrycznych"
+            },
+            {
+                "code": "45330000-9",
+                "description": "Roboty instalacyjne wodno-kanalizacyjne i sanitarne"
+            },
+            {
+                "code": "45400000-1",
+                "description": "Roboty wykończeniowe w zakresie obiektów budowlanych"
+            }
+        ],
+        "EU": false,
+        "id": 1311,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zarządca Nieruchomości - Zorganizowanie i realizacja kursu (online) wraz z procesem walidacji i certyfikacji (egzaminem zewnętrznym) dla 1 Uczestnika Projektu  pt.: “Pomorskie! Tu wracam, tu pracuję.”",
+        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
+        "start_date": "2020-10-11",
+        "end_date": "2020-10-19",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 1312,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 07/10/2020/LE/SL. Wybór trenerów regionalnych i lokalnych TIK dla Instytutu Doskonalenia Nauczycieli „Solidarność” w ramach Projektu „Szkolenia TIK dla nauczycieli Województwa Śląskiego” realizowanego w ramach II edycji Projektu Lekcja:Enter",
+        "advertiser_name": "Instytut Doskonalenia Nauczycieli \"Solidarność\"",
+        "start_date": "2020-10-09",
+        "end_date": "2020-10-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1313,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wykonanie 700 sztuk kalendarzy na 2021 rok typu „koziołek” wraz z dostawą do siedziby Zamawiającego, w ramach realizacji projektu „Ogólnopolski system wsparcia doradczego dla sektora publicznego, mieszkaniowego oraz przedsiębiorstw w zakresie efektywności energetycznej oraz OZE” (POIS 2014-2020).",
+        "advertiser_name": "Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej w Gdańsku",
+        "start_date": "2020-10-19",
+        "end_date": "2020-10-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79822500-7",
+                "description": "Usługi projektów graficznych"
+            }
+        ],
+        "EU": false,
+        "id": 1314,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup związków chemicznych do badań_ zapytanie ofertowe nr 200921_51",
+        "advertiser_name": "RECEPTON SP. Z O.O.",
+        "start_date": "2020-09-21",
+        "end_date": "2020-10-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1315,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup rozpuszczalników organicznych - zapytanie ofertowe nr 201002_51",
+        "advertiser_name": "Recepton Sp. z o.o.",
+        "start_date": "2020-10-02",
+        "end_date": "2020-10-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1316,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup odczynników chemicznych - zapytanie ofertowe nr 201006_52",
+        "advertiser_name": "Recepton Sp. z o. o.",
+        "start_date": "2020-10-06",
+        "end_date": "2020-10-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1317,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "W rodzinie siła - rozwój usług społecznych na obszarze Miasta Malbork i gmin sąsiednich",
+        "advertiser_name": "Związek Harcerstwa Polskiego, Chorągiew Gdańska",
+        "start_date": "2020-10-06",
+        "end_date": "2020-10-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45311200-2",
+                "description": "Roboty w zakresie instalacji elektrycznych"
+            },
+            {
+                "code": "45330000-9",
+                "description": "Roboty instalacyjne wodno-kanalizacyjne i sanitarne"
+            },
+            {
+                "code": "45400000-1",
+                "description": "Roboty wykończeniowe w zakresie obiektów budowlanych"
+            }
+        ],
+        "EU": false,
+        "id": 1318,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zarządca Nieruchomości - Zorganizowanie i realizacja kursu (online) wraz z procesem walidacji i certyfikacji (egzaminem zewnętrznym) dla 1 Uczestnika Projektu  pt.: “Pomorskie! Tu wracam, tu pracuję.”",
+        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
+        "start_date": "2020-10-11",
+        "end_date": "2020-10-19",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 1319,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 07/10/2020/LE/SL. Wybór trenerów regionalnych i lokalnych TIK dla Instytutu Doskonalenia Nauczycieli „Solidarność” w ramach Projektu „Szkolenia TIK dla nauczycieli Województwa Śląskiego” realizowanego w ramach II edycji Projektu Lekcja:Enter",
+        "advertiser_name": "Instytut Doskonalenia Nauczycieli \"Solidarność\"",
+        "start_date": "2020-10-09",
+        "end_date": "2020-10-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1320,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wykonanie 700 sztuk kalendarzy na 2021 rok typu „koziołek” wraz z dostawą do siedziby Zamawiającego, w ramach realizacji projektu „Ogólnopolski system wsparcia doradczego dla sektora publicznego, mieszkaniowego oraz przedsiębiorstw w zakresie efektywności energetycznej oraz OZE” (POIS 2014-2020).",
+        "advertiser_name": "Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej w Gdańsku",
+        "start_date": "2020-10-19",
+        "end_date": "2020-10-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79822500-7",
+                "description": "Usługi projektów graficznych"
+            }
+        ],
+        "EU": false,
+        "id": 1321,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Mobilny system automatycznej klasyfikacji i walidacji czasowej certyfikatów wraz z agregacją z systemem zarządzania czasem pracy pracowników",
+        "advertiser_name": "Stazen sp. z o.o.",
+        "start_date": "2020-12-13",
+        "end_date": "2020-12-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            },
+            {
+                "code": "73110000-6",
+                "description": "Usługi badawcze"
+            }
+        ],
+        "EU": false,
+        "id": 1322,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Czas na Młodzież 2019",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2020-12-10",
+        "end_date": "2020-12-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            }
+        ],
+        "EU": false,
+        "id": 1323,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Finansowanie zakupu środka transportu (samochód dostawczy) w formie leasingu finansowego.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2020-12-15",
+        "end_date": "2020-12-23",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "66114000-2",
+                "description": "Usługi leasingu finansowego"
+            }
+        ],
+        "EU": true,
+        "id": 1324,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE 1/12/2020/Altrinis Wsparcie analizy numerycznej dotyczące optymalizacji topologicznej",
+        "advertiser_name": "Altrinis Sp. z .o.o.",
+        "start_date": "2020-12-18",
+        "end_date": "2020-12-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": false,
+        "id": 1325,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "POIR.02.03.02-IP.03-00-001/19 - Opracowanie nowego produktu jakim będzie kompaktowy układ ORC o mocy do 25kWe wykorzystujący średniotemperaturowe źródło ciepła",
+        "advertiser_name": "Utiligen Tomasz Suchocki",
+        "start_date": "2020-12-22",
+        "end_date": "2020-12-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": false,
+        "id": 1326,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Czas na Młodzież 2019",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2020-12-29",
+        "end_date": "2021-01-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            }
+        ],
+        "EU": false,
+        "id": 1327,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup płytek TLC oraz pTLC - zapytanie ofertowe nr 210105_52",
+        "advertiser_name": "Recepton Sp. z o.o.",
+        "start_date": "2021-01-05",
+        "end_date": "2021-01-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "24950000-8",
+                "description": "Specjalistyczne produkty chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1328,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 01/0092/2021 - diagnoza i opracowanie Indywidualnych Ścieżek Rozwoju uczestników i uczestniczek projektu – powiat kościerski",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-01-04",
+        "end_date": "2021-01-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85121270-6",
+                "description": "Usługi psychiatryczne lub psychologiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1329,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup odczynników chemicznych - zapytanie ofertowe nr 210107_51",
+        "advertiser_name": "Recepton Sp. z o.o.",
+        "start_date": "2021-01-07",
+        "end_date": "2021-01-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1330,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup i dostawa sprzętu IT",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-01-11",
+        "end_date": "2021-01-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30200000-1",
+                "description": "Urządzenia komputerowe"
+            }
+        ],
+        "EU": true,
+        "id": 1331,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Kurs ECDL wraz z egzaminami dla 1 Uczestnika Projektu",
+        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
+        "start_date": "2021-01-14",
+        "end_date": "2021-01-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 1332,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/CIS/2021 - Materiały wykończeniowe",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2021-01-18",
+        "end_date": "2021-01-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44192000-2",
+                "description": "Inne różne materiały budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 1333,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wynajem komory laminarnej typu II na potrzeby badań przemysłowych w realizowanym projekcie",
+        "advertiser_name": "AronPharma spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-01-19",
+        "end_date": "2021-01-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 1334,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Pomorskie Centrum Pomocy Psychotraumatologicznej - Kompleksowy program potraumatycznej aktywizacji społeczno-zawodowej”,",
+        "advertiser_name": "Stowarzyszenie Pomorskie Centrum Terapeutyczno-Prawne INTERIOS",
+        "start_date": "2021-01-28",
+        "end_date": "2021-02-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 1335,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/POWER/2021 - usługę Coacha prowadzącego animację dla grupy",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2021-01-27",
+        "end_date": "2021-02-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1336,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 22/0096/2020\nUsługi szkolenia specjalistycznego w województwie pomorskim",
+        "advertiser_name": "ZHP Chorągiew Gdańska",
+        "start_date": "2020-10-26",
+        "end_date": "2020-11-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            }
+        ],
+        "EU": false,
+        "id": 1337,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Czas na Młodzież 2019",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2020-11-27",
+        "end_date": "2020-12-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            }
+        ],
+        "EU": false,
+        "id": 1338,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup reaktorków z uszczelkami i łapaczem cieczy",
+        "advertiser_name": "Recepton Sp. z o. o.",
+        "start_date": "2020-11-26",
+        "end_date": "2020-12-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33793000-5",
+                "description": "Laboratoryjne wyroby szklane"
+            }
+        ],
+        "EU": false,
+        "id": 1339,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Kurs kwalifikujący Tester oprogramowania",
+        "advertiser_name": "Stowarzyszenie WAGA",
+        "start_date": "2020-11-02",
+        "end_date": "2020-11-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1340,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Usługi polegające na wykonywaniu zadań UX designer'a.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2020-11-12",
+        "end_date": "2020-11-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "72000000-5",
+                "description": "Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia"
+            }
+        ],
+        "EU": false,
+        "id": 1341,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przygotowanie dokumentacji dotyczącej doboru i dostosowania akcesoriów /komponentów uzupełniających.",
+        "advertiser_name": "CADEVENT Sp. z o.o.",
+        "start_date": "2020-11-10",
+        "end_date": "2020-11-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79411100-9",
+                "description": "Usługi doradcze w zakresie rozwoju działalności gospodarczej"
+            }
+        ],
+        "EU": false,
+        "id": 1342,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Testowanie prototypu oraz doskonalenie i dokumentowanie.",
+        "advertiser_name": "CADEVENT Sp. z o.o.",
+        "start_date": "2020-11-10",
+        "end_date": "2020-11-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79411100-9",
+                "description": "Usługi doradcze w zakresie rozwoju działalności gospodarczej"
+            }
+        ],
+        "EU": false,
+        "id": 1343,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 01/0096/2021\nUsługi szkolenia specjalistycznego w województwie pomorskim i łódzkim",
+        "advertiser_name": "ZHP Chorągiew Gdańska",
+        "start_date": "2021-02-19",
+        "end_date": "2021-03-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            }
+        ],
+        "EU": false,
+        "id": 1344,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 08/0092/2021 \nzakup i dostawa artykułów spożywczych – Kościerzyna",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-03-01",
+        "end_date": "2021-03-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "15000000-8",
+                "description": "Żywność, napoje, tytoń i produkty pokrewne"
+            }
+        ],
+        "EU": false,
+        "id": 1345,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Szkolenie: Prawo jazdy kat C z kwalifikacja wstępną przyspieszoną (na przewóz rzeczy), z badaniami lekarskimi i egzaminem zewnętrznym dla 1 Uczestnika",
+        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
+        "start_date": "2021-03-08",
+        "end_date": "2021-03-16",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80411000-8",
+                "description": "Usługi szkół jazdy"
+            },
+            {
+                "code": "80411100-9",
+                "description": "Usługi w zakresie egzaminów na prawo jazdy"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 1346,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa mobilnego busa - mobilny punkt wsparcia. Przystosowany do przewozu min. 7 osób (z kierowcą) w pozycji siedzącej.",
+        "advertiser_name": "Polskie Towarzystwo Psychotraumatologii",
+        "start_date": "2021-03-15",
+        "end_date": "2021-03-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "34110000-1",
+                "description": "Samochody osobowe"
+            }
+        ],
+        "EU": true,
+        "id": 1347,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa następujących odczynników i materiałów zużywalnych podzielonych na pakiety",
+        "advertiser_name": "AronPharma spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-03-11",
+        "end_date": "2021-03-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            },
+            {
+                "code": "38437000-7",
+                "description": "Pipety i akcesoria laboratoryjne"
+            },
+            {
+                "code": "38437000-7",
+                "description": "Pipety i akcesoria laboratoryjne"
+            },
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1348,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 07/03/2021/LE/SL. WYBÓR TRENERÓW LOKALNYCH TIK dla Instytutu Doskonalenia Nauczycieli \"Solidarność\" w ramach projektu grantowego \"Szkolenia TIK dla nauczycieli Województwa Śląskiego\" realizowanego w ramach II edycji projektu \"Lekcja:Enter\".",
+        "advertiser_name": "Instytut Doskonalenia Nauczycieli \"Solidarność\"",
+        "start_date": "2021-03-15",
+        "end_date": "2021-03-23",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1349,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup kolumn flash - zapytanie ofertowe nr 210324_51",
+        "advertiser_name": "Recepton Sp. z o.o.",
+        "start_date": "2021-03-24",
+        "end_date": "2021-03-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "24950000-8",
+                "description": "Specjalistyczne produkty chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1350,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe1/2021/PRED Zatrudnienie 2 osób na stanowisko Senior Backend Developer",
+        "advertiser_name": "Q&Q Sp. z o.o.",
+        "start_date": "2021-03-25",
+        "end_date": "2021-04-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73100000-3",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
+            }
+        ],
+        "EU": false,
+        "id": 1351,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Mutacje nabywane w trakcie rozwoju i życia człowieka powodujące zwiększone ryzyko chorób, w szczególności nowotworów” realizowanego w Programie na Rzecz Nauki Polskiej pt. „Międzynarodowe Agendy Badawcze” finansowanym ze środków Europejskiego Funduszu Rozwoju Regionalnego w ramach Programu Operacyjnego Inteligentny Rozwój, Oś IV: Zwiększenie potencjału naukowo-badawczego, Działanie 4.3. Międzynarodowe Agendy Badawcze, nr umowy MAB/2018/6.",
+        "advertiser_name": "Gdański Uniwersytet Medyczny",
+        "start_date": "2021-04-26",
+        "end_date": "2021-05-04",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "73110000-6",
+                "description": "Usługi badawcze"
+            }
+        ],
+        "EU": true,
+        "id": 1352,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Druk materiałów informacyjno-promocyjnych (315 szt. plakatów) wraz z dostawą do siedziby Zamawiającego, w ramach projektu pn. „Ogólnopolski system wsparcia doradczego dla sektora publicznego, mieszkaniowego oraz przedsiębiorców w zakresie efektywności energetycznej oraz OZE”.",
+        "advertiser_name": "Wojewódzki Fundusz Ochrony Srodowiska i Gospodarki Wodnej w Gdańsku",
+        "start_date": "2021-04-27",
+        "end_date": "2021-05-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79800000-2",
+                "description": "Usługi drukowania i powiązane"
+            }
+        ],
+        "EU": false,
+        "id": 1353,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 4/2021 dotyczące zatrudnienia pracownika na stanowisko inżynier ds. affective computing do realizacji usług badawczo-rozwojowych",
+        "advertiser_name": "Aidmed Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-07-09",
+        "end_date": "2021-07-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "72000000-5",
+                "description": "Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia"
+            }
+        ],
+        "EU": false,
+        "id": 1354,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Organizacja oraz obsługa stoiska wystawienniczego na targach Pol Boat Gdynia 2021”.",
+        "advertiser_name": "Zarząd Nadbałtyckich Inicjatyw Klastrowych Sp. z o.o.",
+        "start_date": "2021-06-22",
+        "end_date": "2021-06-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 1355,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 31/0092/2021 - Zakup i dostawa materiałów biurowych, plastycznych do placówki wsparcia dziennego w formie pracy podwórkowej „Stacja Lębork”– powiat lęborski (Lębork)",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-06-22",
+        "end_date": "2021-06-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 1356,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Mutacje nabywane w trakcie rozwoju i życia człowieka powodujące zwiększone ryzyko chorób, w szczególności nowotworów”",
+        "advertiser_name": "Gdański Uniwersytet Medyczny",
+        "start_date": "2021-06-14",
+        "end_date": "2021-06-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": false,
+        "id": 1357,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Pomorskie Centrum Pomocy Psychotraumatologicznej - Kompleksowy program potraumatycznej aktywizacji społeczno-zawodowej”",
+        "advertiser_name": "Stowarzyszenie Pomorskie Centrum Terapeutyczno-Prawne INTERIOS",
+        "start_date": "2021-06-17",
+        "end_date": "2021-06-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 1358,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "System Aktywizacji Społeczno Zawodowej w Gdańsku",
+        "advertiser_name": "Stowarzyszenie WAGA",
+        "start_date": "2021-06-21",
+        "end_date": "2021-07-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1359,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dywersyfikacja produkcji meblowej w firmie TNT Studio Wojciech Wiśniewski poprzez wprowadzenie do produkcji nowej linii wzorniczej mebli i elementów wyposażenia konstrukcji pływających typu houseboa",
+        "advertiser_name": "TNT STUDIO WOJCIECH WIŚNIEWSKI",
+        "start_date": "2021-06-30",
+        "end_date": "2021-07-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": false,
+        "id": 1360,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Kurs ECDL wraz z egzaminami dla 1 Uczestnika Projektu",
+        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
+        "start_date": "2021-01-14",
+        "end_date": "2021-01-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 1361,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/CIS/2021 - Materiały wykończeniowe",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2021-01-18",
+        "end_date": "2021-01-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44192000-2",
+                "description": "Inne różne materiały budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 1362,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Pomorskie Centrum Pomocy Psychotraumatologicznej - Kompleksowy program potraumatycznej aktywizacji społeczno-zawodowej”,",
+        "advertiser_name": "Stowarzyszenie Pomorskie Centrum Terapeutyczno-Prawne INTERIOS",
+        "start_date": "2021-01-28",
+        "end_date": "2021-02-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 1363,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/POWER/2021 - usługę Coacha prowadzącego animację dla grupy",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2021-01-27",
+        "end_date": "2021-02-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1364,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup odczynników chemicznych - zapytanie ofertowe nr 210107_51",
+        "advertiser_name": "Recepton Sp. z o.o.",
+        "start_date": "2021-01-07",
+        "end_date": "2021-01-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1365,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup i dostawa sprzętu IT",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-01-11",
+        "end_date": "2021-01-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30200000-1",
+                "description": "Urządzenia komputerowe"
+            }
+        ],
+        "EU": true,
+        "id": 1366,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Czas na Młodzież 2019",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2020-12-29",
+        "end_date": "2021-01-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            },
+            {
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
+            }
+        ],
+        "EU": false,
+        "id": 1367,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup płytek TLC oraz pTLC - zapytanie ofertowe nr 210105_52",
+        "advertiser_name": "Recepton Sp. z o.o.",
+        "start_date": "2021-01-05",
+        "end_date": "2021-01-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "24950000-8",
+                "description": "Specjalistyczne produkty chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1368,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 01/0092/2021 - diagnoza i opracowanie Indywidualnych Ścieżek Rozwoju uczestników i uczestniczek projektu – powiat kościerski",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-01-04",
+        "end_date": "2021-01-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85121270-6",
+                "description": "Usługi psychiatryczne lub psychologiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1369,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wynajem komory laminarnej typu II na potrzeby badań przemysłowych w realizowanym projekcie",
+        "advertiser_name": "AronPharma spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-01-19",
+        "end_date": "2021-01-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 1370,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 01/0096/2021\nUsługi szkolenia specjalistycznego w województwie pomorskim i łódzkim",
+        "advertiser_name": "ZHP Chorągiew Gdańska",
+        "start_date": "2021-02-19",
+        "end_date": "2021-03-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            }
+        ],
+        "EU": false,
+        "id": 1371,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "WSPARCIE RODZINY- psychoterapia indywidualna",
+        "advertiser_name": "Polskie Towarzystwo Psychotraumatologii",
+        "start_date": "2021-05-10",
+        "end_date": "2021-05-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85121270-6",
+                "description": "Usługi psychiatryczne lub psychologiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1372,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Mutacje nabywane w trakcie rozwoju i życia człowieka powodujące zwiększone ryzyko chorób, w szczególności nowotworów” realizowanego w Programie na Rzecz Nauki Polskiej pt. „Międzynarodowe Agendy Badawcze” finansowanym ze środków Europejskiego Funduszu Rozwoju Regionalnego w ramach Programu Operacyjnego Inteligentny Rozwój, Oś IV: Zwiększenie potencjału naukowo-badawczego, Działanie 4.3. Międzynarodowe Agendy Badawcze, nr umowy MAB/2018/6.",
+        "advertiser_name": "Gdański Uniwersytet Medyczny",
+        "start_date": "2021-04-26",
+        "end_date": "2021-05-04",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "73110000-6",
+                "description": "Usługi badawcze"
+            }
+        ],
+        "EU": true,
+        "id": 1373,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 18/0092/2021 - Organizacja wypoczynku letniego dla dzieci i młodzieży - Stacja Lębork",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-04-22",
+        "end_date": "2021-04-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55270000-3",
+                "description": "Usługi świadczone przez placówki oferujące wyżywienie i miejsca noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 1374,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Szkolenie Online: Agile Project Management Foundation – akredytowane szkolenie z egzaminem i certyfikatem AgilePM – dla 1 Uczestnika Projektu (min. 16 godzin szkoleniowych)",
+        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
+        "start_date": "2021-04-21",
+        "end_date": "2021-04-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80533100-0",
+                "description": "Usługi szkolenia komputerowego"
+            }
+        ],
+        "EU": true,
+        "id": 1375,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 5/POWER/2021 - usługę noclegową i cateringową",
+        "advertiser_name": "Stowarzyszenie Morena",
+        "start_date": "2021-04-20",
+        "end_date": "2021-04-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": false,
+        "id": 1376,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 18/0092/2021 - Organizacja wypoczynku letniego dla dzieci i młodzieży - Stacja Lębork",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-04-22",
+        "end_date": "2021-04-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55270000-3",
+                "description": "Usługi świadczone przez placówki oferujące wyżywienie i miejsca noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 1377,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup i dostawa sprzętu komputerowego, tabletów oraz oprogramowania.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-05-06",
+        "end_date": "2021-06-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30200000-1",
+                "description": "Urządzenia komputerowe"
+            },
+            {
+                "code": "30213200-7",
+                "description": "Komputer tablet"
+            },
+            {
+                "code": "30237450-8",
+                "description": "Tablety graficzne"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 1378,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przeprowadzenie usługi badawczej na potrzeby projektu \"Wzrost innowacyjności i zwiększenie konkurencyjności przedsiębiorstwa Enzo Invention dzięki opracowaniu innowacji produktowej\"",
+        "advertiser_name": "Enzo Invention Spółka z o. o.",
+        "start_date": "2021-03-19",
+        "end_date": "2021-04-19",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "73110000-6",
+                "description": "Usługi badawcze"
+            }
+        ],
+        "EU": true,
+        "id": 1379,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zdolni z Pomorza",
+        "advertiser_name": "Samorząd Województwa Pomorskiego",
+        "start_date": "2021-03-18",
+        "end_date": "2021-03-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80310000-0",
+                "description": "Usługi edukacji młodzieży"
+            }
+        ],
+        "EU": false,
+        "id": 1380,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup rozpuszczalników organicznych - zapytanie ofertowe nr 210319_51",
+        "advertiser_name": "Recepton Sp. z o. o.",
+        "start_date": "2021-03-19",
+        "end_date": "2021-03-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1381,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Świadczenie usług ornitologa obserwatora - na podstawie umowy zlecenia",
+        "advertiser_name": "Bioseco Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-04-20",
+        "end_date": "2021-04-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73200000-4",
+                "description": "Usługi doradcze w zakresie badań i rozwoju"
+            }
+        ],
+        "EU": false,
+        "id": 1382,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "67/2021/ZR60 Zakup książek i czasopism w wersji elektronicznej.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-11-03",
+        "end_date": "2021-11-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "72320000-4",
+                "description": "Usługi bazy danych"
+            },
+            {
+                "code": "72320000-4",
+                "description": "Usługi bazy danych"
+            }
+        ],
+        "EU": false,
+        "id": 1383,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup odczynników chemicznych - zapytanie ofertowe nr 211103_51",
+        "advertiser_name": "Recepton Sp. z o.o.",
+        "start_date": "2021-11-03",
+        "end_date": "2021-11-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1384,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup kompletnego wyposażenia narzędziowni, w tym urządzenia do obróbki ubytkowej i przyrostowej wraz z wyposażeniem pomocniczym, w związku z realizacją projektu pn. „Utworzenie Centrum Badawczo-Rozwojowego w ETER-MED Sp. z o.o., w obszarze badania i implementacji nowych metod terapeutycznych i rozwiązań technologicznych w zakresie stosowania ozonoterapii w medycynie” w ramach Działania 2.1 Wsparcie inwestycji w infrastrukturę B+R przedsiębiorstw Programu Operacyjnego Inteligentny Rozwój 2014-2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
+        "advertiser_name": "Niepubliczny Zakład Opieki Zdrowotnej ETER-MED sp. z o.o.",
+        "start_date": "2021-12-01",
+        "end_date": "2021-12-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "43800000-1",
+                "description": "Urządzenia warsztatowe"
+            }
+        ],
+        "EU": true,
+        "id": 1385,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Towarzystwo Pomocy im. Św. Brata Alberta Koło gdańskie z siedzibą w Gdańsku, zwane dalej Zamawiającym, zaprasza do złożenia ofert na: \n Pośrednika pracy\nW ramach projektu „ Przyszłość bez barier- integracja w powiecie gdańskim”",
+        "advertiser_name": "Towarzystwo Pomocy im. św. Brata Alberta koło gdańskie",
+        "start_date": "2021-11-15",
+        "end_date": "2021-11-23",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79400000-8",
+                "description": "Usługi doradcze w zakresie działalności gospodarczej i zarządzania oraz podobne"
+            }
+        ],
+        "EU": true,
+        "id": 1386,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "68/2021/ZR60 Zakup polisy ubezpieczeniowej.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-11-18",
+        "end_date": "2021-11-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "66510000-8",
+                "description": "Usługi ubezpieczeniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1387,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Asystent ucznia ze specjalnymi potrzebami edukacyjnymi - pilotaż",
+        "advertiser_name": "Fundacja Edukacyjna ODiTK",
+        "start_date": "2021-11-19",
+        "end_date": "2021-11-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "92111200-4",
+                "description": "Produkcja filmów reklamowych, propagandowych i informacyjnych i taśm wideo"
+            },
+            {
+                "code": "92111200-4",
+                "description": "Produkcja filmów reklamowych, propagandowych i informacyjnych i taśm wideo"
+            }
+        ],
+        "EU": false,
+        "id": 1388,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup odczynników chemicznych - zapytanie ofertowe nr 211122_51",
+        "advertiser_name": "Recepton Sp. z o. o.",
+        "start_date": "2021-11-22",
+        "end_date": "2021-11-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1389,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 37/0092/2021 - Wykonanie adaptacji budynku - Słupsk",
+        "advertiser_name": "Związek Harcerstwa Polskiego Chorągiew Gdańska",
+        "start_date": "2021-11-22",
+        "end_date": "2021-12-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45400000-1",
+                "description": "Roboty wykończeniowe w zakresie obiektów budowlanych"
+            }
+        ],
+        "EU": false,
+        "id": 1390,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wychowawca w placówce wsparcia dziennego w formie opiekuńczej w Starogardzie Gdańskim",
+        "advertiser_name": "Związek Harcerstwa Polskiego, Chorągiew Gdańska",
+        "start_date": "2021-11-23",
+        "end_date": "2021-12-01",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "85312110-3",
+                "description": "Usługi opieki dziennej nad dziećmi"
+            }
+        ],
+        "EU": false,
+        "id": 1391,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Monter i projektant instalacji fotowoltaicznej, pomp ciepła i klimatyzacji z uprawnieniami elektroenergetycznymi z egzaminem UDT",
+        "advertiser_name": "Powiat Miasta Gdańska/ Gdański Urząd Pracy",
+        "start_date": "2021-12-03",
+        "end_date": "2021-12-10",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1392,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 1/RE/POM/2021",
+        "advertiser_name": "Rewers sp.z o.o/Ośrodek Doskonalenia Nauczycieli Rewers",
+        "start_date": "2021-12-09",
+        "end_date": "2022-01-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1393,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "WSPARCIE RODZINY- psychoterapia grupowa dla dzieci - 30 osób",
+        "advertiser_name": "Polskie Towarzystwo Psychotraumatologii",
+        "start_date": "2021-10-06",
+        "end_date": "2021-10-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85121270-6",
+                "description": "Usługi psychiatryczne lub psychologiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1394,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup odczynników chemicznych - zapytanie ofertowe nr 211006_51",
+        "advertiser_name": "Recepton Sp. z o. o.",
+        "start_date": "2021-10-06",
+        "end_date": "2021-10-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1395,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup odczynników chemicznych - zapytanie ofertowe nr 211015_51",
+        "advertiser_name": "Recepton Sp. z o.o.",
+        "start_date": "2021-10-15",
+        "end_date": "2021-10-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1396,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "O8/2021 - dostawa zestawu primerów",
+        "advertiser_name": "AronPharma spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-10-14",
+        "end_date": "2021-10-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696500-0",
+                "description": "Odczynniki laboratoryjne"
+            }
+        ],
+        "EU": false,
+        "id": 1397,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup rozpuszczalników organicznych - zapytanie ofertowe nr 211014_51",
+        "advertiser_name": "Recepton Sp. z o. o.",
+        "start_date": "2021-10-14",
+        "end_date": "2021-10-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33696300-8",
+                "description": "Odczynniki chemiczne"
+            }
+        ],
+        "EU": false,
+        "id": 1398,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przedmiotem zamówienia jest wyłonienie Wykładowców krajowych do przygotowania i przeprowadzenia zajęć dydaktycznych prowadzonych w języku angielskim w formie warsztatów on-line dla doktorantów Letniej Szkoły Doktorskiej (PhD Summer School, project POWER 1.",
+        "advertiser_name": "Gdański Uniwersytet Medyczny",
+        "start_date": "2021-10-14",
+        "end_date": "2021-10-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 1399,
+        "city": "Gdańsk"
+    }
+]

@@ -1,0 +1,2446 @@
+[
+    {
+        "auction_name": "Wdrożenie zdalnej kontroli urządzeń firmie HiCOPY GDAŃSK GRZEGORZ WOJTKIEWICZ",
+        "advertiser_name": "HiCOPY Gdańsk Grzegorz Wojtkiewicz sp.k.",
+        "start_date": "2022-06-22",
+        "end_date": "2022-06-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            },
+            {
+                "code": "72000000-5",
+                "description": "Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia"
+            }
+        ],
+        "EU": false,
+        "id": 0,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Catering - Gdańsk 13-14.04.2022",
+        "advertiser_name": "Ośrodek Doradztwa i Treningu Kierowniczego",
+        "start_date": "2022-04-04",
+        "end_date": "2022-04-11",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 1,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Catering - Gdańsk",
+        "advertiser_name": "Ośrodek Doradztwa i Treningu Kierowniczego",
+        "start_date": "2021-07-29",
+        "end_date": "2021-08-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 2,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "System Aktywizacji Społeczno zawodowej Gdańsk",
+        "advertiser_name": "Stowarzyszenie WAGA",
+        "start_date": "2020-10-12",
+        "end_date": "2020-10-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 3,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Catering - Gdańsk 19-20.05.2022",
+        "advertiser_name": "Ośrodek Doradztwa i Treningu Kierowniczego",
+        "start_date": "2022-03-31",
+        "end_date": "2022-04-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 4,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Sprawowanie lokalnej opieki metodyczno-pedagogicznej w projekcie\n„Zdolni z Pomorza – Gdańsk”",
+        "advertiser_name": "Poradnia Psychologiczno-Pedagogiczna nr4",
+        "start_date": "2021-08-24",
+        "end_date": "2021-09-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "75121000-0",
+                "description": "Usługi administracyjne w zakresie edukacji"
+            },
+            {
+                "code": "75121000-0",
+                "description": "Usługi administracyjne w zakresie edukacji"
+            }
+        ],
+        "EU": false,
+        "id": 5,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Sala i wyżywienie - Gdańsk-Oliwa 29-30.08.2022",
+        "advertiser_name": "Ośrodek Doradztwa i Treningu Kierowniczego",
+        "start_date": "2022-08-11",
+        "end_date": "2022-08-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 6,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Sala szkoleniowa, noclegi i wyżywienie - Gdańsk-Oliwa",
+        "advertiser_name": "Ośrodek Doradztwa i Treningu Kierowniczego",
+        "start_date": "2022-06-14",
+        "end_date": "2022-06-21",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 7,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Sala, noclegi i wyżywienie - Gdańsk-Oliwa 29-30.08.2022",
+        "advertiser_name": "Ośrodek Doradztwa i Treningu Kierowniczego",
+        "start_date": "2022-08-04",
+        "end_date": "2022-08-11",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 8,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Noclegi - Gdańsk, Oliwa",
+        "advertiser_name": "Ośrodek Doradztwa i Treningu Kierowniczego",
+        "start_date": "2022-05-05",
+        "end_date": "2022-05-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 9,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup wyposażenia do PRACOWNI FIZJOTERAPII I MASAŻU dla studentów TiR w WSB Gdańsk.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2020-11-20",
+        "end_date": "2020-11-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33000000-0",
+                "description": "Urządzenia medyczne, farmaceutyki i produkty do pielęgnacji ciała"
+            },
+            {
+                "code": "33000000-0",
+                "description": "Urządzenia medyczne, farmaceutyki i produkty do pielęgnacji ciała"
+            }
+        ],
+        "EU": false,
+        "id": 10,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Prowadzenie superwizji pracy terapeutów, opiekunów, nauczycieli i asystentów dorosłych osób z autyzmem z Gminy Gdańsk.",
+        "advertiser_name": "Stowarzyszenie Pomocy Osobom Autystycznym",
+        "start_date": "2020-10-16",
+        "end_date": "2020-10-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79633000-0",
+                "description": "Rozwój personelu"
+            },
+            {
+                "code": "79633000-0",
+                "description": "Rozwój personelu"
+            }
+        ],
+        "EU": false,
+        "id": 11,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Sala szkoleniowa, noclegi i wyżywienie - Gdańsk 13-14.07.2022",
+        "advertiser_name": "Ośrodek Doradztwa i Treningu Kierowniczego",
+        "start_date": "2022-06-23",
+        "end_date": "2022-06-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 12,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe 8/2021\nna wykonanie hydroizolacji pionowej i poziomej wraz z dociepleniem frontowej i szczytowej ściany fundamentowej oraz remontem schodów wejściowych do budynku mieszkalnego w Gdańsk ul. Biskupia 30",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-11-04",
+        "end_date": "2021-11-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 13,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Postępowanie nr 36878904 na wykonanie dokumentacji projektowej przyłącza ciepłowniczego do budynku hotelu przy ulicy Azymutalnej w Gdańsku (Gdańsk Airport Hotel Sp. z o.o.)",
+        "advertiser_name": "Gdańskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
+        "start_date": "2021-03-16",
+        "end_date": "2021-04-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "71322200-3",
+                "description": "Usługi projektowania rurociągów"
+            }
+        ],
+        "EU": false,
+        "id": 14,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup wyposażenia do PRACOWNI DIETETYCZNEJ dla studentów TIR w WSB Gdańsk.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-01-15",
+        "end_date": "2021-01-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33000000-0",
+                "description": "Urządzenia medyczne, farmaceutyki i produkty do pielęgnacji ciała"
+            },
+            {
+                "code": "22113000-5",
+                "description": "Książki biblioteczne"
+            }
+        ],
+        "EU": false,
+        "id": 15,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Systemy gospodarowania wodami opadowymi na terenach miejskich - Miasto Gdańsk- etap III.",
+        "advertiser_name": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu Gminy Miasta Gdańska",
+        "start_date": "2022-03-14",
+        "end_date": "2022-03-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "71247000-1",
+                "description": "Nadzór nad robotami budowlanymi"
+            }
+        ],
+        "EU": false,
+        "id": 16,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Systemy gospodarowania wodami opadowymi na terenach miejskich - Miasto Gdańsk- etap III.",
+        "advertiser_name": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu Gminy Miasta Gdańska",
+        "start_date": "2022-04-25",
+        "end_date": "2022-05-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "71247000-1",
+                "description": "Nadzór nad robotami budowlanymi"
+            }
+        ],
+        "EU": false,
+        "id": 17,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe 7/2021\nna wykonanie hydroizolacji pionowej i poziomej wraz z dociepleniem frontowej i szczytowej ściany fundamentowej budynku mieszkalnego w Gdańsk ul. Biskupia 29",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-11-03",
+        "end_date": "2021-11-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 18,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wykonanie inwentaryzacji przyrodniczej na potrzeby przeprowadzenia analiz i sporządzenia dokumentacji środowiskowej dla przedsięwzięcia pn. „Pomorska Kolej Metropolitalna Etap II: Rozwój infrastruktury transportowej w południowej części Obszaru Metropolitalnego Gdańsk – Gdynia – Sopot, w powiązaniu z regionalną siecią kolejową Województwa Pomorskiego”",
+        "advertiser_name": "Pomorska Kolej Metropolitalna S.A.",
+        "start_date": "2022-09-09",
+        "end_date": "2022-09-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "90714000-5",
+                "description": "Audyt środowiskowy"
+            },
+            {
+                "code": "90714400-9",
+                "description": "Usługi audytu środowiskowego specyficznego dla danej działalności"
+            }
+        ],
+        "EU": false,
+        "id": 19,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wykonanie inwentaryzacji przyrodniczej na potrzeby przeprowadzenia analiz i sporządzenia dokumentacji środowiskowej dla przedsięwzięcia pn. „Pomorska Kolej Metropolitalna Etap II: Rozwój infrastruktury transportowej w południowej części Obszaru Metropolitalnego Gdańsk – Gdynia – Sopot, w powiązaniu z regionalną siecią kolejową Województwa Pomorskiego”",
+        "advertiser_name": "Pomorska Kolej Metropolitalna S.A.",
+        "start_date": "2022-09-09",
+        "end_date": "2022-09-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "90714000-5",
+                "description": "Audyt środowiskowy"
+            },
+            {
+                "code": "90714400-9",
+                "description": "Usługi audytu środowiskowego specyficznego dla danej działalności"
+            }
+        ],
+        "EU": false,
+        "id": 20,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe 9/2021\nna wykonanie hydroizolacji pionowej i poziomej wraz z dociepleniem frontowej i szczytowej ściany fundamentowej oraz remontem schodów wejściowych do budynku mieszkalnego w Gdańsk ul. Biskupia 33",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-11-04",
+        "end_date": "2021-11-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 21,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup wyposażenia do PRACOWNI FIZJOTERAPII I MASAŻU dla studentów TiR w WSB Gdańsk.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-01-18",
+        "end_date": "2021-01-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33000000-0",
+                "description": "Urządzenia medyczne, farmaceutyki i produkty do pielęgnacji ciała"
+            }
+        ],
+        "EU": false,
+        "id": 22,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup materiałów dydaktycznych i akcesoriów kosmetycznych dla studentów Turystyki i Rekreacji w WSB Gdańsk",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-03-19",
+        "end_date": "2021-03-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "22000000-0",
+                "description": "Druki i produkty podobne"
+            },
+            {
+                "code": "33000000-0",
+                "description": "Urządzenia medyczne, farmaceutyki i produkty do pielęgnacji ciała"
+            }
+        ],
+        "EU": false,
+        "id": 23,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przedstawienie ofert na zakup wyposażenia do PRACOWNI KOSMETYCZNEJ dla studentów Turystyki i Rekreacji w WSB Gdańsk",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2020-10-15",
+        "end_date": "2020-10-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33190000-8",
+                "description": "Różne urządzenia i produkty medyczne"
+            },
+            {
+                "code": "33190000-8",
+                "description": "Różne urządzenia i produkty medyczne"
+            },
+            {
+                "code": "33190000-8",
+                "description": "Różne urządzenia i produkty medyczne"
+            },
+            {
+                "code": "33190000-8",
+                "description": "Różne urządzenia i produkty medyczne"
+            }
+        ],
+        "EU": false,
+        "id": 24,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE 12/2021/Z211 - zakup odzieży ochronnej i akcesoriów kosmetycznych dla studentów Turystyki i Rekreacji w WSB Gdańsk.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-02-19",
+        "end_date": "2021-03-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33199000-1",
+                "description": "Odzież medyczna"
+            }
+        ],
+        "EU": false,
+        "id": 25,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE Nr 11/2021/Z211 zakup urządzeń do pracowni kosmetycznej dla studentów TIR w WSB Gdańsk",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-02-05",
+        "end_date": "2021-02-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33000000-0",
+                "description": "Urządzenia medyczne, farmaceutyki i produkty do pielęgnacji ciała"
+            },
+            {
+                "code": "33000000-0",
+                "description": "Urządzenia medyczne, farmaceutyki i produkty do pielęgnacji ciała"
+            }
+        ],
+        "EU": false,
+        "id": 26,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE 20/2021/Z211 - zakup odzieży ochronnej i akcesoriów kosmetycznych dla studentów Turystyki i Rekreacji w WSB Gdańsk.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-03-15",
+        "end_date": "2021-03-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33199000-1",
+                "description": "Odzież medyczna"
+            }
+        ],
+        "EU": false,
+        "id": 27,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe 3/2021\nna częściowy remont budynku wraz z izolacją ścian fundamentowych w budynku mieszkalnym w Gdańsk ul. Zaroślak 1",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-10-29",
+        "end_date": "2021-11-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 28,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe 2/2021\nna częściowy remont budynku wraz z izolacją i dociepleniem ścian fundamentowych w budynku mieszkalnym w Gdańsk ul. Biskupia 20",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-11-03",
+        "end_date": "2021-11-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 29,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe 1/2021\nna wykonanie izolacji ścian piwnicznych oraz remont schodów wejściowych do budynku w budynku mieszkalnym w Gdańsk ul. Górka 11",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-10-29",
+        "end_date": "2021-11-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 30,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe 6/2021\nna wykonanie izolacji pionowej i poziomej wraz z dociepleniem ściany fundamentowej elewacji frontowej w budynku mieszkalnym w Gdańsk ul. Zaroślak 4",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-10-29",
+        "end_date": "2021-11-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 31,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2020 ul. Rogaczewskiego 44, 80-804 Gdańsk \nWYKONANIE IZOLACJI PIONOWEJ I POZIOMEJ, DOCIEPLENIE ŚCIANY FUNDAMENTOWEJ, REMONT SCHODÓW WEJŚCIOWYCH ORAZ REMONT ELEWACJI WRAZ Z DOCIEPLENIEM ŚCIANY FRONTOWEJ",
+        "advertiser_name": "GMINA MIASTA GDAŃSKA",
+        "start_date": "2020-09-10",
+        "end_date": "2020-09-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": true,
+        "id": 32,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE \nDOTYCZĄCE\nSprawowania lokalnej opieki metodyczno-pedagogicznej w projekcie\n„Zdolni z Pomorza – Gdańsk”\n\nPoradnia Psychologiczno-Pedagogiczna nr 4 w Gdańsku zaprasza do złożenia oferty na pełnienie funkcji Lokalnego Opiekuna Metodycznego - Pedagogicznego przy realizacji projektu pn.: \n\n„Zdolni z Pomorza – Gdańsk”\nw ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014 - 2020 \nw ramach działania 03.02 Edukacja ogólna 03.02.02. Wsparcie ucznia zdolnego.\nII. Tryb udzielenia zamówienia\nZamówienie publiczne o wartości nieprzekraczającej wyrażonej w złotych równowartości kwoty określonej w art. 4 pkt. 8 ustawy Prawo zamówień publicznych.\nZamówienie zostanie udzielone jest z uwzględnieniem zasady konkurencyjności opisanej w pkt. 6.5.2 Wytycznych w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020 [MIiR/2014-2020/12(4)]",
+        "advertiser_name": "Poradnia Psychologiczno-Pedagogiczna nr4",
+        "start_date": "2020-08-21",
+        "end_date": "2020-08-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "75121000-0",
+                "description": "Usługi administracyjne w zakresie edukacji"
+            },
+            {
+                "code": "75121000-0",
+                "description": "Usługi administracyjne w zakresie edukacji"
+            }
+        ],
+        "EU": true,
+        "id": 33,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "System Aktywizacji Społeczno zawodowej w Gdańsku, komponent aktywnej integracji II",
+        "advertiser_name": "Stowarzyszenie WAGA",
+        "start_date": "2021-08-16",
+        "end_date": "2021-08-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 34,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wyższa Szkoła Społeczno-Ekonomiczna w Gdańsku Uczelnią Przyjazną",
+        "advertiser_name": "Wyższa Szkoła Społeczno-Ekonomiczna w Gdańsku",
+        "start_date": "2022-09-13",
+        "end_date": "2022-09-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85121270-6",
+                "description": "Usługi psychiatryczne lub psychologiczne"
+            },
+            {
+                "code": "85121270-6",
+                "description": "Usługi psychiatryczne lub psychologiczne"
+            },
+            {
+                "code": "85121270-6",
+                "description": "Usługi psychiatryczne lub psychologiczne"
+            },
+            {
+                "code": "85121270-6",
+                "description": "Usługi psychiatryczne lub psychologiczne"
+            },
+            {
+                "code": "85000000-9",
+                "description": "Usługi w zakresie zdrowia i opieki społecznej"
+            },
+            {
+                "code": "85000000-9",
+                "description": "Usługi w zakresie zdrowia i opieki społecznej"
+            },
+            {
+                "code": "80340000-9",
+                "description": "Usługi edukacji specjalnej"
+            },
+            {
+                "code": "80340000-9",
+                "description": "Usługi edukacji specjalnej"
+            }
+        ],
+        "EU": false,
+        "id": 35,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ODNALEŹĆ SIEBIE",
+        "advertiser_name": "Stowarzyszenie MONAR - Ośrodek Leczenia, Terapii i Rehabilitacji Uzależnień dla Dzieci i Młodzieży w Gdańsku",
+        "start_date": "2021-02-08",
+        "end_date": "2021-02-16",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 36,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Realizacja zajęć dydaktycznych w roku akademickim 2020/2021 dla studentów studiów I stopnia o profilu licencjackim do przedmiotów na kierunkach Pedagogika oraz Turystyka i Rekreacja.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-01-13",
+        "end_date": "2021-01-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 37,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ODNALEŹĆ SIEBIE - szkolenie zawodowe operator wózka jezdniowego kat. I WJO",
+        "advertiser_name": "Stowarzyszenie MONAR - Ośrodek Leczenia, Terapii i Rehabilitacji Uzależnień dla Dzieci i Młodzieży w Gdańsku",
+        "start_date": "2021-08-04",
+        "end_date": "2021-08-12",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 38,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "System aktywizacji społeczno zawodowej w Gdańsku RPPM.06.01.01-22-0007/16 komponent aktywnej integracji, współfinansowany z EFS",
+        "advertiser_name": "Stowarzyszenie WAGA",
+        "start_date": "2020-12-03",
+        "end_date": "2020-12-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 39,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ODNALEŹĆ SIEBIE",
+        "advertiser_name": "Stowarzyszenie MONAR - Ośrodek Leczenia, Terapii i Rehabilitacji Uzależnień dla Dzieci i Młodzieży w Gdańsku",
+        "start_date": "2021-02-08",
+        "end_date": "2021-02-16",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 40,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe 46/2021/Z211 - Realizacja zajęć dydaktycznych w roku akademickim 2021/2022 semestrze zimowym dla studentów studiów I stopnia o profilu licencjackim do przedmiotów na kierunkach Bezpieczeństwo Wewnętrzne, Multimedia i Grafika Komputerowych, Pedagogika, Stosunki Międzynarodowe, Turystyka i Rekreacja, Zarządzanie.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-07-06",
+        "end_date": "2021-07-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 41,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe 49/2021/Z211 - Realizacja zajęć dydaktycznych w roku akademickim 2021/2022 semestrze zimowym dla studentów studiów I stopnia o profilu licencjackim do przedmiotów na kierunkach Bezpieczeństwo Wewnętrzne, Multimedia i Grafika Komputerowych, Pedagogika, Stosunki Międzynarodowe, Turystyka i Rekreacja, Zarządzanie.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-07-14",
+        "end_date": "2021-07-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 42,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Dostawa prenumeraty prasy dla Agencji Rozwoju Pomorza S.A.",
+        "advertiser_name": "Agencja Rozwoju Pomorza S.A.",
+        "start_date": "2022-03-07",
+        "end_date": "2022-03-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "22200000-2",
+                "description": "Gazety, dzienniki, czasopisma i magazyny"
+            }
+        ],
+        "EU": false,
+        "id": 43,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zakup, dostawa oraz wdrożenie oprogramowania i urządzeń technicznych stanowiących wyposażenie laboratoriów logistycznego z technologią RFID wraz z instrukcjami do case’ów biznesowych oraz przeprowadzenie szkoleń dla dydaktyków.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2020-10-01",
+        "end_date": "2020-10-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "31710000-6",
+                "description": "Sprzęt elektroniczny"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            },
+            {
+                "code": "72263000-6",
+                "description": "Usługi wdrażania oprogramowania"
+            }
+        ],
+        "EU": false,
+        "id": 44,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wzmocnienie potencjału zdrowia pracowników szkół i placówek oświatowych, dla których organem prowadzącym jest Samorząd Województwa Pomorskieg",
+        "advertiser_name": "Województwo Pomorskie/ Wojewódzki Zespół Szkół Policealnych Nr 2 w Gdańsku",
+        "start_date": "2020-12-15",
+        "end_date": "2020-12-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33190000-8",
+                "description": "Różne urządzenia i produkty medyczne"
+            }
+        ],
+        "EU": false,
+        "id": 45,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Opracowanie i demonstracja zunifikowanej technologii przemieszczania szczególnie ciężkich, wielkogabarytowych konstrukcji pływających i hydrotechnicznych (offshore) pomiędzy lądem a pływającymi urządzeniami dokującymi lub transportowymi, z wykorzystaniem zautomatyzowanych algorytmów obliczeniowych",
+        "advertiser_name": "SAFE\" CO LTD Sp. z o.o.",
+        "start_date": "2021-04-21",
+        "end_date": "2021-04-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42400000-0",
+                "description": "Urządzenia podnośnikowe i przeładunkowe oraz ich części"
+            }
+        ],
+        "EU": false,
+        "id": 46,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/2022r. - wykonanie remontu elewacji w budynku mieszkalnym wielorodzinnym przy ul. Junacka 5 w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2022-02-10",
+        "end_date": "2022-02-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45443000-4",
+                "description": "Roboty elewacyjne"
+            }
+        ],
+        "EU": true,
+        "id": 47,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 1/2022/DOS z dnia 06.01.2022 r. na dostawę Laptopa wraz z oprogramowaniem",
+        "advertiser_name": "Agnieszka Nowińska Indywidualna Praktyka Dentystyczna",
+        "start_date": "2022-01-06",
+        "end_date": "2022-01-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30213100-6",
+                "description": "Komputery przenośne"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 48,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przedstawienie oferty na realizację zajęć specjalnościowych w roku akademickim 2020/2021 dla studentów studiów I stopnia na kierunku Logistyka.",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2020-08-28",
+        "end_date": "2020-09-04",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 49,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Opracowanie i demonstracja zunifikowanej technologii przemieszczania szczególnie ciężkich, wielkogabarytowych konstrukcji pływających i hydrotechnicznych (offshore) pomiędzy lądem a pływającymi urządzeniami dokującymi lub transportowymi, z wykorzystaniem zautomatyzowanych algorytmów obliczeniowych",
+        "advertiser_name": "SAFE\" CO LTD Sp. z o.o.",
+        "start_date": "2020-11-10",
+        "end_date": "2020-12-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "14622000-7",
+                "description": "Stal"
+            }
+        ],
+        "EU": false,
+        "id": 50,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 3/2021/DOS z dnia 25.12.2021 r. na dostawę Laptopa wraz z oprgramowanie",
+        "advertiser_name": "Agnieszka Nowińska Indywidualna Praktyka Dentystyczna",
+        "start_date": "2021-12-25",
+        "end_date": "2022-01-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30213100-6",
+                "description": "Komputery przenośne"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 51,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wzrost konkurencyjności SILVAM=EX poprzez kontynuację udziału w targach międzynarodowych w ramach programu branżowego Moda Polska",
+        "advertiser_name": "SILVAM-EX Sp.J.",
+        "start_date": "2022-03-03",
+        "end_date": "2022-03-17",
+        "is_price_criterium": false,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "18513000-8",
+                "description": "Wyroby biżuteryjne"
+            }
+        ],
+        "EU": false,
+        "id": 52,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przeprowadzenie kursu: „AgilePM Foundation oraz AgilePM Practitioner dla 1 osoby – Uczestnika Projektu „GPS – Gotowość Praca Samodzielność II” wraz z egzaminem AgilePM Foundation oraz egzaminem AgilePM Practitioner",
+        "advertiser_name": "Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną koło w Gdańsku",
+        "start_date": "2020-12-28",
+        "end_date": "2021-01-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 53,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 55/2021/ZR60 Przeprowadzenie zajęć dydaktycznych w formie konwersatoriów, laboratoriów oraz wykładów dla studentów studiów I stopnia o profilu licencjackim i inżynierskim, studiów II stopnia na kierunku Informatyka oraz I stopnia licencjackie na kierunku Logistyka",
+        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
+        "start_date": "2021-08-16",
+        "end_date": "2021-08-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 54,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe na wykonanie i montaż oznakowania informacyjnego 3D i 2D w Punktach Obsługi Klienta\n na terenie województwa pomorskiego w ramach realizacji Platformy Zintegrowanych Usług Mobilności (Systemu Fala)",
+        "advertiser_name": "InnoBaltica Sp. z o.o.",
+        "start_date": "2022-07-07",
+        "end_date": "2022-07-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "31523200-0",
+                "description": "Trwałe znaki informacyjne"
+            },
+            {
+                "code": "34928472-7",
+                "description": "Oznakowanie"
+            }
+        ],
+        "EU": false,
+        "id": 55,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Opracowanie nowej technologii zagospodarowania nieprzereagowanego oleju z procesu hydrokrakingu z wykorzystaniem systemów filtracyjnych",
+        "advertiser_name": "Grupa LOTOS SA",
+        "start_date": "2021-03-16",
+        "end_date": "2021-04-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44321000-6",
+                "description": "Kabel"
+            }
+        ],
+        "EU": true,
+        "id": 56,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 1/2021/DOS z dnia 11.08.2021 r. na dostawę i montaż urządzeń dentystycznych – Unit Dentystyczny, Autoklaw, Piec do wypalania bloczków ceramicznych, Kompresor",
+        "advertiser_name": "Agnieszka Nowińska Indywidualna Praktyka Dentystyczna",
+        "start_date": "2021-08-11",
+        "end_date": "2021-08-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33126000-9",
+                "description": "Urządzenia stomatologiczne"
+            },
+            {
+                "code": "33191110-9",
+                "description": "Autoklawy"
+            },
+            {
+                "code": "42300000-9",
+                "description": "Piece przemysłowe lub laboratoryjne, piece do spopielania i paleniska"
+            }
+        ],
+        "EU": false,
+        "id": 57,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przeprowadzenie 15 cykli szkoleniowo-aktywizacyjnych dla OISW w Gdańsku w ramach Programu operacyjnego wiedza edukacja rozwój 2014–2020",
+        "advertiser_name": "Okręgowy Inspektorat Służby Więziennej w Gdańsku",
+        "start_date": "2021-05-22",
+        "end_date": "2021-06-07",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 58,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Organizacja „Kursu komputerowego ECDL PROFILE moduły B3, B4” wraz z przeprowadzeniem egzaminu potwierdzającego nabycie kwalifikacji \nw zakresie ECDL PROFILE (moduły B3, B4) dla 2 osób –Uczestniczek/Uczestników Projektu „GPS – Gotowość Praca Samodzielność II”",
+        "advertiser_name": "Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną koło w Gdańsku",
+        "start_date": "2020-12-18",
+        "end_date": "2021-01-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 59,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE\ndot. przedsięwzięcia realizowanego w formule \"zaprojektuj i wybuduj\" pn.: „Pomorska Farma Życia – budowa placówki całodobowej dla dorosłych osób z autyzmem w Gdańsku” w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020 Województwa Pomorskiego (RPO WP 2014-2020), współfinansowanego z Europejskiego Funduszu Rozwoju Regionalnego, działanie 7.3",
+        "advertiser_name": "\"Fundacja Pomóż Mi Żyć\"",
+        "start_date": "2022-05-13",
+        "end_date": "2022-06-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45200000-9",
+                "description": "Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej"
+            },
+            {
+                "code": "45210000-2",
+                "description": "Roboty budowlane w zakresie budynków"
+            },
+            {
+                "code": "45300000-0",
+                "description": "Roboty instalacyjne w budynkach"
+            },
+            {
+                "code": "45400000-1",
+                "description": "Roboty wykończeniowe w zakresie obiektów budowlanych"
+            },
+            {
+                "code": "71200000-0",
+                "description": "Usługi architektoniczne i podobne"
+            }
+        ],
+        "EU": true,
+        "id": 60,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 1/2021/DOS z dnia 11.08.2021 r. na dostawę i montaż urządzeń dentystycznych – Unit Dentystyczny, Autoklaw, Piec do wypalania bloczków ceramicznych, Kompresor",
+        "advertiser_name": "Agnieszka Nowińska Indywidualna Praktyka Dentystyczna",
+        "start_date": "2021-08-11",
+        "end_date": "2021-08-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33126000-9",
+                "description": "Urządzenia stomatologiczne"
+            },
+            {
+                "code": "33191110-9",
+                "description": "Autoklawy"
+            },
+            {
+                "code": "42300000-9",
+                "description": "Piece przemysłowe lub laboratoryjne, piece do spopielania i paleniska"
+            }
+        ],
+        "EU": false,
+        "id": 61,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Definiowany programowo, uniwersalny interfejs radiowy inteligentnych urządzeń Internetu Rzeczy”",
+        "advertiser_name": "Politechnika Gdańska Wydział Elektroniki, Telekomunikacji i Informatyki",
+        "start_date": "2020-08-28",
+        "end_date": "2020-09-07",
+        "is_price_criterium": false,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "30213000-5",
+                "description": "Komputery osobiste"
+            }
+        ],
+        "EU": false,
+        "id": 62,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wzrost konkurencyjności SILVAM=EX poprzez kontynuację udziału w targach międzynarodowych w ramach programu branżowego Moda Polska",
+        "advertiser_name": "SILVAM-EX Sp.J.",
+        "start_date": "2022-03-03",
+        "end_date": "2022-03-17",
+        "is_price_criterium": false,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "18513000-8",
+                "description": "Wyroby biżuteryjne"
+            }
+        ],
+        "EU": false,
+        "id": 63,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przeprowadzenie 15 cykli szkoleniowo-aktywizacyjnych dla OISW w Gdańsku w ramach Programu operacyjnego wiedza edukacja rozwój 2014–2020",
+        "advertiser_name": "Okręgowy Inspektorat Służby Więziennej w Gdańsku",
+        "start_date": "2021-05-22",
+        "end_date": "2021-06-07",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            },
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 64,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Opracowanie nowej technologii zagospodarowania nieprzereagowanego oleju z procesu hydrokrakingu z wykorzystaniem systemów filtracyjnych",
+        "advertiser_name": "Grupa LOTOS SA",
+        "start_date": "2021-03-16",
+        "end_date": "2021-04-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44321000-6",
+                "description": "Kabel"
+            }
+        ],
+        "EU": true,
+        "id": 65,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Wynajem sali szkoleniowej oraz zorganizowanie cateringu w celu przeprowadzenia procedury egzaminacyjnej Studium Asystent Środowiskowy w ramach projektu „Gdański model deinstytucjonalizacji usług świadczonych na rzecz osób z zaburzeniami psychicznymi”",
+        "advertiser_name": "Fundacja Wspierania Rodzin Przystań",
+        "start_date": "2020-10-22",
+        "end_date": "2020-10-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": false,
+        "id": 66,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/21 - remont dwóch klatek schodowych w budynku mieszkalnym przy ul. Żuławskiej 17/18 w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-10-20",
+        "end_date": "2021-11-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 67,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przebudowa 3 stacji transformatorowych (1 wnętrzowa i 2 słupowe) na nowe innowacyjne inteligentne stacje SN/nN w Oddziałach w Gdańsku, Płocku i Kaliszu, w ramach projektu EUniversal polegające na wymianie transformatora na transformator z podobciążeniowym przełącznikiem zaczepów, wymianie rozdzielnic nN i modernizacji rozdzielnicy SN.",
+        "advertiser_name": "ENERGA-OPERATOR SA",
+        "start_date": "2021-07-08",
+        "end_date": "2021-07-23",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            },
+            {
+                "code": "51000000-9",
+                "description": "Usługi instalowania (z wyjątkiem oprogramowania komputerowego)"
+            },
+            {
+                "code": "71000000-8",
+                "description": "Usługi architektoniczne, budowlane, inżynieryjne i kontrolne"
+            }
+        ],
+        "EU": true,
+        "id": 68,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Opracowanie i demonstracja zunifikowanej technologii przemieszczania szczególnie ciężkich, wielkogabarytowych konstrukcji pływających i hydrotechnicznych (offshore) pomiędzy lądem a pływającymi urządzeniami dokującymi lub transportowymi, z wykorzystaniem zautomatyzowanych algorytmów obliczeniowych”",
+        "advertiser_name": "SAFE\" CO LTD Sp. z o.o.",
+        "start_date": "2021-11-23",
+        "end_date": "2021-12-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79952000-2",
+                "description": "Usługi w zakresie organizacji imprez"
+            }
+        ],
+        "EU": false,
+        "id": 69,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/121/2021 na wykonanie remontu ścian fundamentowych w budynku mieszkalnym ul. NA ZASPĘ 30A w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-12-10",
+        "end_date": "2021-12-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 70,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Organizacja „Kursu komputerowego ECDL PROFILE moduły B3, B4” wraz z przeprowadzeniem egzaminu potwierdzającego nabycie kwalifikacji \nw zakresie ECDL PROFILE (moduły B3, B4) dla 2 osób –Uczestniczek/Uczestników Projektu „GPS – Gotowość Praca Samodzielność II”",
+        "advertiser_name": "Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną koło w Gdańsku",
+        "start_date": "2020-12-18",
+        "end_date": "2021-01-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 71,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„Dostawa maszyn obróbczych” dla Baltic Spares Service Sp. z o. o. na potrzeby projektu „Wdrożenie technologii procesu regeneracji głowic silników spalinowych stosowanych w agregatach statków morskich” realizowanego w ramach POIR 2014-2020, poddziałanie 3.2.2",
+        "advertiser_name": "Baltic Spares Service Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2022-04-21",
+        "end_date": "2022-04-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42600000-2",
+                "description": "Obrabiarki"
+            },
+            {
+                "code": "42621000-5",
+                "description": "Tokarki"
+            },
+            {
+                "code": "42621100-6",
+                "description": "Tokarki sterowane komputerowo"
+            }
+        ],
+        "EU": false,
+        "id": 72,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/105/2021 na wykonanie remontu elewacji, odtworzenie detali, naprawa ubytków, remont izolacji fundamentów w budynku mieszkalnym ul. KS.GÓRECKIEGO 6A w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-06-24",
+        "end_date": "2021-07-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 73,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/180/2021 - wykonanie remontu ścian z dociepleniem, odtworzenie detali, remont ścian fundamentowych w budynku mieszkalnym ul. Ks. Góreckiego 8A i 8B w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-10-01",
+        "end_date": "2021-10-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 74,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/177/2021 na wykonanie remontu ścian z dociepleniem, odtworzenie detali, remont ścian fundamentowych w budynku mieszkalnym ul. Na Zaspę 45B w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-08-30",
+        "end_date": "2021-09-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 75,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zorganizowanie i przeprowadzenie kursu przygotowującego do uzyskania kwalifikacji w zawodzie wizażystka/stylistka zakończonego egzaminem czeladniczym wraz z poczęstunkiem dla 2 Uczestniczek Projektu „Cała Naprzód II”",
+        "advertiser_name": "Gmina Miasta Gdańska/Miejski Ośrodek Pomocy Rodzinie w Gdańsku",
+        "start_date": "2021-02-03",
+        "end_date": "2021-02-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531000-5",
+                "description": "Usługi szkolenia przemysłowego i technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 76,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 5/0075/2021\nOrganizacja wyjazdów edukacyjno-integracyjnych dla rodziców i dzieci",
+        "advertiser_name": "Związek Harcerstwa Polskiego, Chorągiew Gdańska",
+        "start_date": "2021-11-16",
+        "end_date": "2021-11-23",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 77,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 5/2022/A041 na budowę nowej strony www dostosowanej do potrzeb osób niepełnosprawnych i w standardzie WCAG 2.1",
+        "advertiser_name": "Wyższa Szkoła Zdrowia w Gdańsku",
+        "start_date": "2022-03-24",
+        "end_date": "2022-04-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "72413000-8",
+                "description": "Usługi w zakresie projektowania stron WWW"
+            }
+        ],
+        "EU": false,
+        "id": 78,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 8/2022/A041\ntłumaczenie i udźwiękowienie na język ukraiński interfejsu aplikacji na ekran dotykowy \nz instalacją na 3 infobudki i oddanie do użytkowania",
+        "advertiser_name": "Wyższa Szkoła Zdrowia w Gdańsku",
+        "start_date": "2022-07-13",
+        "end_date": "2022-07-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 79,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przebudowa 3 stacji transformatorowych (1 wnętrzowa i 2 słupowe) na nowe innowacyjne inteligentne stacje SN/nN w Oddziałach w Gdańsku, Płocku i Kaliszu, w ramach projektu EUniversal polegające na wymianie transformatora na transformator z podobciążeniowym przełącznikiem zaczepów, wymianie rozdzielnic nN i modernizacji rozdzielnicy SN.",
+        "advertiser_name": "ENERGA-OPERATOR SA",
+        "start_date": "2021-07-08",
+        "end_date": "2021-07-23",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            },
+            {
+                "code": "51000000-9",
+                "description": "Usługi instalowania (z wyjątkiem oprogramowania komputerowego)"
+            },
+            {
+                "code": "71000000-8",
+                "description": "Usługi architektoniczne, budowlane, inżynieryjne i kontrolne"
+            }
+        ],
+        "EU": true,
+        "id": 80,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Kurs \"AgilePM Foundation oraz AgilePM Practitioner\"",
+        "advertiser_name": "Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną koło w Gdańsku",
+        "start_date": "2021-01-08",
+        "end_date": "2021-01-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 81,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/105/2021 na wykonanie remontu elewacji, odtworzenie detali, naprawa ubytków, remont izolacji fundamentów w budynku mieszkalnym ul. KS.GÓRECKIEGO 6A w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-06-24",
+        "end_date": "2021-07-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 82,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/177/2021 na wykonanie remontu ścian z dociepleniem, odtworzenie detali, remont ścian fundamentowych w budynku mieszkalnym ul. Na Zaspę 45B w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-08-30",
+        "end_date": "2021-09-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 83,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/180/2021 - wykonanie remontu ścian z dociepleniem, odtworzenie detali, remont ścian fundamentowych w budynku mieszkalnym ul. Ks. Góreckiego 8A i 8B w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-10-01",
+        "end_date": "2021-10-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 84,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe dotyczy zakupu środków ochrony osobistej dla podmiotów ekonomii społecznej będących we wsparciu w ramach projektu „Ośrodek Wsparcia Ekonomii Społecznej DOBRA ROBOTA na subregion metropolitalny” (OWES) realizowanego przez Stowarzyszenie „Obszar Metropolitalny GDAŃSK-GDYNIA-SOPOT”, w partnerstwie z: Fundacją Pokolenia, Caritas Archidiecezji Gdańskiej, Pomorską Specjalną Strefą Ekonomiczną sp. z o.o., Organizacją Pracodawców PRACODAWCY POMORZA, Stowarzyszeniem Towarzystwo Pomocy im. Św. Brata Alberta Koło Gdańskie realizowanego w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020 (RPO WP 2014-2020) współfinansowanego z Europejskiego Funduszu Społecznego, w ramach Osi Priorytetowej VI Działania 6.3 Poddziałania 6.3.1.",
+        "advertiser_name": "Pracodawcy Pomorza",
+        "start_date": "2021-05-17",
+        "end_date": "2021-05-25",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "35113400-3",
+                "description": "Odzież ochronna i zabezpieczająca"
+            }
+        ],
+        "EU": true,
+        "id": 85,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/157/2021 na wykonanie remontu elewacji, odtworzenie detali, naprawa ubytków, remont izolacji fundamentów w budynku mieszkalnym ul. KS. GÓRECKIEGO 6 w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-06-24",
+        "end_date": "2021-07-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 86,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zorganizowanie i przeprowadzenie kursu przygotowującego do uzyskania kwalifikacji w zawodzie wizażystka/stylistka zakończonego egzaminem czeladniczym wraz z poczęstunkiem dla 2 Uczestniczek Projektu „Cała Naprzód II”",
+        "advertiser_name": "Gmina Miasta Gdańska/Miejski Ośrodek Pomocy Rodzinie w Gdańsku",
+        "start_date": "2021-02-03",
+        "end_date": "2021-02-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531000-5",
+                "description": "Usługi szkolenia przemysłowego i technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 87,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 5/0075/2021\nOrganizacja wyjazdów edukacyjno-integracyjnych dla rodziców i dzieci",
+        "advertiser_name": "Związek Harcerstwa Polskiego, Chorągiew Gdańska",
+        "start_date": "2021-11-16",
+        "end_date": "2021-11-23",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            },
+            {
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 88,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 5/2022/A041 na budowę nowej strony www dostosowanej do potrzeb osób niepełnosprawnych i w standardzie WCAG 2.1",
+        "advertiser_name": "Wyższa Szkoła Zdrowia w Gdańsku",
+        "start_date": "2022-03-24",
+        "end_date": "2022-04-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "72413000-8",
+                "description": "Usługi w zakresie projektowania stron WWW"
+            }
+        ],
+        "EU": false,
+        "id": 89,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 8/2022/A041\ntłumaczenie i udźwiękowienie na język ukraiński interfejsu aplikacji na ekran dotykowy \nz instalacją na 3 infobudki i oddanie do użytkowania",
+        "advertiser_name": "Wyższa Szkoła Zdrowia w Gdańsku",
+        "start_date": "2022-07-13",
+        "end_date": "2022-07-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 90,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "SketchUp od podstaw\n\nWarunki zmiany umowy\nZamawiający nie przewiduje możliwości dokonywania istotnych zmian w warunkach umowy zawartej z Wykonawcą, w stosunku do treści oferty, na podstawie której dokonano jego wyboru.",
+        "advertiser_name": "Powiat Miasta Gdańska/ Gdański Urząd Pracy",
+        "start_date": "2022-09-16",
+        "end_date": "2022-09-26",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 91,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "„GPS – Gotowość Praca Samodzielność II”",
+        "advertiser_name": "Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną koło w Gdańsku",
+        "start_date": "2020-08-31",
+        "end_date": "2020-09-09",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 92,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/131/2021 na wykonanie remontu ścian z dociepleniem, odtworzenie detali, remont izolacji pionowej i poziomej ścian przyziemia budynku wielorodzinnego przy ul. STRAJKU DOKERÓW 7 w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-07-09",
+        "end_date": "2021-07-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 93,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Opracowanie i demonstracja zunifikowanej technologii przemieszczania szczególnie ciężkich, wielkogabarytowych konstrukcji pływających i hydrotechnicznych (offshore) pomiędzy lądem a pływającymi urządzeniami dokującymi lub transportowymi, z wykorzystaniem zautomatyzowanych algorytmów obliczeniowych",
+        "advertiser_name": "SAFE\" CO LTD Sp. z o.o.",
+        "start_date": "2020-11-10",
+        "end_date": "2020-12-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "14622000-7",
+                "description": "Stal"
+            }
+        ],
+        "EU": false,
+        "id": 94,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 1/106/2021 na wykonanie remontu elewacji, odtworzenie detali, remont izolacji fundamentów w budynku mieszkalnym ul. Ks. Góreckiego 7-7A w Gdańsku",
+        "advertiser_name": "Gmina miasta Gdańska",
+        "start_date": "2021-08-30",
+        "end_date": "2021-09-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 95,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Przeprowadzenie kursu z chromatografii gazowej i cieczowej – poziom podstawowy",
+        "advertiser_name": "Centrum Kształcenia Zawodowego i ustawicznego nr 1",
+        "start_date": "2021-11-10",
+        "end_date": "2021-11-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 96,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 7/2022/A041\nna opracowanie i zaprogramowanie systemu informacji przestrzennej wyświetlanego na monitorach dotykowych przystosowanych obsługi przez osoby z niepełnosprawnością wraz z oddaniem do użytkowania.",
+        "advertiser_name": "Wyższa Szkoła Zdrowia w Gdańsku",
+        "start_date": "2022-06-13",
+        "end_date": "2022-06-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 97,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Tester manualny z egzaminem ISTQB",
+        "advertiser_name": "Powiat Miasta Gdańska/ Gdański Urząd Pracy",
+        "start_date": "2022-09-16",
+        "end_date": "2022-09-26",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 98,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Prace badawczo-rozwojowe nad opracowaniem drukarki 3D do druku z proszków materiałów przystosowanej do prac eksperymentalnych",
+        "advertiser_name": "INNTEC.PL Sp. z o.o.",
+        "start_date": "2021-04-01",
+        "end_date": "2021-04-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73100000-3",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
+            }
+        ],
+        "EU": false,
+        "id": 99,
+        "city": "Gdańsk"
+    }
+]
