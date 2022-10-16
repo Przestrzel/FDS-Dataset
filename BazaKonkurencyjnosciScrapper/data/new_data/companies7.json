@@ -1,0 +1,402 @@
+[
+    {
+        "id": 700,
+        "name": "Bernadeta Szczypta"
+    },
+    {
+        "id": 701,
+        "name": "Wyższa Szkoła Bankowa w Gdańsku"
+    },
+    {
+        "id": 702,
+        "name": "Protect It Sp. z o.o."
+    },
+    {
+        "id": 703,
+        "name": "PBSG S.A."
+    },
+    {
+        "id": 704,
+        "name": "StillSec Sp. z o.o. Spółka komandytowa"
+    },
+    {
+        "id": 705,
+        "name": "Stowarzyszenie Wspierania Nauki, Nowych Technologii i Przedsiębiorczości"
+    },
+    {
+        "id": 706,
+        "name": "Alphamoon sp .z o.o."
+    },
+    {
+        "id": 707,
+        "name": "LogicAI sp z o o"
+    },
+    {
+        "id": 708,
+        "name": "RM SZPAK Radosław Spaczyński"
+    },
+    {
+        "id": 709,
+        "name": "Metalfactor Sp. z o.o."
+    },
+    {
+        "id": 710,
+        "name": "GRASO Zenon Sobiecki"
+    },
+    {
+        "id": 711,
+        "name": "Mobiqe sp. z o.o."
+    },
+    {
+        "id": 712,
+        "name": "Steelnovis sp. z o.o."
+    },
+    {
+        "id": 713,
+        "name": "Przedsiębiorstwo Produkcyjno-Usługowe ARADA"
+    },
+    {
+        "id": 714,
+        "name": "SML Sp. z o.o."
+    },
+    {
+        "id": 715,
+        "name": "QED Software sp. z o.o."
+    },
+    {
+        "id": 716,
+        "name": "Logicai sp z o.o."
+    },
+    {
+        "id": 717,
+        "name": "Damian Miszewski"
+    },
+    {
+        "id": 718,
+        "name": "IMAE Robert Dwórznik"
+    },
+    {
+        "id": 719,
+        "name": "MEDIALORD Sp. z o.o."
+    },
+    {
+        "id": 720,
+        "name": "Moonphase Studio"
+    },
+    {
+        "id": 721,
+        "name": "Jarosław Bochenek"
+    },
+    {
+        "id": 722,
+        "name": "Centrum Szkoleniowe Michał Gluzek"
+    },
+    {
+        "id": 723,
+        "name": "Małgorzata Robaczek A&M Firma Eventowo Szkoleniowa"
+    },
+    {
+        "id": 724,
+        "name": "Biuro Turystyczno-Handlowe EID-POL Ewa Konarzewska Dariusz Konarzewski s.c."
+    },
+    {
+        "id": 725,
+        "name": "P.H.U. BIKOP"
+    },
+    {
+        "id": 726,
+        "name": "Biuro Inżynieryjne Martex Marcin Puźniak"
+    },
+    {
+        "id": 727,
+        "name": "W&A Adam Wasielewski"
+    },
+    {
+        "id": 728,
+        "name": "B2C-SERVICE Jakub Sylla"
+    },
+    {
+        "id": 729,
+        "name": "Firma Handlowa \"Piątka\" Teresa Bajor"
+    },
+    {
+        "id": 730,
+        "name": "Moja Szkoła Kornelia Klamann"
+    },
+    {
+        "id": 731,
+        "name": "P.W.D.APEX"
+    },
+    {
+        "id": 732,
+        "name": "Przedsiębiorstwo Handlowo Usługowe El Hydro S.C"
+    },
+    {
+        "id": 733,
+        "name": "Strefa Kreatywności Justyna Fus"
+    },
+    {
+        "id": 734,
+        "name": "Wydawnictwo i Zaopatrzenie Szkolne KRULEX Leszek Krupiński"
+    },
+    {
+        "id": 735,
+        "name": "Moje Bambino Sp. z o.o. sp. k"
+    },
+    {
+        "id": 736,
+        "name": "U Bogusza Daniel Boguszewski"
+    },
+    {
+        "id": 737,
+        "name": "Wydawnictwo i Zapotrzebowanie Szkolne KRULEX Leszek Krupiński"
+    },
+    {
+        "id": 738,
+        "name": "JobHunter Agnieszka Kasprzyk-Mączyńska"
+    },
+    {
+        "id": 739,
+        "name": "Kancelaria Prawa Podatkowego Biuro Rachunkowe Justyna Janota"
+    },
+    {
+        "id": 740,
+        "name": "MOJA SZKOŁA Kornelia Klamann"
+    },
+    {
+        "id": 741,
+        "name": "\"INBAR\" FHU IrenaBartołd"
+    },
+    {
+        "id": 742,
+        "name": "Moje Bambino Sp. z o.o. Sp. k."
+    },
+    {
+        "id": 743,
+        "name": "Tesora Marzena Paczyńska"
+    },
+    {
+        "id": 744,
+        "name": "Muehsam Jan Krzysztof i Wspólnicy Spółka Jawna"
+    },
+    {
+        "id": 745,
+        "name": "INPRO S.A."
+    },
+    {
+        "id": 746,
+        "name": "Przedsiębiorstwo Remontowo - Budowalne \"AGAD\" Sp. z o.o."
+    },
+    {
+        "id": 747,
+        "name": "Moje Bambino Sp. z o.o. Sp.k."
+    },
+    {
+        "id": 748,
+        "name": "P.H.U. SANDREX Mateusz Ściborek"
+    },
+    {
+        "id": 749,
+        "name": "STEELNOVIS sp. z o.o."
+    },
+    {
+        "id": 750,
+        "name": "Moja Bambino Sp. z o.o. Sp. k"
+    },
+    {
+        "id": 751,
+        "name": "Diverti Grażyna Tomaszek"
+    },
+    {
+        "id": 752,
+        "name": "KADER'S ARKADIUSZ BISZOFF"
+    },
+    {
+        "id": 753,
+        "name": "WADIM PLAST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+    },
+    {
+        "id": 754,
+        "name": "LS Mtron Ltd (Sp. z o.o.) Oddział w Polsce"
+    },
+    {
+        "id": 755,
+        "name": "Niepubliczna Placówka Oświatowa SAKOWSKA KUCZMA"
+    },
+    {
+        "id": 756,
+        "name": "EURO AUTO SYSTEM DC"
+    },
+    {
+        "id": 757,
+        "name": "BIURO USŁUGOWO-HANDLOWE \"IN PLUS\" MARCIN MATEUSZ KNEĆ"
+    },
+    {
+        "id": 758,
+        "name": "\"Drzewiarz-BIS\" Sp. z o.o."
+    },
+    {
+        "id": 759,
+        "name": "F&B Gastro Sp. z o.o."
+    },
+    {
+        "id": 760,
+        "name": "New Life Property Sp. z o.o."
+    },
+    {
+        "id": 761,
+        "name": "Michał Kalinowski"
+    },
+    {
+        "id": 762,
+        "name": "2Pi Group spółka z ograniczoną odpowiedzialnością spółka komandytowa"
+    },
+    {
+        "id": 763,
+        "name": "Zink Grażyna Zalewska-Pawlisz"
+    },
+    {
+        "id": 764,
+        "name": "DZIECKO EXPERT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+    },
+    {
+        "id": 765,
+        "name": "Andrzej Cichocki"
+    },
+    {
+        "id": 766,
+        "name": "Marek Węsierski"
+    },
+    {
+        "id": 767,
+        "name": "Sylwester Sawczuk"
+    },
+    {
+        "id": 768,
+        "name": "Tomasz Szczechowiak"
+    },
+    {
+        "id": 769,
+        "name": "Mariusz Serafinowicz"
+    },
+    {
+        "id": 770,
+        "name": "Zbigniew Cichocki"
+    },
+    {
+        "id": 771,
+        "name": "Dyskret Kiersztyn Sławomir"
+    },
+    {
+        "id": 772,
+        "name": "Gdańska Fabryka Okien Sp. z o.o."
+    },
+    {
+        "id": 773,
+        "name": "Multirolety Łukasz Płocki Piotr Płocki Spółka Jawna"
+    },
+    {
+        "id": 774,
+        "name": "MULTIROLO Rafał Penczar"
+    },
+    {
+        "id": 775,
+        "name": "Przedsiębiorstwo Wielobranżowe ROLTEX Bożena Bednarz"
+    },
+    {
+        "id": 776,
+        "name": "STORA Firma Produkcyjno-Usługowa Grzegorz Puchalski"
+    },
+    {
+        "id": 777,
+        "name": "MULTIROLO Rafał Penczer"
+    },
+    {
+        "id": 778,
+        "name": "CEMAROL Sp. z o.o."
+    },
+    {
+        "id": 779,
+        "name": "Inter-Pol Marcin Hejmowski"
+    },
+    {
+        "id": 780,
+        "name": "JOKER-HERBY F.H.U.P. KRZYSZTOF ADAMIK"
+    },
+    {
+        "id": 781,
+        "name": "Sylwia Świtajewska-Romaniuk"
+    },
+    {
+        "id": 782,
+        "name": "Agencja filmowo-reklamowa Aimart Lech Wilczaszek"
+    },
+    {
+        "id": 783,
+        "name": "Czerwiak Studio Mateusz Czerwiak"
+    },
+    {
+        "id": 784,
+        "name": "Fundacja Leżę i Pracuję"
+    },
+    {
+        "id": 785,
+        "name": "Neo-Vinci Sp. z o.o."
+    },
+    {
+        "id": 786,
+        "name": "PARTIUM Sp. z o.o."
+    },
+    {
+        "id": 787,
+        "name": "perfekcyjnestrony.pl Łukasz Krzyżoszczak"
+    },
+    {
+        "id": 788,
+        "name": "RODUQ Rafał Stefaniszyn"
+    },
+    {
+        "id": 789,
+        "name": "WOBEE DESIGN LAB Sp. z o.o."
+    },
+    {
+        "id": 790,
+        "name": "Milena Bodych-Biernacka"
+    },
+    {
+        "id": 791,
+        "name": "Fundacja Jesteśmy z Tobą"
+    },
+    {
+        "id": 792,
+        "name": "Spółdzielnia Socjalna Kaszubska Ostoja"
+    },
+    {
+        "id": 793,
+        "name": "FFW41 Łukasz Wnenk"
+    },
+    {
+        "id": 794,
+        "name": "Biuro Turystyczne Robin Tours Andrzej Drozd"
+    },
+    {
+        "id": 795,
+        "name": "COUNTRY TRAVEL Małgorzata Firlejczyk"
+    },
+    {
+        "id": 796,
+        "name": "Maciej Putaj Lech93 FHU"
+    },
+    {
+        "id": 797,
+        "name": "WYCIECZKA Z PRZEWODNIKIEM Marcin Machocki"
+    },
+    {
+        "id": 798,
+        "name": "PPHU Ekohelp T. Sajdak"
+    },
+    {
+        "id": 799,
+        "name": "Konsorcjum INPROGRESS Szkolenia Sp. z o.o. oraz INPROGRESS Sp. z o.o. Kraków"
+    }
+]

@@ -1,0 +1,2302 @@
+[
+    {
+        "auction_name": "Dostawa, instalacja i uruchomienie 4 – osiowego centrum obróbczego do aluminium, pvc i stali.",
+        "advertiser_name": "ROLETIX Sylwester Piechowski",
+        "start_date": "2021-01-29",
+        "end_date": "2021-02-08",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 3100,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zaginarka do blachy z napędem elektrycznym",
+        "advertiser_name": "ROLETIX Sylwester Piechowski",
+        "start_date": "2021-01-29",
+        "end_date": "2021-02-08",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 3101,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa, instalacja i uruchomienie piły dwugłowicowej automatycznej do cięcia profili aluminium",
+        "advertiser_name": "ROLETIX Sylwester Piechowski",
+        "start_date": "2021-01-29",
+        "end_date": "2021-02-08",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 3102,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zaprojektowanie oraz wykonanie matryc do tłoczenia / ekstruzji profili aluminiowych – model 2",
+        "advertiser_name": "ROLETIX Sylwester Piechowski",
+        "start_date": "2021-05-24",
+        "end_date": "2021-06-07",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "44212500-4",
+                "description": "Kątowniki i profile"
+            }
+        ],
+        "EU": false,
+        "id": 3103,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkoleń zawodowych oraz przeprowadzenie egzaminów zewnętrznych potwierdzających kwalifikacje zawodowe wśród uczestników/czek centrów integracji społecznej woj. podlaskiego",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-10-13",
+        "end_date": "2021-10-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 3104,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-12-06",
+        "end_date": "2021-12-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30213000-5",
+                "description": "Komputery osobiste"
+            },
+            {
+                "code": "30213100-6",
+                "description": "Komputery przenośne"
+            },
+            {
+                "code": "30213200-7",
+                "description": "Komputer tablet"
+            },
+            {
+                "code": "48620000-0",
+                "description": "Systemy operacyjne"
+            },
+            {
+                "code": "48700000-5",
+                "description": "Pakiety oprogramowania użytkowego"
+            }
+        ],
+        "EU": false,
+        "id": 3105,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-21",
+        "end_date": "2021-10-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33693000-4",
+                "description": "Pozostałe produkty terapeutyczne"
+            }
+        ],
+        "EU": false,
+        "id": 3106,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkoleń zawodowych oraz przeprowadzenie egzaminów zewnętrznych potwierdzających kwalifikacje zawodowe wśród uczestników/czek centrów integracji społecznej woj. podlaskiego",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2022-04-05",
+        "end_date": "2022-04-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 3107,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Instalacja PV Giełczyn o mocy do 0,98 MW",
+        "advertiser_name": "MM-Solar1 Jarosz Kulikowska sp. z o.o.",
+        "start_date": "2021-09-02",
+        "end_date": "2021-09-17",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "09331200-0",
+                "description": "Słoneczne moduły fotoelektryczne"
+            }
+        ],
+        "EU": true,
+        "id": 3108,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-11-22",
+        "end_date": "2021-11-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 3109,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-11-16",
+        "end_date": "2021-11-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 3110,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "„Udostępnianie zasobów publicznych rejestrów geodezyjnych – modernizacja ewidencji gruntów i budynków”",
+        "advertiser_name": "Związek Powiatów Województwa Podlaskiego",
+        "start_date": "2021-04-21",
+        "end_date": "2021-04-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "72200000-7",
+                "description": "Usługi doradcze w zakresie programowania oprogramowania"
+            }
+        ],
+        "EU": false,
+        "id": 3111,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie poradnictwa psychologicznego wśród uczestników/czek \nCentrum Integracji Społecznej w Łomży",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2022-03-11",
+        "end_date": "2022-03-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85000000-9",
+                "description": "Usługi w zakresie zdrowia i opieki społecznej"
+            }
+        ],
+        "EU": true,
+        "id": 3112,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-25",
+        "end_date": "2021-11-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 3113,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkolenia BHP, badań lekarskich oraz zakup odzieży ochronnej\ndla uczestników/czek centrów integracji społecznej woj. podlaskiego niezbędnych do realizacji szkoleń zawodowych",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-10-13",
+        "end_date": "2021-10-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80330000-6",
+                "description": "Usługi edukacji w zakresie bezpieczeństwa"
+            },
+            {
+                "code": "35113400-3",
+                "description": "Odzież ochronna i zabezpieczająca"
+            },
+            {
+                "code": "85120000-6",
+                "description": "Usługi medyczne i podobne"
+            }
+        ],
+        "EU": false,
+        "id": 3114,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "\"Regionalne Innowacje Społeczne – Centra Integracji Społecznej województwa podlaskiego”",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-01-29",
+        "end_date": "2021-02-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80330000-6",
+                "description": "Usługi edukacji w zakresie bezpieczeństwa"
+            },
+            {
+                "code": "85120000-6",
+                "description": "Usługi medyczne i podobne"
+            },
+            {
+                "code": "35113400-3",
+                "description": "Odzież ochronna i zabezpieczająca"
+            }
+        ],
+        "EU": true,
+        "id": 3115,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-26",
+        "end_date": "2021-11-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "22111000-1",
+                "description": "Podręczniki szkolne"
+            }
+        ],
+        "EU": false,
+        "id": 3116,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-11",
+        "end_date": "2021-10-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 3117,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-11",
+        "end_date": "2021-10-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 3118,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Usługa cateringu dla uczestników Centrów Integracji Społecznej",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-12-14",
+        "end_date": "2021-12-27",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 3119,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-12-17",
+        "end_date": "2021-12-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30231300-0",
+                "description": "Monitory ekranowe"
+            },
+            {
+                "code": "30231310-3",
+                "description": "Wyświetlacze płaskie"
+            },
+            {
+                "code": "48190000-6",
+                "description": "Pakiety oprogramowania edukacyjnego"
+            }
+        ],
+        "EU": false,
+        "id": 3120,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania Typu_CAD",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2021-02-18",
+        "end_date": "2021-02-26",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 3121,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania typu_CAD",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2020-12-01",
+        "end_date": "2020-12-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 3122,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkolenia BHP, badań lekarskich oraz zakup odzieży ochronnej\ndla uczestników/czek centrów integracji społecznej woj. podlaskiego niezbędnych do realizacji szkoleń zawodowych.",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-02-19",
+        "end_date": "2021-03-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80330000-6",
+                "description": "Usługi edukacji w zakresie bezpieczeństwa"
+            },
+            {
+                "code": "85120000-6",
+                "description": "Usługi medyczne i podobne"
+            },
+            {
+                "code": "35113400-3",
+                "description": "Odzież ochronna i zabezpieczająca"
+            }
+        ],
+        "EU": true,
+        "id": 3123,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/2020/0134/MZ",
+        "advertiser_name": "Mersey Sp. z o.o.",
+        "start_date": "2020-12-30",
+        "end_date": "2021-01-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30195900-1",
+                "description": "Tablice do pisania i tablice magnetyczne"
+            }
+        ],
+        "EU": false,
+        "id": 3124,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Świadczenie usług noclegowych i wyżywienia dla grupy 16 osób, uczestników sieci tematycznej ROPS i OWES",
+        "advertiser_name": "Województwo Podlaskie/ Regionalny Ośrodek Polityki Społecznej w Białymstoku",
+        "start_date": "2021-07-29",
+        "end_date": "2021-08-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 3125,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 2/2021/0134/C",
+        "advertiser_name": "Mersey Sp. z o.o.",
+        "start_date": "2021-11-30",
+        "end_date": "2021-12-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
+            }
+        ],
+        "EU": true,
+        "id": 3126,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2022/0134/C",
+        "advertiser_name": "NITH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "start_date": "2022-09-09",
+        "end_date": "2022-09-19",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
+            }
+        ],
+        "EU": true,
+        "id": 3127,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/7.1 w sprawie wyłonienia Wykonawców kursów specjalistycznych dla pielęgniarek i położnych realizowanych w ramach projektu Wsparcie kształcenia podyplomowego pielęgniarek i położnych w ramach Programu Operacyjnego Wiedza Edukacja Rozwój na lata 2014 – 2020 (PO WER 2014-2020) współfinansowanego z Europejskiego Funduszu Społecznego, numer POWR.07.01.00-00-0004/22.",
+        "advertiser_name": "Naczelna Izba Pielęgniarek i Położnych",
+        "start_date": "2022-07-21",
+        "end_date": "2022-08-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            }
+        ],
+        "EU": true,
+        "id": 3128,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-11",
+        "end_date": "2021-10-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 3129,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Rozwój Ekonomii Społecznej",
+        "advertiser_name": "Stowarzyszenie Europartner Akademicki Klub Integracji Europejskiej",
+        "start_date": "2020-10-15",
+        "end_date": "2020-10-23",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79100000-5",
+                "description": "Usługi prawnicze"
+            },
+            {
+                "code": "79200000-6",
+                "description": "Usługi księgowe, audytorskie i podatkowe"
+            },
+            {
+                "code": "79000000-4",
+                "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+            },
+            {
+                "code": "79000000-4",
+                "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+            },
+            {
+                "code": "79000000-4",
+                "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+            },
+            {
+                "code": "79100000-5",
+                "description": "Usługi prawnicze"
+            }
+        ],
+        "EU": false,
+        "id": 3130,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa zestawów sprzętu IT",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2020-12-22",
+        "end_date": "2020-12-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30200000-1",
+                "description": "Urządzenia komputerowe"
+            },
+            {
+                "code": "30200000-1",
+                "description": "Urządzenia komputerowe"
+            }
+        ],
+        "EU": false,
+        "id": 3131,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2021/0134/C",
+        "advertiser_name": "Mersey Sp. z o.o.",
+        "start_date": "2021-05-28",
+        "end_date": "2021-06-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
+            }
+        ],
+        "EU": true,
+        "id": 3132,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2022/0134/ZD",
+        "advertiser_name": "Meonot Sp. z o.o.",
+        "start_date": "2022-07-26",
+        "end_date": "2022-08-03",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 3133,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania typu CAD",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2021-03-02",
+        "end_date": "2021-03-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 3134,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania typu CAD",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2020-11-04",
+        "end_date": "2020-11-12",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 3135,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2022/0134/S",
+        "advertiser_name": "Mersey Sp. z o.o.",
+        "start_date": "2022-01-03",
+        "end_date": "2022-01-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "90900000-6",
+                "description": "Usługi w zakresie sprzątania i odkażania"
+            }
+        ],
+        "EU": false,
+        "id": 3136,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2022/0134/S",
+        "advertiser_name": "Meonot Sp. z o.o.",
+        "start_date": "2022-04-27",
+        "end_date": "2022-05-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "90900000-6",
+                "description": "Usługi w zakresie sprzątania i odkażania"
+            }
+        ],
+        "EU": false,
+        "id": 3137,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Wykonywanie badań i działań związanych z badaniami – wsparcie w pracy Wydziału Technologii-Laboratorium Drogowe Oddziału GDDKiA w Białymstoku w zakresie obsługi laboratoryjnej na inwestycjach współfinansowanych ze środków Programu Operacyjnego Infrastruktura i Środowisko (POIiŚ) i CEF”, z podziałem na 2 zadania",
+        "advertiser_name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Białymstoku",
+        "start_date": "2021-04-06",
+        "end_date": "2021-04-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79610000-3",
+                "description": "Zapewnianie usług personelu"
+            },
+            {
+                "code": "79610000-3",
+                "description": "Zapewnianie usług personelu"
+            }
+        ],
+        "EU": false,
+        "id": 3138,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie badania pn. „Ewaluacja działań realizowanych przez akredytowane OWES działające w poszczególnych subregionach w województwie podlaskim”",
+        "advertiser_name": "Województwo Podlaskie/ Regionalny Ośrodek Polityki Społecznej w Białymstoku",
+        "start_date": "2021-09-28",
+        "end_date": "2021-10-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73110000-6",
+                "description": "Usługi badawcze"
+            }
+        ],
+        "EU": true,
+        "id": 3139,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Świadczenie usługi przewozu osób realizowanych zgodnie z zapisami wniosku o dofinansowanie pt. „Akademia Trzeciego Wieku”,",
+        "advertiser_name": "Uniwersytet w Białymstoku, Wydział Nauk o Edukacji",
+        "start_date": "2021-12-02",
+        "end_date": "2021-12-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60172000-4",
+                "description": "Wynajem autobusów i autokarów wraz z kierowcą"
+            }
+        ],
+        "EU": false,
+        "id": 3140,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "„Budowa zakładu produkcji ślusarki aluminiowej oraz wdrożenie ekoinnowacyjnych rozwiązań w produktach, procesach, organizacji i marketingu”",
+        "advertiser_name": "TORPOL Sp. z o.o.",
+        "start_date": "2020-09-21",
+        "end_date": "2020-10-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44221000-5",
+                "description": "Okna, drzwi i podobne elementy"
+            },
+            {
+                "code": "45111200-0",
+                "description": "Roboty w zakresie przygotowania terenu pod budowę i roboty ziemne"
+            },
+            {
+                "code": "45210000-2",
+                "description": "Roboty budowlane w zakresie budynków"
+            },
+            {
+                "code": "45213200-5",
+                "description": "Roboty budowlane w zakresie magazynów i przemysłowych obiektów budowlanych"
+            },
+            {
+                "code": "45213220-1",
+                "description": "Roboty budowlane w zakresie magazynów"
+            },
+            {
+                "code": "45213250-0",
+                "description": "Roboty budowlane w zakresie przemysłowych obiektów budowlanych"
+            },
+            {
+                "code": "45232150-8",
+                "description": "Roboty w zakresie rurociągów do przesyłu wody"
+            },
+            {
+                "code": "45232400-6",
+                "description": "Roboty budowlane w zakresie kanałów ściekowych"
+            },
+            {
+                "code": "45310000-3",
+                "description": "Roboty instalacyjne elektryczne"
+            },
+            {
+                "code": "45320000-6",
+                "description": "Roboty izolacyjne"
+            },
+            {
+                "code": "45331000-6",
+                "description": "Instalowanie urządzeń grzewczych, wentylacyjnych i klimatyzacyjnych"
+            },
+            {
+                "code": "45332200-5",
+                "description": "Roboty instalacyjne hydrauliczne"
+            },
+            {
+                "code": "45332300-6",
+                "description": "Roboty instalacyjne kanalizacyjne"
+            },
+            {
+                "code": "45450000-6",
+                "description": "Roboty budowlane wykończeniowe, pozostałe"
+            }
+        ],
+        "EU": true,
+        "id": 3141,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Wykwalifikowany Specjalista z ZSCKR w Marianowie",
+        "advertiser_name": "OPEN EDUCATION GROUP Sp. z o.o.",
+        "start_date": "2021-08-04",
+        "end_date": "2021-08-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 3142,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/7.1/FBiP/MKWS/2021",
+        "advertiser_name": "Fundacja Biznes i Prawo",
+        "start_date": "2021-12-13",
+        "end_date": "2021-12-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 3143,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 4/7.1/PFOP/PDA/2021",
+        "advertiser_name": "Podlaska Federacja Organizacji Pozarządowych",
+        "start_date": "2021-02-22",
+        "end_date": "2021-03-02",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 3144,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania do zarządzania produkcją",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2021-02-18",
+        "end_date": "2021-02-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 3145,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Wykwalifikowany Specjalista z ZSCKR w Marianowie",
+        "advertiser_name": "OPEN EDUCATION GROUP Sp. z o.o.",
+        "start_date": "2021-07-08",
+        "end_date": "2021-07-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 3146,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/7.1/FBiP/MKWS/2022",
+        "advertiser_name": "Fundacja Biznes i Prawo",
+        "start_date": "2022-01-04",
+        "end_date": "2022-01-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79611000-0",
+                "description": "Usługi poszukiwania pracy"
+            }
+        ],
+        "EU": false,
+        "id": 3147,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkolenia BHP, badań lekarskich oraz zakup odzieży ochronnej dla uczestników/czek centrów integracji społecznej woj. podlaskiego niezbędnych do realizacji szkoleń zawodowych.",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2022-03-25",
+        "end_date": "2022-04-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80330000-6",
+                "description": "Usługi edukacji w zakresie bezpieczeństwa"
+            },
+            {
+                "code": "85120000-6",
+                "description": "Usługi medyczne i podobne"
+            },
+            {
+                "code": "35113400-3",
+                "description": "Odzież ochronna i zabezpieczająca"
+            }
+        ],
+        "EU": false,
+        "id": 3148,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "2/DORADCAZAWODOWY/PNDA/2022",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2022-05-16",
+        "end_date": "2022-05-24",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 3149,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Audit of high-level requirements, software as well as audit and definition of software development processes in accordance with the requirements of DO-178C DAL A for the implementation of the project entitled: \"Phoenix-RTOS 178 – new version of the Phoenix-RTOS operating system dedicated for implementation of systems compliant with the guidelines of the DO-178C safety standard\".\n\nAudyt wymagań wysokiego poziomu, oprogramowania oraz audyt i zdefiniowanie procesów wytwarzania oprogramowania zgodnie z wymaganiami DO-178C DAL A na potrzeby realizacji projektu pn.: „Phoenix-RTOS 178 – wersja systemu operacyjnego Phoenix-RTOS przeznaczona do realizacji systemów zgodnie z wytycznymi standardu bezpieczeństwa DO-178C”.",
+        "advertiser_name": "Phoenix Systems Sp. z o.o.",
+        "start_date": "2021-04-26",
+        "end_date": "2021-05-06",
+        "is_price_criterium": false,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": false,
+        "id": 3150,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 3/OD/2020 - realizowane w trybie zasady konkurencyjności.",
+        "advertiser_name": "Fundacja DIALOG",
+        "start_date": "2020-11-16",
+        "end_date": "2020-11-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            }
+        ],
+        "EU": true,
+        "id": 3151,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa oraz montaż oryginalnych części zamiennych do zestawu HPLC Shimadzu Prominence",
+        "advertiser_name": "Greenvit Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-03-11",
+        "end_date": "2021-03-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38432200-4",
+                "description": "Chromatografy"
+            }
+        ],
+        "EU": false,
+        "id": 3152,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie NR 1/DORADCAZAWODOWY/PNDA/2021",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2021-10-14",
+        "end_date": "2021-10-22",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 3153,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2022-02-15",
+        "end_date": "2022-02-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30236000-2",
+                "description": "Różny sprzęt komputerowy"
+            },
+            {
+                "code": "31224400-6",
+                "description": "Kable przyłączeniowe"
+            },
+            {
+                "code": "32322000-6",
+                "description": "Urządzenia multimedialne"
+            },
+            {
+                "code": "32342100-3",
+                "description": "Słuchawki"
+            },
+            {
+                "code": "32342412-3",
+                "description": "Głośniki"
+            },
+            {
+                "code": "38652100-1",
+                "description": "Projektory"
+            },
+            {
+                "code": "38653400-1",
+                "description": "Ekrany projekcyjne"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            },
+            {
+                "code": "48190000-6",
+                "description": "Pakiety oprogramowania edukacyjnego"
+            },
+            {
+                "code": "51110000-6",
+                "description": "Usługi instalowania sprzętu elektrycznego"
+            }
+        ],
+        "EU": false,
+        "id": 3154,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie NR 1/DORADCAZAWODOWY/PNDA/2021",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2021-10-14",
+        "end_date": "2021-10-22",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 3155,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/A/09/2022 dotyczące wyboru Wykonawcy na wykonanie usług doradczych dotyczących przygotowania do wdrożenia nowego modelu biznesowego związanego z internacjonalizacją działalności.",
+        "advertiser_name": "Amarotto sp. z o.o.",
+        "start_date": "2022-09-06",
+        "end_date": "2022-09-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79340000-9",
+                "description": "Usługi reklamowe i marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 3156,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Świadczenie usług przez Analityka w ramach realizacji projektu pn. „Phoenix-RTOS 178 – wersja systemu operacyjnego Phoenix-RTOS przeznaczona do realizacji systemów zgodnie z wytycznymi standardu bezpieczeństwa DO-178C”",
+        "advertiser_name": "Phoenix Systems Sp. z o.o.",
+        "start_date": "2020-09-21",
+        "end_date": "2020-09-30",
+        "is_price_criterium": false,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "72000000-5",
+                "description": "Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia"
+            }
+        ],
+        "EU": true,
+        "id": 3157,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Pobudzić do aktywności",
+        "advertiser_name": "Podlaska Federacja Organizacji Pozarządowych",
+        "start_date": "2021-03-11",
+        "end_date": "2021-03-19",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 3158,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-11",
+        "end_date": "2021-10-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 3159,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "1/POŚREDNIKPRACY/PNDA/2021",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2021-10-19",
+        "end_date": "2021-10-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 3160,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/7.1/KLASTER/SWS/2022",
+        "advertiser_name": "KLASTER PODMIOTÓW EKONOMII SPOŁECZNEJ I PRZEDSIĘBIORSTW SPOŁECZNYCH",
+        "start_date": "2022-02-24",
+        "end_date": "2022-03-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 3161,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 2/7.1/KLASTER/SWS/2022",
+        "advertiser_name": "KLASTER PODMIOTÓW EKONOMII SPOŁECZNEJ I PRZEDSIĘBIORSTW SPOŁECZNYCH",
+        "start_date": "2022-02-24",
+        "end_date": "2022-03-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79611000-0",
+                "description": "Usługi poszukiwania pracy"
+            }
+        ],
+        "EU": false,
+        "id": 3162,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "3/DORADCAZAWODOWY/PNDA/2022",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2022-08-18",
+        "end_date": "2022-08-29",
+        "is_price_criterium": false,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 3163,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zespół Szkół Weterynaryjnych i Ogólnokształcących Nr 7 w Łomży zwraca się z prośbą o przedstawienie oferty na: zakup i dostawę programów komputerowych dla branży weterynaryjnej szczegółowo opisanych w załączniku nr 1 do zapytania w ramach Projektu pn.: „Rynek pracy otwarty na młodych techników”, współfinansowany w ramach Regionalnego Programu Operacyjnego Województwa podlaskiego na lata 2014-2020.\nPostępowanie prowadzone zgodnie procedurą rozeznania rynku, o której mowa w Wytycznych w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społeczności oraz Funduszu Spójności na lata 2014-2020r.",
+        "advertiser_name": "Miasto Łomża - Zespół Szkół Weterynaryjnych i Ogólnokształacących Nr 7 w Łomży",
+        "start_date": "2021-05-20",
+        "end_date": "2021-05-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39162000-5",
+                "description": "Pomoce naukowe"
+            }
+        ],
+        "EU": true,
+        "id": 3164,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "\"Dobry zawód -pewna praca II edycja\"",
+        "advertiser_name": "Agencja Rozwoju Regionalnego S.A. w Łomży",
+        "start_date": "2021-06-24",
+        "end_date": "2021-07-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60100000-9",
+                "description": "Usługi w zakresie transportu drogowego"
+            }
+        ],
+        "EU": false,
+        "id": 3165,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zakup pętli indukcyjnych w ramach projektu „PWSIiP w Łomży dostępna i bez barier”",
+        "advertiser_name": "Akademia Nauk Stosowanych w Łomży",
+        "start_date": "2022-05-19",
+        "end_date": "2022-05-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "32342410-9",
+                "description": "Sprzęt dźwiękowy"
+            }
+        ],
+        "EU": true,
+        "id": 3166,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zakup pętli indukcyjnych w ramach projektu „PWSIiP w Łomży dostępna i bez barier”",
+        "advertiser_name": "Akademia Nauk Stosowanych w Łomży",
+        "start_date": "2022-07-08",
+        "end_date": "2022-07-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "32342410-9",
+                "description": "Sprzęt dźwiękowy"
+            }
+        ],
+        "EU": true,
+        "id": 3167,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zakup infokiosków/infoboxów w ramach projektu „PWSIiP w Łomży dostępna i bez barier”",
+        "advertiser_name": "Akademia Nauk Stosowanych w Łomży",
+        "start_date": "2022-08-02",
+        "end_date": "2022-08-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "32322000-6",
+                "description": "Urządzenia multimedialne"
+            }
+        ],
+        "EU": false,
+        "id": 3168,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK II – Zintegrowany Program Kształcenia w PWSIiP w Łomży etap II",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-08-28",
+        "end_date": "2020-09-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            }
+        ],
+        "EU": true,
+        "id": 3169,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "\"PWSIiP w Łomży dostępna i bez barier\"",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-12-28",
+        "end_date": "2021-01-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 3170,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK II – Zintegrowany Program Kształcenia w PWSIiP w Łomży etap II",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-08-28",
+        "end_date": "2020-09-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            }
+        ],
+        "EU": true,
+        "id": 3171,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "EvoBot 2 - wielojęzykowa platforma do tworzenia i uruchamiania botów głosowych dla osób nietechnicznych - kampania wizerunkowa",
+        "advertiser_name": "Evobot 2 Spółka z Ograniczoną Odpowiedzialnością",
+        "start_date": "2022-03-04",
+        "end_date": "2022-03-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79342000-3",
+                "description": "Usługi marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 3172,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Nr sprawy: KZp.272.32.20.KPK\nZorganizowanie i przeprowadzenie certyfikowanych kursów specjalistycznych z obszaru IT dla studentów V-VII semestru kierunku Informatyka I st. (studia inżynierskie stacjonarne) Państwowej Wyższej Szkoły Informatyki i Przedsiębiorczości w Łomży (moduł grupowy) w trybie on-line.",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-12-30",
+        "end_date": "2021-01-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 3173,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 3/2021/WOOBIBOO\nna organizację udziału Zamawiającego w targach Paperworld Middle East (Dubaj, Zjednoczone Emiraty Arabskie) oraz trzech indywidualnych wyjazdowych misji gospodarczych na rynku emirackim w związku z realizacją projektu pn. „Wprowadzenie tablicy manipulacyjnej Woobiboard oraz układanek edukacyjnych z potencjałem do internacjonalizacji na następujące rynki zagraniczne: Norwegia, Niemcy i Zjednoczone Emiraty Arabskie.” o numerze POPW.01.02.00-20-0017/20",
+        "advertiser_name": "WOOBIBOO PIOTR PODBIELSKI",
+        "start_date": "2021-11-16",
+        "end_date": "2021-11-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": true,
+        "id": 3174,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK II – Zintegrowany Program Kształcenia w PWSIiP w Łomży etap II",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-08-28",
+        "end_date": "2020-09-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            }
+        ],
+        "EU": true,
+        "id": 3175,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/PPP/2021/WSA\nna kompleksową organizację wyjazdu na wizyty studyjne 5 grup średnio po 8 os. – łącznie 40 osób (zapewnienie transportu międzynarodowego, wyżywienia, noclegów, przejazdów lokalnych w Polsce i Portugalii, ubezpieczenie uczestników, tłumaczenia)",
+        "advertiser_name": "Wyższa Szkoła Agrobiznesu w Łomży",
+        "start_date": "2021-04-22",
+        "end_date": "2021-05-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 3176,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/05/2021 - Wytwórnia Mas Bitumicznych o wydajności 240 ton na godzinę przy wilgotności 5%",
+        "advertiser_name": "Przedsiębiorstwo Wielobranżowe \"ZIEJA\" Ryszard Zieja",
+        "start_date": "2021-05-13",
+        "end_date": "2021-06-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "43410000-0",
+                "description": "Maszyny do obróbki minerałów"
+            },
+            {
+                "code": "43412000-4",
+                "description": "Mieszalniki"
+            },
+            {
+                "code": "43413000-1",
+                "description": "Mieszalniki betonu lub zaprawy"
+            }
+        ],
+        "EU": false,
+        "id": 3177,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Organizacja wyjazdu naukowego połączonego z konferencją naukowo-technologiczną w ramach projektu \"Efektywne kształcenie zawodowe w ASP w Łomży\"",
+        "advertiser_name": "Agencja Rozwoju Regionalnego S.A. w Łomży",
+        "start_date": "2021-12-14",
+        "end_date": "2021-12-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 3178,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/04/2021 ładowarka kołowa",
+        "advertiser_name": "Przedsiębiorstwo Wielobranżowe \"ZIEJA\" Ryszard Zieja",
+        "start_date": "2021-04-28",
+        "end_date": "2021-05-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42410000-3",
+                "description": "Urządzenia podnośnikowe i przeładunkowe"
+            }
+        ],
+        "EU": false,
+        "id": 3179,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 2/04/2021 mobilny zestaw krusząco-sortujący: mobilny przesiewacz trzypokładowy 1 szt, mobilna kruszarka stożkowa 1 szt.",
+        "advertiser_name": "Przedsiębiorstwo Wielobranżowe \"ZIEJA\" Ryszard Zieja",
+        "start_date": "2021-04-28",
+        "end_date": "2021-05-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42410000-3",
+                "description": "Urządzenia podnośnikowe i przeładunkowe"
+            }
+        ],
+        "EU": false,
+        "id": 3180,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zaproszenie do składania ofert na osobiste świadczenie usług w projekcie B+R",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-11-20",
+        "end_date": "2020-11-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73300000-5",
+                "description": "Projekt i realizacja badań oraz rozwój"
+            }
+        ],
+        "EU": true,
+        "id": 3181,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK III REG- Zintegrowany Program Kształcenia w PWSIiP w Łomży etap III nr POWR.03.05.00-00-ZR46/18",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-12-04",
+        "end_date": "2020-12-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            }
+        ],
+        "EU": true,
+        "id": 3182,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 2/2021/WOOBIBOO\nna zakup środka trwałego w postaci szlifierki szerokotaśmowej w związku z realizacją projektu pn. „Wprowadzenie tablicy manipulacyjnej Woobiboard oraz układanek edukacyjnych z potencjałem do internacjonalizacji na następujące rynki zagraniczne: Norwegia, Niemcy i Zjednoczone Emiraty Arabskie.”",
+        "advertiser_name": "WOOBIBOO PIOTR PODBIELSKI",
+        "start_date": "2021-07-02",
+        "end_date": "2021-07-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": true,
+        "id": 3183,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "TYBORY-ŻOCHY – odnawialne źródła energii w firmie ŻARNOWO Sp. z o.o.",
+        "advertiser_name": "Żarnowo Sp. z o.o.",
+        "start_date": "2022-01-24",
+        "end_date": "2022-02-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "09331200-0",
+                "description": "Słoneczne moduły fotoelektryczne"
+            }
+        ],
+        "EU": false,
+        "id": 3184,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "EvoBot 2 - wielojęzykowa platforma do tworzenia i uruchamiania botów głosowych dla osób nietechnicznych",
+        "advertiser_name": "Evobot 2 Spółka z Ograniczoną Odpowiedzialnością",
+        "start_date": "2022-01-25",
+        "end_date": "2022-02-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79342000-3",
+                "description": "Usługi marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 3185,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przedmiotem zamówienia jest nabycie okleiniarki - 1 szt.",
+        "advertiser_name": "CENTER-MEBEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+        "start_date": "2022-03-31",
+        "end_date": "2022-05-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 3186,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/MD/2022/WSA\nna kompleksową organizację wyjazdu na wizyty studyjne 10 grup średnio po 10 os. – łącznie 100 osób (zapewnienie transportu międzynarodowego, wyżywienia, noclegów, przejazdów lokalnych w Turyngii (Niemcy), ubezpieczenie uczestników, wsparcie tłumacza).",
+        "advertiser_name": "Wyższa Szkoła Agrobiznesu w Łomży",
+        "start_date": "2022-06-24",
+        "end_date": "2022-07-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 3187,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr NR 04/1.2 POPW- Internacjonalizacja MŚP/2020 na budowę stanowiska wystawienniczego na czas uczestnictwa Zamawiającego w targach AIFF 14-17 lipiec 2022",
+        "advertiser_name": "PIANPOL STYŁA SPÓŁKA JAWNA",
+        "start_date": "2022-06-27",
+        "end_date": "2022-07-05",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 3188,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "EvoBot 2 - wielojęzykowa platforma do tworzenia i uruchamiania botów głosowych dla osób nietechnicznych - kampania sprzedażowa",
+        "advertiser_name": "Evobot 2 Spółka z Ograniczoną Odpowiedzialnością",
+        "start_date": "2022-07-28",
+        "end_date": "2022-08-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79342000-3",
+                "description": "Usługi marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 3189,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 2/2021 ”Przełamując falę”",
+        "advertiser_name": "Stowarzyszenie Youth Human Impact",
+        "start_date": "2021-02-24",
+        "end_date": "2021-03-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80580000-3",
+                "description": "Oferowanie kursów językowych"
+            }
+        ],
+        "EU": true,
+        "id": 3190,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "\"PIANPOL\"STYŁA- SPOŁKA JAWNA poprzez ekspansję firmy na nowy rynek zagraniczny\"",
+        "advertiser_name": "PIANPOL STYŁA SPÓŁKA JAWNA",
+        "start_date": "2021-05-07",
+        "end_date": "2021-05-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 3191,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK II – Zintegrowany Program Kształcenia w PWSIiP w Łomży etap II",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2021-06-02",
+        "end_date": "2021-06-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79997000-9",
+                "description": "Usługi organizowania podróży służbowych"
+            }
+        ],
+        "EU": false,
+        "id": 3192,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK – Kompleksowy Program Kształcenia w PWSIiP w Łomży",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-12-31",
+        "end_date": "2021-01-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            }
+        ],
+        "EU": false,
+        "id": 3193,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 1/2021 ”Przełamując falę”",
+        "advertiser_name": "Stowarzyszenie Youth Human Impact",
+        "start_date": "2021-01-13",
+        "end_date": "2021-01-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80580000-3",
+                "description": "Oferowanie kursów językowych"
+            }
+        ],
+        "EU": true,
+        "id": 3194,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przełamując Falę - 3/2020",
+        "advertiser_name": "Stowarzyszenie Youth Human Impact",
+        "start_date": "2020-10-22",
+        "end_date": "2020-10-30",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 3195,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "EvoBot 2 - wielojęzykowa platforma do tworzenia i uruchamiania botów głosowych dla osób nietechnicznych",
+        "advertiser_name": "Evobot 2 Spółka z Ograniczoną Odpowiedzialnością",
+        "start_date": "2022-01-09",
+        "end_date": "2022-01-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79342000-3",
+                "description": "Usługi marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 3196,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Centrum Integracji Społecznej „PRZYSTAŃ” w Łapach",
+        "advertiser_name": "Fundacja Vita Familiae",
+        "start_date": "2022-07-12",
+        "end_date": "2022-07-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 3197,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Centrum Integracji Społecznej PRZYSTAŃ w Łapach",
+        "advertiser_name": "Fundacja Vita Familiae",
+        "start_date": "2022-09-30",
+        "end_date": "2022-10-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33770000-8",
+                "description": "Artykuły higieniczne z papieru"
+            }
+        ],
+        "EU": false,
+        "id": 3198,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przełamując Falę",
+        "advertiser_name": "Stowarzyszenie Youth Human Impact",
+        "start_date": "2020-09-29",
+        "end_date": "2020-10-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 3199,
+        "city": "Łomża"
+    }
+]

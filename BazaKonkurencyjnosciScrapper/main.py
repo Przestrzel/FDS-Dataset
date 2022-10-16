@@ -1,10 +1,8 @@
 import constants
 import json
-import pprint
 from offer import Offer
 from auction import Auction, Auctions
 from cpv import CPV
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
 from os import listdir
@@ -13,16 +11,16 @@ from difflib import SequenceMatcher
 from selenium import webdriver
 import config
 
-driver = webdriver.Chrome(config.path)
+driver = webdriver.Chrome(config.chrome_driver_path)
 
 
-cities_to_scrap = [ "Gdansk"]
+cities_to_scrap = config.cities_to_scrap
 
 sleep_time = 2
 
-EU_words = ["unii", "europejskiej", "unię", "europejską",  "europ", "unia", "unią"]
+EU_words = config.EU_words
 
-
+LINKS_PER_FILE = 100
 
 
 def setup_city_configuration():
@@ -216,33 +214,58 @@ def get_auction_data(auction_link):
 
 
 def get_last_done_chunk(city_name):
-    onlyfiles = [f for f in listdir(config.path_to_data) if isfile(join(config.path_to_data, f))]
+    onlyfiles = [f for f in listdir(config.path_to_data) if isfile(join(config.path_to_data, f)) and f.startswith(city_name) and f.endswith(".json")]
+    if len(onlyfiles) == 0:
+        return -1
     last_file = onlyfiles[-1]
-    try:
-        last_file_index = last_file.split(city_name, 1)[1].split('.json', 1)[0]
-    except Exception:
-        last_file_index = 0
-    return last_file_index
+    last_file_index = last_file.split(city_name, 1)[1].split('.json', 1)[0]
+    return int(last_file_index)
+
+
+def _find_links_file(city):
+    path_to_file = join(config.path_to_data, f'{city}_links.txt')
+    if isfile(path_to_file):
+        return path_to_file
+    return None
+
+
+def get_links(city):
+    path_to_file = _find_links_file(city)
+    if path_to_file:
+        links_list: list[str] = list()
+        with open(path_to_file, 'r', encoding='utf-8') as file:
+            lines = file.readlines()
+            for line in lines:
+                links_list.append(line.strip())
+        print("Get links from file")
+        return links_list
+    else:
+        url = constants.BASE_URL_QUERY + city
+        driver.get(url)
+        setup_city_configuration()
+        return get_auctions_links()
 
 
 for city in cities_to_scrap:
     last_saved_file = get_last_done_chunk(city)
-    url = constants.BASE_URL_QUERY + city
-    driver.get(url)
-    setup_city_configuration()
-    auctions_links = get_auctions_links()
-    auctions = Auctions()
-    auction_links_chunks = [auctions_links[x:x+100] for x in range(0, len(auctions_links), 100)]
+    auctions_links = get_links(city)
+    if not _find_links_file(city):
+        with open(join(config.path_to_data, f'{city}_links.txt'), 'w', encoding='utf-8') as file:
+            for links in auctions_links:
+                file.write(f'{links}\n')
+    auction_links_chunks = [auctions_links[x:x+LINKS_PER_FILE] for x in range(last_saved_file*LINKS_PER_FILE, len(auctions_links), LINKS_PER_FILE)]
 
     for index, links_chunk in enumerate(auction_links_chunks):
         if index <= int(last_saved_file):
             continue
         print(index)
+        auctions = Auctions()
         for link in links_chunk:
             auction = get_auction_data(link)
             if auction is not None:
                 auctions.add_auction(auction)
         with open(f'data/{city}{index}.json', 'w', encoding='utf-8') as f:
             json.dump(json.JSONDecoder().decode(auctions.to_json()), f, ensure_ascii=False, indent=4)
+
 
 driver.close()

@@ -1,0 +1,402 @@
+[
+    {
+        "id": 100,
+        "name": "TRAFFSOFT Sp. z o.o."
+    },
+    {
+        "id": 101,
+        "name": "Venti R. Wierzbicki, M. Rytych - Spółka Jawna"
+    },
+    {
+        "id": 102,
+        "name": "HIGH GRADE I. S Sp. z o.o."
+    },
+    {
+        "id": 103,
+        "name": "INPROGRESS Sp. z o.o."
+    },
+    {
+        "id": 104,
+        "name": "Galeria Czystości"
+    },
+    {
+        "id": 105,
+        "name": "TEB EDUKACJA Sudium Kształcenia Praktycznego w Gdańsku"
+    },
+    {
+        "id": 106,
+        "name": "O.K. Ośrodek Kursów Edmund Kwidziński w Wejherowie"
+    },
+    {
+        "id": 107,
+        "name": "Strefa Rozwoju Danuta Rynkiewicz"
+    },
+    {
+        "id": 108,
+        "name": "Zakład Budowlano Dekarski Marek Plechowski"
+    },
+    {
+        "id": 109,
+        "name": "EKOTECHLAB Marek Klein"
+    },
+    {
+        "id": 110,
+        "name": "Lab-Ekspert Karolina Musialik"
+    },
+    {
+        "id": 111,
+        "name": "HIGH GRADE i.S Sp. z o.o."
+    },
+    {
+        "id": 112,
+        "name": "Fundacja Edukacyjne Centrum Doskonalenia"
+    },
+    {
+        "id": 113,
+        "name": "Polskie Towarzystwo Ekonomiczne Oddział w Gdańsku w Sopocie"
+    },
+    {
+        "id": 114,
+        "name": "Akademia Kształcenia Zawodowego Sp. z o.o. w Gdańsku"
+    },
+    {
+        "id": 115,
+        "name": "Europejska Akademia Handlu i Przedsiębiorczości Robert Staluszka w Janowcu Wielkopolskim"
+    },
+    {
+        "id": 116,
+        "name": "Fundacja Centrum Rozwiązań Biznesowych"
+    },
+    {
+        "id": 117,
+        "name": "INFO-BIZ PROFESJONALNA EDUKACJA Sp. z o.o."
+    },
+    {
+        "id": 118,
+        "name": "Profit Plus Doradztwo Kadrowe Sp. z o.o."
+    },
+    {
+        "id": 119,
+        "name": "Oświata-Lingwista NCE Sp. z o.o."
+    },
+    {
+        "id": 120,
+        "name": "EUR Consulting Sp. z o.o. w Pruszczu Gdańskim"
+    },
+    {
+        "id": 121,
+        "name": "Europejska Akademia Handlu i Przedsiębiorczości Robert Staluszka"
+    },
+    {
+        "id": 122,
+        "name": "O.K. Ośrodek Kursów Edmund Kwidziński"
+    },
+    {
+        "id": 123,
+        "name": "MPA Mariusz Musiał"
+    },
+    {
+        "id": 124,
+        "name": "Ośrodek Szkolenia Zawodowego Gracjan Nowotarski w Gdańsku"
+    },
+    {
+        "id": 125,
+        "name": "EUR Consulting Sp. z o.o."
+    },
+    {
+        "id": 126,
+        "name": "Oświata-Lingwista Nadbałtyckie Centrum Edukacji Sp. z o. o. w Gdańsku"
+    },
+    {
+        "id": 127,
+        "name": "WPU Inżynieria Radosław Kończyk w Gdańsku"
+    },
+    {
+        "id": 128,
+        "name": "BCM PARTNERS Sp. z o.o."
+    },
+    {
+        "id": 129,
+        "name": "\"HEJS - GDYNIA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+    },
+    {
+        "id": 130,
+        "name": "BiuroKoncept meble i wnętrza biurowe Aneta Ślęzakowska"
+    },
+    {
+        "id": 131,
+        "name": "Czapla i Spółka s.c."
+    },
+    {
+        "id": 132,
+        "name": "Davo Meble Dariusz Galiński"
+    },
+    {
+        "id": 133,
+        "name": "Grupa A&E Sp. z o.o."
+    },
+    {
+        "id": 134,
+        "name": "Hurtownia Sportowa KAL-SPORT"
+    },
+    {
+        "id": 135,
+        "name": "PRZEDSIĘBIORSTWO WIELOBRANŻOWE REST ANDRZEJ WINNICKI"
+    },
+    {
+        "id": 136,
+        "name": "Tronus Polska Sp. z o.o."
+    },
+    {
+        "id": 137,
+        "name": "ZPUH \"JAWOR\" Barbara Świadek"
+    },
+    {
+        "id": 138,
+        "name": "FUJIFILM Sericol Polska Sp. z o.o."
+    },
+    {
+        "id": 139,
+        "name": "Ośrodek Szkolenia i Rozwoju Kadr \"DENAR\" Dorota Wierzgała"
+    },
+    {
+        "id": 140,
+        "name": "Ośrodek Szkolenia Zawodowego Gracjan Nowotarski"
+    },
+    {
+        "id": 141,
+        "name": "EUR Consulting SP. z o. o."
+    },
+    {
+        "id": 142,
+        "name": "Ośrodek Kształcenia Zawodwego KURSAL Marek Starczewski"
+    },
+    {
+        "id": 143,
+        "name": "Oświata Lingwista NCE Sp. z o. o."
+    },
+    {
+        "id": 144,
+        "name": "W.P.U. Inżynieria Radosław Kończyk"
+    },
+    {
+        "id": 145,
+        "name": "O. K. Ośrodek Kursów Edmund Kwidziński w Wejherowie"
+    },
+    {
+        "id": 146,
+        "name": "UpHotel Sp.z o.o."
+    },
+    {
+        "id": 147,
+        "name": "Sadowa Sp z o.o. (Hotel Sadova****)"
+    },
+    {
+        "id": 148,
+        "name": "\"Oświata - Lingwista\" Nadbałtyckie Centrum Edukacji Sp z o.o."
+    },
+    {
+        "id": 149,
+        "name": "Ośrodek Kształcenia Zawodowego KURSAL Marek Starczewski"
+    },
+    {
+        "id": 150,
+        "name": "Wielobranżowe Przedsiębiorstwo Usługowe Inżynieria Radosław Kończyk"
+    },
+    {
+        "id": 151,
+        "name": "BBR Company Sp. z o.o."
+    },
+    {
+        "id": 152,
+        "name": "Renbud Sp. z o.o."
+    },
+    {
+        "id": 153,
+        "name": "Endress+Hauser Polska Sp. z o.o."
+    },
+    {
+        "id": 154,
+        "name": "OEM Automatic Sp. z o.o."
+    },
+    {
+        "id": 155,
+        "name": "Przedsiębiorstwo Robót Elewacyjnych \"Fasada\" Sp. z o.o."
+    },
+    {
+        "id": 156,
+        "name": "Kasper Orkisz – OK EVENTS"
+    },
+    {
+        "id": 157,
+        "name": "Leszek Gąsiorowski"
+    },
+    {
+        "id": 158,
+        "name": "Oświata Lingwista"
+    },
+    {
+        "id": 159,
+        "name": "Cambridge School of English Sp. z o.o."
+    },
+    {
+        "id": 160,
+        "name": "Oxford Language Centre Joanna Sowińska"
+    },
+    {
+        "id": 161,
+        "name": "Politechnika Gdańska, Katedra Chemii Analitycznej, Wydział Chemiczny"
+    },
+    {
+        "id": 162,
+        "name": "Ekotechlab Marek Klein"
+    },
+    {
+        "id": 163,
+        "name": "MARPOL-BIS S.C. Aneta Żywicka i Leszek Żywicki"
+    },
+    {
+        "id": 164,
+        "name": "ELWOZ Sp. z o.o."
+    },
+    {
+        "id": 165,
+        "name": "BIZARTBUD"
+    },
+    {
+        "id": 166,
+        "name": "Spółdzielnia Świetlik"
+    },
+    {
+        "id": 167,
+        "name": "Ośrodek Szkolenia Kierowców VEKTRA"
+    },
+    {
+        "id": 168,
+        "name": "PRZEDSIĘBIORSTWO TECHNICZNO-HANDLOWE \"CHEMLAND\" ZBIGNIEW BARTCZAK w spadku"
+    },
+    {
+        "id": 169,
+        "name": "EPRO Ewa Magdalena Lach"
+    },
+    {
+        "id": 170,
+        "name": "„Skapol” Sp. z o.o."
+    },
+    {
+        "id": 171,
+        "name": "Pomorski Związek Żeglarski"
+    },
+    {
+        "id": 172,
+        "name": "FIRMA OL­TERM RUDZIŃSKI TRUSIELEWICZ SPÓŁKA JAWNA"
+    },
+    {
+        "id": 173,
+        "name": "ARM-INSTAL Sp.z o.o. Sp.k."
+    },
+    {
+        "id": 174,
+        "name": "Firma Elektryczno - Hydrauliczna ELDAN Wiesław Puzdrowski"
+    },
+    {
+        "id": 175,
+        "name": "Oświata Lingwista Nadbałtyckie Centrum Edukacji sp. z o.o."
+    },
+    {
+        "id": 176,
+        "name": "Stasto Automation Sp. z o.o."
+    },
+    {
+        "id": 177,
+        "name": "OKZ KURSAL Marek Starczewski"
+    },
+    {
+        "id": 178,
+        "name": "CNC MILLENA"
+    },
+    {
+        "id": 179,
+        "name": "EkotechLAB Marek Klein"
+    },
+    {
+        "id": 180,
+        "name": "T.C.S. TRÓJMIEJSKIE CENTRUM SZKOLEŃ Włodzimierz Radwaniecki"
+    },
+    {
+        "id": 181,
+        "name": "Ad-rem Firma Szkoleniowa Anna Jędrzejczak-Wróblewska"
+    },
+    {
+        "id": 182,
+        "name": "BPR Consulting Paulina Rydz"
+    },
+    {
+        "id": 183,
+        "name": "Zakład Doskonalenia Zawodowego w Słupsku"
+    },
+    {
+        "id": 184,
+        "name": "Grupa Promocyjna Maxpoint Agnieszka Starak -Bartoszuk"
+    },
+    {
+        "id": 185,
+        "name": "Oświata Lingwista Nadbałtyckie Centrum Edukacji Sp. z o. o."
+    },
+    {
+        "id": 186,
+        "name": "EUR Consulting Sp. z o. o."
+    },
+    {
+        "id": 187,
+        "name": "Multicarlo Karol Adamczuk"
+    },
+    {
+        "id": 188,
+        "name": "PROCAD SA"
+    },
+    {
+        "id": 189,
+        "name": "Grupa4BIM sp. z o.o."
+    },
+    {
+        "id": 190,
+        "name": "JUMO Sp. z o.o."
+    },
+    {
+        "id": 191,
+        "name": "Hach Lange Sp. z o. o."
+    },
+    {
+        "id": 192,
+        "name": "Europejska Akademia Handlu i Przedsiębiorczości"
+    },
+    {
+        "id": 193,
+        "name": "Katarzyna Anna"
+    },
+    {
+        "id": 194,
+        "name": "Blue Market Piotr Błaszkowski Sp.j."
+    },
+    {
+        "id": 195,
+        "name": "PHU Maroko Beata Ropela"
+    },
+    {
+        "id": 196,
+        "name": "Print Software Solutions Sp. z o.o."
+    },
+    {
+        "id": 197,
+        "name": "HIFLOW Solutions Sp. z o.o."
+    },
+    {
+        "id": 198,
+        "name": "TEB Edukacja sp. z o.o. w Poznaniu Oddział w Gdańsku"
+    },
+    {
+        "id": 199,
+        "name": "EduSimp Paulina Walczak w Borkowie"
+    }
+]

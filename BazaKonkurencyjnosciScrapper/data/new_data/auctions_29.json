@@ -1,0 +1,1978 @@
+[
+    {
+        "auction_name": "Zapytanie ofertowe nr 11/2022/OWES TŁOK 2 z dnia 12.04.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-04-12",
+        "end_date": "2022-04-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            }
+        ],
+        "EU": true,
+        "id": 2900,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie nr 5/KP/FAA/2020 – zajęcia z orientacji przestrzennej",
+        "advertiser_name": "Fundacja Ari Ari",
+        "start_date": "2020-11-17",
+        "end_date": "2020-11-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2901,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie nr 6/KP/FAA/2020 – zajęcia z obsługi technologii mobilnych",
+        "advertiser_name": "Fundacja Ari Ari",
+        "start_date": "2020-11-18",
+        "end_date": "2020-11-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2902,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 3/2021/OWES TŁOK 2 z dnia 15.04.2021 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2021-04-15",
+        "end_date": "2021-04-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2903,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 17/2022/OWES TŁOK 2 z dnia 10.06.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-06-10",
+        "end_date": "2022-06-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2904,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 20/2022/OWES TŁOK 2 z dnia 30.06.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-06-30",
+        "end_date": "2022-07-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2905,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 21/2022/OWES TŁOK 2 z dnia 14.07.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-07-14",
+        "end_date": "2022-07-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2906,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 22/2022/OWES TŁOK 2 z dnia 26.07.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-07-26",
+        "end_date": "2022-08-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2907,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 24/2022/OWES TŁOK 2 z dnia 03.10.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-10-03",
+        "end_date": "2022-10-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2908,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 10/2021/OWES TŁOK 2 z dnia 08.09.2021. r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2021-09-08",
+        "end_date": "2021-09-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            }
+        ],
+        "EU": true,
+        "id": 2909,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 7/2022/OWES TŁOK 2 z dnia 16.03.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-03-16",
+        "end_date": "2022-03-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": true,
+        "id": 2910,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 12/2021/OWES TŁOK 2 z dnia 13.09.2021 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2021-09-13",
+        "end_date": "2021-10-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2911,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 2/KP/FAA/2020 – wynajem sal",
+        "advertiser_name": "Fundacja Ari Ari",
+        "start_date": "2020-09-23",
+        "end_date": "2020-09-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "70220000-9",
+                "description": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
+            }
+        ],
+        "EU": false,
+        "id": 2912,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 8/2022/OWES TŁOK 2 z dnia 21.03.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-03-21",
+        "end_date": "2022-03-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": true,
+        "id": 2913,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/KP/FAA/2020 – Mentor/Opiekun wsparcia.",
+        "advertiser_name": "Fundacja Ari Ari",
+        "start_date": "2020-09-23",
+        "end_date": "2020-09-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2914,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 7/2021/OWES TŁOK 2 z dnia 14.07.2021 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2021-07-14",
+        "end_date": "2021-07-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85310000-5",
+                "description": "Usługi pracy społecznej"
+            }
+        ],
+        "EU": true,
+        "id": 2915,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 6/2022/OWES TŁOK 2 z dnia 07.03.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-03-07",
+        "end_date": "2022-03-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": true,
+        "id": 2916,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 18/2022/OWES TŁOK 2 z dnia 10.06.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-06-10",
+        "end_date": "2022-06-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2917,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 15/2022/OWES TŁOK 2 z dnia 06.05.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-05-06",
+        "end_date": "2022-05-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85310000-5",
+                "description": "Usługi pracy społecznej"
+            }
+        ],
+        "EU": false,
+        "id": 2918,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 13/2022/OWES TŁOK 2 z dnia 25.04.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-04-25",
+        "end_date": "2022-05-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85310000-5",
+                "description": "Usługi pracy społecznej"
+            }
+        ],
+        "EU": false,
+        "id": 2919,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 10/2022/OWES TŁOK 2 z dnia 12.04.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-04-12",
+        "end_date": "2022-04-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85310000-5",
+                "description": "Usługi pracy społecznej"
+            }
+        ],
+        "EU": true,
+        "id": 2920,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 23/2022/OWES TŁOK 2 z dnia 24.08.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-08-24",
+        "end_date": "2022-09-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 2921,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 5/2022/OWES TŁOK 2 z dnia 21.02.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-02-21",
+        "end_date": "2022-03-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": true,
+        "id": 2922,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 6/2021/OWES TŁOK 2 z dnia 08.06.2021 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2021-06-08",
+        "end_date": "2021-06-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85310000-5",
+                "description": "Usługi pracy społecznej"
+            }
+        ],
+        "EU": true,
+        "id": 2923,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 9/2022/OWES TŁOK 2 z dnia 31.03.2022 r.",
+        "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+        "start_date": "2022-03-31",
+        "end_date": "2022-04-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85310000-5",
+                "description": "Usługi pracy społecznej"
+            }
+        ],
+        "EU": true,
+        "id": 2924,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Spełnimy Twoje zawodowe marzenia 2",
+        "advertiser_name": "Gmina Miasta Toruń",
+        "start_date": "2022-06-15",
+        "end_date": "2022-06-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2925,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.03.04/2019/1 na realizację robót budowlanych związanych z uzbrojeniem terenu w infrastrukturę energetyczną w ramach projektu pod nazwą „Przygotowanie terenu inwestycyjnego na potrzeby firmy Szkłomal” dofinansowanego w ramach poddziałania 1.3.4 „Tereny inwestycyjne” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2022-03-28",
+        "end_date": "2022-04-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45100000-8",
+                "description": "Przygotowanie terenu pod budowę"
+            },
+            {
+                "code": "45230000-8",
+                "description": "Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei"
+            }
+        ],
+        "EU": true,
+        "id": 2926,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.05.02/2019/3 na dostawę maszyny do fazowania szkła w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy Szkłomal poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2020-09-24",
+        "end_date": "2020-10-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42641400-5",
+                "description": "Obrabiarki do obróbki szkła"
+            }
+        ],
+        "EU": true,
+        "id": 2927,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.05.02/2019/2 na dostawę stołu do cięcia szkła w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy Szkłomal poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2020-08-25",
+        "end_date": "2020-09-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42641400-5",
+                "description": "Obrabiarki do obróbki szkła"
+            }
+        ],
+        "EU": true,
+        "id": 2928,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.05.02/2019/2 na\ndostawę stołu do cięcia szkła w ramach projektu pod nazwą „Podniesienie\nkonkurencyjności firmy Szkłomal poprzez odtwarzanie\ngospodarczego dziedzictwa regionu” dofinansowanego w ramach\npoddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa\nregionu” Regionalnego Programu Operacyjnego Województwa\nWarmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2020-09-10",
+        "end_date": "2020-10-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42641400-5",
+                "description": "Obrabiarki do obróbki szkła"
+            }
+        ],
+        "EU": true,
+        "id": 2929,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Rozwój działu badawczego w firmie JD Automatic Jakub Dreszler",
+        "advertiser_name": "JD Automatic Jakub Dreszler",
+        "start_date": "2020-08-24",
+        "end_date": "2020-08-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38400000-9",
+                "description": "Przyrządy do badania właściwości fizycznych"
+            },
+            {
+                "code": "42994200-2",
+                "description": "Maszyny do przerobu tworzyw sztucznych"
+            },
+            {
+                "code": "42994200-2",
+                "description": "Maszyny do przerobu tworzyw sztucznych"
+            }
+        ],
+        "EU": false,
+        "id": 2930,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Dostawa zintegrowanego systemu do kąpieli i pielęgnacji",
+        "advertiser_name": "Niepubliczny Zakład Opieki Długoterminowej p.w. \"Szpital św. Jerzego\"",
+        "start_date": "2020-10-04",
+        "end_date": "2020-11-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33000000-0",
+                "description": "Urządzenia medyczne, farmaceutyki i produkty do pielęgnacji ciała"
+            },
+            {
+                "code": "33100000-1",
+                "description": "Urządzenia medyczne"
+            },
+            {
+                "code": "33158000-2",
+                "description": "Aparatura do terapii elektrycznej, elektromagnetycznej i mechanicznej"
+            }
+        ],
+        "EU": false,
+        "id": 2931,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.05.02/2019/4 na dostawę szlifierki do szlifowania szkła w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy Szkłomal poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2020-09-24",
+        "end_date": "2020-10-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42641400-5",
+                "description": "Obrabiarki do obróbki szkła"
+            }
+        ],
+        "EU": true,
+        "id": 2932,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.05.02/2019/8 na dostawę myjni poziomej do szkła w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy Szkłomal poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2020-11-16",
+        "end_date": "2020-12-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": true,
+        "id": 2933,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.05.02/2019/7 na dostawę maszyny do nakładania imitacji ołowiu w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy Szkłomal poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2020-11-16",
+        "end_date": "2020-12-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42641400-5",
+                "description": "Obrabiarki do obróbki szkła"
+            }
+        ],
+        "EU": true,
+        "id": 2934,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.05.02/2019/5 na dostawę maszyny do grawerowania szkła w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy Szkłomal poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2020-08-25",
+        "end_date": "2020-09-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42641400-5",
+                "description": "Obrabiarki do obróbki szkła"
+            }
+        ],
+        "EU": true,
+        "id": 2935,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.05.02/2019/5a na dostawę maszyny do grawerowania szkła w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy Szkłomal poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2020-09-10",
+        "end_date": "2020-10-12",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42641400-5",
+                "description": "Obrabiarki do obróbki szkła"
+            }
+        ],
+        "EU": true,
+        "id": 2936,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.13.01.00/2022/1 na dostawę centrum obróbczego sterowanego numerycznie w ramach projektu pod nazwą „Wprowadzenie zmian w firmie Szkłomal w celu uodpornienia firmy na przyszłe kryzysy” dofinansowanego w ramach działania 13.1 „Wytrzymałe MŚP” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2022-09-23",
+        "end_date": "2022-10-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42641400-5",
+                "description": "Obrabiarki do obróbki szkła"
+            }
+        ],
+        "EU": true,
+        "id": 2937,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Wdrożenie oprogramowania do zdalnego zarządzania firmą typu ERP",
+        "advertiser_name": "BOGDAN DRESZLER PRZETWÓRSTWO TWORZYW SZTUCZNYCH \"DRESZLER\"",
+        "start_date": "2021-05-09",
+        "end_date": "2021-05-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2938,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.03.05/2019/3 na przygotowanie kompleksowej usługi organizacji udziału Zamawiającego w imprezie targowej w ramach projektu pod nazwą „Ekspansja marki Szkłomal na nowe rynki – etap II” dofinansowanego w ramach poddziałania 1.3.5 „Usługi dla MŚP” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020”.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2022-02-07",
+        "end_date": "2022-02-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 2939,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.03.05/2019/2a na przygotowanie kompleksowej usługi organizacji udziału Zamawiającego w imprezie targowej w ramach projektu pod nazwą „Ekspansja marki Szkłomal na nowe rynki – etap II” dofinansowanego w ramach poddziałania 1.3.5 „Usługi dla MŚP” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020”.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2021-12-06",
+        "end_date": "2021-12-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 2940,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 3/2022 Dostawa komponentów (pszenicy i śruty sojowej) do produkcji paszy",
+        "advertiser_name": "Tenebria sp. z o.o.",
+        "start_date": "2022-09-29",
+        "end_date": "2022-10-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "03000000-1",
+                "description": "Produkty rolnictwa, hodowli, rybołówstwa, leśnictwa i podobne"
+            },
+            {
+                "code": "03211100-4",
+                "description": "Pszenica"
+            },
+            {
+                "code": "03211120-0",
+                "description": "Pszenica zwykła"
+            }
+        ],
+        "EU": false,
+        "id": 2941,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Modernizacja istniejącego oddziału łóżkowego na potrzeby pacjentów w ciężkich stanach",
+        "advertiser_name": "Niepubliczny Zakład Opieki Długoterminowej p.w. \"Szpital św. Jerzego\"",
+        "start_date": "2020-10-01",
+        "end_date": "2020-11-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            },
+            {
+                "code": "45210000-2",
+                "description": "Roboty budowlane w zakresie budynków"
+            },
+            {
+                "code": "45311200-2",
+                "description": "Roboty w zakresie instalacji elektrycznych"
+            },
+            {
+                "code": "45332000-3",
+                "description": "Roboty instalacyjne wodne i kanalizacyjne"
+            }
+        ],
+        "EU": true,
+        "id": 2942,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 2/2022 Dostawa komponentów (pszenicy i śruty sojowej) do produkcji paszy",
+        "advertiser_name": "Tenebria sp. z o.o.",
+        "start_date": "2022-09-13",
+        "end_date": "2022-09-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "03000000-1",
+                "description": "Produkty rolnictwa, hodowli, rybołówstwa, leśnictwa i podobne"
+            },
+            {
+                "code": "03211100-4",
+                "description": "Pszenica"
+            },
+            {
+                "code": "03211120-0",
+                "description": "Pszenica zwykła"
+            }
+        ],
+        "EU": false,
+        "id": 2943,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr AMAK/01/2021/UE",
+        "advertiser_name": "AMAK Michał Kasprzycki",
+        "start_date": "2021-06-30",
+        "end_date": "2021-08-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42997300-4",
+                "description": "Roboty przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 2944,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Ułatwienie firmie PTS Dreszler działalności gospodarczej w okresie pandemii COVID-19",
+        "advertiser_name": "BOGDAN DRESZLER PRZETWÓRSTWO TWORZYW SZTUCZNYCH \"DRESZLER\"",
+        "start_date": "2021-05-05",
+        "end_date": "2021-05-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 2945,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMAL/RPWM.01.03.05/2018/2 na przygotowanie kompleksowej usługi organizacji udziału Zamawiającego w imprezach targowych w ramach projektu pod nazwą „Ekspansja marki Szkłomal na nowe rynki” dofinansowanego w ramach poddziałania 1.3.5 „Usługi dla MŚP” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020”.",
+        "advertiser_name": "Piotr Truszczyński Firma Handlowo-Usługowa \"Szkłomal\"",
+        "start_date": "2022-08-29",
+        "end_date": "2022-09-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 2946,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/2022 Dostawa komponentów do produkcji paszy",
+        "advertiser_name": "Tenebria sp. z o.o.",
+        "start_date": "2022-09-02",
+        "end_date": "2022-09-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "03000000-1",
+                "description": "Produkty rolnictwa, hodowli, rybołówstwa, leśnictwa i podobne"
+            },
+            {
+                "code": "03211100-4",
+                "description": "Pszenica"
+            },
+            {
+                "code": "03211120-0",
+                "description": "Pszenica zwykła"
+            }
+        ],
+        "EU": false,
+        "id": 2947,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 41/2020 w trybie zasady konkurencyjności na dostawę wyposażenia laboratorium balistycznego",
+        "advertiser_name": "Lubawa S.A.",
+        "start_date": "2020-09-15",
+        "end_date": "2020-09-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2948,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 43/2020 w trybie zasady konkurencyjności na dostawę wciągarek linowych",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-09-30",
+        "end_date": "2020-10-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2949,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 46/2020 w trybie zasady konkurencyjności na dostawę testera cyfrowego do badania wytrzymałości na rozerwanie i przebicie",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-10-21",
+        "end_date": "2020-11-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2950,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 50 /2020 w trybie zasady konkurencyjności na dostawę manekinów",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-11-06",
+        "end_date": "2020-11-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2951,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 56/2020 w trybie zasady konkurencyjności na dostawę urządzenia do cięcia laserowego CO2 z dnia 10 grudnia 2020 r.",
+        "advertiser_name": "Lubawa Spółka Akcyjna",
+        "start_date": "2020-12-10",
+        "end_date": "2020-12-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38636110-6",
+                "description": "Lasery przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 2952,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 54/2020 w trybie zasady konkurencyjności na dostawę aparatu do badania szczelności",
+        "advertiser_name": "Lubawa Spółka Akcyjna",
+        "start_date": "2020-11-27",
+        "end_date": "2020-12-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2953,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 2/2021 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych",
+        "advertiser_name": "Lubawa Spółka Akcyjna",
+        "start_date": "2021-01-15",
+        "end_date": "2021-02-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2954,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 49/2020 w trybie zasady konkurencyjności na dostawę wyposażenia laboratorium balistycznego",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-11-03",
+        "end_date": "2020-11-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39131000-9",
+                "description": "Regały biurowe"
+            },
+            {
+                "code": "39151200-7",
+                "description": "Stoły robocze"
+            }
+        ],
+        "EU": false,
+        "id": 2955,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 4/2021 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych",
+        "advertiser_name": "Lubawa Spółka Akcyjna",
+        "start_date": "2021-04-16",
+        "end_date": "2021-04-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2956,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 40/2020 w trybie zasady konkurencyjności na dostawę dynamometrów",
+        "advertiser_name": "Lubawa S.A.",
+        "start_date": "2020-09-04",
+        "end_date": "2020-09-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2957,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 53/2020 w trybie zasady konkurencyjności na dostawę urządzenia do cięcia laserowego CO2 z dnia 20 listopada 2020 r.",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-11-20",
+        "end_date": "2020-12-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38636110-6",
+                "description": "Lasery przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 2958,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 39/2020 w trybie zasady konkurencyjności na dostawę infrastruktury laboratorium BHP (dygestorium chemicznego)",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-09-02",
+        "end_date": "2020-09-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2959,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 38/2020 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych (norma 1149-1, 1149-2)",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-08-28",
+        "end_date": "2020-09-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2960,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 45/2020 w trybie zasady konkurencyjności na dostawę wciągarek linowych",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-10-19",
+        "end_date": "2020-11-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2961,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 3/2021 w trybie zasady konkurencyjności na dostawę twardościomierzy",
+        "advertiser_name": "Lubawa Spółka Akcyjna",
+        "start_date": "2021-01-18",
+        "end_date": "2021-01-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2962,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 47/2020 w trybie zasady konkurencyjności na dostawę plotera wycinającego",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-10-21",
+        "end_date": "2020-11-03",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2963,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 42/2020 w trybie zasady konkurencyjności na dostawę infrastruktury laboratorium BHP (dygestorium chemicznego)",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-09-29",
+        "end_date": "2020-10-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": true,
+        "id": 2964,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 44 /2020 w trybie zasady konkurencyjności na dostawę manekinów",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-10-19",
+        "end_date": "2020-11-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2965,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 51/2020 w trybie zasady konkurencyjności na dostawę wciągarek linowych",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-11-06",
+        "end_date": "2020-11-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2966,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 52/2020 w trybie zasady konkurencyjności na dostawę maszyn szwalniczych oraz zgrzewarek maszynowych",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-11-10",
+        "end_date": "2020-12-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42710000-6",
+                "description": "Maszyny do produkcji wyrobów włókienniczych"
+            },
+            {
+                "code": "42715000-1",
+                "description": "Maszyny do szycia"
+            }
+        ],
+        "EU": false,
+        "id": 2967,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 55/2020 w trybie zasady konkurencyjności na dostawę wyposażenia tunelu balistycznego - deszczownicy",
+        "advertiser_name": "Lubawa Spółka Akcyjna",
+        "start_date": "2020-12-02",
+        "end_date": "2020-12-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2968,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 57/2020 w trybie zasady konkurencyjności na dostawę aparatu do badania szczelności",
+        "advertiser_name": "Lubawa Spółka Akcyjna",
+        "start_date": "2020-12-14",
+        "end_date": "2020-12-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2969,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 58/2020 w trybie zasady konkurencyjności na dostawę urządzenia do pomiarów prądowych",
+        "advertiser_name": "Lubawa Spółka Akcyjna",
+        "start_date": "2020-12-14",
+        "end_date": "2020-12-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2970,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 42/2020 w trybie zasady konkurencyjności na dostawę infrastruktury laboratorium BHP (dygestorium chemicznego)",
+        "advertiser_name": "Lubawa spółka akcyjna",
+        "start_date": "2020-09-29",
+        "end_date": "2020-10-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": true,
+        "id": 2971,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/2021 w trybie zasady konkurencyjności na dostawę wyposażenia tunelu balistycznego - deszczownicy",
+        "advertiser_name": "Lubawa Spółka Akcyjna",
+        "start_date": "2021-01-11",
+        "end_date": "2021-01-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38000000-5",
+                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+            }
+        ],
+        "EU": false,
+        "id": 2972,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Postępowanie znak OSO.2601.2.2021 - „Przebudowa istniejących sal dydaktycznych w budynku szkoły oraz w części budynków warsztatów szkolnych w Lubawie na internat i sale dydaktyczne – ETAP III – kontynuacja wraz z dalszą termomodernizacją”",
+        "advertiser_name": "Powiat Iławski",
+        "start_date": "2021-06-02",
+        "end_date": "2021-06-11",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "71248000-8",
+                "description": "Nadzór nad projektem i dokumentacją"
+            },
+            {
+                "code": "71520000-9",
+                "description": "Usługi nadzoru budowlanego"
+            },
+            {
+                "code": "71540000-5",
+                "description": "Usługi zarządzania budową"
+            }
+        ],
+        "EU": true,
+        "id": 2973,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr VBCH/RPWM.01.05.02/2019/1 na realizację robót budowlanych związanych z rozbudową budynku produkcyjno-magazynowego wraz z infrastrukturą towarzyszącą w ramach projektu pod nazwą „Podniesienie konkurencyjności firmy VBCH Design poprzez odtwarzanie gospodarczego dziedzictwa regionu” dofinansowanego w ramach poddziałania 1.5.2 „Odtwarzanie gospodarczego dziedzictwa regionu” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020",
+        "advertiser_name": "Piotr Wiergowski VBCH Design",
+        "start_date": "2022-03-17",
+        "end_date": "2022-04-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": true,
+        "id": 2974,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Przez naukę i zabawę do pełnej sprawności - Rodzinne Centrum Integracyjne Lubawa",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2021-01-04",
+        "end_date": "2021-02-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "32562000-0",
+                "description": "Kable światłowodowe"
+            },
+            {
+                "code": "34144900-7",
+                "description": "Pojazdy elektryczne"
+            }
+        ],
+        "EU": false,
+        "id": 2975,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr VBCH/RPWM.01.03.04/2020/1 na realizację robót budowlanych związanych z kompleksowym uzbrojeniem terenu inwestycyjnego w ramach projektu pod nazwą „Przygotowanie terenu inwestycyjnego na potrzeby firmy VBCH Design” dofinansowanego w ramach poddziałania 1.3.4 „Tereny inwestycyjne” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "Piotr Wiergowski VBCH Design",
+        "start_date": "2021-07-13",
+        "end_date": "2021-07-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45100000-8",
+                "description": "Przygotowanie terenu pod budowę"
+            },
+            {
+                "code": "45230000-8",
+                "description": "Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei"
+            }
+        ],
+        "EU": true,
+        "id": 2976,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr ROPS-I.9112.1.2022 z dnia 20 czerwca 2022 r. na przeprowadzenie doradztwa specjalistycznego w zakresie tworzenia i funkcjonowania CUS.",
+        "advertiser_name": "Urząd Marszałkowski Województwa Warmińsko-Mazurskiego",
+        "start_date": "2022-06-20",
+        "end_date": "2022-06-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73220000-0",
+                "description": "Usługi doradcze w zakresie rozwoju"
+            },
+            {
+                "code": "73220000-0",
+                "description": "Usługi doradcze w zakresie rozwoju"
+            },
+            {
+                "code": "73220000-0",
+                "description": "Usługi doradcze w zakresie rozwoju"
+            },
+            {
+                "code": "73220000-0",
+                "description": "Usługi doradcze w zakresie rozwoju"
+            }
+        ],
+        "EU": false,
+        "id": 2977,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Dostawa wyposażenia obiektu centrum rehabilitacyjnego, terapeutyczno-psychologiczno-wychowawczego oraz rekreacyjno - edukacyjnego realizowaną w ramach projektu pn. „Przez naukę i zabawę do pełnej sprawności - Rodzinne Centrum Integracyjne Lubawa”.",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2020-09-04",
+        "end_date": "2020-10-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30213000-5",
+                "description": "Komputery osobiste"
+            },
+            {
+                "code": "30236000-2",
+                "description": "Różny sprzęt komputerowy"
+            },
+            {
+                "code": "33100000-1",
+                "description": "Urządzenia medyczne"
+            },
+            {
+                "code": "37000000-8",
+                "description": "Instrumenty muzyczne, artykuły sportowe, gry, zabawki, wyroby rzemieślnicze, materiały i akcesoria artystyczne"
+            },
+            {
+                "code": "37400000-2",
+                "description": "Artykuły i sprzęt sportowy"
+            },
+            {
+                "code": "39150000-8",
+                "description": "Różne meble i wyposażenie"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2978,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Promocja produktu sieciowego w ramach projektu pn. „Przez naukę i zabawę do pełnej sprawności - Rodzinne Centrum Integracyjne Lubawa” oraz pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2021-04-23",
+        "end_date": "2021-05-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "22462000-6",
+                "description": "Materiały reklamowe"
+            },
+            {
+                "code": "79340000-9",
+                "description": "Usługi reklamowe i marketingowe"
+            },
+            {
+                "code": "79341400-0",
+                "description": "Usługi prowadzenia kampanii reklamowych"
+            },
+            {
+                "code": "79342200-5",
+                "description": "Usługi w zakresie promocji"
+            },
+            {
+                "code": "79800000-2",
+                "description": "Usługi drukowania i powiązane"
+            }
+        ],
+        "EU": false,
+        "id": 2979,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Realizacja zadań związanych z platformą IT dla projektu pn. „Przez naukę i zabawę do pełnej sprawności - Rodzinne Centrum Integracyjne Lubawa",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2021-04-06",
+        "end_date": "2021-04-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2980,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Przygotowanie odbiornika testowego do przyjęcia ładowania o mocy co najmniej 400kW, na mobilnej podstawie, dla EVPS Sp. z o. o. w ramach projektu „Ładowanie pełną mocą. Balansowanie pracy ładowarek pojazdów elektrycznych w sieci elektroenergetycznej”",
+        "advertiser_name": "EVPS Sp. z o. o.",
+        "start_date": "2020-10-01",
+        "end_date": "2020-10-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "31440000-2",
+                "description": "Baterie"
+            },
+            {
+                "code": "31611000-2",
+                "description": "Zestawy instalacji elektrycznej"
+            },
+            {
+                "code": "31720000-9",
+                "description": "Urządzenia elektromechaniczne"
+            }
+        ],
+        "EU": false,
+        "id": 2981,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "ZO/1/2022 Zakup środka trwałego w postaci wycinarki plazmowej CNC",
+        "advertiser_name": "IDSOL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "start_date": "2022-01-04",
+        "end_date": "2022-01-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42611000-2",
+                "description": "Obrabiarki specjalnego zastosowania"
+            }
+        ],
+        "EU": false,
+        "id": 2982,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "ZO/2/2022 „Zakup usługi doradczo-analitycznej.\"",
+        "advertiser_name": "IDSOL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "start_date": "2022-04-11",
+        "end_date": "2022-04-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79000000-4",
+                "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+            }
+        ],
+        "EU": false,
+        "id": 2983,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Wykonanie usługi doradczo – wdrożeniowej wraz z opracowaniem finalnego produktu tj. „Księgi standardów” – księgi kodów i znaków w zakresie promocji produktu sieciowego w ramach projektu pn. „Przez naukę i zabawę do pełnej sprawności – Rodzinne Centrum Integracyjne Lubawa” oraz pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”.",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2021-01-22",
+        "end_date": "2021-02-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79411000-8",
+                "description": "Ogólne usługi doradcze w zakresie zarządzania"
+            }
+        ],
+        "EU": false,
+        "id": 2984,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMALS/RPWM.01.03.04/2020/1 na realizację robót budowlanych związanych z kompleksowym uzbrojeniem terenu inwestycyjnego w ramach projektu pod nazwą „Przygotowanie terenu inwestycyjnego na potrzeby firmy Szkłomal Spółka z o.o.” dofinansowanego w ramach poddziałania 1.3.4 „Tereny inwestycyjne” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "\"Szkłomal\" Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2022-06-24",
+        "end_date": "2022-07-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45100000-8",
+                "description": "Przygotowanie terenu pod budowę"
+            },
+            {
+                "code": "45230000-8",
+                "description": "Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei"
+            }
+        ],
+        "EU": true,
+        "id": 2985,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr SZKŁOMALS/RPWM.01.03.04/2020/1 na realizację robót budowlanych związanych z kompleksowym uzbrojeniem terenu inwestycyjnego w ramach projektu pod nazwą „Przygotowanie terenu inwestycyjnego na potrzeby firmy Szkłomal Spółka z o.o.” dofinansowanego w ramach poddziałania 1.3.4 „Tereny inwestycyjne” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020.",
+        "advertiser_name": "\"Szkłomal\" Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2022-06-24",
+        "end_date": "2022-07-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45100000-8",
+                "description": "Przygotowanie terenu pod budowę"
+            },
+            {
+                "code": "45230000-8",
+                "description": "Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei"
+            }
+        ],
+        "EU": true,
+        "id": 2986,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Realizacja zadań związanych z platformą IT dla projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2021-12-01",
+        "end_date": "2021-12-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2987,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Dostawa wyposażenia realizowana w ramach projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2021-01-17",
+        "end_date": "2021-02-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "32324600-6",
+                "description": "Telewizory cyfrowe"
+            },
+            {
+                "code": "37400000-2",
+                "description": "Artykuły i sprzęt sportowy"
+            },
+            {
+                "code": "37440000-4",
+                "description": "Sprzęt do ćwiczeń fizycznych"
+            },
+            {
+                "code": "37442000-8",
+                "description": "Ciężarki i sprzęt do ćwiczeń na wytrzymałość"
+            },
+            {
+                "code": "42933000-5",
+                "description": "Automaty sprzedające"
+            },
+            {
+                "code": "42995000-7",
+                "description": "Różne maszyny czyszczące"
+            }
+        ],
+        "EU": true,
+        "id": 2988,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Wykonanie robót budowlanych w ramach projektu pn. Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2020-12-23",
+        "end_date": "2021-01-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "09332000-5",
+                "description": "Instalacje słoneczne"
+            }
+        ],
+        "EU": true,
+        "id": 2989,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Dostawa mobilnego środka transportu realizowana w ramach projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2021-03-18",
+        "end_date": "2021-04-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "34121000-1",
+                "description": "Autobusy i autokary"
+            }
+        ],
+        "EU": true,
+        "id": 2990,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe na dostawę sprzętu nagłaśniającego i radiomagnetofonów dla uczestników projektu \"Aktywny przedszkolak\". Postępowanie prowadzone w trybie zasady konkurencyjności.",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2020-09-23",
+        "end_date": "2020-10-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "32000000-3",
+                "description": "Sprzęt radiowy, telewizyjny, komunikacyjny, telekomunikacyjny i podobny"
+            }
+        ],
+        "EU": true,
+        "id": 2991,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr DREWHIT/RPWM.01.04.04/2018/4 na dostawę ścisku hydraulicznego w ramach projektu pod nazwą „Internacjonalizacja działalności firmy Drew-Hit” dofinansowanego w ramach poddziałania 1.4.4 „Internacjonalizacja MŚP” Regionalnego Programu Operacyjnego Województwa Warmińsko-Mazurskiego na lata 2014-2020",
+        "advertiser_name": "\"Drew-Hit\" Adam Marciniak",
+        "start_date": "2020-12-10",
+        "end_date": "2020-12-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42636100-4",
+                "description": "Prasy hydrauliczne"
+            },
+            {
+                "code": "42642100-9",
+                "description": "Obrabiarki do obróbki drewna"
+            }
+        ],
+        "EU": true,
+        "id": 2992,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Dostawa wyposażenia realizowana w ramach projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2021-03-08",
+        "end_date": "2021-04-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "34522000-2",
+                "description": "Łodzie rekreacyjne i sportowe"
+            }
+        ],
+        "EU": true,
+        "id": 2993,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Opieka lekarsko – weterynaryjna",
+        "advertiser_name": "Fundacja Albatros",
+        "start_date": "2022-02-16",
+        "end_date": "2022-02-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85200000-1",
+                "description": "Usługi weterynaryjne"
+            },
+            {
+                "code": "85200000-1",
+                "description": "Usługi weterynaryjne"
+            },
+            {
+                "code": "85200000-1",
+                "description": "Usługi weterynaryjne"
+            },
+            {
+                "code": "85200000-1",
+                "description": "Usługi weterynaryjne"
+            },
+            {
+                "code": "85200000-1",
+                "description": "Usługi weterynaryjne"
+            }
+        ],
+        "EU": false,
+        "id": 2994,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Wykonanie instalacji fotowoltaicznej w ramach projektu pn. „Centrum Rehabilitacyjne Dla Dzieci i Młodzieży ZDROWA GŁOWA”.",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2021-07-23",
+        "end_date": "2021-08-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "09331200-0",
+                "description": "Słoneczne moduły fotoelektryczne"
+            },
+            {
+                "code": "09332000-5",
+                "description": "Instalacje słoneczne"
+            },
+            {
+                "code": "45000000-7",
+                "description": "Roboty budowlane"
+            }
+        ],
+        "EU": true,
+        "id": 2995,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE Na dostawę z instalacją sprzętu elektronicznego dla uczestników projektu „Jestem SOBĄ w mojej szkole”. Postępowanie prowadzone w trybie zasady konkurencyjności",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2020-11-18",
+        "end_date": "2020-12-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30213000-5",
+                "description": "Komputery osobiste"
+            },
+            {
+                "code": "30231000-7",
+                "description": "Ekrany i konsole komputerowe"
+            },
+            {
+                "code": "30236000-2",
+                "description": "Różny sprzęt komputerowy"
+            },
+            {
+                "code": "48624000-8",
+                "description": "Pakiety oprogramowania dla systemów operacyjnych komputerów osobistych (PC)"
+            }
+        ],
+        "EU": true,
+        "id": 2996,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Realizacja usługi transportowej dla uczestników projektu \"Jestem SOBĄ w mojej szkole\"",
+        "advertiser_name": "Fundacja Rozwoju Warmii i Mazur",
+        "start_date": "2020-10-23",
+        "end_date": "2020-11-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60172000-4",
+                "description": "Wynajem autobusów i autokarów wraz z kierowcą"
+            }
+        ],
+        "EU": true,
+        "id": 2997,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Ładowanie pełną mocą. Balansowanie pracy ładowarek pojazdów elektrycznych w sieci elektroenergetycznej",
+        "advertiser_name": "EVPS Sp. z o. o.",
+        "start_date": "2021-12-13",
+        "end_date": "2021-12-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48100000-9",
+                "description": "Przemysłowe specyficzne pakiety oprogramowania"
+            }
+        ],
+        "EU": false,
+        "id": 2998,
+        "city": "Lubawa"
+    },
+    {
+        "auction_name": "Wykonanie strony internetowej oraz realizację kampanii promocyjnej dla EVPS Sp. z o. o. w ramach projektu w ramach poddziałania 3.3.3. Wsparcie MŚP w promocji marek produktowych – GO TO BRAND w ramach programu operacyjnego inteligentny rozwój 2014-2020 nr umowy POIR.03.03.03-28-0010/21-00",
+        "advertiser_name": "EVPS Sp. z o. o.",
+        "start_date": "2022-08-24",
+        "end_date": "2022-09-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "72413000-8",
+                "description": "Usługi w zakresie projektowania stron WWW"
+            }
+        ],
+        "EU": true,
+        "id": 2999,
+        "city": "Lubawa"
+    }
+]

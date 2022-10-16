@@ -1,0 +1,402 @@
+[
+    {
+        "id": 0,
+        "name": "Euroimpex"
+    },
+    {
+        "id": 1,
+        "name": "Hotel Oliwski Sp. z o.o."
+    },
+    {
+        "id": 2,
+        "name": "Stamon Sp. z o.o."
+    },
+    {
+        "id": 3,
+        "name": "Elżbieta Żurawik"
+    },
+    {
+        "id": 4,
+        "name": "Hotel Oliwski"
+    },
+    {
+        "id": 5,
+        "name": "UpHotel Sp. z o.o."
+    },
+    {
+        "id": 6,
+        "name": "FIZJOMED Dawid Kaźmierski"
+    },
+    {
+        "id": 7,
+        "name": "Jowita Strzalińska"
+    },
+    {
+        "id": 8,
+        "name": "ORBIS S.A. Novotel Gdańsk Centrum"
+    },
+    {
+        "id": 9,
+        "name": "M Concept Monika Dewerenda-Biedroń"
+    },
+    {
+        "id": 10,
+        "name": "MODERN EVENTS MAGDALENA GĘCA"
+    },
+    {
+        "id": 11,
+        "name": "Silver-bird Events Natalia Gołąb"
+    },
+    {
+        "id": 12,
+        "name": "UpHOTEL Sp. z o.o."
+    },
+    {
+        "id": 13,
+        "name": "Firma Handlowo Usługowa Bud Rob Szpek Paweł"
+    },
+    {
+        "id": 14,
+        "name": "Hard Bud Budownictwo Andrzej Licbarski"
+    },
+    {
+        "id": 15,
+        "name": "PROJMED Sp. z o.o."
+    },
+    {
+        "id": 16,
+        "name": "OSDW AZYMUT Sp. z o.o."
+    },
+    {
+        "id": 17,
+        "name": "Ksiegarnia Grzegorz Paduch"
+    },
+    {
+        "id": 18,
+        "name": "Brif Marcin Krajewski"
+    },
+    {
+        "id": 19,
+        "name": "Databout Sp. z o.o."
+    },
+    {
+        "id": 20,
+        "name": "ekovert Łukasz Szkudlarek"
+    },
+    {
+        "id": 21,
+        "name": "Fori sp.z o.o."
+    },
+    {
+        "id": 22,
+        "name": "HardBud Budownictwo Andrzej Licbarski"
+    },
+    {
+        "id": 23,
+        "name": "PB”S-Bud” Zbigniew Stucki"
+    },
+    {
+        "id": 24,
+        "name": "RONOMED SP. Z O.O. SP.K."
+    },
+    {
+        "id": 25,
+        "name": "Elecpol Sp. z o.o."
+    },
+    {
+        "id": 26,
+        "name": "Kenzi Karolina Goruchta"
+    },
+    {
+        "id": 27,
+        "name": "PATRYCJA WIĘCKOWSKA"
+    },
+    {
+        "id": 28,
+        "name": "Hurtownia Kosmetyczna Vanity Artur Urbaniec"
+    },
+    {
+        "id": 29,
+        "name": "CHEC - SPORT Anna Chęć"
+    },
+    {
+        "id": 30,
+        "name": "13p Sp. Z O O"
+    },
+    {
+        "id": 31,
+        "name": "JC-Car Jerzy Czubiński"
+    },
+    {
+        "id": 32,
+        "name": "WIELKOPOLSKIE CENTRUM ODZIEŻY SPORTOWEJ KALAHARI ANNA LESZCZYŃSKA-PAWLAK"
+    },
+    {
+        "id": 33,
+        "name": "ZAKŁAD PRODUKCJI POŚCIELI ŚWIT IZABELA WINTONIAK"
+    },
+    {
+        "id": 34,
+        "name": "PHU BMS sp.j. Z. Bielecki"
+    },
+    {
+        "id": 35,
+        "name": "GREEN LILY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+    },
+    {
+        "id": 36,
+        "name": "RBS Kosmetik"
+    },
+    {
+        "id": 37,
+        "name": "ANODO Sp. z o.o."
+    },
+    {
+        "id": 38,
+        "name": "SIMBHP Spółka Jawna Sławomir Małecki, Ireneusz Mikucki"
+    },
+    {
+        "id": 39,
+        "name": "Przedsiębiorstwo Budowlane „S-Bud” Zbigniew Stucki"
+    },
+    {
+        "id": 40,
+        "name": "Firma handlowo-usługowa Bud Rob Szpek Paweł"
+    },
+    {
+        "id": 41,
+        "name": "PB „S-Bud” Zbigniew Stucki"
+    },
+    {
+        "id": 42,
+        "name": "Omega Renata Wolak"
+    },
+    {
+        "id": 43,
+        "name": "Marek Plechowski Zakład Budowlano Dekarski Marek Plechowski"
+    },
+    {
+        "id": 44,
+        "name": "FORI Sp.z.o.o."
+    },
+    {
+        "id": 45,
+        "name": "Inprogress Sp z o.o."
+    },
+    {
+        "id": 46,
+        "name": "Bogumiła Tyszkiewicz"
+    },
+    {
+        "id": 47,
+        "name": "Centrum Szkoleń Dietetyki Klinicznej Anna Brończyk-Puzoń"
+    },
+    {
+        "id": 48,
+        "name": "Magic Pencil Wiesława Zwierzchowska"
+    },
+    {
+        "id": 49,
+        "name": "Marta Potrykus"
+    },
+    {
+        "id": 50,
+        "name": "Vektra"
+    },
+    {
+        "id": 51,
+        "name": "DORADZTWO MARKETINGOWE Jacek Dobrzeniecki"
+    },
+    {
+        "id": 52,
+        "name": "GARMOND PRESS S.A."
+    },
+    {
+        "id": 53,
+        "name": "RFID Solutions sp. z o.o."
+    },
+    {
+        "id": 54,
+        "name": "HADATAP Sp. z o.o."
+    },
+    {
+        "id": 55,
+        "name": "DOLEZYCH Sp. z o.o."
+    },
+    {
+        "id": 56,
+        "name": "Zakład Usług Stolarsko Budowlanych \"OKAZ\""
+    },
+    {
+        "id": 57,
+        "name": "Agencja Reklamowa TopMar Marek Buczko"
+    },
+    {
+        "id": 58,
+        "name": "GRAFIS komunikacja wizualna Jacek Muszalski, Beata Skrzecz"
+    },
+    {
+        "id": 59,
+        "name": "JAGA SP. Z O.O. SP. K."
+    },
+    {
+        "id": 60,
+        "name": "Profesja Reklamy Adam Kozłowski"
+    },
+    {
+        "id": 61,
+        "name": "Involt Sp. z o.o., sp.k."
+    },
+    {
+        "id": 62,
+        "name": "Tele-FoniKa Kable SA"
+    },
+    {
+        "id": 63,
+        "name": "Tim SA"
+    },
+    {
+        "id": 64,
+        "name": "AMADAR SP Z O.O."
+    },
+    {
+        "id": 65,
+        "name": "Oświata Lingwista Nadbałtyckie Centrum Edukacji Sp. z o.o."
+    },
+    {
+        "id": 66,
+        "name": "Akademia Kształcenia Zawodowego Sp. z o.o."
+    },
+    {
+        "id": 67,
+        "name": "Alfa Edukacja Michał Grelus"
+    },
+    {
+        "id": 68,
+        "name": "Polskie Towarzystwo Ekonomiczne Oddział w Gdańsku"
+    },
+    {
+        "id": 69,
+        "name": "STREFA ROZWOJU Danuta Rynkiewicz"
+    },
+    {
+        "id": 70,
+        "name": "PBC Sp. z o.o."
+    },
+    {
+        "id": 71,
+        "name": "Fundacja Społecznie Bezpieczni"
+    },
+    {
+        "id": 72,
+        "name": "Sadowa Sp. z o.o. (Hotel Sadowa)"
+    },
+    {
+        "id": 73,
+        "name": "Scandic Polen Sp. z o.o."
+    },
+    {
+        "id": 74,
+        "name": "GOSPODARKA MORSKA Sp. z o.o."
+    },
+    {
+        "id": 75,
+        "name": "PRO COMPLEX GRUPA Dominik Skiba"
+    },
+    {
+        "id": 76,
+        "name": "Przedsiębiorstwo Budowlane \"S-BUD\""
+    },
+    {
+        "id": 77,
+        "name": "HARDBUD Budownictwo Andrzej Licbarski"
+    },
+    {
+        "id": 78,
+        "name": "Przedsiębiorstwo Usługowo-Handlowe BUDCHEM Arkadiusz Lewicki"
+    },
+    {
+        "id": 79,
+        "name": "Usługi Ogólnobudowlane Paweł Bronk"
+    },
+    {
+        "id": 80,
+        "name": "Zakład Budowlano-Dekarski Marek Plechowski"
+    },
+    {
+        "id": 81,
+        "name": "Richo Polska Piotr Pawlicki"
+    },
+    {
+        "id": 82,
+        "name": "Metal Technics Polska Sp. z o. o. Sp. k."
+    },
+    {
+        "id": 83,
+        "name": "Usługi Budowlane Paweł Bronk"
+    },
+    {
+        "id": 84,
+        "name": "Zakład Wielobranżowy Jan Rekowski"
+    },
+    {
+        "id": 85,
+        "name": "O. K. Ośrodek Kursów Edmund Kwidziński"
+    },
+    {
+        "id": 86,
+        "name": "ART COLOR MODELS Jolanta Kucharzyk"
+    },
+    {
+        "id": 87,
+        "name": "Ośrodek Szkolenia Dokształcania i Doskonalenia Kadr KURSOR Oddział w Białej Podlaskiej"
+    },
+    {
+        "id": 88,
+        "name": "Pomorska Izba Rzemieślnicza Małych i Średnich Przedsiębiorstw"
+    },
+    {
+        "id": 89,
+        "name": "SoftWro"
+    },
+    {
+        "id": 90,
+        "name": "Agencja Reklamowa Indivisual Bartosz Krzywański"
+    },
+    {
+        "id": 91,
+        "name": "CUSHY Investments"
+    },
+    {
+        "id": 92,
+        "name": "EGD DESIGN Tokarski Andrzej"
+    },
+    {
+        "id": 93,
+        "name": "ExpanseAgency Sp. Z o.o."
+    },
+    {
+        "id": 94,
+        "name": "KDMC Karolina podsiedlik"
+    },
+    {
+        "id": 95,
+        "name": "nFinity.pl sp z o.o."
+    },
+    {
+        "id": 96,
+        "name": "OWLS DEPARTMENT Sp. z o.o."
+    },
+    {
+        "id": 97,
+        "name": "PIN MEDIA MARCIN BĄK"
+    },
+    {
+        "id": 98,
+        "name": "Roduq Rafał Stefaniszyn"
+    },
+    {
+        "id": 99,
+        "name": "The Legend Studio Sp. z o.o."
+    }
+]

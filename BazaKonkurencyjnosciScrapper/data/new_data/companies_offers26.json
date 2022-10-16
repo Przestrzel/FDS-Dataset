@@ -1,0 +1,502 @@
+[
+    {
+        "auction_id": 1467,
+        "company_id": 1452,
+        "price": "6430.00 PLN"
+    },
+    {
+        "auction_id": 1467,
+        "company_id": 1453,
+        "price": "18832.00 PLN"
+    },
+    {
+        "auction_id": 1467,
+        "company_id": 375,
+        "price": "9885.83 PLN"
+    },
+    {
+        "auction_id": 1467,
+        "company_id": 447,
+        "price": "8728.12 PLN"
+    },
+    {
+        "auction_id": 1469,
+        "company_id": 1454,
+        "price": "165600.00 PLN"
+    },
+    {
+        "auction_id": 1469,
+        "company_id": 1455,
+        "price": "292981.80 PLN"
+    },
+    {
+        "auction_id": 1469,
+        "company_id": 10,
+        "price": "159900.00 PLN"
+    },
+    {
+        "auction_id": 1469,
+        "company_id": 11,
+        "price": "241500.00 PLN"
+    },
+    {
+        "auction_id": 1469,
+        "company_id": 677,
+        "price": "211500.00 PLN"
+    },
+    {
+        "auction_id": 1470,
+        "company_id": 211,
+        "price": "17970.28 PLN"
+    },
+    {
+        "auction_id": 1470,
+        "company_id": 1456,
+        "price": "20679.20 PLN"
+    },
+    {
+        "auction_id": 1470,
+        "company_id": 210,
+        "price": "26629.92 PLN"
+    },
+    {
+        "auction_id": 1472,
+        "company_id": 531,
+        "price": "48.60 PLN"
+    },
+    {
+        "auction_id": 1472,
+        "company_id": 1457,
+        "price": "405.90 PLN"
+    },
+    {
+        "auction_id": 1472,
+        "company_id": 501,
+        "price": "1557.00 PLN"
+    },
+    {
+        "auction_id": 1472,
+        "company_id": 1458,
+        "price": "818.64 PLN"
+    },
+    {
+        "auction_id": 1472,
+        "company_id": 211,
+        "price": "295.57 PLN"
+    },
+    {
+        "auction_id": 1473,
+        "company_id": 1459,
+        "price": "100.00 PLN"
+    },
+    {
+        "auction_id": 1474,
+        "company_id": 1448,
+        "price": "177120.00 PLN"
+    },
+    {
+        "auction_id": 1475,
+        "company_id": 279,
+        "price": "5904.00 PLN"
+    },
+    {
+        "auction_id": 1475,
+        "company_id": 1449,
+        "price": "2490.00 PLN"
+    },
+    {
+        "auction_id": 1476,
+        "company_id": 1450,
+        "price": "692439.74 PLN"
+    },
+    {
+        "auction_id": 1476,
+        "company_id": 1451,
+        "price": "1362990.70 PLN"
+    },
+    {
+        "auction_id": 1478,
+        "company_id": 447,
+        "price": "6249.63 PLN"
+    },
+    {
+        "auction_id": 1478,
+        "company_id": 551,
+        "price": "7209.18 PLN"
+    },
+    {
+        "auction_id": 1478,
+        "company_id": 283,
+        "price": "5404.00 PLN"
+    },
+    {
+        "auction_id": 1479,
+        "company_id": 1460,
+        "price": "36900.00 PLN"
+    },
+    {
+        "auction_id": 1479,
+        "company_id": 1461,
+        "price": "39360.00 PLN"
+    },
+    {
+        "auction_id": 1480,
+        "company_id": 1462,
+        "price": "50.00 PLN"
+    },
+    {
+        "auction_id": 1481,
+        "company_id": 1463,
+        "price": "30211.26 PLN"
+    },
+    {
+        "auction_id": 1481,
+        "company_id": 1464,
+        "price": "101352.00 PLN"
+    },
+    {
+        "auction_id": 1482,
+        "company_id": 1465,
+        "price": "540000.00 PLN"
+    },
+    {
+        "auction_id": 1483,
+        "company_id": 1466,
+        "price": "70000.00 PLN"
+    },
+    {
+        "auction_id": 1483,
+        "company_id": 1467,
+        "price": "155000.00 PLN"
+    },
+    {
+        "auction_id": 1483,
+        "company_id": 1468,
+        "price": "97600.00 PLN"
+    },
+    {
+        "auction_id": 1484,
+        "company_id": 1469,
+        "price": "277397.10 PLN"
+    },
+    {
+        "auction_id": 1485,
+        "company_id": 1470,
+        "price": "205.00 PLN"
+    },
+    {
+        "auction_id": 1485,
+        "company_id": 1471,
+        "price": "209.00 PLN"
+    },
+    {
+        "auction_id": 1486,
+        "company_id": 1472,
+        "price": "70000.00 PLN"
+    },
+    {
+        "auction_id": 1487,
+        "company_id": 1473,
+        "price": "42521.10 PLN"
+    },
+    {
+        "auction_id": 1487,
+        "company_id": 1474,
+        "price": "53997.00 PLN"
+    },
+    {
+        "auction_id": 1487,
+        "company_id": 1475,
+        "price": "49200.00 PLN"
+    },
+    {
+        "auction_id": 1487,
+        "company_id": 1476,
+        "price": "60270.00 PLN"
+    },
+    {
+        "auction_id": 1488,
+        "company_id": 222,
+        "price": "2238.30 PLN"
+    },
+    {
+        "auction_id": 1488,
+        "company_id": 564,
+        "price": "2938.00 PLN"
+    },
+    {
+        "auction_id": 1488,
+        "company_id": 1477,
+        "price": "792.60 PLN"
+    },
+    {
+        "auction_id": 1488,
+        "company_id": 1478,
+        "price": "1585.80 PLN"
+    },
+    {
+        "auction_id": 1489,
+        "company_id": 1479,
+        "price": "89175.00 PLN"
+    },
+    {
+        "auction_id": 1489,
+        "company_id": 1480,
+        "price": "59040.00 PLN"
+    },
+    {
+        "auction_id": 1490,
+        "company_id": 1481,
+        "price": "65.00 PLN"
+    },
+    {
+        "auction_id": 1491,
+        "company_id": 1482,
+        "price": "70000.00 PLN"
+    },
+    {
+        "auction_id": 1492,
+        "company_id": 1483,
+        "price": "9950.00 PLN"
+    },
+    {
+        "auction_id": 1492,
+        "company_id": 1484,
+        "price": "15000.00 PLN"
+    },
+    {
+        "auction_id": 1492,
+        "company_id": 1485,
+        "price": "15990.00 PLN"
+    },
+    {
+        "auction_id": 1492,
+        "company_id": 1486,
+        "price": "11685.00 PLN"
+    },
+    {
+        "auction_id": 1494,
+        "company_id": 1487,
+        "price": "9840.00 PLN"
+    },
+    {
+        "auction_id": 1494,
+        "company_id": 1483,
+        "price": "10001.13 PLN"
+    },
+    {
+        "auction_id": 1494,
+        "company_id": 1488,
+        "price": "7899.99 PLN"
+    },
+    {
+        "auction_id": 1495,
+        "company_id": 1489,
+        "price": "50.00 PLN"
+    },
+    {
+        "auction_id": 1496,
+        "company_id": 1490,
+        "price": "262340.00 PLN"
+    },
+    {
+        "auction_id": 1496,
+        "company_id": 1491,
+        "price": "320000.00 PLN"
+    },
+    {
+        "auction_id": 1497,
+        "company_id": 256,
+        "price": "396325.00 PLN"
+    },
+    {
+        "auction_id": 1498,
+        "company_id": 1492,
+        "price": "490155.00 PLN"
+    },
+    {
+        "auction_id": 1499,
+        "company_id": 1493,
+        "price": "15988.73 PLN"
+    },
+    {
+        "auction_id": 1499,
+        "company_id": 1494,
+        "price": "7784.41 PLN"
+    },
+    {
+        "auction_id": 1499,
+        "company_id": 1495,
+        "price": "15294.49 PLN"
+    },
+    {
+        "auction_id": 1499,
+        "company_id": 1496,
+        "price": "3948.30 PLN"
+    },
+    {
+        "auction_id": 1500,
+        "company_id": 1316,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1500,
+        "company_id": 1317,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1500,
+        "company_id": 1318,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1500,
+        "company_id": 1497,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1500,
+        "company_id": 1319,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1500,
+        "company_id": 1320,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1501,
+        "company_id": 1316,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1501,
+        "company_id": 1317,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1501,
+        "company_id": 1318,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1501,
+        "company_id": 1497,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1501,
+        "company_id": 1319,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1501,
+        "company_id": 1320,
+        "price": "120.00 PLN"
+    },
+    {
+        "auction_id": 1502,
+        "company_id": 1337,
+        "price": "7445.95 PLN"
+    },
+    {
+        "auction_id": 1503,
+        "company_id": 375,
+        "price": "5746.68 PLN"
+    },
+    {
+        "auction_id": 1503,
+        "company_id": 169,
+        "price": "11931.50 PLN"
+    },
+    {
+        "auction_id": 1503,
+        "company_id": 283,
+        "price": "5472.50 PLN"
+    },
+    {
+        "auction_id": 1503,
+        "company_id": 274,
+        "price": "8798.00 PLN"
+    },
+    {
+        "auction_id": 1503,
+        "company_id": 231,
+        "price": "10824.58 PLN"
+    },
+    {
+        "auction_id": 1503,
+        "company_id": 1498,
+        "price": "9951.22 PLN"
+    },
+    {
+        "auction_id": 1504,
+        "company_id": 1499,
+        "price": "197.00 PLN"
+    },
+    {
+        "auction_id": 1505,
+        "company_id": 1353,
+        "price": "225000.00 PLN"
+    },
+    {
+        "auction_id": 1505,
+        "company_id": 1352,
+        "price": "235000.00 PLN"
+    },
+    {
+        "auction_id": 1508,
+        "company_id": 1489,
+        "price": "50.00 PLN"
+    },
+    {
+        "auction_id": 1509,
+        "company_id": 1500,
+        "price": "151843.50 PLN"
+    },
+    {
+        "auction_id": 1509,
+        "company_id": 1501,
+        "price": "153565.50 PLN"
+    },
+    {
+        "auction_id": 1510,
+        "company_id": 283,
+        "price": "4025.00 PLN"
+    },
+    {
+        "auction_id": 1510,
+        "company_id": 1502,
+        "price": "4297.00 PLN"
+    },
+    {
+        "auction_id": 1510,
+        "company_id": 1503,
+        "price": "10183.00 PLN"
+    },
+    {
+        "auction_id": 1511,
+        "company_id": 367,
+        "price": "2660.48 PLN"
+    },
+    {
+        "auction_id": 1512,
+        "company_id": 1504,
+        "price": "414104.00 PLN"
+    },
+    {
+        "auction_id": 1512,
+        "company_id": 1505,
+        "price": "840000.00 PLN"
+    },
+    {
+        "auction_id": 1513,
+        "company_id": 375,
+        "price": "9884.42 PLN"
+    },
+    {
+        "auction_id": 1513,
+        "company_id": 283,
+        "price": "7879.00 PLN"
+    }
+]
