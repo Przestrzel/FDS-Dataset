@@ -3,7 +3,8 @@ import json
 
 class Company:
 
-    def __init__(self, company_name, nip_number, owner_name, city_name, postal_code, phone_number, krs_number, regon_number, legal_form, board_members, procuration_members,supervisory_board):
+    def __init__(self, id, company_name, nip_number, owner_name, city_name, postal_code, phone_number, krs_number, regon_number, legal_form, board_members, procuration_members,supervisory_board):
+        self.id = id
         self.company_name = company_name
         self.nip_number = nip_number
         self.owner_name = owner_name

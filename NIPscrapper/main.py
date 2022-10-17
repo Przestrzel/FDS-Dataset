@@ -45,12 +45,13 @@ def check_existing_result(my_url):
     return False
 
 
-def open_detail_page(my_url):
+def open_detail_page(my_url, attender_id):
     html2 = urlopen(my_url).read()
     soup2 = BeautifulSoup(html2, features="html.parser")
     basic_data_section = soup2.find("section", {"id": "company-info-section"})
     company_name_div = basic_data_section.find("span", {"class": "text-company-name font-semibold lg:company-name lg:font-normal"})
     company_name = company_name_div.text
+    print("Id :" + str(attender_id))
     print("Company name : " + company_name)
 
     phone_block_div = basic_data_section.find("div", {"class" : "phone "})
@@ -77,7 +78,7 @@ def open_detail_page(my_url):
         get_procuration_members(company_authorities_section, procuration_members, stock_company_div)
         get_supervisory_board(company_authorities_section, stock_company_div, supervisory_board)
 
-    company = Company(company_name, nip_number, owner_name, city_name, postal_code, phone_number, krs_number, regon_number, legal_form, board_members_array, procuration_members, supervisory_board)
+    company = Company(attender_id, company_name, nip_number, owner_name, city_name, postal_code, phone_number, krs_number, regon_number, legal_form, board_members_array, procuration_members, supervisory_board)
     return company
 
 
@@ -218,7 +219,7 @@ def check_auction_attender(attenders):
     return companies
 
 
-def check_single_auction_attender(attender_name):
+def check_single_auction_attender(attender_name, attender_id):
 
     attender_name_string = str(attender_name)
     hdr = {'User-Agent': 'Mozilla/5.0'}
@@ -252,7 +253,7 @@ def check_single_auction_attender(attender_name):
             exception = True
 
         if not exception:
-            return open_detail_page(req)
+            return open_detail_page(req, attender_id)
 
     return None
 
@@ -287,9 +288,11 @@ def replace_polish_characters(base_text):
         .replace("„", '"')\
         .replace("–", "-")\
         .replace(" ", "%20")\
-        .replace("’", "'") \
-        .replace('\xad', '')
-
+        .replace("’", "'")\
+        .replace('\xad', '')\
+        .replace('\xae', '')\
+        .replace('\xe9', '')\
+        .replace('\xfc', '')
     return return_text
 
 
@@ -336,21 +339,25 @@ def createComapniesListFromCity():
 
 if __name__ == '__main__':
     print("Start processing...")
-    # createComapniesListFromCity()
 
     print("Companies list is fetched")
     companies = Companies()
-    with open(f'OutputData/CompaniesList.txt', 'r', encoding='utf8') as f:
-        companies_from_file = f.readlines()
+    for i in range(30, 31):
+        with open(f'Data/companies' + str(i) + '.json', 'r', encoding='utf8') as f:
+            #companies_from_file = f.readlines()
 
-        for company_name_from_file in companies_from_file:
-            print(company_name_from_file)
-            company_to_add = check_single_auction_attender(company_name_from_file)
-            if company_to_add is not None:
-                companies.add_company(company_to_add)
+            data = json.load(f)
+            companies_from_file = []
+            for company in data:
+                companies_from_file.append((company['id'], company['name']))
 
-        with open(f'OutputData/CompaniesFromRest.json', 'w', encoding='utf8') as f:
-            json.dump(json.JSONDecoder().decode(companies.to_json()), f, ensure_ascii=False, indent=4)
+            for company_from_file in companies_from_file:
+                print(company_from_file[1])
+                company_to_add = check_single_auction_attender(company_from_file[1], company_from_file[0])
+                if company_to_add is not None:
+                    companies.add_company(company_to_add)
 
-    createComapniesListFromCity()
+            with open(f'ProperOutputData/FetchedCompanies' + str(i) + '.json', 'w', encoding='utf8') as f:
+                json.dump(json.JSONDecoder().decode(companies.to_json()), f, ensure_ascii=False, indent=4)
+
     print("End processing...")
