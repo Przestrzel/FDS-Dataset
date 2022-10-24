@@ -1,402 +1,78 @@
 [
     {
         "id": 2500,
-        "name": "Zakład Produkcyjno-Handlowy „OL-CORN” Spółka Jawna Biernatowski, Olwert, Pankowski"
+        "name": "Rol-Pas Firma Produkcyjno-Usługowa Sławomir Gawryś"
     },
     {
         "id": 2501,
-        "name": "Bartosz Onyszko"
+        "name": "CONER s.c. P. Niewierowicz T. Tołkacz"
     },
     {
         "id": 2502,
-        "name": "Przemysław Zapalski"
+        "name": "Agencja Promocyjno-Wydawnicza UNIGRAF Tomasz Kloska"
     },
     {
         "id": 2503,
-        "name": "Marek Starczewski OŚRODEK KSZTAŁCENIA ZAWODOWEGO KURSAL"
+        "name": "Institut pro testovani a certyfikaci a.s."
     },
     {
         "id": 2504,
-        "name": "SEKA S.A. oddział Bydgoszcz"
+        "name": "KAMKO Kamil Kot"
     },
     {
         "id": 2505,
-        "name": "Ryszard Bartczak"
+        "name": "Stowarzyszenie na rzecz rodziny i osób zagrożonych wykluczeniem społecznym HOLOS"
     },
     {
         "id": 2506,
-        "name": "Konsorcjum: 1) Stowarzyszenie HUMANEO (Lider konsorcjum), 2) Fundacja Akademia Rozwju, 3) Fundacja Instytut Edukacji, 4) PRO TEAM Łukasz Bogaczyk"
+        "name": "Centrum Szkoleniowe Lektor Wioletta Stefankowska – Skórka"
     },
     {
         "id": 2507,
-        "name": "\"instytut Badawczo-Szkoleniowy\" spółka z ograniczoną odpowiedzialnością"
+        "name": "Studio Podróży Natalia Natalia Witkowska"
     },
     {
         "id": 2508,
-        "name": "Krzysztof Marszałkowski"
+        "name": "Biuro Turystyczne POLTUR Kazimierz Puk"
     },
     {
         "id": 2509,
-        "name": "Przedsiębiorstwo el12 Sp. z o.o."
+        "name": "Biuro Turystyczne Skaut Tour spółka z ograniczoną odpowiedzialnością"
     },
     {
         "id": 2510,
-        "name": "PRZEDSIĘBIORSTWO PRODUKCYJNO HANDLOWO USŁUGOWE ELDOR ŁUKASZ BARANOWSKI"
+        "name": "Włóczykij Sebastian Cienkosz"
     },
     {
         "id": 2511,
-        "name": "PS CODE Piotr Szarata"
+        "name": "Ponadregionalne Konsorcjum Szkoleniowo Egzaminacyjne Antoni Cichocki"
     },
     {
         "id": 2512,
-        "name": "Conversa - Anna Czuba"
+        "name": "Ryszard Chodyniecki"
     },
     {
         "id": 2513,
-        "name": "BART A&M s.c Michał Wąsik, Andrzej Niewiadomski"
+        "name": "Zakład Remontowo-Budowlany mgr Sylwester Zawadzki"
     },
     {
         "id": 2514,
-        "name": "FHU SMP Elektro Marcin Kowalczyk"
+        "name": "Centrum Szkolenia Operatorów Sigma Artur Krasny"
     },
     {
         "id": 2515,
-        "name": "SEKA S.A. Odział Bydgoszcz"
+        "name": "Ośrodek Szkolenia Kierowców \"FILIP\" Maciej Paweł Zaręba"
     },
     {
         "id": 2516,
-        "name": "Ośrodek Szkolenia Kierowców „EFEKT” Krzysztofa Kępczyńska"
+        "name": "Katarzyna Sokólska"
     },
     {
         "id": 2517,
-        "name": "CENTRO PLUS Andrzej Rafalski"
+        "name": "ATTIS S.C."
     },
     {
         "id": 2518,
-        "name": "Centrum Szkolenia Majer Autoszkoła AS Marks Marcin Janusz"
-    },
-    {
-        "id": 2519,
-        "name": "Alfa i Omega sp. z o.o. sp. k."
-    },
-    {
-        "id": 2520,
-        "name": "ABOOK Sp. z o.o."
-    },
-    {
-        "id": 2521,
-        "name": "Firma Greg-Pol Jolanta Nowak"
-    },
-    {
-        "id": 2522,
-        "name": "Janusz Przybylski \"Oskar\" Agencja Reklamowa"
-    },
-    {
-        "id": 2523,
-        "name": "Medasept Spółka Akcyjna"
-    },
-    {
-        "id": 2524,
-        "name": "ON TOP GROUP S.C."
-    },
-    {
-        "id": 2525,
-        "name": "POLMIL SP. Z O.O. S.K.A."
-    },
-    {
-        "id": 2526,
-        "name": "PPHU Dafi Adam Łobodziński"
-    },
-    {
-        "id": 2527,
-        "name": "ZARYS INTERNATIONAL GROUP SP. Z O.O. SP. K."
-    },
-    {
-        "id": 2528,
-        "name": "Ewa Marszałkowska"
-    },
-    {
-        "id": 2529,
-        "name": "Jolanta Morkowska"
-    },
-    {
-        "id": 2530,
-        "name": "Małgorzata Przepiórska"
-    },
-    {
-        "id": 2531,
-        "name": "Marcin Latecki"
-    },
-    {
-        "id": 2532,
-        "name": "Dorota Bandurska"
-    },
-    {
-        "id": 2533,
-        "name": "Mariusz Gnutek"
-    },
-    {
-        "id": 2534,
-        "name": "Agnieszka Czarnecka-Felicka"
-    },
-    {
-        "id": 2535,
-        "name": "Anna Cieszyńska"
-    },
-    {
-        "id": 2536,
-        "name": "Beata Osowska"
-    },
-    {
-        "id": 2537,
-        "name": "Aurelia Lewandowska-Rakoczy"
-    },
-    {
-        "id": 2538,
-        "name": "Anna Baska"
-    },
-    {
-        "id": 2539,
-        "name": "Szkoła Kierowców TEST Tomasz Wilczewski"
-    },
-    {
-        "id": 2540,
-        "name": "OŚRODEK SZKOLENIA DOKSZTAŁCANIA I DOSKONALENIA KADR KURSOR PIOTR WASAK"
-    },
-    {
-        "id": 2541,
-        "name": "„SEKA” SA"
-    },
-    {
-        "id": 2542,
-        "name": "Konsorcjum firm Ośrodek Szkolenia i Rozwoju Kadr DENAR Dorota Wierzgała i MIR-TECH Mirosław Kuligowski"
-    },
-    {
-        "id": 2543,
-        "name": "HURTOMET NARZĘDZIA DLA PRZEMYSŁU Roman Nowak"
-    },
-    {
-        "id": 2544,
-        "name": "STEEL-TECH Marek Kerber"
-    },
-    {
-        "id": 2545,
-        "name": "Szkoła Jazdy Rajder Sebastian Wesołowski"
-    },
-    {
-        "id": 2546,
-        "name": "EDUKATOR Kursy i szkolenia Ewa Kotowska-Wyrwas"
-    },
-    {
-        "id": 2547,
-        "name": "Izabela Czekańska Studio SPA ISABELL"
-    },
-    {
-        "id": 2548,
-        "name": "Liga Obrony Kraju OSZK LOK w Świeciu"
-    },
-    {
-        "id": 2549,
-        "name": "Ośrodek Doskonalenia Zawodowego bhp ekspert Bartłomiej Daroszewski"
-    },
-    {
-        "id": 2550,
-        "name": "Ośrodek Kształcenia Zawodowego Kursal"
-    },
-    {
-        "id": 2551,
-        "name": "Ośrodek Szkolenia Dokształcania i Doskonalenia Kadr KURSOR Sp. z o. o."
-    },
-    {
-        "id": 2552,
-        "name": "Persymona Centrum Kosmetyczno-Podologiczne Szymon Lipiński ul. 50 A, Inowrocław"
-    },
-    {
-        "id": 2553,
-        "name": "Polskie Centrum Rekreacji Ruchowej Norbert Farion"
-    },
-    {
-        "id": 2554,
-        "name": "Rywal-RHC Sp. z o.o. W Warszawie O/Toruń"
-    },
-    {
-        "id": 2555,
-        "name": "Artur Klimowicz"
-    },
-    {
-        "id": 2556,
-        "name": "Maderna Sp. z o.o."
-    },
-    {
-        "id": 2557,
-        "name": "ABPLANALP Sp. z o.o."
-    },
-    {
-        "id": 2558,
-        "name": "Mar-Tools Marcin Mosiagin"
-    },
-    {
-        "id": 2559,
-        "name": "Marcin Pakalski"
-    },
-    {
-        "id": 2560,
-        "name": "ZŁOTECKI SP. Z O.O."
-    },
-    {
-        "id": 2561,
-        "name": "IVENTEC Szymon Nadolski"
-    },
-    {
-        "id": 2562,
-        "name": "ITA Spółka z ograniczoną odpowiedzialnością Sp.k"
-    },
-    {
-        "id": 2563,
-        "name": "Innovatest Polska Sp.z.o.o."
-    },
-    {
-        "id": 2564,
-        "name": "PHU Faktor"
-    },
-    {
-        "id": 2565,
-        "name": "Testlab Sp.z.o.o."
-    },
-    {
-        "id": 2566,
-        "name": "InnovaTest Polska Sp. z o.o."
-    },
-    {
-        "id": 2567,
-        "name": "ITA Sp.z o.o."
-    },
-    {
-        "id": 2568,
-        "name": "TechControl s.c."
-    },
-    {
-        "id": 2569,
-        "name": "PHU ORZECHOWSKI Wykonywanie Instalacji Elektrycznych Orzechowski Sławomir"
-    },
-    {
-        "id": 2570,
-        "name": "ZAKŁAD BUDOWLANO - REMONTOWY ANDRZEJ HERNIK"
-    },
-    {
-        "id": 2571,
-        "name": "BOXPOL USŁUGI REMONTOWO - BUDOWLANE BOGDAN WRÓBLEWSKI"
-    },
-    {
-        "id": 2572,
-        "name": "CRM Cleaning Sp. z o. o."
-    },
-    {
-        "id": 2573,
-        "name": "ONNERA POLAND Sp. z o. o."
-    },
-    {
-        "id": 2574,
-        "name": "SOVRANA POLSKA SP.J. M.Szastak, R. Kaim"
-    },
-    {
-        "id": 2575,
-        "name": "TEBEX Sp. z o.o."
-    },
-    {
-        "id": 2576,
-        "name": "Canon Polska Sp.z o.o."
-    },
-    {
-        "id": 2577,
-        "name": "CIRO Bartosz Turczynowicz"
-    },
-    {
-        "id": 2578,
-        "name": "MET Spółka Jawna M. Raczyński A. Latacz"
-    },
-    {
-        "id": 2579,
-        "name": "Martech Hennig Sp.j"
-    },
-    {
-        "id": 2580,
-        "name": "HYDRA24.PL ALEKSANDRA DURALAK"
-    },
-    {
-        "id": 2581,
-        "name": "Mariusz Krej"
-    },
-    {
-        "id": 2582,
-        "name": "APX TECHNOLOGIE SP. Z O.O."
-    },
-    {
-        "id": 2583,
-        "name": "KF Domena Sp. zo.o."
-    },
-    {
-        "id": 2584,
-        "name": "Codemaze.eu Dariusz Adamczyk"
-    },
-    {
-        "id": 2585,
-        "name": "ŚWIĄTEK LECH ŚWIĄTEK"
-    },
-    {
-        "id": 2586,
-        "name": "Biuro Techniczno-Handlowe FAST"
-    },
-    {
-        "id": 2587,
-        "name": "TM GROUP Michał Twardochleb"
-    },
-    {
-        "id": 2588,
-        "name": "Iventec Szymon Nadolski"
-    },
-    {
-        "id": 2589,
-        "name": "Hydac Sp. z o.o."
-    },
-    {
-        "id": 2590,
-        "name": "INFO-BIZ PROFESJONALNA EDUKACJA SP. Z O.O"
-    },
-    {
-        "id": 2591,
-        "name": "Carving-Gniech Sylwia Kruszyńska"
-    },
-    {
-        "id": 2592,
-        "name": "CACYTEAMT"
-    },
-    {
-        "id": 2593,
-        "name": "\"CACY GASTRO\" Maciej Cacałowski"
-    },
-    {
-        "id": 2594,
-        "name": "G.O.W. DELFIN Krzysztof Klucznik"
-    },
-    {
-        "id": 2595,
-        "name": "Firma Wielobranżowa UNI-KAB Krzysztof Bryfczyński"
-    },
-    {
-        "id": 2596,
-        "name": "Centrum Edukacyjne NOVA"
-    },
-    {
-        "id": 2597,
-        "name": "Wyższa Szkola Gospodarki w Bydgoszczy"
-    },
-    {
-        "id": 2598,
-        "name": "Krystyna Jagodzińska Firma Handlowo - Usługowa Skorpion \"A\""
-    },
-    {
-        "id": 2599,
-        "name": "BIURO USŁUGOWO-TURYSTYCZNE ATLANTIC"
+        "name": "Biuro Usługowo – Turystyczne ATLANTIC"
     }
 ]

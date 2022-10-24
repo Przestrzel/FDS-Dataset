@@ -49,13 +49,13 @@ def get_companies(auction):
             global index_companies
             all_companies_index.append({'id': index_companies, 'name': winner_company['name']})
             index_companies += 1
-        all_companies_offers.append({'auction_id': index_auction, 'company_id': return_id_company(winner_company['name']), 'price': winner_company['price']})
+        all_companies_offers.append({'auction_id': index_auction, 'company_id': return_id_company(winner_company['name']), 'price': winner_company['price'], 'winner': True})
     for offer_losers in auction['offer_losers']:
         if offer_losers['name'] not in set_companies:
             set_companies.add(offer_losers['name'])
             all_companies_index.append({'id': index_companies, 'name': offer_losers['name']})
             index_companies += 1
-        all_companies_offers.append({'auction_id': index_auction, 'company_id': return_id_company(offer_losers['name']), 'price': offer_losers['price']})
+        all_companies_offers.append({'auction_id': index_auction, 'company_id': return_id_company(offer_losers['name']), 'price': offer_losers['price'], 'winner': False})
 
 def save_companies():
     auction_links_chunks = [all_auctions[x:x+AUCTION_PER_FILE] for x in range(0, len(all_auctions), AUCTION_PER_FILE)]

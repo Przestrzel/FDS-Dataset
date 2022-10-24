@@ -1,26 +1,426 @@
 [
     {
-        "auction_name": "Innowacyjny ster strumieniony CPP w układzie tandem.",
-        "advertiser_name": "Bota Technik Sp. z o.o. Sp. komandytowa",
-        "start_date": "2021-07-27",
-        "end_date": "2021-08-04",
+        "auction_name": "Dostawa urządzeń elektronicznych do pracowni zawodowych w ramach projektu „Rozwój szkolnictwa zawodowego w szkołach miasta Grudziądz",
+        "advertiser_name": "Gmina - miasto Grudziądz",
+        "start_date": "2022-06-15",
+        "end_date": "2022-06-24",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "31720000-9",
-                "description": "Urządzenia elektromechaniczne"
+                "code": "31120000-3",
+                "description": "Generatory"
+            },
+            {
+                "code": "31330000-8",
+                "description": "Kabel koncentryczny"
+            },
+            {
+                "code": "31700000-3",
+                "description": "Urządzenia elektroniczne, elektromechaniczne i elektrotechniczne"
+            },
+            {
+                "code": "32322000-6",
+                "description": "Urządzenia multimedialne"
+            },
+            {
+                "code": "32324310-6",
+                "description": "Anteny satelitarne"
+            },
+            {
+                "code": "32351000-8",
+                "description": "Akcesoria do sprzętu dźwiękowego i wideo"
+            },
+            {
+                "code": "32581100-0",
+                "description": "Kabel do transmisji danych"
+            },
+            {
+                "code": "35121700-5",
+                "description": "Systemy alarmowe"
+            },
+            {
+                "code": "38410000-2",
+                "description": "Przyrządy pomiarowe"
+            },
+            {
+                "code": "38552000-9",
+                "description": "Mierniki elektroniczne"
+            },
+            {
+                "code": "44521120-5",
+                "description": "Elektroniczne zamki bezpieczeństwa"
             }
         ],
         "EU": false,
         "id": 2000,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Usługi polegające na: interpretacji badań środowiskowych , wsparcia przy doborze stanów obciążeniowych oraz tworzenie makr dla obciążeń wynikających z przepisów instytucji certyfikujących, automatyzacja procesów obliczeniowych MES w Ansys.",
-        "advertiser_name": "NavArt Gdaniec Spółka Jawna",
-        "start_date": "2022-09-19",
-        "end_date": "2022-09-26",
+        "auction_name": "Świadczenie usługi w ramach objętego stanowiska: Kierowca - Aktywni seniorzy w Gminie Grudziądz",
+        "advertiser_name": "Gmina Grudziądz",
+        "start_date": "2020-09-22",
+        "end_date": "2020-10-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60100000-9",
+                "description": "Usługi w zakresie transportu drogowego"
+            }
+        ],
+        "EU": false,
+        "id": 2001,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Wykonanie i montaż makiety dotykowej spichlerzy na podstawie projektu aranżacji wystawy stałej oraz pomieszczeń nowo tworzonego Muzeum Handlu Wiślanego FLIS w ramach projektu „Dostosowanie grudziądzkich spichlerzy do pełnienia funkcji na rzecz kultury”.",
+        "advertiser_name": "Gmina - miasto Grudziądz",
+        "start_date": "2021-11-02",
+        "end_date": "2021-11-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "92312000-1",
+                "description": "Usługi artystyczne"
+            },
+            {
+                "code": "92312200-3",
+                "description": "Usługi świadczone przez autorów, kompozytorów, rzeźbiarzy, animatorów kultury oraz pozostałych artystów"
+            }
+        ],
+        "EU": true,
+        "id": 2002,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Idę do przedszkola\" - zwiększenie ilości miejsc w Przedszkolu Miejskim \"Tarpno\" oraz ułatwienie dostępu do pomocy specjalistycznej",
+        "advertiser_name": "gmina-miasto Grudziądz",
+        "start_date": "2021-07-12",
+        "end_date": "2021-07-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 2003,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa wyrobów medycznych dla szkół z terenu gminy - miasto Grudziądz w ramach projektu realizowanego przez gminę – miasto Grudziądz pn. „Organizacja zajęć pozalekcyjnych w szkołach podstawowych i ponadpodstawowych \nw Grudziądzu”",
+        "advertiser_name": "Urząd Miejski w Grudziądzu",
+        "start_date": "2020-10-07",
+        "end_date": "2020-10-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "18100000-0",
+                "description": "Odzież branżowa, specjalna odzież robocza i dodatki"
+            },
+            {
+                "code": "18424300-0",
+                "description": "Rękawice jednorazowe"
+            },
+            {
+                "code": "33100000-1",
+                "description": "Urządzenia medyczne"
+            },
+            {
+                "code": "33141115-9",
+                "description": "Wata medyczna"
+            },
+            {
+                "code": "33141623-3",
+                "description": "Zestawy pierwszej pomocy"
+            },
+            {
+                "code": "35111000-5",
+                "description": "Sprzęt gaśniczy"
+            },
+            {
+                "code": "35112100-3",
+                "description": "Manekiny do ćwiczeń na wypadek sytuacji awaryjnych"
+            },
+            {
+                "code": "38423100-7",
+                "description": "Ciśnieniomierze"
+            }
+        ],
+        "EU": false,
+        "id": 2004,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE POIR 6/2021 z dnia 10 listopada 2021 r.",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2021-11-10",
+        "end_date": "2021-12-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "15511000-3",
+                "description": "Mleko"
+            }
+        ],
+        "EU": true,
+        "id": 2005,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa mebli laboratoryjnych dla szkół z terenu gminy - miasto Grudziądz w ramach projektu realizowanego przez gminę – miasto Grudziądz pn. „Organizacja zajęć pozalekcyjnych w szkołach podstawowych i ponadpodstawowych \nw Grudziądzu”.",
+        "advertiser_name": "Urząd Miejski w Grudziądzu",
+        "start_date": "2020-09-17",
+        "end_date": "2020-09-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39180000-7",
+                "description": "Meble laboratoryjne"
+            }
+        ],
+        "EU": false,
+        "id": 2006,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa artykułów akwarystycznych dla szkół z terenu gminy - miasto Grudziądz w ramach projektu realizowanego przez gminę – miasto Grudziądz pn. „Organizacja zajęć pozalekcyjnych w szkołach podstawowych i ponadpodstawowych \nw Grudziądzu”",
+        "advertiser_name": "Urząd Miejski w Grudziądzu",
+        "start_date": "2020-11-23",
+        "end_date": "2020-12-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39298800-5",
+                "description": "Akwaria"
+            },
+            {
+                "code": "39560000-5",
+                "description": "Różne wyroby włókiennicze"
+            }
+        ],
+        "EU": false,
+        "id": 2007,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa mebli laboratoryjnych dla szkół z terenu gminy - miasto Grudziądz w ramach projektu realizowanego przez gminę – miasto Grudziądz pn. „Organizacja zajęć pozalekcyjnych w szkołach podstawowych i ponadpodstawowych w Grudziądzu”",
+        "advertiser_name": "Urząd Miejski w Grudziądzu",
+        "start_date": "2020-08-19",
+        "end_date": "2020-09-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39180000-7",
+                "description": "Meble laboratoryjne"
+            }
+        ],
+        "EU": false,
+        "id": 2008,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 4/2022",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-05-24",
+        "end_date": "2022-06-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42921320-7",
+                "description": "Maszyny do pakowania zbiorczego"
+            }
+        ],
+        "EU": true,
+        "id": 2009,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa i montaż sprzętu komputerowego, systemu sprzedaży biletów, urządzenia wielofunkcyjnego, niszczarek w ramach projektu \"Dostosowanie grudziądzkich spichlerzy do pełnienia funkcji na rzecz kultury\".",
+        "advertiser_name": "Gmina - miasto Grudziądz",
+        "start_date": "2022-09-05",
+        "end_date": "2022-09-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30142000-6",
+                "description": "Maszyny księgujące i kasy rejestrujące"
+            },
+            {
+                "code": "30200000-1",
+                "description": "Urządzenia komputerowe"
+            },
+            {
+                "code": "30236000-2",
+                "description": "Różny sprzęt komputerowy"
+            },
+            {
+                "code": "42962000-7",
+                "description": "Urządzenia drukujące i graficzne"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            },
+            {
+                "code": "72263000-6",
+                "description": "Usługi wdrażania oprogramowania"
+            }
+        ],
+        "EU": true,
+        "id": 2010,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa i montaż sprzętu komputerowego, systemu sprzedaży biletów, urządzenia wielofunkcyjnego, niszczarek w ramach projektu „Dostosowanie grudziądzkich spichlerzy do pełnienia funkcji na rzecz kultury”.",
+        "advertiser_name": "Gmina - miasto Grudziądz",
+        "start_date": "2022-08-18",
+        "end_date": "2022-08-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30142000-6",
+                "description": "Maszyny księgujące i kasy rejestrujące"
+            },
+            {
+                "code": "30200000-1",
+                "description": "Urządzenia komputerowe"
+            },
+            {
+                "code": "30236000-2",
+                "description": "Różny sprzęt komputerowy"
+            },
+            {
+                "code": "42962000-7",
+                "description": "Urządzenia drukujące i graficzne"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            },
+            {
+                "code": "72263000-6",
+                "description": "Usługi wdrażania oprogramowania"
+            }
+        ],
+        "EU": false,
+        "id": 2011,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Idę do przedszkola - zwiększenie ilości miejsc w Przedszkolu Miejskim \"Tarpno\" oraz ułatwienie dostępu do pomocy specjalistycznej dofinansowany z Europejskiego Funduszu Społecznego w ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego na lata 2014-2020",
+        "advertiser_name": "gmina-miasto Grudziądz",
+        "start_date": "2021-10-19",
+        "end_date": "2021-10-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "37510000-6",
+                "description": "Lalki"
+            },
+            {
+                "code": "37520000-9",
+                "description": "Zabawki"
+            },
+            {
+                "code": "39162100-6",
+                "description": "Pomoce dydaktyczne"
+            }
+        ],
+        "EU": true,
+        "id": 2012,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Idę do przedszkola\" - zwiększenie ilości miejsc w Przedszkolu Miejskim \"Tarpno\" oraz ułatwienie dostępu do pomocy specjalistycznej",
+        "advertiser_name": "gmina-miasto Grudziądz",
+        "start_date": "2022-05-18",
+        "end_date": "2022-05-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 2013,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 6/2022/M",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-06-23",
+        "end_date": "2022-07-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": true,
+        "id": 2014,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa artykułów akwarystycznych dla szkół z terenu gminy - miasto Grudziądz w ramach projektu realizowanego przez gminę – miasto Grudziądz pn. „Organizacja zajęć pozalekcyjnych w szkołach podstawowych i ponadpodstawowych \nw Grudziądzu”",
+        "advertiser_name": "Urząd Miejski w Grudziądzu",
+        "start_date": "2020-09-16",
+        "end_date": "2020-09-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39298800-5",
+                "description": "Akwaria"
+            },
+            {
+                "code": "39560000-5",
+                "description": "Różne wyroby włókiennicze"
+            }
+        ],
+        "EU": false,
+        "id": 2015,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 3/2022/M",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-03-03",
+        "end_date": "2022-04-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": true,
+        "id": 2016,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 08/2020 Usługa badawcza w zakresie wykonania badań fizykochemicznych oraz analitycznych mleka i jego pochodnych w technologii produkcji sera mozzarella.",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2020-10-28",
+        "end_date": "2020-11-04",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
@@ -30,1044 +430,480 @@
             }
         ],
         "EU": false,
-        "id": 2001,
-        "city": "Gdańsk"
+        "id": 2017,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Innowacyjny ster strumieniowy CPP w układzie tandem",
-        "advertiser_name": "Bota Technik Sp. z o.o. Sp. komandytowa",
-        "start_date": "2022-03-29",
-        "end_date": "2022-04-10",
+        "auction_name": "Dostawa sprzętu i aparatury elektrycznej oraz różnych narzędzi ręcznych dla szkół z terenu gminy - miasto Grudziądz w ramach projektu realizowanego przez gminę – miasto Grudziądz pn. „Organizacja zajęć pozalekcyjnych w szkołach podstawowych i ponadpodstawowych w Grudziądzu”.",
+        "advertiser_name": "Urząd Miejski w Grudziądzu",
+        "start_date": "2020-12-21",
+        "end_date": "2020-12-30",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "31682210-5",
-                "description": "Aparatura i sprzęt sterujący"
+                "code": "31110000-0",
+                "description": "Silniki elektryczne"
+            },
+            {
+                "code": "31300000-9",
+                "description": "Drut i kabel izolowany"
+            },
+            {
+                "code": "31500000-1",
+                "description": "Urządzenia oświetleniowe i lampy elektryczne"
+            },
+            {
+                "code": "31510000-4",
+                "description": "Żarówki elektryczne"
+            },
+            {
+                "code": "31530000-0",
+                "description": "Części lamp i sprzętu oświetleniowego"
+            },
+            {
+                "code": "31600000-2",
+                "description": "Sprzęt i aparatura elektryczna"
+            },
+            {
+                "code": "31630000-1",
+                "description": "Magnesy"
+            },
+            {
+                "code": "31650000-7",
+                "description": "Oprawy izolowane"
+            },
+            {
+                "code": "44512000-2",
+                "description": "Różne narzędzia ręczne"
+            },
+            {
+                "code": "44832000-1",
+                "description": "Rozpuszczalniki"
             }
         ],
         "EU": false,
-        "id": 2002,
-        "city": "Gdańsk"
+        "id": 2018,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Rewaloryzacja i adaptacja zabytkowego Dworu Studzienka na dom pracy twórczej w ramach projektu PLRU.01.01.00-RU-0087/18-00 „Od lokalnego do globalnego: obiekty lokalnego dziedzictwa jako atrakcje turystyczne i narzędzia transgranicznej edukacji w celu ich ochrony” dofinansowanego ze środków Unii Europejskiej",
-        "advertiser_name": "Europejska Fundacja Ochrony Zabytków",
-        "start_date": "2022-08-26",
-        "end_date": "2022-09-19",
+        "auction_name": "Zapytanie ofertowe nr 07/2020 Usługa badawcza w zakresie wykonania badań mikrobiologicznych w technologii produkcji sera mozzarella.",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2020-10-28",
+        "end_date": "2020-11-04",
         "is_price_criterium": true,
-        "status": "Zamknięte",
+        "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            },
+                "code": "73100000-3",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
+            }
+        ],
+        "EU": false,
+        "id": 2019,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE POIR 4/2021 z dnia 27.04.2021 r.\ndotyczące elementów niezbędnych do budowy demonstracyjnej\ninstalacji technologicznej: moduł frakcjonowania AMF",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2021-04-27",
+        "end_date": "2021-05-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
             {
-                "code": "45261000-4",
-                "description": "Wykonywanie pokryć i konstrukcji dachowych oraz podobne roboty"
-            },
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 2020,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 2/2022",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-04-11",
+        "end_date": "2022-05-11",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
             {
-                "code": "45262000-1",
-                "description": "Specjalne roboty budowlane inne niż dachowe"
-            },
-            {
-                "code": "45300000-0",
-                "description": "Roboty instalacyjne w budynkach"
-            },
-            {
-                "code": "45400000-1",
-                "description": "Roboty wykończeniowe w zakresie obiektów budowlanych"
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
             }
         ],
         "EU": true,
-        "id": 2003,
-        "city": "Gdańsk"
+        "id": 2021,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Rozszerzenie posiadanej licencji wieczystej oprogramowania do przeprowadzania symulacji inżynierskich metodą elementów skończonych MES (FEM) - 1 sztuka",
-        "advertiser_name": "NavArt Gdaniec Spółka Jawna",
-        "start_date": "2021-12-16",
-        "end_date": "2021-12-24",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "48460000-0",
-                "description": "Analityczne, naukowe, matematyczne lub prognozujące pakiety oprogramowania"
-            }
-        ],
-        "EU": false,
-        "id": 2004,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup wieczystych licencji oprogramowania do modelowania konstrukcji offshore w środowisku 3D oraz generowania dokumentacji technicznej/ konstrukcyjnej dla dwóch stanowisk wraz z dostęp do modułów dodatkowych na okres 1 roku.",
-        "advertiser_name": "NavArt Gdaniec Spółka Jawna",
-        "start_date": "2021-12-28",
-        "end_date": "2022-01-07",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "48321000-4",
-                "description": "Pakiety oprogramowania do projektowania wspomaganego komputerowo (CAD)"
-            }
-        ],
-        "EU": false,
-        "id": 2005,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa materiałów filtracyjnych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-08-25",
+        "auction_name": "Dostawa pomocy dydaktycznych dla dzieci ze specjalnymi potrzebami edukacyjnymi i rozwojowymi w ramach projektu realizowanego przez gminę – miasto Grudziądz pn. „Organizacja zajęć pozalekcyjnych w szkołach podstawowych i ponadpodstawowych w Grudziądzu”",
+        "advertiser_name": "Urząd Miejski w Grudziądzu",
+        "start_date": "2020-09-15",
         "end_date": "2020-09-24",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2006,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup kriogenicznych pudełek-zapytanie ofertowe nr 200825_03",
-        "advertiser_name": "RECEPTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2020-08-26",
-        "end_date": "2020-09-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "33140000-3",
-                "description": "Materiały medyczne"
-            }
-        ],
-        "EU": false,
-        "id": 2007,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa odczynników",
-        "advertiser_name": "POLPHARMA BIOLOGICS S.A",
-        "start_date": "2020-09-07",
-        "end_date": "2020-10-08",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2008,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "„Usługa badawczo-rozwojowa: zbadanie i potwierdzenie skuteczności działania ekstraktu roślinnego w warunkach zbliżonych do hodowlanych - w doświadczalnym laboratorium weterynaryjnym”",
-        "advertiser_name": "HerBioPharm Sp. z o.o.",
-        "start_date": "2020-09-07",
-        "end_date": "2020-09-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73000000-2",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
-            }
-        ],
-        "EU": false,
-        "id": 2009,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe NR 1/09/2020 dotyczące wyboru Wykonawcy zadań merytorycznych obejmujących prace badawczo-rozwojowe w zakresie konsultacji, badań oraz publikacji w stworzeniu projektu platformy do zarządzania danymi oraz modelami sieci neuronowych, kluczowych dla realizacji projektu pt.: „SPIN - system spiralnej produkcji i nadzorowania danych przemysłowych do eksperymentów w procesach badawczo rozwojowych”.",
-        "advertiser_name": "OKE Poland Sp. z o.o.",
-        "start_date": "2020-09-03",
-        "end_date": "2020-09-10",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73000000-2",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
-            }
-        ],
-        "EU": true,
-        "id": 2010,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa odczynników chemicznych realizowana w projekcie „e-Pionier – wsparcie inwestorów w branży ICT szansą na rozwój potencjału uzdolnionych programistów” w ramach Programu Operacyjnego Polska Cyfrowa 2014-2020, oś priorytetowa Cyfrowe kompetencje społeczeństwa (Działanie 3.3).",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2020-09-14",
-        "end_date": "2020-09-22",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
+                "code": "37000000-8",
+                "description": "Instrumenty muzyczne, artykuły sportowe, gry, zabawki, wyroby rzemieślnicze, materiały i akcesoria artystyczne"
             },
             {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2011,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Realizacja kursu/szkolenia z zakresu Uprawnienia elektryczne G1 - Kurs SEP 1 kV – uprawnienia elektryka ze szkoleniem pomiarowym instalacji elektrycznych wraz z egzaminem/egzaminami kwalifikacyjnym/i w zakresie eksploatacji (E) i dozoru (D) dla 1 Uczestnika projektu „GPS – Gotowość Praca Samodzielność II”",
-        "advertiser_name": "Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną koło w Gdańsku",
-        "start_date": "2020-09-11",
-        "end_date": "2020-09-21",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2012,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i sukcesywna dostawa odczynnika",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-09-14",
-        "end_date": "2020-10-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2013,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE Nr 1/20 REMONT KLATEK SCHODOWYCH w budynku przy ul. Grabowa 6 w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2020-10-02",
-        "end_date": "2020-10-20",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": true,
-        "id": 2014,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i sukcesywna dostawa odczynników chemicznych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-10-02",
-        "end_date": "2020-11-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2015,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa drobnego sprzętu laboratoryjnego",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-10-02",
-        "end_date": "2020-10-14",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2016,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "OGŁOSZENIE O PLANOWANYM ZAKUPIE NR 03/2020 z dnia 06.10.2020",
-        "advertiser_name": "Zakład Badawczo-Wdrożeniowy Ośrodka Salmonella IMMUNOLAB Sp. z o.o.",
-        "start_date": "2020-10-06",
-        "end_date": "2020-10-14",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33120000-7",
-                "description": "Systemy rejestrujące i urządzenia badawcze"
-            }
-        ],
-        "EU": false,
-        "id": 2017,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "System Aktywizacji Społeczno -Zawodowej w Gdańsku - komponent aktywnej integracji",
-        "advertiser_name": "Gdańska Fundacja Innowacji Społecznej",
-        "start_date": "2020-10-07",
-        "end_date": "2020-10-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "85000000-9",
-                "description": "Usługi w zakresie zdrowia i opieki społecznej"
-            }
-        ],
-        "EU": false,
-        "id": 2018,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa odczynników",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-10-08",
-        "end_date": "2020-11-09",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2019,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Preparation and delivery of seminar on the topic of: “Current issues in Criminal Justice”",
-        "advertiser_name": "Uniwersytet Gdański",
-        "start_date": "2020-10-14",
-        "end_date": "2020-10-21",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80430000-7",
-                "description": "Usługi edukacji osób dorosłych na poziomie akademickim"
-            }
-        ],
-        "EU": true,
-        "id": 2020,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Preparation and delivery of lecture on the topic of: “Strategic management. Workshop”",
-        "advertiser_name": "Uniwersytet Gdański",
-        "start_date": "2020-10-10",
-        "end_date": "2020-10-18",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80430000-7",
-                "description": "Usługi edukacji osób dorosłych na poziomie akademickim"
-            }
-        ],
-        "EU": false,
-        "id": 2021,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE Nr 7/20 NA WYKONANIE REMONTU KLATEK SCHODOWYCH ZAGOSPODAROWANIE BEZPOŚREDNIEGO OTOCZENIA budynku przy ul. Ramułta 8 w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2020-10-13",
-        "end_date": "2020-10-30",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "1.",
-                "description": "Przedmiotem zamówienia jest;  Remont klatek schodowych w budynku przy ul. Ramułta 8 w Gdańsku  Zagospodarowanie bezpośredniego otoczenia budynku przy ul. Ramułta 8 w Gdańsku 2. Kod CPV /nazwa kodu CPV 45000000-7 /roboty budowlane/ Kody CPV pomocnicze 45100000 - 8 /przygotowanie terenu pod budowę/ 45200000 – 9 /roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej/ 45300000-0 /roboty instalacyjne/ 3. Szczegółowe określenie przedmiotu zamówienia zawiera:  Przedmiar remont klatek schodowych stanowiący załącznik nr 1 do zapytania ofertowego,  Przedmiar zagospodarowanie terenu stanowiący załącznik nr 1A do zapytania ofertowego,  Opis techniczny stanowiący załącznik nr 2 do zapytania ofertowego,  Projekt klatki schodowej stanowiący załącznik nr 3 do zapytania ofertowego  Projekt zagospodarowania terenu stanowiący załącznik nr 3A do zapytania ofertowego . 4. Zamawiający posiada dokumenty administracyjne wydane przez Prezydenta Miasta Gdańska BMKZ.4125.1852.2018.DP z dnia 27 listopada 2018 r. oraz Zaświadczenie WUiA -VI.6743.2156-2.2018.KAM.415700 z dnia 17-12-2018 r. o braku sprzeciwu do złożonego przez Wspólnotę Mieszkaniową Ramułta 8 w Gdańsku zgłoszenia robót nie wymagających pozwolenia na budowę z dnia 06.12.2018 r. nr rejestru RPW/415700/2018 dotyczące zagospodarowania terenu (dojścia, elementów małej architektury, zieleń, wykonanie miejsc gromadzenia odpadów komunalnych) wykonania remontu klatek schodowych budynku mieszkalnym przy ul. Ramułta 8 w Gdańsku działka nr 90/1, nr 90/7, obręb nr 110 stanowiące załącznik nr 4 do zapytania ofertowego. 5. Informację o rozwiązaniach równoważnych stosowanych przy opisie przedmiotu zamówienia zawiera załącznik nr 11 do zapytania ofertowego. 6. Zaleca się, aby Wykonawca zapoznał się z lokalnymi warunkami realizacji przedmiotu zamówienia oraz zdobył wszelkie informacje niezbędne do właściwego przygotowania oferty i prawidłowego wykonania robót objętych przedmiotem zamówienia. Wszelkie utrudnienia wynikające z warunków realizacji przedmiotu zamówienia należy uwzględnić w cenie podanej w ofercie. Zamawiający zaleca Wykonawcom dokonanie wizji lokalnej w terenie przed przystąpieniem do przygotowania oferty, celem sprawdzenia warunków związanych z wykonaniem prac będących przedmiotem zamówienia oraz celem uzyskania wszelkich dodatkowych informacji koniecznych i przydatnych do oceny prac, gdyż wyklucza się możliwość roszczeń Wykonawcy z tytułu błędnego skalkulowania ceny lub pominięcia elementów niezbędnych do wykonania zamówienia. Koszty związane z przeprowadzeniem wizji w terenie ponosi Wykonawca. Wizje lokalną można odbyć za wcześniejszym porozumieniem z przedstawicielem Zamawiającego."
+                "code": "37520000-9",
+                "description": "Zabawki"
             },
             {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
+                "code": "37521000-6",
+                "description": "Instrumenty muzyczne do zabawy"
+            },
+            {
+                "code": "37525000-4",
+                "description": "Balony i piłki do zabawy"
+            },
+            {
+                "code": "39162100-6",
+                "description": "Pomoce dydaktyczne"
             }
         ],
-        "EU": true,
+        "EU": false,
         "id": 2022,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Wybór Członków Komisji Certyfikacyjnej dla Studium Asystent Środowiskowy w ramach projektu „Gdański model deinstytucjonalizacji usług świadczonych na rzecz osób z zaburzeniami psychicznymi”",
-        "advertiser_name": "Fundacja Wspierania Rodzin Przystań",
-        "start_date": "2020-10-09",
-        "end_date": "2020-10-16",
+        "auction_name": "ZAPYTANIE OFERTOWE POIR 2/2022/M",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-02-10",
+        "end_date": "2022-03-14",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
+                "code": "38437000-7",
+                "description": "Pipety i akcesoria laboratoryjne"
             }
         ],
         "EU": true,
         "id": 2023,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i sukcesywna dostawa standardów",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-10-14",
-        "end_date": "2020-11-17",
+        "auction_name": "ZAPYTANIE OFERTOWE nr 1/2022",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-04-03",
+        "end_date": "2022-05-04",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2024,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i sukcesywna dostawa drobnego sprzętu laboratoryjnego 2020-109-11500",
-        "advertiser_name": "POLPHARMA BIOLOGICS S.A",
-        "start_date": "2020-10-14",
-        "end_date": "2020-11-16",
+        "auction_name": "Wykonanie i montaż makiety dotykowej spichlerzy na podstawie projektu aranżacji wystawy stałej oraz pomieszczeń nowo tworzonego Muzeum Handlu Wiślanego FLIS w ramach projektu „Dostosowanie grudziądzkich spichlerzy do pełnienia funkcji na rzecz kultury”.",
+        "advertiser_name": "Gmina - miasto Grudziądz",
+        "start_date": "2021-09-24",
+        "end_date": "2021-10-08",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                "code": "92312000-1",
+                "description": "Usługi artystyczne"
+            },
+            {
+                "code": "92312200-3",
+                "description": "Usługi świadczone przez autorów, kompozytorów, rzeźbiarzy, animatorów kultury oraz pozostałych artystów"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2025,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Wynajem długoterminowy samochodu osobowego na potrzeby spółki Excento realizowany w projekcie „μGranty B+R dla przedsiębiorstw\"” w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020, Osi Priorytetowej 01. Komercjalizacja wiedzy, Działania 01.01. Ekspansja przez innowacje, Poddziałania 01.01.01. Ekspansja przez innowacje – wsparcie dotacyjne.",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2020-10-19",
-        "end_date": "2020-11-04",
+        "auction_name": "Idę do przedszkola - zwiększenie ilości miejsc w Przedszkolu Miejskim \"Tarpno\" oraz ułatwienie dostępu do pomocy specjalistycznej dofinansowany z Europejskiego Funduszu Społecznego w ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego na lata 2014-2020.",
+        "advertiser_name": "gmina-miasto Grudziądz",
+        "start_date": "2021-09-20",
+        "end_date": "2021-09-29",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "34110000-1",
-                "description": "Samochody osobowe"
+                "code": "37510000-6",
+                "description": "Lalki"
+            },
+            {
+                "code": "37520000-9",
+                "description": "Zabawki"
+            },
+            {
+                "code": "39162100-6",
+                "description": "Pomoce dydaktyczne"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2026,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup trombiny - zapytanie ofertowe nr 201016_01",
-        "advertiser_name": "RECEPTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2020-10-16",
-        "end_date": "2020-10-23",
+        "auction_name": "Przeprowadzenie audytu cyberbezpieczeństwa w projekcie Cyfrowa Gmina w ramach Działania 5.1 Rozwój cyfrowy JST oraz wzmocnienie cyfrowej odporności na zagrożenia\" dotyczącego realizacji projektu grantowego „Cyfrowa Gmina” o numerze POPC.05.01.00-00-0001/21-00",
+        "advertiser_name": "Gmina-miasto Grudziądz",
+        "start_date": "2022-07-08",
+        "end_date": "2022-07-22",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "24965000-6",
-                "description": "Enzymy"
+                "code": "72800000-8",
+                "description": "Usługi audytu komputerowego i testowania komputerów"
             }
         ],
         "EU": false,
         "id": 2027,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "„Dostawa przedłużenia subskrycji oprogramowania z zakresu architektury, konstrukcji oraz infrastruktury, zawierającego kompletne narzędzia CAD oraz BIM do projektowania 2D oraz 3D” dla Borga Sp. z o.o. na potrzeby projektu „Opracowanie innowacyjnej belki podsuwnicowej z trapezowym środnikiem” realizowanego w ramach POIR 2014-2020, działanie 1.2.",
-        "advertiser_name": "Borga Sp. z o.o.",
-        "start_date": "2020-10-19",
-        "end_date": "2020-10-26",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "48000000-8",
-                "description": "Pakiety oprogramowania i systemy informatyczne"
-            },
-            {
-                "code": "48321100-5",
-                "description": "System projektowania wspomaganego komputerowo (CAD)"
-            }
-        ],
-        "EU": false,
-        "id": 2028,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe na zatrudnienie Asystenta I na potrzeby Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński do realizacji projektu pt. „Menedżer Kompletny – grywalizacyjna platforma dydaktyczna, wykorzystująca komputerowe symulacje rynkowe do inteligentnego projektowania i wdrażania indywidualnych ścieżek dydaktycznych w procesie kształcenia studentów studiów ekonomicznych oraz kadry menedżerskiej” w ramach Działania 1.2 Sektorowe programy B+R, Programu Operacyjnego Inteligentny Rozwój, 2014-2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
-        "advertiser_name": "Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński",
-        "start_date": "2020-10-23",
-        "end_date": "2020-11-02",
+        "auction_name": "Dostawa audiodeskrypcji dla niewidzących i audioprzewodników po wystawie wraz z opracowaniem opisów i nagrań w ramach projektu \"Dostosowanie grudziądzkich spichlerzy do pełnienia funkcji na rzecz kultury\".",
+        "advertiser_name": "Gmina - miasto Grudziądz",
+        "start_date": "2022-07-29",
+        "end_date": "2022-08-05",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "79610000-3",
-                "description": "Zapewnianie usług personelu"
+                "code": "32342410-9",
+                "description": "Sprzęt dźwiękowy"
+            },
+            {
+                "code": "32353000-2",
+                "description": "Nagrania dźwiękowe"
+            },
+            {
+                "code": "32583000-3",
+                "description": "Nośniki danych i głosu"
+            },
+            {
+                "code": "33196200-2",
+                "description": "Sprzęt dla osób niepełnosprawnych"
+            }
+        ],
+        "EU": true,
+        "id": 2028,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE POIR 2/2022 z dnia 18 maja 2022 r.",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-05-18",
+        "end_date": "2022-06-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "15511000-3",
+                "description": "Mleko"
             }
         ],
         "EU": true,
         "id": 2029,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zapytanie ofertowe na zatrudnienie Specjalisty ds. rozwiązań Sztucznej Inteligencji na potrzeby Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński do realizacji projektu pt. „Menedżer Kompletny – grywalizacyjna platforma dydaktyczna, wykorzystująca komputerowe symulacje rynkowe do inteligentnego projektowania i wdrażania indywidualnych ścieżek dydaktycznych w procesie kształcenia studentów studiów ekonomicznych oraz kadry menedżerskiej” w ramach Działania 1.2 Sektorowe programy B+R, Programu Operacyjnego Inteligentny Rozwój, 2014-2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego",
-        "advertiser_name": "Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński",
-        "start_date": "2020-10-21",
-        "end_date": "2020-10-29",
+        "auction_name": "ZAPYTANIE OFERTOWE POIR 3/2021 z dnia 11 luty 2021 r.\ndotyczące elementów niezbędnych do budowy demonstracyjnej\ninstalacji technologicznej:\nelementy modułu przygotowania śmietanki oraz elementy modułu dojrzewania śmietanki.",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2021-02-11",
+        "end_date": "2021-03-12",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "79610000-3",
-                "description": "Zapewnianie usług personelu"
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
             }
         ],
-        "EU": true,
+        "EU": false,
         "id": 2030,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zapytanie ofertowe na zatrudnienie Specjalisty rynkowego – Marketing na potrzeby Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński do realizacji projektu pt. „Menedżer Kompletny – grywalizacyjna platforma dydaktyczna, wykorzystująca komputerowe symulacje rynkowe do inteligentnego projektowania i wdrażania indywidualnych ścieżek dydaktycznych w procesie kształcenia studentów studiów ekonomicznych oraz kadry menedżerskiej” w ramach Działania 1.2 Sektorowe programy B+R, Programu Operacyjnego Inteligentny Rozwój, 2014-2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
-        "advertiser_name": "Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński",
-        "start_date": "2020-10-21",
-        "end_date": "2020-10-29",
+        "auction_name": "ZAPYTANIE OFERTOWE POIR 2/2021 z dnia 26 stycznia 2021 r.\ndotyczące elementów niezbędnych do budowy demonstracyjnej\ninstalacji technologicznej:\nelementy modułu formowania i pakowania oraz elementy\nmodułu\nzmaślania, płukania, solenia i wygniatania.",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2021-01-26",
+        "end_date": "2021-02-25",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "79610000-3",
-                "description": "Zapewnianie usług personelu"
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
             }
         ],
-        "EU": true,
+        "EU": false,
         "id": 2031,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zapytanie ofertowe na zatrudnienie Specjalisty rynkowego – Psychologia Klienta na potrzeby Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński do realizacji projektu pt. „Menedżer Kompletny – grywalizacyjna platforma dydaktyczna, wykorzystująca komputerowe symulacje rynkowe do inteligentnego projektowania i wdrażania indywidualnych ścieżek dydaktycznych w procesie kształcenia studentów studiów ekonomicznych oraz kadry menedżerskiej” w ramach Działania 1.2 Sektorowe programy B+R, Programu Operacyjnego Inteligentny Rozwój, 2014-2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego",
-        "advertiser_name": "Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński",
-        "start_date": "2020-10-21",
-        "end_date": "2020-10-29",
+        "auction_name": "ZAPYTANIE OFERTOWE POIR 7/2021",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2021-12-15",
+        "end_date": "2021-12-27",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "79610000-3",
-                "description": "Zapewnianie usług personelu"
+                "code": "38437000-7",
+                "description": "Pipety i akcesoria laboratoryjne"
             }
         ],
         "EU": true,
         "id": 2032,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i sukcesywna dostawa odczynników chemicznych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-10-02",
-        "end_date": "2020-11-02",
+        "auction_name": "ZAPYTANIE OFERTOWE nr 3/2022",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-04-12",
+        "end_date": "2022-05-12",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
+                "code": "42921320-7",
+                "description": "Maszyny do pakowania zbiorczego"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2033,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i dostawa drobnego sprzętu laboratoryjnego",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-10-02",
-        "end_date": "2020-10-14",
+        "auction_name": "ZAPYTANIE OFERTOWE nr 5/2022/M",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-04-11",
+        "end_date": "2022-05-11",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2034,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "OGŁOSZENIE O PLANOWANYM ZAKUPIE NR 03/2020 z dnia 06.10.2020",
-        "advertiser_name": "Zakład Badawczo-Wdrożeniowy Ośrodka Salmonella IMMUNOLAB Sp. z o.o.",
-        "start_date": "2020-10-06",
-        "end_date": "2020-10-14",
+        "auction_name": "ZAPYTANIE OFERTOWE POIR 1/2022",
+        "advertiser_name": "POLMLEK GRUDZIĄDZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOSCIĄ",
+        "start_date": "2022-04-15",
+        "end_date": "2022-05-16",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33120000-7",
-                "description": "Systemy rejestrujące i urządzenia badawcze"
+                "code": "15511000-3",
+                "description": "Mleko"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2035,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "System Aktywizacji Społeczno -Zawodowej w Gdańsku - komponent aktywnej integracji",
-        "advertiser_name": "Gdańska Fundacja Innowacji Społecznej",
-        "start_date": "2020-10-07",
-        "end_date": "2020-10-16",
+        "auction_name": "Dostawa automatu montażowego do płytek SMD",
+        "advertiser_name": "\"BIO-KSEL\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "start_date": "2021-12-15",
+        "end_date": "2022-01-04",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "85000000-9",
-                "description": "Usługi w zakresie zdrowia i opieki społecznej"
+                "code": "31700000-3",
+                "description": "Urządzenia elektroniczne, elektromechaniczne i elektrotechniczne"
             }
         ],
         "EU": false,
         "id": 2036,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i dostawa odczynników",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-10-08",
-        "end_date": "2020-11-09",
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 1)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-03-05",
+        "end_date": "2021-03-13",
         "is_price_criterium": true,
-        "status": "Zamknięte",
+        "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            },
+            {
+                "code": "44191100-6",
+                "description": "Sklejka"
             }
         ],
         "EU": false,
         "id": 2037,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Wybór Członków Komisji Certyfikacyjnej dla Studium Asystent Środowiskowy w ramach projektu „Gdański model deinstytucjonalizacji usług świadczonych na rzecz osób z zaburzeniami psychicznymi”",
-        "advertiser_name": "Fundacja Wspierania Rodzin Przystań",
-        "start_date": "2020-10-09",
-        "end_date": "2020-10-16",
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 1)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-03-05",
+        "end_date": "2021-03-13",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            },
+            {
+                "code": "44191100-6",
+                "description": "Sklejka"
             }
         ],
-        "EU": true,
+        "EU": false,
         "id": 2038,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Preparation and delivery of seminar on the topic of: “Current issues in Criminal Justice”",
-        "advertiser_name": "Uniwersytet Gdański",
-        "start_date": "2020-10-14",
-        "end_date": "2020-10-21",
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 1)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-03-05",
+        "end_date": "2021-03-13",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "80430000-7",
-                "description": "Usługi edukacji osób dorosłych na poziomie akademickim"
+                "code": "14600000-7",
+                "description": "Rudy i stopy metali"
+            },
+            {
+                "code": "34941100-6",
+                "description": "Pręty"
+            },
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
             }
         ],
-        "EU": true,
+        "EU": false,
         "id": 2039,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Preparation and delivery of lecture on the topic of: “Strategic management. Workshop”",
-        "advertiser_name": "Uniwersytet Gdański",
-        "start_date": "2020-10-10",
-        "end_date": "2020-10-18",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80430000-7",
-                "description": "Usługi edukacji osób dorosłych na poziomie akademickim"
-            }
-        ],
-        "EU": false,
-        "id": 2040,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE Nr 7/20 NA WYKONANIE REMONTU KLATEK SCHODOWYCH ZAGOSPODAROWANIE BEZPOŚREDNIEGO OTOCZENIA budynku przy ul. Ramułta 8 w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2020-10-13",
-        "end_date": "2020-10-30",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "1.",
-                "description": "Przedmiotem zamówienia jest;  Remont klatek schodowych w budynku przy ul. Ramułta 8 w Gdańsku  Zagospodarowanie bezpośredniego otoczenia budynku przy ul. Ramułta 8 w Gdańsku 2. Kod CPV /nazwa kodu CPV 45000000-7 /roboty budowlane/ Kody CPV pomocnicze 45100000 - 8 /przygotowanie terenu pod budowę/ 45200000 – 9 /roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej/ 45300000-0 /roboty instalacyjne/ 3. Szczegółowe określenie przedmiotu zamówienia zawiera:  Przedmiar remont klatek schodowych stanowiący załącznik nr 1 do zapytania ofertowego,  Przedmiar zagospodarowanie terenu stanowiący załącznik nr 1A do zapytania ofertowego,  Opis techniczny stanowiący załącznik nr 2 do zapytania ofertowego,  Projekt klatki schodowej stanowiący załącznik nr 3 do zapytania ofertowego  Projekt zagospodarowania terenu stanowiący załącznik nr 3A do zapytania ofertowego . 4. Zamawiający posiada dokumenty administracyjne wydane przez Prezydenta Miasta Gdańska BMKZ.4125.1852.2018.DP z dnia 27 listopada 2018 r. oraz Zaświadczenie WUiA -VI.6743.2156-2.2018.KAM.415700 z dnia 17-12-2018 r. o braku sprzeciwu do złożonego przez Wspólnotę Mieszkaniową Ramułta 8 w Gdańsku zgłoszenia robót nie wymagających pozwolenia na budowę z dnia 06.12.2018 r. nr rejestru RPW/415700/2018 dotyczące zagospodarowania terenu (dojścia, elementów małej architektury, zieleń, wykonanie miejsc gromadzenia odpadów komunalnych) wykonania remontu klatek schodowych budynku mieszkalnym przy ul. Ramułta 8 w Gdańsku działka nr 90/1, nr 90/7, obręb nr 110 stanowiące załącznik nr 4 do zapytania ofertowego. 5. Informację o rozwiązaniach równoważnych stosowanych przy opisie przedmiotu zamówienia zawiera załącznik nr 11 do zapytania ofertowego. 6. Zaleca się, aby Wykonawca zapoznał się z lokalnymi warunkami realizacji przedmiotu zamówienia oraz zdobył wszelkie informacje niezbędne do właściwego przygotowania oferty i prawidłowego wykonania robót objętych przedmiotem zamówienia. Wszelkie utrudnienia wynikające z warunków realizacji przedmiotu zamówienia należy uwzględnić w cenie podanej w ofercie. Zamawiający zaleca Wykonawcom dokonanie wizji lokalnej w terenie przed przystąpieniem do przygotowania oferty, celem sprawdzenia warunków związanych z wykonaniem prac będących przedmiotem zamówienia oraz celem uzyskania wszelkich dodatkowych informacji koniecznych i przydatnych do oceny prac, gdyż wyklucza się możliwość roszczeń Wykonawcy z tytułu błędnego skalkulowania ceny lub pominięcia elementów niezbędnych do wykonania zamówienia. Koszty związane z przeprowadzeniem wizji w terenie ponosi Wykonawca. Wizje lokalną można odbyć za wcześniejszym porozumieniem z przedstawicielem Zamawiającego."
-            },
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": true,
-        "id": 2041,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i sukcesywna dostawa standardów",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-10-14",
-        "end_date": "2020-11-17",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2042,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i sukcesywna dostawa drobnego sprzętu laboratoryjnego 2020-109-11500",
-        "advertiser_name": "POLPHARMA BIOLOGICS S.A",
-        "start_date": "2020-10-14",
-        "end_date": "2020-11-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2043,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Wynajem długoterminowy samochodu osobowego na potrzeby spółki Excento realizowany w projekcie „μGranty B+R dla przedsiębiorstw\"” w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020, Osi Priorytetowej 01. Komercjalizacja wiedzy, Działania 01.01. Ekspansja przez innowacje, Poddziałania 01.01.01. Ekspansja przez innowacje – wsparcie dotacyjne.",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2020-10-19",
-        "end_date": "2020-11-04",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "34110000-1",
-                "description": "Samochody osobowe"
-            }
-        ],
-        "EU": false,
-        "id": 2044,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup trombiny - zapytanie ofertowe nr 201016_01",
-        "advertiser_name": "RECEPTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2020-10-16",
-        "end_date": "2020-10-23",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "24965000-6",
-                "description": "Enzymy"
-            }
-        ],
-        "EU": false,
-        "id": 2045,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "GPS - Gotowość Praca Samodzielność II",
-        "advertiser_name": "Fundacja Oparcia Społecznego Aleksandry FOSA",
-        "start_date": "2020-12-04",
-        "end_date": "2020-12-14",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2046,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "2020-377-22189 Zakup i dostawa filtrów.",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-12-14",
-        "end_date": "2021-01-13",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2047,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Preparation and delivery of lecture on the topic of: „Tourism and Hospitality Management”",
-        "advertiser_name": "Uniwersytet Gdański",
-        "start_date": "2020-12-14",
-        "end_date": "2020-12-21",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80430000-7",
-                "description": "Usługi edukacji osób dorosłych na poziomie akademickim"
-            }
-        ],
-        "EU": false,
-        "id": 2048,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "W związku z realizacją projektu „Kadry dla Inteligentnych Specjalizacji Pomorza” współfinansowanego przez Unię Europejską ze środków Europejskiego Funduszu Społecznego, Nr umowy POWR.03.05.00-00-ZR60/18 zwracamy się z prośbą o przedstawienie oferty na:\n\n1) Opracowanie case studies i przeprowadzenie w oparciu o opracowane case studies zadań praktycznych realizowanych w formie projektowej dla studentów kierunku Logistyka\n\n2) Opracowanie case studies i przeprowadzenie w oparciu o opracowane case studies zadań praktycznych realizowanych w formie projektowej dla studentów kierunku Informatyka",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2020-12-10",
-        "end_date": "2020-12-17",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": true,
-        "id": 2049,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Przedstawienie oferty na realizację zajęć dydaktycznych w roku akademickim 2020/2021 semestr letni dla studentów studiów I stopnia o profilu licencjackim i inżynierskim, studiów II stopnia na kierunku Informatyka oraz I stopnia inżynierskie na kierunku Logistyka.",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2020-12-15",
-        "end_date": "2020-12-22",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2050,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup oprogramowania umożliwiający projektowanie, modelowanie i analizę różnych cząsteczek - zapytanie ofertowe 201215_02",
-        "advertiser_name": "Recepton Sp. z o.o.",
-        "start_date": "2020-12-15",
-        "end_date": "2020-12-23",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "48000000-8",
-                "description": "Pakiety oprogramowania i systemy informatyczne"
-            }
-        ],
-        "EU": false,
-        "id": 2051,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i sukcesywna dostawa odczynnika",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-09-14",
-        "end_date": "2020-10-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2052,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "GPS - Gotowość Praca Samodzielność II",
-        "advertiser_name": "Fundacja Oparcia Społecznego Aleksandry FOSA",
-        "start_date": "2020-09-10",
-        "end_date": "2020-09-18",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2053,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Przeprowadzenie wykładu z dziedziny nauk humanistycznych/kompetencji społecznych na IV Pomorskiej Uczniowskiej Konferencji Naukowej związanego z jej tematem „Cywilizacja kontra natura. Ziemia w obliczu zmian klimatycznych\"",
-        "advertiser_name": "SAMORZĄD WOJEWÓDZTWA POMORSKIEGO",
-        "start_date": "2020-09-21",
-        "end_date": "2020-09-29",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80310000-0",
-                "description": "Usługi edukacji młodzieży"
-            }
-        ],
-        "EU": false,
-        "id": 2054,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe Nr 03/REW/2020/NW3\nna wykonanie remontu elewacji 2 ściany szczytowe, remontu klatki schodowej – klatka A, remontu schodów drewnianych, wzmocnienie belek nośnych podestów i ich oparcia na ścianach klatki schodowej budynku przy ul. Śluza 4A-E w Gdańsku",
-        "advertiser_name": "GMINA MIASTA GDAŃSKA",
-        "start_date": "2020-09-18",
-        "end_date": "2020-10-05",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2055,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Realizacja branżowego kursu języka rosyjskiego dla studentów studiów I stopnia o profilu licencjackim kierunku Turystyka i Rekreacja Wyższej Szkoły Bankowej w Gdańsku.",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2020-08-24",
-        "end_date": "2020-09-01",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2056,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe na przeprowadzenie usługi badawczej na potrzeby firmy Adar Sp. z o. o. do realizacji projektu \npt. „Prace badawczo-rozwojowe nad opracowaniem systemu wspomagającego pracę kierowców \nw firmach branży TSL z wykorzystaniem metod sztucznej inteligencji”",
-        "advertiser_name": "Adar Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2020-08-28",
-        "end_date": "2020-09-07",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73110000-6",
-                "description": "Usługi badawcze"
-            }
-        ],
-        "EU": false,
-        "id": 2057,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Instalacja do ekstrakcji (II)",
-        "advertiser_name": "LOTOS Lab Sp. z o.o.",
-        "start_date": "2020-09-08",
-        "end_date": "2020-10-12",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45220000-5",
-                "description": "Roboty inżynieryjne i budowlane"
-            }
-        ],
-        "EU": true,
-        "id": 2058,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Organizacja i przeprowadzenie kursu zawodowego\n„KWALIFIKOWANY PRACOWNIK OCHRONY FIZYCZNEJ",
-        "advertiser_name": "Towarzystwo Pomocy im. św. Brata Alberta koło gdańskie",
-        "start_date": "2020-09-08",
-        "end_date": "2020-09-16",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2059,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe nr 9/POWER/2020 usługę przeprowadzenia kursów",
-        "advertiser_name": "Stowarzyszenie Morena",
-        "start_date": "2020-09-17",
-        "end_date": "2020-09-25",
+        "auction_name": "Postaw na rozwój",
+        "advertiser_name": "Robert Koźlikowski",
+        "start_date": "2021-03-16",
+        "end_date": "2021-03-26",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
@@ -1076,650 +912,184 @@
                 "description": "Usługi szkolenia zawodowego"
             }
         ],
-        "EU": false,
-        "id": 2060,
-        "city": "Gdańsk"
+        "EU": true,
+        "id": 2040,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "„Usługa badawczo-rozwojowa: zbadanie i potwierdzenie skuteczności działania ekstraktu roślinnego w warunkach zbliżonych do hodowlanych - w doświadczalnym laboratorium weterynaryjnym”",
-        "advertiser_name": "HerBioPharm Sp. z o.o.",
-        "start_date": "2020-09-17",
-        "end_date": "2020-09-28",
+        "auction_name": "Przedmiotem Zapytania ofertowego jest wybór Wykonawcy, którego zadaniem będzie przeprowadzenie szkolenia pn.: „Kurs operatora żurawi wieżowych” dla 1 osoby, będącej Uczestnikiem projektu pn.: „POWER Biznes”.",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2021-11-15",
+        "end_date": "2021-11-23",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "73000000-2",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
-            }
-        ],
-        "EU": false,
-        "id": 2061,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa i wdrożenie oprogramowania VR, sprzętu VR oraz świadczenie opieki serwisowej dot. oprogramowania VR.",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2020-09-17",
-        "end_date": "2020-10-27",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "30200000-1",
-                "description": "Urządzenia komputerowe"
-            }
-        ],
-        "EU": false,
-        "id": 2062,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa elektrod, sond, sprzętu elektronicznego i akcesoriów realizowana w projekcie „e-Pionier – wsparcie inwestorów w branży ICT szansą na rozwój potencjału uzdolnionych programistów” w ramach Programu Operacyjnego Polska Cyfrowa 2014-2020, oś priorytetowa Cyfrowe kompetencje społeczeństwa (Działanie 3.3).",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2020-09-16",
-        "end_date": "2020-09-24",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "31711140-6",
-                "description": "Elektrody"
-            },
-            {
-                "code": "31710000-6",
-                "description": "Sprzęt elektroniczny"
-            },
-            {
-                "code": "38540000-2",
-                "description": "Maszyny i aparatura badawcza i pomiarowa"
-            },
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            },
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            },
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2063,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa materiałów laboratoryjnych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-11-20",
-        "end_date": "2020-12-21",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2064,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup suplementu do hodowli komórkowych - zapytanie ofertowe nr 201119_02",
-        "advertiser_name": "RECEPTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2020-11-19",
-        "end_date": "2020-11-27",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2065,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "2020-377-19237 Zakup i sukcesywna dostawa materiałów zużywalnych.",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-11-27",
-        "end_date": "2020-12-28",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "24000000-4",
-                "description": "Produkty chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2066,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZK/8/FG/20/Szkutnia. Dostawa płyt OSB",
-        "advertiser_name": "Fundacja Gdańska",
-        "start_date": "2020-11-30",
-        "end_date": "2020-12-08",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "44191000-5",
-                "description": "Różne drewniane materiały budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2067,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup kwasu borowego - zapytanie ofertowe 201125_03",
-        "advertiser_name": "Recepton Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2020-11-25",
-        "end_date": "2020-12-04",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2068,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa kolumn chromatograficznych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-11-27",
-        "end_date": "2020-12-28",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38500000-0",
-                "description": "Aparatura kontrolna i badawcza"
-            }
-        ],
-        "EU": false,
-        "id": 2069,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Postępowanie nr 35512861 na Wykonanie dokumentacji projektowej budowy przyłącza ciepłowniczego do budynku przy ul. Uczniowskiej w Gdańsku",
-        "advertiser_name": "Gdańskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
-        "start_date": "2020-12-01",
-        "end_date": "2020-12-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "71322200-3",
-                "description": "Usługi projektowania rurociągów"
-            }
-        ],
-        "EU": false,
-        "id": 2070,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "GPS - Gotowość Praca Samodzielność II",
-        "advertiser_name": "Fundacja Oparcia Społecznego Aleksandry FOSA",
-        "start_date": "2020-12-04",
-        "end_date": "2020-12-14",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2071,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE Nr 8/20 NA WYKONANIE REMONTU DACHU - CZĘŚCIOWA WYMIANA POKRYCIA DACHU, REMONT KOMINÓW, WZMOCNIENIE KROKWI w budynku przy ul. Ramułta 10-11 w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-02-04",
-        "end_date": "2021-02-24",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
             }
         ],
         "EU": true,
-        "id": 2072,
-        "city": "Gdańsk"
+        "id": 2041,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Dostawa sprzętu elektronicznego do sensora CO2 i komputera nurkowego realizowana w projekcie „e-Pionier – wsparcie inwestorów w branży ICT szansą na rozwój potencjału uzdolnionych programistów” w ramach Programu Operacyjnego Polska Cyfrowa 2014-2020, oś priorytetowa Cyfrowe kompetencje społeczeństwa (Działanie 3.3).",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2021-01-29",
-        "end_date": "2021-02-08",
+        "auction_name": "Dostawa urządzeń stomatologicznych - odstojnik do gipsu, stół wibracyjny, obcinarka do gipsu.",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2022-02-13",
+        "end_date": "2022-02-21",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "31710000-6",
-                "description": "Sprzęt elektroniczny"
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
             }
         ],
         "EU": false,
-        "id": 2073,
-        "city": "Gdańsk"
+        "id": 2042,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i sukcesywna dostawa odczynników labolatoryjnych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-02-02",
-        "end_date": "2021-03-04",
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-02-14",
+        "end_date": "2022-02-21",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2074,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Opracowanie immunologicznych preparatów do profilaktyki i leczenia stanów zapalnych wymienia krów (mastitis), alternatywnych dla konwencjonalnych chemioterapeutyków i antybiotyków.",
-        "advertiser_name": "Zakład Badawczo-Wdrożeniowy Ośrodka Salmonella IMMUNOLAB Sp. z o.o.",
-        "start_date": "2021-02-04",
-        "end_date": "2021-02-12",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38900000-4",
-                "description": "Różne przyrządy do badań lub testowania"
-            }
-        ],
-        "EU": false,
-        "id": 2075,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Rewitalizacja Oruni w Gdańsku - kompleksowe usługi społeczne dla mieszkańców dzielnicy",
-        "advertiser_name": "Gdańska Fundacja Innowacji Społecznej",
-        "start_date": "2021-02-04",
-        "end_date": "2021-02-15",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "98390000-3",
-                "description": "Inne usługi"
-            }
-        ],
-        "EU": false,
-        "id": 2076,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup oraz sukcesywna dostawa materiałów, odczynników i drobnego sprzętu do realizacji projektu „Prace badawczo-rozwojowe nad innowacyjnym, szybkim i tanim testem do diagnostyki bakteryjnego zakażenia pochwy”.",
-        "advertiser_name": "Instytut Biotechnologii i Medycyny Molekularnej",
-        "start_date": "2020-10-27",
-        "end_date": "2020-11-06",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "24965000-6",
-                "description": "Enzymy"
-            }
-        ],
-        "EU": false,
-        "id": 2077,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe nr 1/2020r.\nWspólnota Mieszkaniowa przy ul. Kotwiczników 10A w Gdańsku zaprasza do złożenia oferty na: \n\nWykonanie prac remontowych w budynku mieszkalnym wielorodzinnym \nprzy ul. Kotwiczników 10A w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2020-10-29",
-        "end_date": "2020-11-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "35125300-2",
-                "description": "Kamery bezpieczeństwa"
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
             }
         ],
         "EU": true,
-        "id": 2078,
-        "city": "Gdańsk"
+        "id": 2043,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Plan Działań Sektora Transportu na lata 2019-2020 (GDDKiA).",
-        "advertiser_name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Gdańsku",
-        "start_date": "2020-10-29",
-        "end_date": "2020-11-06",
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-03-23",
+        "end_date": "2022-03-30",
         "is_price_criterium": true,
-        "status": "Zamknięte",
+        "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "85147000-1",
-                "description": "Usługi zdrowotne świadczone dla firm"
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2044,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa urządzeń: \n1. Klinometr laboratoryjny - 1 szt.\n2. Klinometr stomatologiczny – 1 szt.\n3. Przystawka do cementacji modeli i stojak – 1szt.\n4. Split cast – 3 zestawy",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2022-02-13",
+        "end_date": "2022-02-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2045,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 4) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 5)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2022-06-21",
+        "end_date": "2022-06-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "14600000-7",
+                "description": "Rudy i stopy metali"
             },
             {
-                "code": "85147000-1",
-                "description": "Usługi zdrowotne świadczone dla firm"
+                "code": "34941100-6",
+                "description": "Pręty"
             },
             {
-                "code": "85147000-1",
-                "description": "Usługi zdrowotne świadczone dla firm"
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            }
+        ],
+        "EU": false,
+        "id": 2046,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 4) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 5)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2022-06-21",
+        "end_date": "2022-06-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "24327400-6",
+                "description": "Produkty żywiczne"
             },
             {
-                "code": "85147000-1",
-                "description": "Usługi zdrowotne świadczone dla firm"
-            },
-            {
-                "code": "85147000-1",
-                "description": "Usługi zdrowotne świadczone dla firm"
+                "code": "24910000-6",
+                "description": "Kleje"
             }
         ],
         "EU": false,
-        "id": 2079,
-        "city": "Gdańsk"
+        "id": 2047,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "„Usługa przejęcia, przechowywania, obsługi i niszczenia dokumentów Generalnej Dyrekcji Dróg Krajowych i Autostrad Oddział w Gdańsku”",
-        "advertiser_name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Gdańsku",
-        "start_date": "2020-11-04",
-        "end_date": "2020-11-17",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "79995100-6",
-                "description": "Usługi archiwizacyjne"
-            }
-        ],
-        "EU": false,
-        "id": 2080,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Postępowanie nr 35476804 na budowę przyłącza ciepłowniczego oraz węzła ciepłowniczego dla budynku położonego przy ul. Lenartowicza 9 w Gdańsku",
-        "advertiser_name": "Gdańskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
-        "start_date": "2020-11-05",
-        "end_date": "2020-11-23",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2081,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "\"Gotowość Praca Samodzielność - GPSII\"",
-        "advertiser_name": "Fundacja Oparcia Społecznego Aleksandry FOSA",
-        "start_date": "2020-11-17",
-        "end_date": "2020-11-25",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2082,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "„Rozwój spółki Hevelka w wyniku opracowania nowego projektu wzorniczego i wdrożenia na rynek innowacyjnego produktu”",
-        "advertiser_name": "Hevelka Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2020-11-18",
-        "end_date": "2020-11-26",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "79415200-8",
-                "description": "Usługi doradcze w zakresie projektowania"
-            }
-        ],
-        "EU": false,
-        "id": 2083,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup suplementu do hodowli komórkowych - zapytanie ofertowe nr 201119_02",
-        "advertiser_name": "RECEPTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2020-11-19",
-        "end_date": "2020-11-27",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2084,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "\"Dla rodziny\"- doskonalenie zawodowe kadr systemu wspierania rodziny i pieczy zastępczej.",
-        "advertiser_name": "FUNDACJA NOVA",
-        "start_date": "2020-11-18",
-        "end_date": "2020-12-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": true,
-        "id": 2085,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "2020-377-19237 Zakup i sukcesywna dostawa materiałów zużywalnych.",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-11-27",
-        "end_date": "2020-12-28",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "24000000-4",
-                "description": "Produkty chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2086,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Postępowanie nr 35512861 na Wykonanie dokumentacji projektowej budowy przyłącza ciepłowniczego do budynku przy ul. Uczniowskiej w Gdańsku",
-        "advertiser_name": "Gdańskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
-        "start_date": "2020-12-01",
-        "end_date": "2020-12-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "71322200-3",
-                "description": "Usługi projektowania rurociągów"
-            }
-        ],
-        "EU": false,
-        "id": 2087,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZK/8/FG/20/Szkutnia. Dostawa płyt OSB",
-        "advertiser_name": "Fundacja Gdańska",
-        "start_date": "2020-11-30",
-        "end_date": "2020-12-08",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "44191000-5",
-                "description": "Różne drewniane materiały budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2088,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa kolumn chromatograficznych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-11-27",
-        "end_date": "2020-12-28",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38500000-0",
-                "description": "Aparatura kontrolna i badawcza"
-            }
-        ],
-        "EU": false,
-        "id": 2089,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe na zatrudnienie Asystenta I na potrzeby Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński do realizacji projektu pt. „Menedżer Kompletny – grywalizacyjna platforma dydaktyczna, wykorzystująca komputerowe symulacje rynkowe do inteligentnego projektowania i wdrażania indywidualnych ścieżek dydaktycznych w procesie kształcenia studentów studiów ekonomicznych oraz kadry menedżerskiej” w ramach Działania 1.2 Sektorowe programy B+R, Programu Operacyjnego Inteligentny Rozwój, 2014-2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
-        "advertiser_name": "Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński",
-        "start_date": "2020-10-23",
-        "end_date": "2020-11-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "79610000-3",
-                "description": "Zapewnianie usług personelu"
-            }
-        ],
-        "EU": true,
-        "id": 2090,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe na zatrudnienie Specjalisty ds. rozwiązań Sztucznej Inteligencji na potrzeby Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński do realizacji projektu pt. „Menedżer Kompletny – grywalizacyjna platforma dydaktyczna, wykorzystująca komputerowe symulacje rynkowe do inteligentnego projektowania i wdrażania indywidualnych ścieżek dydaktycznych w procesie kształcenia studentów studiów ekonomicznych oraz kadry menedżerskiej” w ramach Działania 1.2 Sektorowe programy B+R, Programu Operacyjnego Inteligentny Rozwój, 2014-2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego",
-        "advertiser_name": "Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński",
-        "start_date": "2020-10-21",
-        "end_date": "2020-10-29",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "79610000-3",
-                "description": "Zapewnianie usług personelu"
-            }
-        ],
-        "EU": true,
-        "id": 2091,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe na zatrudnienie Specjalisty rynkowego – Marketing na potrzeby Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński do realizacji projektu pt. „Menedżer Kompletny – grywalizacyjna platforma dydaktyczna, wykorzystująca komputerowe symulacje rynkowe do inteligentnego projektowania i wdrażania indywidualnych ścieżek dydaktycznych w procesie kształcenia studentów studiów ekonomicznych oraz kadry menedżerskiej” w ramach Działania 1.2 Sektorowe programy B+R, Programu Operacyjnego Inteligentny Rozwój, 2014-2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
-        "advertiser_name": "Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński",
-        "start_date": "2020-10-21",
-        "end_date": "2020-10-29",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "79610000-3",
-                "description": "Zapewnianie usług personelu"
-            }
-        ],
-        "EU": true,
-        "id": 2092,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe na zatrudnienie Specjalisty rynkowego – Psychologia Klienta na potrzeby Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński do realizacji projektu pt. „Menedżer Kompletny – grywalizacyjna platforma dydaktyczna, wykorzystująca komputerowe symulacje rynkowe do inteligentnego projektowania i wdrażania indywidualnych ścieżek dydaktycznych w procesie kształcenia studentów studiów ekonomicznych oraz kadry menedżerskiej” w ramach Działania 1.2 Sektorowe programy B+R, Programu Operacyjnego Inteligentny Rozwój, 2014-2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego",
-        "advertiser_name": "Symulator Biznesu Spółka Jawna Anna Błońska Michał Błoński",
-        "start_date": "2020-10-21",
-        "end_date": "2020-10-29",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "79610000-3",
-                "description": "Zapewnianie usług personelu"
-            }
-        ],
-        "EU": true,
-        "id": 2093,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "„Dostawa przedłużenia subskrycji oprogramowania z zakresu architektury, konstrukcji oraz infrastruktury, zawierającego kompletne narzędzia CAD oraz BIM do projektowania 2D oraz 3D” dla Borga Sp. z o.o. na potrzeby projektu „Opracowanie innowacyjnej belki podsuwnicowej z trapezowym środnikiem” realizowanego w ramach POIR 2014-2020, działanie 1.2.",
-        "advertiser_name": "Borga Sp. z o.o.",
-        "start_date": "2020-10-19",
-        "end_date": "2020-10-26",
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-09-05",
+        "end_date": "2022-09-12",
         "is_price_criterium": false,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "48000000-8",
-                "description": "Pakiety oprogramowania i systemy informatyczne"
-            },
-            {
-                "code": "48321100-5",
-                "description": "System projektowania wspomaganego komputerowo (CAD)"
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
             }
         ],
-        "EU": false,
-        "id": 2094,
-        "city": "Gdańsk"
+        "EU": true,
+        "id": 2048,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Świadczenie usług telefonii komórkowej dla PKM S.A. wraz z mobilnym dostępem do Internetu",
-        "advertiser_name": "Pomorska Kolej Metropolitalna S.A.",
-        "start_date": "2020-10-29",
-        "end_date": "2020-11-12",
+        "auction_name": "Dostawa kompletu środków trwałych i wartości niematerialnych i prawnych, w ramach pojektu pn.:\n\"Wdrożenie innowacyjnej technologii produkcji opakowań, z wielowymiarowym systemem zabezpieczeń nowej generacji\"",
+        "advertiser_name": "Epros spółka z ograniczoną odpowiedzialnością spółka komandytowa",
+        "start_date": "2021-10-29",
+        "end_date": "2021-11-08",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "64200000-8",
-                "description": "Usługi telekomunikacyjne"
+                "code": "42962000-7",
+                "description": "Urządzenia drukujące i graficzne"
+            },
+            {
+                "code": "48322000-1",
+                "description": "Pakiety oprogramowania graficznego"
             }
         ],
         "EU": false,
-        "id": 2095,
-        "city": "Gdańsk"
+        "id": 2049,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "„Projekt wzorniczy innowacyjnego zestawu inteligentnych mebli biurowych wspomagających zarządzanie dokumentami firmy EMKO”",
-        "advertiser_name": "EMKO Nadolscy Spółka Jawna",
-        "start_date": "2020-10-30",
-        "end_date": "2020-11-30",
+        "auction_name": "Zakup frezarki implantologicznej 5-osiowej z liniowym napędem magnetycznym i laserową kontrolą parametrów modelowania wraz z oprogramowaniem CAM z modułem implantologicznym i komputerem sterującym.",
+        "advertiser_name": "Laboratorium Stomatologiczne Jakub Bonikowski",
+        "start_date": "2020-09-22",
+        "end_date": "2020-09-30",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
@@ -1729,58 +1099,952 @@
             }
         ],
         "EU": false,
-        "id": 2096,
-        "city": "Gdańsk"
+        "id": 2050,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Dostawa urządzeń elektronicznych realizowana w projekcie „e-Pionier – wsparcie inwestorów w branży ICT szansą na rozwój potencjału uzdolnionych programistów” w ramach Programu Operacyjnego Polska Cyfrowa 2014-2020, oś priorytetowa Cyfrowe kompetencje społeczeństwa (Działanie 3.3).",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2020-11-10",
-        "end_date": "2020-11-18",
+        "auction_name": "Postaw na rozwój",
+        "advertiser_name": "Robert Koźlikowski",
+        "start_date": "2020-08-21",
+        "end_date": "2020-08-28",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "31710000-6",
-                "description": "Sprzęt elektroniczny"
+                "code": "72221000-0",
+                "description": "Usługi doradcze w zakresie analizy biznesowej"
+            }
+        ],
+        "EU": true,
+        "id": 2051,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 1)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-03-05",
+        "end_date": "2021-03-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "19520000-7",
+                "description": "Produkty z tworzyw sztucznych"
+            },
+            {
+                "code": "24327400-6",
+                "description": "Produkty żywiczne"
+            },
+            {
+                "code": "24910000-6",
+                "description": "Kleje"
+            },
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            }
+        ],
+        "EU": false,
+        "id": 2052,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 1)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-03-05",
+        "end_date": "2021-03-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            },
+            {
+                "code": "44470000-5",
+                "description": "Wyroby z żeliwa"
+            }
+        ],
+        "EU": false,
+        "id": 2053,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Prądnica synchroniczna z magnesami trwałymi w wykonaniu SPM o parametrach: 132 kVA – dotyczy zestawu turbinowego do produkcji energii o mocy do minimum 132 kVA (dotyczy Etapu 1)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-03-09",
+        "end_date": "2021-03-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "31100000-7",
+                "description": "Elektryczne silniki, generatory i transformatory"
+            }
+        ],
+        "EU": false,
+        "id": 2054,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Outplacement szansą na pracę\"\nrealizowany w ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego na lata 2014-2020\nOś priorytetowa 8. Aktywni na rynku pracy, Działanie: 8.5 Rozwój pracowników i przedsiębiorstw MŚP w regionie, Poddziałanie: 8.5.2 Wsparcie outplacementowe",
+        "advertiser_name": "Fundacja 4YOU",
+        "start_date": "2021-04-19",
+        "end_date": "2021-04-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 2055,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa urządzenia do mieszania mas wyciskowych – 1 szt.",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2022-02-13",
+        "end_date": "2022-02-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2056,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa unitu stomatologicznego z osprzętem",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2021-10-18",
+        "end_date": "2021-10-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2057,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 4) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 5)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2022-06-21",
+        "end_date": "2022-06-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "24327400-6",
+                "description": "Produkty żywiczne"
+            },
+            {
+                "code": "24910000-6",
+                "description": "Kleje"
+            }
+        ],
+        "EU": false,
+        "id": 2058,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-06-22",
+        "end_date": "2022-06-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2059,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa urządzenia do mieszania mas wyciskowych – 1 szt.",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2022-02-13",
+        "end_date": "2022-02-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2060,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Postaw na rozwój",
+        "advertiser_name": "Robert Koźlikowski",
+        "start_date": "2021-05-21",
+        "end_date": "2021-06-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2061,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dywersyfikacja działalności firmy La Bell Sp. z o.o. poprzez wprowadzenie na rynek\ninnowacyjnych biustonoszy dla kobiet po mastektomii",
+        "advertiser_name": "La Bell Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-08-24",
+        "end_date": "2021-09-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42710000-6",
+                "description": "Maszyny do produkcji wyrobów włókienniczych"
+            }
+        ],
+        "EU": false,
+        "id": 2062,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 2 ) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 3)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-10-13",
+        "end_date": "2021-10-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            },
+            {
+                "code": "44191100-6",
+                "description": "Sklejka"
+            }
+        ],
+        "EU": false,
+        "id": 2063,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiałów wsadowych do wytworzenia techniką odlewu detali do budowy prototypów w wykonaniu ze staliwa kwasoodpornego GX5 (dotyczy Etapu 2)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-11-03",
+        "end_date": "2021-11-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "14600000-7",
+                "description": "Rudy i stopy metali"
+            },
+            {
+                "code": "14620000-3",
+                "description": "Stopy"
+            },
+            {
+                "code": "14621000-0",
+                "description": "Żelazostopy"
+            }
+        ],
+        "EU": false,
+        "id": 2064,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Przedmiotem Zapytania ofertowego jest wybór Wykonawcy, którego zadaniem będzie przeprowadzenie kursu z zakresu „Prawo jazdy kat. C wraz z kursem kwalifikacji wstępnej przyspieszonej w zakresie prawo jazdy kat. C-przewóz rzeczy” \ndla 1 osoby, będącej Uczestnikiem projektu pn.: „POWER Biznes”.",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2021-11-17",
+        "end_date": "2021-11-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2065,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-02-22",
+        "end_date": "2022-03-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2066,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "DOSTAWA URZĄDZEŃ TERAPEUTYCZNYCH, REHABILITACYJNYCH, SPRZĘTU REKREACYJNEGO, KOMPUTEROWEGO I AGD DLA PLACÓWKI PRZEDSZKOLNEJ",
+        "advertiser_name": "Centrum Edukacji ANWISZ s.c. Iwona Majorke, Sebastian Dróbka, Sandra Krauze",
+        "start_date": "2022-05-25",
+        "end_date": "2022-06-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39710000-2",
+                "description": "Elektryczny sprzęt gospodarstwa domowego"
+            }
+        ],
+        "EU": false,
+        "id": 2067,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 4) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 5)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2022-06-21",
+        "end_date": "2022-06-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            },
+            {
+                "code": "44191100-6",
+                "description": "Sklejka"
+            }
+        ],
+        "EU": false,
+        "id": 2068,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 4) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 5)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2022-06-21",
+        "end_date": "2022-06-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "34941100-6",
+                "description": "Pręty"
+            },
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            }
+        ],
+        "EU": false,
+        "id": 2069,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-07-06",
+        "end_date": "2022-07-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2070,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-08-10",
+        "end_date": "2022-08-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2071,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-08-18",
+        "end_date": "2022-08-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2072,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-07-15",
+        "end_date": "2022-07-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2073,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa środka trwałego - maszyny drukującej, w ramach pojektu pn.:\n\"Wdrożenie innowacyjnej technologii produkcji opakowań, z wielowymiarowym systemem zabezpieczeń nowej generacji\"",
+        "advertiser_name": "Epros spółka z ograniczoną odpowiedzialnością spółka komandytowa",
+        "start_date": "2021-04-02",
+        "end_date": "2021-05-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42962000-7",
+                "description": "Urządzenia drukujące i graficzne"
+            }
+        ],
+        "EU": false,
+        "id": 2074,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "„Przeprowadzenie modernizacji obiektu oraz zakup niezbędnego wyposażenia celem zwiększenia w m. Grudziądzu atrakcyjności oferowanych usług wychowania przedszkolnego”",
+        "advertiser_name": "ALFA Malinowska Marzena",
+        "start_date": "2020-08-24",
+        "end_date": "2020-08-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39141300-5",
+                "description": "Szafy"
+            },
+            {
+                "code": "39141400-6",
+                "description": "Kuchnie do zabudowy"
+            },
+            {
+                "code": "39150000-8",
+                "description": "Różne meble i wyposażenie"
+            },
+            {
+                "code": "39220000-0",
+                "description": "Sprzęt kuchenny, artykuły gospodarstwa domowego i artykuły domowe oraz artykuły cateringowe"
+            },
+            {
+                "code": "39290000-1",
+                "description": "Wyposażenie różne"
+            },
+            {
+                "code": "39713100-4",
+                "description": "Zmywarki do naczyń"
+            },
+            {
+                "code": "39721000-2",
+                "description": "Urządzenia do gotowania lub grzewcze używane w gospodarstwie domowym"
+            },
+            {
+                "code": "42214100-0",
+                "description": "Piece kuchenne"
+            },
+            {
+                "code": "42513000-5",
+                "description": "Urządzenia chłodnicze i mrożące"
+            },
+            {
+                "code": "42900000-5",
+                "description": "Różne maszyny ogólnego i specjalnego przeznaczenia"
+            }
+        ],
+        "EU": false,
+        "id": 2075,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 1)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-03-05",
+        "end_date": "2021-03-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "34941100-6",
+                "description": "Pręty"
+            },
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            }
+        ],
+        "EU": false,
+        "id": 2076,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dywersyfikacja działalności firmy La Bell Sp. z o.o. poprzez wprowadzenie na rynek\ninnowacyjnych biustonoszy dla kobiet po mastektomii",
+        "advertiser_name": "La Bell Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-04-01",
+        "end_date": "2021-04-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42710000-6",
+                "description": "Maszyny do produkcji wyrobów włókienniczych"
+            }
+        ],
+        "EU": false,
+        "id": 2077,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-02-22",
+        "end_date": "2022-03-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2078,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "DOSTAWA URZĄDZEŃ TERAPEUTYCZNYCH, REHABILITACYJNYCH, SPRZĘTU REKREACYJNEGO, KOMPUTEROWEGO I AGD DLA PLACÓWKI PRZEDSZKOLNEJ",
+        "advertiser_name": "Centrum Edukacji ANWISZ s.c. Iwona Majorke, Sebastian Dróbka, Sandra Krauze",
+        "start_date": "2022-05-25",
+        "end_date": "2022-06-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39710000-2",
+                "description": "Elektryczny sprzęt gospodarstwa domowego"
+            }
+        ],
+        "EU": false,
+        "id": 2079,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 4) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 5)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2022-06-21",
+        "end_date": "2022-06-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            },
+            {
+                "code": "44191100-6",
+                "description": "Sklejka"
+            }
+        ],
+        "EU": false,
+        "id": 2080,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 4) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 5)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2022-06-21",
+        "end_date": "2022-06-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "34941100-6",
+                "description": "Pręty"
+            },
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            }
+        ],
+        "EU": false,
+        "id": 2081,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-07-06",
+        "end_date": "2022-07-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2082,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-08-10",
+        "end_date": "2022-08-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2083,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-08-18",
+        "end_date": "2022-08-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2084,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-07-15",
+        "end_date": "2022-07-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": true,
+        "id": 2085,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa środka trwałego - maszyny drukującej, w ramach pojektu pn.:\n\"Wdrożenie innowacyjnej technologii produkcji opakowań, z wielowymiarowym systemem zabezpieczeń nowej generacji\"",
+        "advertiser_name": "Epros spółka z ograniczoną odpowiedzialnością spółka komandytowa",
+        "start_date": "2021-04-02",
+        "end_date": "2021-05-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42962000-7",
+                "description": "Urządzenia drukujące i graficzne"
+            }
+        ],
+        "EU": false,
+        "id": 2086,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa frezarki CNC z oprzyrządowaniem",
+        "advertiser_name": "\"BIO-KSEL\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "start_date": "2021-09-02",
+        "end_date": "2021-09-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42623000-9",
+                "description": "Frezarki"
+            }
+        ],
+        "EU": false,
+        "id": 2087,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup, dostawa i montaż zestawu urządzeń, sprzętu i wyposażenia dedykowana do wytworzenia instalacji badawczej do prowadzenia procesów termolizy odpadów gumowych w ciśnieniu do 5 Bar i temp. do 500 St. Cels według zgłoszenia patentowego P. 420704, zgodnie ze szczegółowym zestawieniem/specyfikacją przedmiotowego sprzęt stanowiącą Załączniki nr 1 do Zapytania ofertowego.",
+        "advertiser_name": "J.W.L. Investment S.A.",
+        "start_date": "2020-09-12",
+        "end_date": "2020-10-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "42900000-5",
+                "description": "Różne maszyny ogólnego i specjalnego przeznaczenia"
+            },
+            {
+                "code": "42990000-2",
+                "description": "Różne maszyny specjalnego zastosowania"
+            }
+        ],
+        "EU": false,
+        "id": 2088,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 02/2020/PROMET",
+        "advertiser_name": "PROMET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "start_date": "2021-02-26",
+        "end_date": "2021-03-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "39715200-9",
+                "description": "Urządzenia grzewcze"
+            }
+        ],
+        "EU": false,
+        "id": 2089,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 1)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-03-05",
+        "end_date": "2021-03-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "19520000-7",
+                "description": "Produkty z tworzyw sztucznych"
+            },
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            }
+        ],
+        "EU": false,
+        "id": 2090,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "USŁUGI OPIEKUŃCZE W MIEJSCU ZAMIESZKANIA DLA MIESZKAŃCÓW GRUDZIĄDZA",
+        "advertiser_name": "Fundacja Inicjatyw Społecznych Źródło",
+        "start_date": "2021-01-25",
+        "end_date": "2021-02-02",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "15800000-6",
+                "description": "Różne produkty spożywcze"
+            }
+        ],
+        "EU": false,
+        "id": 2091,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/2020/PROMET",
+        "advertiser_name": "PROMET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "start_date": "2020-12-21",
+        "end_date": "2021-02-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42630000-1",
+                "description": "Obrabiarki do obróbki metali"
+            }
+        ],
+        "EU": false,
+        "id": 2092,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa urządzenia do znieczuleń - 1 szt.",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2021-10-18",
+        "end_date": "2021-10-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2093,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa skanera do modeli i wycisków wraz z programem do projektowania CAD w stomatologii - 1 szt.",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2021-10-18",
+        "end_date": "2021-10-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2094,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa skalera - 1 szt.",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2021-10-18",
+        "end_date": "2021-10-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2095,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 2) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 3)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2021-10-13",
+        "end_date": "2021-10-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "19520000-7",
+                "description": "Produkty z tworzyw sztucznych"
+            },
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
+            }
+        ],
+        "EU": false,
+        "id": 2096,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa urządzenia do znieczuleń - 1 szt.",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2021-10-18",
+        "end_date": "2021-10-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
             }
         ],
         "EU": false,
         "id": 2097,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Dostawa sprzętu laboratoryjnego, realizowana w projekcie „e-Pionier – wsparcie inwestorów z branży ICT szansą na rozwój potencjału uzdolnionych programistów” jest współfinansowany w ramach Programu Operacyjnego Polska Cyfrowa, Oś III Cyfrowe kompetencje społeczeństwa, Działanie 3.3. „e-Pionier – wsparcie uzdolnionych programistów na rzecz rozwiązywania zidentyfikowanych problemów społecznych lub gospodarczych” -PZ/42/2020/EP2/EX",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2020-11-12",
-        "end_date": "2020-11-20",
+        "auction_name": "Dostawa skanera do modeli i wycisków wraz z programem do projektowania CAD w stomatologii - 1 szt.",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2021-10-18",
+        "end_date": "2021-10-25",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "38436000-0",
-                "description": "Wstrząsarki i akcesoria"
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
             }
         ],
         "EU": false,
         "id": 2098,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i dostawa materiałów laboratoryjnych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2020-11-20",
-        "end_date": "2020-12-21",
+        "auction_name": "Dostawa skalera - 1 szt.",
+        "advertiser_name": "USŁUGOWO-HANDLOWA FIRMA MEDYCZNA \"CALDENT\" Krzysztof Adamowicz",
+        "start_date": "2021-10-18",
+        "end_date": "2021-10-25",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
+                "code": "33130000-0",
+                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
             }
         ],
         "EU": false,
         "id": 2099,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     }
 ]

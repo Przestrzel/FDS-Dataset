@@ -1,39 +1,5 @@
 [
     {
-        "auction_name": "ZAPYTANIE OFERTOWE nr 05/0009/2022\nUsługa przeprowadzenia „Błękitnych Szkół” - zajęć żeglarskich teoretycznych i praktycznych dla uczniów gdańskich szkół podstawowych.",
-        "advertiser_name": "ZHP Chorągiew Gdańska",
-        "start_date": "2022-03-29",
-        "end_date": "2022-04-07",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80510000-2",
-                "description": "Usługi szkolenia specjalistycznego"
-            }
-        ],
-        "EU": false,
-        "id": 1200,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Anotacja i transkrypcja danych, wraz z przekazaniem danych [30h w języku białoruskim, 30h w języku ukraińskim oraz 30 h w języku rosyjskim]",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2022-07-05",
-        "end_date": "2022-08-05",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73000000-2",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
-            }
-        ],
-        "EU": true,
-        "id": 1201,
-        "city": "Gdańsk"
-    },
-    {
         "auction_name": "Szkolenie: Prawo jazdy kat C z kwalifikacja wstępną przyspieszoną (na przewóz rzeczy), z badaniami lekarskimi i egzaminem zewnętrznym dla 1 Uczestnika",
         "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
         "start_date": "2021-03-08",
@@ -55,7 +21,7 @@
             }
         ],
         "EU": true,
-        "id": 1202,
+        "id": 1200,
         "city": "Gdańsk"
     },
     {
@@ -72,7 +38,7 @@
             }
         ],
         "EU": false,
-        "id": 1203,
+        "id": 1201,
         "city": "Gdańsk"
     },
     {
@@ -89,7 +55,7 @@
             }
         ],
         "EU": true,
-        "id": 1204,
+        "id": 1202,
         "city": "Gdańsk"
     },
     {
@@ -106,7 +72,7 @@
             }
         ],
         "EU": false,
-        "id": 1205,
+        "id": 1203,
         "city": "Gdańsk"
     },
     {
@@ -135,7 +101,7 @@
             }
         ],
         "EU": true,
-        "id": 1206,
+        "id": 1204,
         "city": "Gdańsk"
     },
     {
@@ -152,7 +118,7 @@
             }
         ],
         "EU": false,
-        "id": 1207,
+        "id": 1205,
         "city": "Gdańsk"
     },
     {
@@ -173,7 +139,7 @@
             }
         ],
         "EU": false,
-        "id": 1208,
+        "id": 1206,
         "city": "Gdańsk"
     },
     {
@@ -194,7 +160,7 @@
             }
         ],
         "EU": false,
-        "id": 1209,
+        "id": 1207,
         "city": "Gdańsk"
     },
     {
@@ -211,7 +177,7 @@
             }
         ],
         "EU": true,
-        "id": 1210,
+        "id": 1208,
         "city": "Gdańsk"
     },
     {
@@ -240,7 +206,7 @@
             }
         ],
         "EU": true,
-        "id": 1211,
+        "id": 1209,
         "city": "Gdańsk"
     },
     {
@@ -261,7 +227,7 @@
             }
         ],
         "EU": true,
-        "id": 1212,
+        "id": 1210,
         "city": "Gdańsk"
     },
     {
@@ -286,7 +252,7 @@
             }
         ],
         "EU": false,
-        "id": 1213,
+        "id": 1211,
         "city": "Gdańsk"
     },
     {
@@ -303,7 +269,7 @@
             }
         ],
         "EU": false,
-        "id": 1214,
+        "id": 1212,
         "city": "Gdańsk"
     },
     {
@@ -328,7 +294,7 @@
             }
         ],
         "EU": false,
-        "id": 1215,
+        "id": 1213,
         "city": "Gdańsk"
     },
     {
@@ -345,7 +311,7 @@
             }
         ],
         "EU": true,
-        "id": 1216,
+        "id": 1214,
         "city": "Gdańsk"
     },
     {
@@ -366,7 +332,7 @@
             }
         ],
         "EU": true,
-        "id": 1217,
+        "id": 1215,
         "city": "Gdańsk"
     },
     {
@@ -383,7 +349,7 @@
             }
         ],
         "EU": true,
-        "id": 1218,
+        "id": 1216,
         "city": "Gdańsk"
     },
     {
@@ -408,7 +374,7 @@
             }
         ],
         "EU": true,
-        "id": 1219,
+        "id": 1217,
         "city": "Gdańsk"
     },
     {
@@ -425,7 +391,7 @@
             }
         ],
         "EU": false,
-        "id": 1220,
+        "id": 1218,
         "city": "Gdańsk"
     },
     {
@@ -442,7 +408,7 @@
             }
         ],
         "EU": false,
-        "id": 1221,
+        "id": 1219,
         "city": "Gdańsk"
     },
     {
@@ -459,7 +425,7 @@
             }
         ],
         "EU": true,
-        "id": 1222,
+        "id": 1220,
         "city": "Gdańsk"
     },
     {
@@ -480,7 +446,7 @@
             }
         ],
         "EU": true,
-        "id": 1223,
+        "id": 1221,
         "city": "Gdańsk"
     },
     {
@@ -497,7 +463,7 @@
             }
         ],
         "EU": false,
-        "id": 1224,
+        "id": 1222,
         "city": "Gdańsk"
     },
     {
@@ -514,7 +480,7 @@
             }
         ],
         "EU": false,
-        "id": 1225,
+        "id": 1223,
         "city": "Gdańsk"
     },
     {
@@ -639,7 +605,7 @@
             }
         ],
         "EU": true,
-        "id": 1226,
+        "id": 1224,
         "city": "Gdańsk"
     },
     {
@@ -692,7 +658,7 @@
             }
         ],
         "EU": true,
-        "id": 1227,
+        "id": 1225,
         "city": "Gdańsk"
     },
     {
@@ -709,7 +675,7 @@
             }
         ],
         "EU": false,
-        "id": 1228,
+        "id": 1226,
         "city": "Gdańsk"
     },
     {
@@ -734,7 +700,7 @@
             }
         ],
         "EU": false,
-        "id": 1229,
+        "id": 1227,
         "city": "Gdańsk"
     },
     {
@@ -755,7 +721,7 @@
             }
         ],
         "EU": false,
-        "id": 1230,
+        "id": 1228,
         "city": "Gdańsk"
     },
     {
@@ -772,7 +738,7 @@
             }
         ],
         "EU": false,
-        "id": 1231,
+        "id": 1229,
         "city": "Gdańsk"
     },
     {
@@ -789,7 +755,7 @@
             }
         ],
         "EU": false,
-        "id": 1232,
+        "id": 1230,
         "city": "Gdańsk"
     },
     {
@@ -814,7 +780,7 @@
             }
         ],
         "EU": false,
-        "id": 1233,
+        "id": 1231,
         "city": "Gdańsk"
     },
     {
@@ -831,7 +797,7 @@
             }
         ],
         "EU": false,
-        "id": 1234,
+        "id": 1232,
         "city": "Gdańsk"
     },
     {
@@ -852,7 +818,7 @@
             }
         ],
         "EU": false,
-        "id": 1235,
+        "id": 1233,
         "city": "Gdańsk"
     },
     {
@@ -881,7 +847,7 @@
             }
         ],
         "EU": false,
-        "id": 1236,
+        "id": 1234,
         "city": "Gdańsk"
     },
     {
@@ -906,7 +872,7 @@
             }
         ],
         "EU": false,
-        "id": 1237,
+        "id": 1235,
         "city": "Gdańsk"
     },
     {
@@ -927,7 +893,7 @@
             }
         ],
         "EU": false,
-        "id": 1238,
+        "id": 1236,
         "city": "Gdańsk"
     },
     {
@@ -944,7 +910,7 @@
             }
         ],
         "EU": false,
-        "id": 1239,
+        "id": 1237,
         "city": "Gdańsk"
     },
     {
@@ -1069,7 +1035,7 @@
             }
         ],
         "EU": true,
-        "id": 1240,
+        "id": 1238,
         "city": "Gdańsk"
     },
     {
@@ -1122,7 +1088,7 @@
             }
         ],
         "EU": true,
-        "id": 1241,
+        "id": 1239,
         "city": "Gdańsk"
     },
     {
@@ -1139,7 +1105,7 @@
             }
         ],
         "EU": false,
-        "id": 1242,
+        "id": 1240,
         "city": "Gdańsk"
     },
     {
@@ -1168,7 +1134,7 @@
             }
         ],
         "EU": false,
-        "id": 1243,
+        "id": 1241,
         "city": "Gdańsk"
     },
     {
@@ -1189,7 +1155,7 @@
             }
         ],
         "EU": false,
-        "id": 1244,
+        "id": 1242,
         "city": "Gdańsk"
     },
     {
@@ -1206,7 +1172,7 @@
             }
         ],
         "EU": false,
-        "id": 1245,
+        "id": 1243,
         "city": "Gdańsk"
     },
     {
@@ -1223,7 +1189,7 @@
             }
         ],
         "EU": false,
-        "id": 1246,
+        "id": 1244,
         "city": "Gdańsk"
     },
     {
@@ -1240,7 +1206,7 @@
             }
         ],
         "EU": false,
-        "id": 1247,
+        "id": 1245,
         "city": "Gdańsk"
     },
     {
@@ -1261,7 +1227,7 @@
             }
         ],
         "EU": false,
-        "id": 1248,
+        "id": 1246,
         "city": "Gdańsk"
     },
     {
@@ -1290,7 +1256,7 @@
             }
         ],
         "EU": false,
-        "id": 1249,
+        "id": 1247,
         "city": "Gdańsk"
     },
     {
@@ -1307,7 +1273,7 @@
             }
         ],
         "EU": true,
-        "id": 1250,
+        "id": 1248,
         "city": "Gdańsk"
     },
     {
@@ -1336,7 +1302,7 @@
             }
         ],
         "EU": true,
-        "id": 1251,
+        "id": 1249,
         "city": "Gdańsk"
     },
     {
@@ -1353,7 +1319,7 @@
             }
         ],
         "EU": true,
-        "id": 1252,
+        "id": 1250,
         "city": "Gdańsk"
     },
     {
@@ -1370,7 +1336,7 @@
             }
         ],
         "EU": true,
-        "id": 1253,
+        "id": 1251,
         "city": "Gdańsk"
     },
     {
@@ -1387,7 +1353,7 @@
             }
         ],
         "EU": true,
-        "id": 1254,
+        "id": 1252,
         "city": "Gdańsk"
     },
     {
@@ -1404,7 +1370,7 @@
             }
         ],
         "EU": false,
-        "id": 1255,
+        "id": 1253,
         "city": "Gdańsk"
     },
     {
@@ -1421,7 +1387,7 @@
             }
         ],
         "EU": false,
-        "id": 1256,
+        "id": 1254,
         "city": "Gdańsk"
     },
     {
@@ -1438,7 +1404,7 @@
             }
         ],
         "EU": false,
-        "id": 1257,
+        "id": 1255,
         "city": "Gdańsk"
     },
     {
@@ -1471,7 +1437,7 @@
             }
         ],
         "EU": true,
-        "id": 1258,
+        "id": 1256,
         "city": "Gdańsk"
     },
     {
@@ -1488,7 +1454,7 @@
             }
         ],
         "EU": false,
-        "id": 1259,
+        "id": 1257,
         "city": "Gdańsk"
     },
     {
@@ -1505,7 +1471,7 @@
             }
         ],
         "EU": false,
-        "id": 1260,
+        "id": 1258,
         "city": "Gdańsk"
     },
     {
@@ -1522,7 +1488,7 @@
             }
         ],
         "EU": true,
-        "id": 1261,
+        "id": 1259,
         "city": "Gdańsk"
     },
     {
@@ -1539,7 +1505,7 @@
             }
         ],
         "EU": true,
-        "id": 1262,
+        "id": 1260,
         "city": "Gdańsk"
     },
     {
@@ -1556,7 +1522,7 @@
             }
         ],
         "EU": true,
-        "id": 1263,
+        "id": 1261,
         "city": "Gdańsk"
     },
     {
@@ -1573,7 +1539,7 @@
             }
         ],
         "EU": false,
-        "id": 1264,
+        "id": 1262,
         "city": "Gdańsk"
     },
     {
@@ -1626,7 +1592,7 @@
             }
         ],
         "EU": true,
-        "id": 1265,
+        "id": 1263,
         "city": "Gdańsk"
     },
     {
@@ -1679,7 +1645,7 @@
             }
         ],
         "EU": true,
-        "id": 1266,
+        "id": 1264,
         "city": "Gdańsk"
     },
     {
@@ -1732,7 +1698,7 @@
             }
         ],
         "EU": true,
-        "id": 1267,
+        "id": 1265,
         "city": "Gdańsk"
     },
     {
@@ -1753,7 +1719,7 @@
             }
         ],
         "EU": true,
-        "id": 1268,
+        "id": 1266,
         "city": "Gdańsk"
     },
     {
@@ -1786,7 +1752,7 @@
             }
         ],
         "EU": false,
-        "id": 1269,
+        "id": 1267,
         "city": "Gdańsk"
     },
     {
@@ -1807,7 +1773,7 @@
             }
         ],
         "EU": true,
-        "id": 1270,
+        "id": 1268,
         "city": "Gdańsk"
     },
     {
@@ -1824,7 +1790,7 @@
             }
         ],
         "EU": false,
-        "id": 1271,
+        "id": 1269,
         "city": "Gdańsk"
     },
     {
@@ -1841,7 +1807,7 @@
             }
         ],
         "EU": false,
-        "id": 1272,
+        "id": 1270,
         "city": "Gdańsk"
     },
     {
@@ -1862,7 +1828,7 @@
             }
         ],
         "EU": true,
-        "id": 1273,
+        "id": 1271,
         "city": "Gdańsk"
     },
     {
@@ -1879,7 +1845,7 @@
             }
         ],
         "EU": false,
-        "id": 1274,
+        "id": 1272,
         "city": "Gdańsk"
     },
     {
@@ -1900,7 +1866,7 @@
             }
         ],
         "EU": false,
-        "id": 1275,
+        "id": 1273,
         "city": "Gdańsk"
     },
     {
@@ -1917,7 +1883,7 @@
             }
         ],
         "EU": true,
-        "id": 1276,
+        "id": 1274,
         "city": "Gdańsk"
     },
     {
@@ -1934,7 +1900,7 @@
             }
         ],
         "EU": true,
-        "id": 1277,
+        "id": 1275,
         "city": "Gdańsk"
     },
     {
@@ -1955,7 +1921,7 @@
             }
         ],
         "EU": false,
-        "id": 1278,
+        "id": 1276,
         "city": "Gdańsk"
     },
     {
@@ -1972,7 +1938,7 @@
             }
         ],
         "EU": false,
-        "id": 1279,
+        "id": 1277,
         "city": "Gdańsk"
     },
     {
@@ -1989,7 +1955,7 @@
             }
         ],
         "EU": false,
-        "id": 1280,
+        "id": 1278,
         "city": "Gdańsk"
     },
     {
@@ -2014,7 +1980,7 @@
             }
         ],
         "EU": true,
-        "id": 1281,
+        "id": 1279,
         "city": "Gdańsk"
     },
     {
@@ -2031,7 +1997,7 @@
             }
         ],
         "EU": false,
-        "id": 1282,
+        "id": 1280,
         "city": "Gdańsk"
     },
     {
@@ -2048,7 +2014,7 @@
             }
         ],
         "EU": true,
-        "id": 1283,
+        "id": 1281,
         "city": "Gdańsk"
     },
     {
@@ -2065,7 +2031,7 @@
             }
         ],
         "EU": false,
-        "id": 1284,
+        "id": 1282,
         "city": "Gdańsk"
     },
     {
@@ -2082,7 +2048,7 @@
             }
         ],
         "EU": true,
-        "id": 1285,
+        "id": 1283,
         "city": "Gdańsk"
     },
     {
@@ -2103,7 +2069,7 @@
             }
         ],
         "EU": true,
-        "id": 1286,
+        "id": 1284,
         "city": "Gdańsk"
     },
     {
@@ -2120,7 +2086,7 @@
             }
         ],
         "EU": true,
-        "id": 1287,
+        "id": 1285,
         "city": "Gdańsk"
     },
     {
@@ -2137,7 +2103,7 @@
             }
         ],
         "EU": true,
-        "id": 1288,
+        "id": 1286,
         "city": "Gdańsk"
     },
     {
@@ -2174,7 +2140,7 @@
             }
         ],
         "EU": true,
-        "id": 1289,
+        "id": 1287,
         "city": "Gdańsk"
     },
     {
@@ -2207,7 +2173,7 @@
             }
         ],
         "EU": false,
-        "id": 1290,
+        "id": 1288,
         "city": "Gdańsk"
     },
     {
@@ -2224,7 +2190,7 @@
             }
         ],
         "EU": true,
-        "id": 1291,
+        "id": 1289,
         "city": "Gdańsk"
     },
     {
@@ -2241,7 +2207,7 @@
             }
         ],
         "EU": false,
-        "id": 1292,
+        "id": 1290,
         "city": "Gdańsk"
     },
     {
@@ -2258,7 +2224,7 @@
             }
         ],
         "EU": false,
-        "id": 1293,
+        "id": 1291,
         "city": "Gdańsk"
     },
     {
@@ -2275,7 +2241,7 @@
             }
         ],
         "EU": false,
-        "id": 1294,
+        "id": 1292,
         "city": "Gdańsk"
     },
     {
@@ -2292,7 +2258,7 @@
             }
         ],
         "EU": false,
-        "id": 1295,
+        "id": 1293,
         "city": "Gdańsk"
     },
     {
@@ -2309,7 +2275,7 @@
             }
         ],
         "EU": false,
-        "id": 1296,
+        "id": 1294,
         "city": "Gdańsk"
     },
     {
@@ -2326,7 +2292,7 @@
             }
         ],
         "EU": true,
-        "id": 1297,
+        "id": 1295,
         "city": "Gdańsk"
     },
     {
@@ -2343,7 +2309,7 @@
             }
         ],
         "EU": false,
-        "id": 1298,
+        "id": 1296,
         "city": "Gdańsk"
     },
     {
@@ -2361,6 +2327,40 @@
             {
                 "code": "35121500-3",
                 "description": "Uszczelnienia"
+            }
+        ],
+        "EU": false,
+        "id": 1297,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Innowacyjny ster strumieniony CPP w układzie tandem.",
+        "advertiser_name": "Bota Technik Sp. z o.o. Sp. komandytowa",
+        "start_date": "2021-07-27",
+        "end_date": "2021-08-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "31720000-9",
+                "description": "Urządzenia elektromechaniczne"
+            }
+        ],
+        "EU": false,
+        "id": 1298,
+        "city": "Gdańsk"
+    },
+    {
+        "auction_name": "Usługi polegające na: interpretacji badań środowiskowych , wsparcia przy doborze stanów obciążeniowych oraz tworzenie makr dla obciążeń wynikających z przepisów instytucji certyfikujących, automatyzacja procesów obliczeniowych MES w Ansys.",
+        "advertiser_name": "NavArt Gdaniec Spółka Jawna",
+        "start_date": "2022-09-19",
+        "end_date": "2022-09-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73100000-3",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
             }
         ],
         "EU": false,

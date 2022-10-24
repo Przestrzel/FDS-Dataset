@@ -1,26 +1,1427 @@
 [
     {
-        "auction_name": "Wykonanie prac programistycznych w React.js",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-10-26",
-        "end_date": "2021-11-03",
+        "auction_name": "Dostawa, instalacja i uruchomienie piły dwugłowicowej automatycznej do cięcia profili aluminium",
+        "advertiser_name": "ROLETIX Sylwester Piechowski",
+        "start_date": "2021-01-29",
+        "end_date": "2021-02-08",
         "is_price_criterium": true,
         "status": "Zamknięte",
         "cpv": [
             {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
             }
         ],
         "EU": false,
         "id": 2600,
-        "city": "Gdańsk"
+        "city": "Łomża"
     },
     {
-        "auction_name": "Zapytanie ofertowe nr 1/KPR/2021 dot. wyłonienia wykonawcy świadczącego usługi doradcy zawodowego - diagnostyka w celu przeprowadzenia diagnozy kompetencji studentów oraz stworzenia indywidualnego planu działania dla każdego uczestnika projektu.",
-        "advertiser_name": "Ateneum-Szkoła Wyższa w Gdańsku",
+        "auction_name": "Zaprojektowanie oraz wykonanie matryc do tłoczenia / ekstruzji profili aluminiowych – model 2",
+        "advertiser_name": "ROLETIX Sylwester Piechowski",
+        "start_date": "2021-05-24",
+        "end_date": "2021-06-07",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "44212500-4",
+                "description": "Kątowniki i profile"
+            }
+        ],
+        "EU": false,
+        "id": 2601,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkoleń zawodowych oraz przeprowadzenie egzaminów zewnętrznych potwierdzających kwalifikacje zawodowe wśród uczestników/czek centrów integracji społecznej woj. podlaskiego",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-10-13",
+        "end_date": "2021-10-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2602,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-12-06",
+        "end_date": "2021-12-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30213000-5",
+                "description": "Komputery osobiste"
+            },
+            {
+                "code": "30213100-6",
+                "description": "Komputery przenośne"
+            },
+            {
+                "code": "30213200-7",
+                "description": "Komputer tablet"
+            },
+            {
+                "code": "48620000-0",
+                "description": "Systemy operacyjne"
+            },
+            {
+                "code": "48700000-5",
+                "description": "Pakiety oprogramowania użytkowego"
+            }
+        ],
+        "EU": false,
+        "id": 2603,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-21",
+        "end_date": "2021-10-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33693000-4",
+                "description": "Pozostałe produkty terapeutyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2604,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkoleń zawodowych oraz przeprowadzenie egzaminów zewnętrznych potwierdzających kwalifikacje zawodowe wśród uczestników/czek centrów integracji społecznej woj. podlaskiego",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2022-04-05",
+        "end_date": "2022-04-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2605,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Instalacja PV Giełczyn o mocy do 0,98 MW",
+        "advertiser_name": "MM-Solar1 Jarosz Kulikowska sp. z o.o.",
+        "start_date": "2021-09-02",
+        "end_date": "2021-09-17",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "09331200-0",
+                "description": "Słoneczne moduły fotoelektryczne"
+            }
+        ],
+        "EU": true,
+        "id": 2606,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-11-22",
+        "end_date": "2021-11-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 2607,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-11-16",
+        "end_date": "2021-11-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 2608,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "„Udostępnianie zasobów publicznych rejestrów geodezyjnych – modernizacja ewidencji gruntów i budynków”",
+        "advertiser_name": "Związek Powiatów Województwa Podlaskiego",
+        "start_date": "2021-04-21",
+        "end_date": "2021-04-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "72200000-7",
+                "description": "Usługi doradcze w zakresie programowania oprogramowania"
+            }
+        ],
+        "EU": false,
+        "id": 2609,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie poradnictwa psychologicznego wśród uczestników/czek \nCentrum Integracji Społecznej w Łomży",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2022-03-11",
+        "end_date": "2022-03-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85000000-9",
+                "description": "Usługi w zakresie zdrowia i opieki społecznej"
+            }
+        ],
+        "EU": true,
+        "id": 2610,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-25",
+        "end_date": "2021-11-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 2611,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkolenia BHP, badań lekarskich oraz zakup odzieży ochronnej\ndla uczestników/czek centrów integracji społecznej woj. podlaskiego niezbędnych do realizacji szkoleń zawodowych",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-10-13",
+        "end_date": "2021-10-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80330000-6",
+                "description": "Usługi edukacji w zakresie bezpieczeństwa"
+            },
+            {
+                "code": "35113400-3",
+                "description": "Odzież ochronna i zabezpieczająca"
+            },
+            {
+                "code": "85120000-6",
+                "description": "Usługi medyczne i podobne"
+            }
+        ],
+        "EU": false,
+        "id": 2612,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "\"Regionalne Innowacje Społeczne – Centra Integracji Społecznej województwa podlaskiego”",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-01-29",
+        "end_date": "2021-02-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80330000-6",
+                "description": "Usługi edukacji w zakresie bezpieczeństwa"
+            },
+            {
+                "code": "85120000-6",
+                "description": "Usługi medyczne i podobne"
+            },
+            {
+                "code": "35113400-3",
+                "description": "Odzież ochronna i zabezpieczająca"
+            }
+        ],
+        "EU": true,
+        "id": 2613,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
         "start_date": "2021-10-26",
-        "end_date": "2021-11-07",
+        "end_date": "2021-11-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "22111000-1",
+                "description": "Podręczniki szkolne"
+            }
+        ],
+        "EU": false,
+        "id": 2614,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-11",
+        "end_date": "2021-10-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 2615,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-11",
+        "end_date": "2021-10-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 2616,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Usługa cateringu dla uczestników Centrów Integracji Społecznej",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-12-14",
+        "end_date": "2021-12-27",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 2617,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-12-17",
+        "end_date": "2021-12-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30231300-0",
+                "description": "Monitory ekranowe"
+            },
+            {
+                "code": "30231310-3",
+                "description": "Wyświetlacze płaskie"
+            },
+            {
+                "code": "48190000-6",
+                "description": "Pakiety oprogramowania edukacyjnego"
+            }
+        ],
+        "EU": false,
+        "id": 2618,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania Typu_CAD",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2021-02-18",
+        "end_date": "2021-02-26",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 2619,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania typu_CAD",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2020-12-01",
+        "end_date": "2020-12-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 2620,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkolenia BHP, badań lekarskich oraz zakup odzieży ochronnej\ndla uczestników/czek centrów integracji społecznej woj. podlaskiego niezbędnych do realizacji szkoleń zawodowych.",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2021-02-19",
+        "end_date": "2021-03-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80330000-6",
+                "description": "Usługi edukacji w zakresie bezpieczeństwa"
+            },
+            {
+                "code": "85120000-6",
+                "description": "Usługi medyczne i podobne"
+            },
+            {
+                "code": "35113400-3",
+                "description": "Odzież ochronna i zabezpieczająca"
+            }
+        ],
+        "EU": true,
+        "id": 2621,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/2020/0134/MZ",
+        "advertiser_name": "Mersey Sp. z o.o.",
+        "start_date": "2020-12-30",
+        "end_date": "2021-01-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30195900-1",
+                "description": "Tablice do pisania i tablice magnetyczne"
+            }
+        ],
+        "EU": false,
+        "id": 2622,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Świadczenie usług noclegowych i wyżywienia dla grupy 16 osób, uczestników sieci tematycznej ROPS i OWES",
+        "advertiser_name": "Województwo Podlaskie/ Regionalny Ośrodek Polityki Społecznej w Białymstoku",
+        "start_date": "2021-07-29",
+        "end_date": "2021-08-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 2623,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 2/2021/0134/C",
+        "advertiser_name": "Mersey Sp. z o.o.",
+        "start_date": "2021-11-30",
+        "end_date": "2021-12-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
+            }
+        ],
+        "EU": true,
+        "id": 2624,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2022/0134/C",
+        "advertiser_name": "NITH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "start_date": "2022-09-09",
+        "end_date": "2022-09-19",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
+            }
+        ],
+        "EU": true,
+        "id": 2625,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/7.1 w sprawie wyłonienia Wykonawców kursów specjalistycznych dla pielęgniarek i położnych realizowanych w ramach projektu Wsparcie kształcenia podyplomowego pielęgniarek i położnych w ramach Programu Operacyjnego Wiedza Edukacja Rozwój na lata 2014 – 2020 (PO WER 2014-2020) współfinansowanego z Europejskiego Funduszu Społecznego, numer POWR.07.01.00-00-0004/22.",
+        "advertiser_name": "Naczelna Izba Pielęgniarek i Położnych",
+        "start_date": "2022-07-21",
+        "end_date": "2022-08-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80561000-4",
+                "description": "Usługi szkolenia w dziedzinie zdrowia"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            },
+            {
+                "code": "80560000-7",
+                "description": "Usługi szkolenia w dziedzinie zdrowia i pierwszej pomocy"
+            }
+        ],
+        "EU": true,
+        "id": 2626,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-11",
+        "end_date": "2021-10-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 2627,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Rozwój Ekonomii Społecznej",
+        "advertiser_name": "Stowarzyszenie Europartner Akademicki Klub Integracji Europejskiej",
+        "start_date": "2020-10-15",
+        "end_date": "2020-10-23",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79100000-5",
+                "description": "Usługi prawnicze"
+            },
+            {
+                "code": "79200000-6",
+                "description": "Usługi księgowe, audytorskie i podatkowe"
+            },
+            {
+                "code": "79000000-4",
+                "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+            },
+            {
+                "code": "79000000-4",
+                "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+            },
+            {
+                "code": "79000000-4",
+                "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
+            },
+            {
+                "code": "79100000-5",
+                "description": "Usługi prawnicze"
+            }
+        ],
+        "EU": false,
+        "id": 2628,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa zestawów sprzętu IT",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2020-12-22",
+        "end_date": "2020-12-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30200000-1",
+                "description": "Urządzenia komputerowe"
+            },
+            {
+                "code": "30200000-1",
+                "description": "Urządzenia komputerowe"
+            }
+        ],
+        "EU": false,
+        "id": 2629,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2021/0134/C",
+        "advertiser_name": "Mersey Sp. z o.o.",
+        "start_date": "2021-05-28",
+        "end_date": "2021-06-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
+            }
+        ],
+        "EU": true,
+        "id": 2630,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2022/0134/ZD",
+        "advertiser_name": "Meonot Sp. z o.o.",
+        "start_date": "2022-07-26",
+        "end_date": "2022-08-03",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2631,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania typu CAD",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2021-03-02",
+        "end_date": "2021-03-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 2632,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania typu CAD",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2020-11-04",
+        "end_date": "2020-11-12",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 2633,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2022/0134/S",
+        "advertiser_name": "Mersey Sp. z o.o.",
+        "start_date": "2022-01-03",
+        "end_date": "2022-01-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "90900000-6",
+                "description": "Usługi w zakresie sprzątania i odkażania"
+            }
+        ],
+        "EU": false,
+        "id": 2634,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2022/0134/S",
+        "advertiser_name": "Meonot Sp. z o.o.",
+        "start_date": "2022-04-27",
+        "end_date": "2022-05-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "90900000-6",
+                "description": "Usługi w zakresie sprzątania i odkażania"
+            }
+        ],
+        "EU": false,
+        "id": 2635,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Wykonywanie badań i działań związanych z badaniami – wsparcie w pracy Wydziału Technologii-Laboratorium Drogowe Oddziału GDDKiA w Białymstoku w zakresie obsługi laboratoryjnej na inwestycjach współfinansowanych ze środków Programu Operacyjnego Infrastruktura i Środowisko (POIiŚ) i CEF”, z podziałem na 2 zadania",
+        "advertiser_name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Białymstoku",
+        "start_date": "2021-04-06",
+        "end_date": "2021-04-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79610000-3",
+                "description": "Zapewnianie usług personelu"
+            },
+            {
+                "code": "79610000-3",
+                "description": "Zapewnianie usług personelu"
+            }
+        ],
+        "EU": false,
+        "id": 2636,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie badania pn. „Ewaluacja działań realizowanych przez akredytowane OWES działające w poszczególnych subregionach w województwie podlaskim”",
+        "advertiser_name": "Województwo Podlaskie/ Regionalny Ośrodek Polityki Społecznej w Białymstoku",
+        "start_date": "2021-09-28",
+        "end_date": "2021-10-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73110000-6",
+                "description": "Usługi badawcze"
+            }
+        ],
+        "EU": true,
+        "id": 2637,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Świadczenie usługi przewozu osób realizowanych zgodnie z zapisami wniosku o dofinansowanie pt. „Akademia Trzeciego Wieku”,",
+        "advertiser_name": "Uniwersytet w Białymstoku, Wydział Nauk o Edukacji",
+        "start_date": "2021-12-02",
+        "end_date": "2021-12-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60172000-4",
+                "description": "Wynajem autobusów i autokarów wraz z kierowcą"
+            }
+        ],
+        "EU": false,
+        "id": 2638,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "„Budowa zakładu produkcji ślusarki aluminiowej oraz wdrożenie ekoinnowacyjnych rozwiązań w produktach, procesach, organizacji i marketingu”",
+        "advertiser_name": "TORPOL Sp. z o.o.",
+        "start_date": "2020-09-21",
+        "end_date": "2020-10-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44221000-5",
+                "description": "Okna, drzwi i podobne elementy"
+            },
+            {
+                "code": "45111200-0",
+                "description": "Roboty w zakresie przygotowania terenu pod budowę i roboty ziemne"
+            },
+            {
+                "code": "45210000-2",
+                "description": "Roboty budowlane w zakresie budynków"
+            },
+            {
+                "code": "45213200-5",
+                "description": "Roboty budowlane w zakresie magazynów i przemysłowych obiektów budowlanych"
+            },
+            {
+                "code": "45213220-1",
+                "description": "Roboty budowlane w zakresie magazynów"
+            },
+            {
+                "code": "45213250-0",
+                "description": "Roboty budowlane w zakresie przemysłowych obiektów budowlanych"
+            },
+            {
+                "code": "45232150-8",
+                "description": "Roboty w zakresie rurociągów do przesyłu wody"
+            },
+            {
+                "code": "45232400-6",
+                "description": "Roboty budowlane w zakresie kanałów ściekowych"
+            },
+            {
+                "code": "45310000-3",
+                "description": "Roboty instalacyjne elektryczne"
+            },
+            {
+                "code": "45320000-6",
+                "description": "Roboty izolacyjne"
+            },
+            {
+                "code": "45331000-6",
+                "description": "Instalowanie urządzeń grzewczych, wentylacyjnych i klimatyzacyjnych"
+            },
+            {
+                "code": "45332200-5",
+                "description": "Roboty instalacyjne hydrauliczne"
+            },
+            {
+                "code": "45332300-6",
+                "description": "Roboty instalacyjne kanalizacyjne"
+            },
+            {
+                "code": "45450000-6",
+                "description": "Roboty budowlane wykończeniowe, pozostałe"
+            }
+        ],
+        "EU": true,
+        "id": 2639,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Wykwalifikowany Specjalista z ZSCKR w Marianowie",
+        "advertiser_name": "OPEN EDUCATION GROUP Sp. z o.o.",
+        "start_date": "2021-08-04",
+        "end_date": "2021-08-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2640,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/7.1/FBiP/MKWS/2021",
+        "advertiser_name": "Fundacja Biznes i Prawo",
+        "start_date": "2021-12-13",
+        "end_date": "2021-12-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 2641,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 4/7.1/PFOP/PDA/2021",
+        "advertiser_name": "Podlaska Federacja Organizacji Pozarządowych",
+        "start_date": "2021-02-22",
+        "end_date": "2021-03-02",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 2642,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa specjalistycznego oprogramowania do zarządzania produkcją",
+        "advertiser_name": "PPHU Mariola Sp. z o.o.",
+        "start_date": "2021-02-18",
+        "end_date": "2021-02-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "48300000-1",
+                "description": "Pakiety oprogramowania do tworzenia dokumentów, rysowania, odwzorowywania, tworzenia harmonogramów i produkowania"
+            }
+        ],
+        "EU": false,
+        "id": 2643,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Wykwalifikowany Specjalista z ZSCKR w Marianowie",
+        "advertiser_name": "OPEN EDUCATION GROUP Sp. z o.o.",
+        "start_date": "2021-07-08",
+        "end_date": "2021-07-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2644,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/7.1/FBiP/MKWS/2022",
+        "advertiser_name": "Fundacja Biznes i Prawo",
+        "start_date": "2022-01-04",
+        "end_date": "2022-01-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79611000-0",
+                "description": "Usługi poszukiwania pracy"
+            }
+        ],
+        "EU": false,
+        "id": 2645,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przeprowadzenie szkolenia BHP, badań lekarskich oraz zakup odzieży ochronnej dla uczestników/czek centrów integracji społecznej woj. podlaskiego niezbędnych do realizacji szkoleń zawodowych.",
+        "advertiser_name": "Fundacja Forum Inicjatyw Rozwojowych",
+        "start_date": "2022-03-25",
+        "end_date": "2022-04-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80330000-6",
+                "description": "Usługi edukacji w zakresie bezpieczeństwa"
+            },
+            {
+                "code": "85120000-6",
+                "description": "Usługi medyczne i podobne"
+            },
+            {
+                "code": "35113400-3",
+                "description": "Odzież ochronna i zabezpieczająca"
+            }
+        ],
+        "EU": false,
+        "id": 2646,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "2/DORADCAZAWODOWY/PNDA/2022",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2022-05-16",
+        "end_date": "2022-05-24",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 2647,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Audit of high-level requirements, software as well as audit and definition of software development processes in accordance with the requirements of DO-178C DAL A for the implementation of the project entitled: \"Phoenix-RTOS 178 – new version of the Phoenix-RTOS operating system dedicated for implementation of systems compliant with the guidelines of the DO-178C safety standard\".\n\nAudyt wymagań wysokiego poziomu, oprogramowania oraz audyt i zdefiniowanie procesów wytwarzania oprogramowania zgodnie z wymaganiami DO-178C DAL A na potrzeby realizacji projektu pn.: „Phoenix-RTOS 178 – wersja systemu operacyjnego Phoenix-RTOS przeznaczona do realizacji systemów zgodnie z wytycznymi standardu bezpieczeństwa DO-178C”.",
+        "advertiser_name": "Phoenix Systems Sp. z o.o.",
+        "start_date": "2021-04-26",
+        "end_date": "2021-05-06",
+        "is_price_criterium": false,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "73000000-2",
+                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
+            }
+        ],
+        "EU": false,
+        "id": 2648,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 3/OD/2020 - realizowane w trybie zasady konkurencyjności.",
+        "advertiser_name": "Fundacja DIALOG",
+        "start_date": "2020-11-16",
+        "end_date": "2020-11-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            },
+            {
+                "code": "85320000-8",
+                "description": "Usługi społeczne"
+            }
+        ],
+        "EU": true,
+        "id": 2649,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Dostawa oraz montaż oryginalnych części zamiennych do zestawu HPLC Shimadzu Prominence",
+        "advertiser_name": "Greenvit Spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2021-03-11",
+        "end_date": "2021-03-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "38432200-4",
+                "description": "Chromatografy"
+            }
+        ],
+        "EU": false,
+        "id": 2650,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie NR 1/DORADCAZAWODOWY/PNDA/2021",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2021-10-14",
+        "end_date": "2021-10-22",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 2651,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2022-02-15",
+        "end_date": "2022-02-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30236000-2",
+                "description": "Różny sprzęt komputerowy"
+            },
+            {
+                "code": "31224400-6",
+                "description": "Kable przyłączeniowe"
+            },
+            {
+                "code": "32322000-6",
+                "description": "Urządzenia multimedialne"
+            },
+            {
+                "code": "32342100-3",
+                "description": "Słuchawki"
+            },
+            {
+                "code": "32342412-3",
+                "description": "Głośniki"
+            },
+            {
+                "code": "38652100-1",
+                "description": "Projektory"
+            },
+            {
+                "code": "38653400-1",
+                "description": "Ekrany projekcyjne"
+            },
+            {
+                "code": "48000000-8",
+                "description": "Pakiety oprogramowania i systemy informatyczne"
+            },
+            {
+                "code": "48190000-6",
+                "description": "Pakiety oprogramowania edukacyjnego"
+            },
+            {
+                "code": "51110000-6",
+                "description": "Usługi instalowania sprzętu elektrycznego"
+            }
+        ],
+        "EU": false,
+        "id": 2652,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie NR 1/DORADCAZAWODOWY/PNDA/2021",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2021-10-14",
+        "end_date": "2021-10-22",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 2653,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/A/09/2022 dotyczące wyboru Wykonawcy na wykonanie usług doradczych dotyczących przygotowania do wdrożenia nowego modelu biznesowego związanego z internacjonalizacją działalności.",
+        "advertiser_name": "Amarotto sp. z o.o.",
+        "start_date": "2022-09-06",
+        "end_date": "2022-09-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79340000-9",
+                "description": "Usługi reklamowe i marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 2654,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Świadczenie usług przez Analityka w ramach realizacji projektu pn. „Phoenix-RTOS 178 – wersja systemu operacyjnego Phoenix-RTOS przeznaczona do realizacji systemów zgodnie z wytycznymi standardu bezpieczeństwa DO-178C”",
+        "advertiser_name": "Phoenix Systems Sp. z o.o.",
+        "start_date": "2020-09-21",
+        "end_date": "2020-09-30",
+        "is_price_criterium": false,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "72000000-5",
+                "description": "Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia"
+            }
+        ],
+        "EU": true,
+        "id": 2655,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Pobudzić do aktywności",
+        "advertiser_name": "Podlaska Federacja Organizacji Pozarządowych",
+        "start_date": "2021-03-11",
+        "end_date": "2021-03-19",
+        "is_price_criterium": false,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
+            }
+        ],
+        "EU": false,
+        "id": 2656,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Podniesienie jakości kształcenia w placówkach kształcenia ogólnego w Łomży",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2021-10-11",
+        "end_date": "2021-10-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "30190000-7",
+                "description": "Różny sprzęt i artykuły biurowe"
+            }
+        ],
+        "EU": false,
+        "id": 2657,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "1/POŚREDNIKPRACY/PNDA/2021",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2021-10-19",
+        "end_date": "2021-10-27",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
@@ -30,2110 +1431,191 @@
             }
         ],
         "EU": false,
-        "id": 2601,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "AKTYWNI Z FASOLKĄ",
-        "advertiser_name": "Niepubliczne Przedszkole \"Tęczowe Przedszkole\", Niepubliczne Przedszkole \"Fasolka\" Lidia Kwietniewska-Cabaj",
-        "start_date": "2021-03-20",
-        "end_date": "2021-04-06",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2602,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa odczynników",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-04-13",
-        "end_date": "2021-05-13",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            },
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            },
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2603,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Świadczenie kompleksowych usług telefonicznych na rzecz Generalnej Dyrekcji Dróg Krajowych i Autostrad Oddział w Gdańsku oraz Podległych Jednostek",
-        "advertiser_name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Gdańsku",
-        "start_date": "2021-03-10",
-        "end_date": "2021-03-18",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "64211000-8",
-                "description": "Publiczne usługi telefoniczne"
-            }
-        ],
-        "EU": false,
-        "id": 2604,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE NR 4W/REW/2021/BAZA – WYKONANIE ROBÓT REMONTOWYCH I RENOWACYJNYCH- ul. Na Stoku 12 D w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-03-15",
-        "end_date": "2021-03-31",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45320000-6",
-                "description": "Roboty izolacyjne"
-            }
-        ],
-        "EU": false,
-        "id": 2605,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa odczynników",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-03-15",
-        "end_date": "2021-04-14",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "24000000-4",
-                "description": "Produkty chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2606,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Realizacja usługi wykonania formy wtryskowej wraz z wypraskami",
-        "advertiser_name": "Enelion Sp. z o.o.",
-        "start_date": "2021-04-21",
-        "end_date": "2021-04-29",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "43415000-5",
-                "description": "Formy odlewnicze"
-            },
-            {
-                "code": "71333000-1",
-                "description": "Mechaniczne usługi inżynieryjne"
-            },
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": true,
-        "id": 2607,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Postępowanie nr 36946278 na Wykonanie dokumentacji projektowej budowy przyłączy ciepłowniczych do budynków w rejonie ulicy Glazurowej w Gdańsku ( Budros sp. Z O.O. )",
-        "advertiser_name": "Gdańskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
-        "start_date": "2021-04-21",
-        "end_date": "2021-05-06",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "71322200-3",
-                "description": "Usługi projektowania rurociągów"
-            }
-        ],
-        "EU": false,
-        "id": 2608,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "nr sprawy SzS/002/21\nZakup i dostawa kamer do budowy modułu analityczno-obliczeniowego\ndata zamieszczenia 21.04.2021 r.",
-        "advertiser_name": "Bioseco Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2021-04-21",
-        "end_date": "2021-04-28",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "31710000-6",
-                "description": "Sprzęt elektroniczny"
-            }
-        ],
-        "EU": false,
-        "id": 2609,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Przeprowadzenie wizyt studyjnych dla studentów kierunku Logistyka Wyższej Szkoły Bankowej w Gdańsku",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2021-06-15",
-        "end_date": "2021-06-22",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2610,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup materiałów zużywalnych do hodowli bakteryjnych - zapytanie ofertowe nr 211110_01",
-        "advertiser_name": "RECEPTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2021-11-10",
-        "end_date": "2021-11-19",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38437000-7",
-                "description": "Pipety i akcesoria laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2611,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup danych telefonicznych, konwersacyjnych sample rate 8khz język niemiecki.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "72300000-8",
-                "description": "Usługi w zakresie danych"
-            }
-        ],
-        "EU": false,
-        "id": 2612,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa dysku sieciowego typu NAS wraz z akcesoriami realizowana w projekcie „μGranty B+R dla przedsiębiorstw\"” w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020, Osi Priorytetowej 01. Komercjalizacja wiedzy, Działania 01.01. Ekspansja przez innowacje, Poddziałania 01.01.01. Ekspansja przez innowacje – wsparcie dotacyjne.",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2021-06-28",
-        "end_date": "2021-07-09",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "30200000-1",
-                "description": "Urządzenia komputerowe"
-            }
-        ],
-        "EU": false,
-        "id": 2613,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Optymalizacja mechanizmów identyfikacji zmian tematów w transkrypcji ciągłej rozmów telefonicznych.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2614,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Optymalizacja i ewaluacja modeli do analizy sentymentu na deficytowych/szczątkowych danych biznesowych.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-07-06",
-        "end_date": "2021-07-15",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2615,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "8422 Zakup i dostawa żywicy",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-07-05",
-        "end_date": "2021-08-05",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2616,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Unowocześnienie oferty poprzez wzornictwo sposobem na rozwój firmy Indeco Trójmiasto s.c.",
-        "advertiser_name": "SZAFYNAWYMIAR.PL DOMOSŁAW SULOWSKI JAKUB DŁUŻEWSKI SPÓŁKA CYWILNA",
-        "start_date": "2021-09-29",
-        "end_date": "2021-11-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "42417000-2",
-                "description": "Podnośniki i przenośniki"
-            }
-        ],
-        "EU": false,
-        "id": 2617,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa wielofunkcyjnych urządzeń drukujących",
-        "advertiser_name": "Województwo Pomorskie",
-        "start_date": "2021-09-27",
-        "end_date": "2021-10-05",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "30121100-4",
-                "description": "Fotokopiarki"
-            }
-        ],
-        "EU": false,
-        "id": 2618,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "\"Praktycznie dla zdrowia\" - rozwój kompetencji zawodowych w ramach zintegrowanych programów kształcenia w Wyższej Szkole Zdrowia w Gdańsku",
-        "advertiser_name": "Wyższa Szkoła Zdrowia w Gdańsku",
-        "start_date": "2021-10-19",
-        "end_date": "2021-10-27",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2619,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Szkolenie zawodowe \"Profesjonalne sprzątanie\" dla 2 osób_02/10/6.1.1/2021",
-        "advertiser_name": "Gdańska Fundacja Innowacji Społecznej",
-        "start_date": "2021-10-18",
-        "end_date": "2021-10-27",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80530000-8",
-                "description": "Usługi szkolenia zawodowego"
-            }
-        ],
-        "EU": true,
-        "id": 2620,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Kurs komputerowy ECDL (B1,B2,B3,B4) w trybie stacjonarnym dla 1 osoby_.03/10/6.1.1/2021/",
-        "advertiser_name": "Gdańska Fundacja Innowacji Społecznej",
-        "start_date": "2021-10-18",
-        "end_date": "2021-10-27",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80530000-8",
-                "description": "Usługi szkolenia zawodowego"
-            }
-        ],
-        "EU": true,
-        "id": 2621,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "„Przeprowadzenia badań marketingowych na wskazanych rynkach (Polskim, Niemieckim, Wielkiej Brytanii, Francji, USA) w celu efektywnego wdrożenia opaski pomiarowej/urządzenia SPORTBAND”",
-        "advertiser_name": "WDTECH Sp. z o.o.",
-        "start_date": "2021-10-15",
-        "end_date": "2021-10-29",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "79300000-7",
-                "description": "Badania rynkowe i ekonomiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2622,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Stacjonarny kurs profesjonalnej stylizacji paznokci dla 1 osoby",
-        "advertiser_name": "Stowarzyszenie WAGA",
-        "start_date": "2022-04-11",
-        "end_date": "2022-04-20",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": true,
-        "id": 2623,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Usługa przeprowadzenia szkoleń przygotowujących do uzyskania uprawnień instruktora żeglarstwa",
-        "advertiser_name": "Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku",
-        "start_date": "2022-04-14",
-        "end_date": "2022-04-22",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2624,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Towarzystwo im. św Brata Alberta Koło Gdańskie w Gdańsku zaprasza do składania ofert w zakresie: zorganizowania i realizacji kursów/ szkoleń zawodowych wraz z egzaminami zewnętrznymi - Kurs koparki, koparko-ładowarki, wózki widłowe dla 1 uczestnika projektu „System Aktywizacji Społeczno-Zawodowej w Gdańsku – komponent aktywnej integracji” RPPM.06.01.01-22-0007/16-00",
-        "advertiser_name": "Towarzystwo Pomocy im. św. Brata Alberta Koło Gdańskie",
-        "start_date": "2022-04-12",
-        "end_date": "2022-04-25",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2625,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Prawo jazdy kat. C+E z Egzaminem - zorganizowanie i realizacja szkoleń/ kursów zawodowych wraz z egzaminami zewnętrznym dla 1 uczestnika projektu „System Aktywizacji Społeczno-Zawodowej w Gdańsku – komponent aktywnej integracji” RPPM.06.01.01-22-0007/16-00",
-        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
-        "start_date": "2021-01-08",
-        "end_date": "2021-01-19",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80411100-9",
-                "description": "Usługi w zakresie egzaminów na prawo jazdy"
-            },
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            },
-            {
-                "code": "80530000-8",
-                "description": "Usługi szkolenia zawodowego"
-            }
-        ],
-        "EU": false,
-        "id": 2626,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe nr 5/PR3/POPC/20 w ramach projektów: \n„Zaprogramuj swoją przyszłość – NUTS 43 TRÓJMIEJSKI” \nrealizowanego w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014-2020, \nOś Priorytetowa nr 3 „Cyfrowe kompetencje społeczeństwa”,\nDziałanie nr 3.2 „Innowacyjne rozwiązania na rzecz aktywizacji cyfrowej”\noraz\n„Cyberbezpieczeństwo technologii mobilnych w korzystaniu z e-usług”\nrealizowanego w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014-2020, \nOś Priorytetowa nr 3 „Cyfrowe kompetencje społeczeństwa”,\nDziałanie nr 3.1 „Działania szkoleniowe na rzecz rozwoju kompetencji cyfrowych”,\nwspółfinansowanych przez Unię Europejską ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
-        "advertiser_name": "FUNDACJA \"DC EDUKACJA\"",
-        "start_date": "2020-12-29",
-        "end_date": "2021-01-07",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "32330000-5",
-                "description": "Aparatura do nagrywania i powielania dźwięku i obrazu wideo"
-            }
-        ],
-        "EU": true,
-        "id": 2627,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup serwisów EU (Serwis Energize Updates) i IR (Serwis Instant Replacement) dla posiadanego urządzenia na okres 12 miesięcy",
-        "advertiser_name": "Agencja Rozwoju Pomorza S.A.",
-        "start_date": "2021-01-08",
-        "end_date": "2021-01-18",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "72250000-2",
-                "description": "Usługi w zakresie konserwacji i wsparcia systemów"
-            }
-        ],
-        "EU": false,
-        "id": 2628,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup kasety do zatężania białka - zapytanie ofertowe 210107_01",
-        "advertiser_name": "Recepton Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2021-01-28",
-        "end_date": "2021-02-06",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "42912000-2",
-                "description": "Maszyny i aparatura do filtrowania lub oczyszczania cieczy"
-            }
-        ],
-        "EU": false,
-        "id": 2629,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE/SPECYFIKACJA ZAMÓWIENIA\n01/P/0127/21 w ramach projektu pt. „Opracowanie szybszej metody druku 3D pozwalającej na obniżenie kosztów produkcji i poprawienie własności mechanicznych przy zachowaniu możliwie najlepszej jakości powierzchni” realizowanego ze środków Narodowego Centrum Badań i Rozwoju w Programie Operacyjnym Inteligentny Rozwój na lata 2014 – 2020",
-        "advertiser_name": "BIBUS MENOS SP. Z O. O.",
-        "start_date": "2021-01-08",
-        "end_date": "2021-01-22",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "19730000-2",
-                "description": "Włókna sztuczne"
-            }
-        ],
-        "EU": false,
-        "id": 2630,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa sprzętu elektronicznego realizowana w projekcie „e-Pionier – wsparcie inwestorów w branży ICT szansą na rozwój potencjału uzdolnionych programistów” w ramach Programu Operacyjnego Polska Cyfrowa 2014-2020, oś priorytetowa Cyfrowe kompetencje społeczeństwa (Działanie 3.3).",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2021-02-01",
-        "end_date": "2021-02-09",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "31710000-6",
-                "description": "Sprzęt elektroniczny"
-            }
-        ],
-        "EU": false,
-        "id": 2631,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa wyposażenia laboratoriów",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2021-01-29",
-        "end_date": "2021-02-09",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "30200000-1",
-                "description": "Urządzenia komputerowe"
-            },
-            {
-                "code": "30200000-1",
-                "description": "Urządzenia komputerowe"
-            },
-            {
-                "code": "30200000-1",
-                "description": "Urządzenia komputerowe"
-            }
-        ],
-        "EU": false,
-        "id": 2632,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i sukcesywna dostawa rękawic laboratoryjnych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-02-01",
-        "end_date": "2021-02-08",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "18141000-9",
-                "description": "Rękawice robocze"
-            }
-        ],
-        "EU": false,
-        "id": 2633,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa drobnego sprzętu laboratoryjnego",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-02-24",
-        "end_date": "2021-03-26",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38437000-7",
-                "description": "Pipety i akcesoria laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2634,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Wykonanie prac badawczo rozwojowych w zakresie rozwoju linii komórkowej oraz produkcji białek na podstawie umowy zlecenia - zapytanie ofertowe nr 210225_02",
-        "advertiser_name": "Recepton Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2021-02-25",
-        "end_date": "2021-03-06",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73000000-2",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze"
-            }
-        ],
-        "EU": false,
-        "id": 2635,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Kurs pomoc kuchenna z dekorowaniem potraw i tworzeniem dekoracji kulinarnych, zorganizowanie i realizacja kursów zawodowych wraz z egzaminami dla 1 uczestnika projektu „System Aktywizacji Społeczno-Zawodowej w Gdańsku – komponent aktywnej integracji” RPPM.06.01.01-22-0007/16-00",
-        "advertiser_name": "Towarzystwo Pomocy im. Św. Brata Alberta",
-        "start_date": "2021-02-22",
-        "end_date": "2021-03-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2636,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa 25 nowych, nieużywanych, sprawnych technicznie telefonów komórkowych typu smartfon dla Agencji Rozwoju Pomorza S.A.",
-        "advertiser_name": "Agencja Rozwoju Pomorza S.A.",
-        "start_date": "2021-11-08",
-        "end_date": "2021-11-18",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "32250000-0",
-                "description": "Telefony komórkowe"
-            }
-        ],
-        "EU": false,
-        "id": 2637,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Usługi eksperckie - ocena wniosków o granty.",
-        "advertiser_name": "Regionalna Izba Gospodarcza Pomorza",
-        "start_date": "2021-11-22",
-        "end_date": "2021-11-30",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "72221000-0",
-                "description": "Usługi doradcze w zakresie analizy biznesowej"
-            },
-            {
-                "code": "73200000-4",
-                "description": "Usługi doradcze w zakresie badań i rozwoju"
-            },
-            {
-                "code": "79000000-4",
-                "description": "Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania"
-            }
-        ],
-        "EU": false,
-        "id": 2638,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup złoża- zapytanie ofertowe 211115_03",
-        "advertiser_name": "Recepton Spółka z Ograniczoną Odpowiedzialnością",
-        "start_date": "2021-11-15",
-        "end_date": "2021-11-24",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2639,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe 5/KPR/2021 dot. wyłonienia wykonawcy usługi realizacji warsztatów personal branding z wykorzystaniem mediów społecznościowych z elementami poruszania się po rynku pracy oraz coaching kariery",
-        "advertiser_name": "Ateneum-Szkoła Wyższa w Gdańsku",
-        "start_date": "2021-11-19",
-        "end_date": "2021-11-28",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2640,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa specjalistycznych ultradźwiękowych głowic wraz z oprzyrządowaniem peryferyjnym",
-        "advertiser_name": "Navitest Sp. z o.o.",
-        "start_date": "2021-12-21",
-        "end_date": "2022-01-03",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38540000-2",
-                "description": "Maszyny i aparatura badawcza i pomiarowa"
-            }
-        ],
-        "EU": false,
-        "id": 2641,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Nadzór inwestorski w zakresie bezpieczeństwa i ochrony pracy",
-        "advertiser_name": "Pomorska Kolej Metropolitalna S.A.",
-        "start_date": "2021-12-23",
-        "end_date": "2021-12-31",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "71000000-8",
-                "description": "Usługi architektoniczne, budowlane, inżynieryjne i kontrolne"
-            }
-        ],
-        "EU": false,
-        "id": 2642,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE na nabycie elementów do budowy prototypu na potrzeby „Izopanel” Sp. z o.o. w ramach projektu „Prace B+R nad opracowaniem płyty warstwowej WPW oraz technologii wytworzenia rdzenia” w ramach Działania 1.1 Projekty B+R przedsiębiorstw Poddziałanie 1.1.1 Badania przemysłowe i prace rozwojowe realizowane przez przedsiębiorstwa Programu Operacyjnego Inteligentny Rozwój 2014 – 2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
-        "advertiser_name": "IZOPANEL SP. Z O.O.",
-        "start_date": "2021-12-23",
-        "end_date": "2022-02-09",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "30237475-9",
-                "description": "Czujniki elektryczne"
-            },
-            {
-                "code": "42131200-8",
-                "description": "Zawory konstrukcyjne"
-            },
-            {
-                "code": "44160000-9",
-                "description": "Rurociągi, instalacje rurowe, rury, okładziny rurowe, rury i podobne elementy"
-            },
-            {
-                "code": "44162000-3",
-                "description": "Instalacje rurowe"
-            }
-        ],
-        "EU": true,
-        "id": 2643,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "BIO/2021/10217 Zakup i dostawa kolumn chromatograficznych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-12-20",
-        "end_date": "2021-12-27",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "42912000-2",
-                "description": "Maszyny i aparatura do filtrowania lub oczyszczania cieczy"
-            }
-        ],
-        "EU": false,
-        "id": 2644,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Wynajem sali szkoleniowej - Trójmiasto 3-4.02.2022",
-        "advertiser_name": "Ośrodek Doradztwa i Treningu Kierowniczego",
-        "start_date": "2022-01-18",
-        "end_date": "2022-01-27",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "55120000-7",
-                "description": "Usługi hotelarskie w zakresie spotkań i konferencji"
-            }
-        ],
-        "EU": true,
-        "id": 2645,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Wynajem i dostarczenie specjalistycznej aparatury naukowo-badawczej na potrzeby realizacji projektu pn. „BladderDx – szybki i bezinwazyjny test do wczesnej diagnostyki nowotworu pęcherza moczowego”",
-        "advertiser_name": "Instytut Biotechnologii i Medycyny Molekularnej",
-        "start_date": "2022-01-21",
-        "end_date": "2022-02-23",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33152000-0",
-                "description": "Inkubatory"
-            }
-        ],
-        "EU": false,
-        "id": 2646,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Szkolenie stacjonarne (z egzaminem): operator wózków jezdniowych podnośnikowych i obsługa programów magazynowych",
-        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
-        "start_date": "2022-01-20",
-        "end_date": "2022-01-28",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80500000-9",
-                "description": "Usługi szkoleniowe"
-            },
-            {
-                "code": "80530000-8",
-                "description": "Usługi szkolenia zawodowego"
-            }
-        ],
-        "EU": true,
-        "id": 2647,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Innowacyjny ster strumieniowy CPP w układzie tandem.",
-        "advertiser_name": "Bota Technik Sp. z o.o. Sp. komandytowa",
-        "start_date": "2022-02-16",
-        "end_date": "2022-03-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "34913600-6",
-                "description": "Śruby napędowe do statków"
-            }
-        ],
-        "EU": false,
-        "id": 2648,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup laboratoryjnych materiałów zużywalnych - zapytanie ofertowe 220119_01",
-        "advertiser_name": "Recepton Spółka z Ograniczoną Odpowiedzialnością",
-        "start_date": "2022-01-19",
-        "end_date": "2022-01-27",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38437000-7",
-                "description": "Pipety i akcesoria laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2649,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "KURS SEP w zakresie uprawnień G1 - eksploatacja i dozór wraz z egzaminami w formie stacjonarnej dla dwóch osób.",
-        "advertiser_name": "Stowarzyszenie WAGA",
-        "start_date": "2021-11-24",
-        "end_date": "2021-12-06",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": true,
-        "id": 2650,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "DOSTAWA AGREGATU CIĘCIA FRONTOWEGO WRAZ Z INSTALACJĄ I SZKOLENIEM",
-        "advertiser_name": "Zakład Poligraficzny NORMEX, Iwona Morawczyńska",
-        "start_date": "2021-11-25",
-        "end_date": "2021-12-10",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "42991100-0",
-                "description": "Maszyny introligatorskie"
-            }
-        ],
-        "EU": false,
-        "id": 2651,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "W krainie zmysłu i umysłu",
-        "advertiser_name": "Niepubliczne Przedszkole \"Tęczowe Przedszkole\", Niepubliczne Przedszkole \"Fasolka\" Lidia Kwietniewska-Cabaj",
-        "start_date": "2021-12-14",
-        "end_date": "2021-12-29",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45233250-6",
-                "description": "Roboty w zakresie nawierzchni, z wyjątkiem dróg"
-            }
-        ],
-        "EU": true,
-        "id": 2652,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa fabrycznie nowych urządzeń służących celom badawczym na potrzeby projektu „Opracowanie systemu przetwarzania danych pomiarowych czasu rzeczywistego w energetyce”",
-        "advertiser_name": "BANKILO SPÓŁKA AKCYJNA",
-        "start_date": "2021-12-10",
-        "end_date": "2021-12-17",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "30213000-5",
-                "description": "Komputery osobiste"
-            },
-            {
-                "code": "30231300-0",
-                "description": "Monitory ekranowe"
-            }
-        ],
-        "EU": false,
-        "id": 2653,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Usługa wykonania prac adaptacyjno - remontowych pomieszczeń w związku z tworzeniem miejsc edukacji przedszkolnej w Skrabolandii w Gdańsku",
-        "advertiser_name": "Katarzyna Kwasiborska",
-        "start_date": "2022-01-11",
-        "end_date": "2022-01-25",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "43328000-8",
-                "description": "Instalacje hydrauliczne"
-            },
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            },
-            {
-                "code": "45311200-2",
-                "description": "Roboty w zakresie instalacji elektrycznych"
-            },
-            {
-                "code": "45330000-9",
-                "description": "Roboty instalacyjne wodno-kanalizacyjne i sanitarne"
-            },
-            {
-                "code": "45331100-7",
-                "description": "Instalowanie centralnego ogrzewania"
-            },
-            {
-                "code": "45420000-7",
-                "description": "Roboty w zakresie zakładania stolarki budowlanej oraz roboty ciesielskie"
-            },
-            {
-                "code": "45430000-0",
-                "description": "Pokrywanie podłóg i ścian"
-            },
-            {
-                "code": "45453000-7",
-                "description": "Roboty remontowe i renowacyjne"
-            }
-        ],
-        "EU": false,
-        "id": 2654,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Preparation and delivery of seminar on the topic of: “Current issues in Criminal Justice”",
-        "advertiser_name": "Uniwersytet Gdański",
-        "start_date": "2022-01-14",
-        "end_date": "2022-01-21",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80430000-7",
-                "description": "Usługi edukacji osób dorosłych na poziomie akademickim"
-            }
-        ],
-        "EU": true,
-        "id": 2655,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Bio/2021/10118 Zakup i sukcesywna dostawa odczynników.",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2022-01-13",
-        "end_date": "2022-02-14",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2656,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa leku",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-05-25",
-        "end_date": "2021-06-24",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "24000000-4",
-                "description": "Produkty chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2657,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup drabinki DNA - zapytanie ofertowe 210527_03",
-        "advertiser_name": "RECEPTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2021-05-27",
-        "end_date": "2021-06-04",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
         "id": 2658,
-        "city": "Gdańsk"
+        "city": "Łomża"
     },
     {
-        "auction_name": "świadczenie usługi pomiarów skuteczności odpylania elektrofiltru i całkowitej masowej emisji pyłu na wylocie z elektrofiltru",
-        "advertiser_name": "Elfi Projekt Sp. z o.o.",
-        "start_date": "2021-05-28",
-        "end_date": "2021-06-07",
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/7.1/KLASTER/SWS/2022",
+        "advertiser_name": "KLASTER PODMIOTÓW EKONOMII SPOŁECZNEJ I PRZEDSIĘBIORSTW SPOŁECZNYCH",
+        "start_date": "2022-02-24",
+        "end_date": "2022-03-04",
         "is_price_criterium": true,
-        "status": "Zamknięte",
+        "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "71355000-1",
-                "description": "Usługi pomiarowe"
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
             }
         ],
-        "EU": true,
+        "EU": false,
         "id": 2659,
-        "city": "Gdańsk"
+        "city": "Łomża"
     },
     {
-        "auction_name": "Świadczenie usług specjalisty Machine Learning",
-        "advertiser_name": "Intema Sp. z o.o.",
-        "start_date": "2021-05-28",
-        "end_date": "2021-06-07",
+        "auction_name": "ZAPYTANIE OFERTOWE NR 2/7.1/KLASTER/SWS/2022",
+        "advertiser_name": "KLASTER PODMIOTÓW EKONOMII SPOŁECZNEJ I PRZEDSIĘBIORSTW SPOŁECZNYCH",
+        "start_date": "2022-02-24",
+        "end_date": "2022-03-04",
         "is_price_criterium": true,
-        "status": "Zamknięte",
+        "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "73300000-5",
-                "description": "Projekt i realizacja badań oraz rozwój"
+                "code": "79611000-0",
+                "description": "Usługi poszukiwania pracy"
             }
         ],
         "EU": false,
         "id": 2660,
-        "city": "Gdańsk"
+        "city": "Łomża"
     },
     {
-        "auction_name": "Opracowanie innowacyjnego przenośnego modułu bateryjnego o najwyższej na rynku europejskim pojemności energii",
-        "advertiser_name": "Northvolt Poland sp z o.o.",
-        "start_date": "2021-05-30",
-        "end_date": "2021-06-10",
-        "is_price_criterium": true,
+        "auction_name": "3/DORADCAZAWODOWY/PNDA/2022",
+        "advertiser_name": "Rozwiązania Prawne i Biznesowe Sp. z o. o.",
+        "start_date": "2022-08-18",
+        "end_date": "2022-08-29",
+        "is_price_criterium": false,
         "status": "Zamknięte",
         "cpv": [
             {
-                "code": "38540000-2",
-                "description": "Maszyny i aparatura badawcza i pomiarowa"
-            }
-        ],
-        "EU": true,
-        "id": 2661,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Świadczenie usług pocztowych w obrocie krajowym i zagranicznym dla Agencji Rozwoju Pomorza S.A.",
-        "advertiser_name": "Agencja Rozwoju Pomorza S.A.",
-        "start_date": "2021-05-28",
-        "end_date": "2021-06-15",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "64110000-0",
-                "description": "Usługi pocztowe"
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
             }
         ],
         "EU": false,
-        "id": 2662,
-        "city": "Gdańsk"
+        "id": 2661,
+        "city": "Łomża"
     },
     {
-        "auction_name": "Postępowanie nr 37026023 na budowę przyłącza ciepłowniczego do budynku przy ul. Jasia i Małgosi 15 w Gdańsku",
-        "advertiser_name": "Gdańskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
-        "start_date": "2021-05-28",
-        "end_date": "2021-06-14",
+        "auction_name": "Zespół Szkół Weterynaryjnych i Ogólnokształcących Nr 7 w Łomży zwraca się z prośbą o przedstawienie oferty na: zakup i dostawę programów komputerowych dla branży weterynaryjnej szczegółowo opisanych w załączniku nr 1 do zapytania w ramach Projektu pn.: „Rynek pracy otwarty na młodych techników”, współfinansowany w ramach Regionalnego Programu Operacyjnego Województwa podlaskiego na lata 2014-2020.\nPostępowanie prowadzone zgodnie procedurą rozeznania rynku, o której mowa w Wytycznych w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społeczności oraz Funduszu Spójności na lata 2014-2020r.",
+        "advertiser_name": "Miasto Łomża - Zespół Szkół Weterynaryjnych i Ogólnokształacących Nr 7 w Łomży",
+        "start_date": "2021-05-20",
+        "end_date": "2021-05-27",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
+                "code": "39162000-5",
+                "description": "Pomoce naukowe"
+            }
+        ],
+        "EU": true,
+        "id": 2662,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "\"Dobry zawód -pewna praca II edycja\"",
+        "advertiser_name": "Agencja Rozwoju Regionalnego S.A. w Łomży",
+        "start_date": "2021-06-24",
+        "end_date": "2021-07-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "60100000-9",
+                "description": "Usługi w zakresie transportu drogowego"
             }
         ],
         "EU": false,
         "id": 2663,
-        "city": "Gdańsk"
+        "city": "Łomża"
     },
     {
-        "auction_name": "Zakup i dostawa odczynnika",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-05-28",
-        "end_date": "2021-06-28",
+        "auction_name": "Zakup pętli indukcyjnych w ramach projektu „PWSIiP w Łomży dostępna i bez barier”",
+        "advertiser_name": "Akademia Nauk Stosowanych w Łomży",
+        "start_date": "2022-05-19",
+        "end_date": "2022-05-26",
         "is_price_criterium": true,
-        "status": "Zamknięte",
+        "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
+                "code": "32342410-9",
+                "description": "Sprzęt dźwiękowy"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2664,
-        "city": "Gdańsk"
+        "city": "Łomża"
     },
     {
-        "auction_name": "8043_Zakup i dostawa dozownika",
-        "advertiser_name": "POLPHARMA BIOLOGICS S.A",
-        "start_date": "2021-06-01",
-        "end_date": "2021-06-09",
+        "auction_name": "Zakup pętli indukcyjnych w ramach projektu „PWSIiP w Łomży dostępna i bez barier”",
+        "advertiser_name": "Akademia Nauk Stosowanych w Łomży",
+        "start_date": "2022-07-08",
+        "end_date": "2022-07-18",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "38437000-7",
-                "description": "Pipety i akcesoria laboratoryjne"
+                "code": "32342410-9",
+                "description": "Sprzęt dźwiękowy"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2665,
-        "city": "Gdańsk"
+        "city": "Łomża"
     },
     {
-        "auction_name": "PRIORYTET KRĘGOŁUP",
-        "advertiser_name": "Copernicus PL Sp.z o.o.",
-        "start_date": "2021-06-08",
-        "end_date": "2021-06-16",
+        "auction_name": "Zakup infokiosków/infoboxów w ramach projektu „PWSIiP w Łomży dostępna i bez barier”",
+        "advertiser_name": "Akademia Nauk Stosowanych w Łomży",
+        "start_date": "2022-08-02",
+        "end_date": "2022-08-19",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "85141000-9",
-                "description": "Usługi świadczone przez personel medyczny"
+                "code": "32322000-6",
+                "description": "Urządzenia multimedialne"
             }
         ],
         "EU": false,
         "id": 2666,
-        "city": "Gdańsk"
+        "city": "Łomża"
     },
     {
-        "auction_name": "Marchewka 60+",
-        "advertiser_name": "Monika Żukiewicz Marchewka",
-        "start_date": "2021-06-04",
-        "end_date": "2021-06-11",
+        "auction_name": "KPK II – Zintegrowany Program Kształcenia w PWSIiP w Łomży etap II",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-08-28",
+        "end_date": "2020-09-09",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "39161000-8",
-                "description": "Meble przedszkolne"
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2667,
-        "city": "Gdańsk"
+        "city": "Łomża"
     },
     {
-        "auction_name": "„Praktycznie dla zdrowia” – rozwój kompetencji zawodowych w ramach zintegrowanych programów kształcenia w Wyższej Szkole Zdrowia w Gdańsku",
-        "advertiser_name": "Wyższa Szkoła Zdrowia w Gdańsku",
-        "start_date": "2021-06-04",
-        "end_date": "2021-06-14",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33000000-0",
-                "description": "Urządzenia medyczne, farmaceutyki i produkty do pielęgnacji ciała"
-            }
-        ],
-        "EU": false,
-        "id": 2668,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup danych telefonicznych, konwersacyjnych sample rate 8khz język niemiecki.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "72300000-8",
-                "description": "Usługi w zakresie danych"
-            }
-        ],
-        "EU": false,
-        "id": 2669,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Optymalizacja mechanizmów identyfikacji zmian tematów w transkrypcji ciągłej rozmów telefonicznych.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2670,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Realizacja usługi wykonania formy wtryskowej wraz z wypraskami",
-        "advertiser_name": "Enelion Sp. z o.o.",
-        "start_date": "2021-04-21",
-        "end_date": "2021-04-29",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "43415000-5",
-                "description": "Formy odlewnicze"
-            },
-            {
-                "code": "71333000-1",
-                "description": "Mechaniczne usługi inżynieryjne"
-            },
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": true,
-        "id": 2671,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ODNALEŹĆ SIEBIE",
-        "advertiser_name": "Stowarzyszenie MONAR - Ośrodek Leczenia, Terapii i Rehabilitacji Uzależnień dla Dzieci i Młodzieży w Gdańsku",
-        "start_date": "2021-04-20",
-        "end_date": "2021-04-28",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2672,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Postępowanie nr 36946278 na Wykonanie dokumentacji projektowej budowy przyłączy ciepłowniczych do budynków w rejonie ulicy Glazurowej w Gdańsku ( Budros sp. Z O.O. )",
-        "advertiser_name": "Gdańskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
-        "start_date": "2021-04-21",
-        "end_date": "2021-05-06",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "71322200-3",
-                "description": "Usługi projektowania rurociągów"
-            }
-        ],
-        "EU": false,
-        "id": 2673,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "nr sprawy SzS/002/21\nZakup i dostawa kamer do budowy modułu analityczno-obliczeniowego\ndata zamieszczenia 21.04.2021 r.",
-        "advertiser_name": "Bioseco Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2021-04-21",
-        "end_date": "2021-04-28",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "31710000-6",
-                "description": "Sprzęt elektroniczny"
-            }
-        ],
-        "EU": false,
-        "id": 2674,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup środka do dezynfekcji - zapytanie ofertowe nr 2010423_01",
-        "advertiser_name": "RECEPTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2021-04-23",
-        "end_date": "2021-05-05",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33631600-8",
-                "description": "Środki antyseptyczne i dezynfekcyjne"
-            }
-        ],
-        "EU": false,
-        "id": 2675,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Usługa wytworzenia liposomowego preparatu zamykającego przeciwciała w skali do 100 ml ( 3 x po 100ml ) wraz z pełną oceną jakościową formulacji dla parametrów fizykochemicznych i mikrobiologicznych (poziom zamknięcia, lepkość, rozkład rozmiarów liposomów, ocena analityczna oraz mikrobiologiczna)",
-        "advertiser_name": "Zakład Badawczo-Wdrożeniowy Ośrodka Salmonella IMMUNOLAB Sp. z o.o.",
-        "start_date": "2021-05-05",
-        "end_date": "2021-05-13",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2676,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe nr 1/JUNECO/2021 - wykonanie prac remontowo-adaptacyjnych w 3 lokalach żłobków",
-        "advertiser_name": "Juneco Sp. z o.o.",
-        "start_date": "2021-04-30",
-        "end_date": "2021-05-17",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45331200-8",
-                "description": "Instalowanie urządzeń wentylacyjnych i klimatyzacyjnych"
-            }
-        ],
-        "EU": true,
-        "id": 2677,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe Nr 1/101/2021 na wykonanie remontu elewacji, odtworzenie detali, naprawa ubytków, remont izolacji fundamentów w budynku mieszkalnym ul. Wilków Morskich 7 w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-05-04",
-        "end_date": "2021-05-20",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2678,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup usługi / Purchase of service",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-05-13",
-        "end_date": "2021-06-14",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "85100000-0",
-                "description": "Usługi ochrony zdrowia"
-            }
-        ],
-        "EU": false,
-        "id": 2679,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe nr 7/POWER/2021 usługa noclegowa",
-        "advertiser_name": "Stowarzyszenie Morena",
-        "start_date": "2021-05-11",
-        "end_date": "2021-05-19",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "98341000-5",
-                "description": "Usługi miejsc noclegowych"
-            }
-        ],
-        "EU": false,
-        "id": 2680,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Szkolenia grupowe z MS Excel 2019 dla średniozaawansowanych",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2021-05-12",
-        "end_date": "2021-05-19",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2681,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Wynajem długoterminowy samochodu osobowego realizowany w projekcie „μGranty B+R dla przedsiębiorstw\"” w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020, Osi Priorytetowej 01. Komercjalizacja wiedzy, Działania 01.01. Ekspansja przez innowacje, Poddziałania 01.01.01. Ekspansja przez innowacje – wsparcie dotacyjne.",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2021-04-21",
-        "end_date": "2021-04-30",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "34110000-1",
-                "description": "Samochody osobowe"
-            }
-        ],
-        "EU": false,
-        "id": 2682,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "nr sprawy PBSE/Z/001/21\nZakup materiałów do realizacji prac B+R – moduł analityczno-obliczeniowy – zestaw",
-        "advertiser_name": "Bioseco Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2021-05-05",
-        "end_date": "2021-05-12",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "31710000-6",
-                "description": "Sprzęt elektroniczny"
-            }
-        ],
-        "EU": false,
-        "id": 2683,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa pipet serologicznych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-05-10",
-        "end_date": "2021-06-09",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2684,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i sukcesywna dostawa filtrów",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-05-10",
-        "end_date": "2021-06-09",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "24000000-4",
-                "description": "Produkty chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2685,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "2021-377-46957 Zakup i sukcesywna dostawa odczynników.",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-05-07",
-        "end_date": "2021-06-07",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2686,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup gazów przemysłowych - zapytanie ofertowe 210514_01",
-        "advertiser_name": "Recepton Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2021-05-15",
-        "end_date": "2021-05-24",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "24110000-8",
-                "description": "Gazy przemysłowe"
-            }
-        ],
-        "EU": false,
-        "id": 2687,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Przedstawienie oferty na przygotowanie sylabusów, case studies oraz manuali do przedmiotów na kierunkach Informatyka i Logistyka",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2021-05-31",
-        "end_date": "2021-06-09",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            },
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2688,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Projekt i realizacja komponentu do budowy prototypowego laboratorium projektowego – Analizatora Jakości Energii 2 szt",
-        "advertiser_name": "Remontowa Electrical Solutions Sp. z o.o.",
-        "start_date": "2021-05-21",
-        "end_date": "2021-05-31",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "38540000-2",
-                "description": "Maszyny i aparatura badawcza i pomiarowa"
-            }
-        ],
-        "EU": false,
-        "id": 2689,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa dysku sieciowego typu NAS wraz z akcesoriami realizowana w projekcie „μGranty B+R dla przedsiębiorstw\"” w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020, Osi Priorytetowej 01. Komercjalizacja wiedzy, Działania 01.01. Ekspansja przez innowacje, Poddziałania 01.01.01. Ekspansja przez innowacje – wsparcie dotacyjne.",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2021-06-28",
-        "end_date": "2021-07-09",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "30200000-1",
-                "description": "Urządzenia komputerowe"
-            }
-        ],
-        "EU": false,
-        "id": 2690,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup odczynnika do testów komórkowych - 210630_04",
-        "advertiser_name": "Recepton Sp. z o.o.",
-        "start_date": "2021-06-30",
-        "end_date": "2021-07-08",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2691,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "7673.2_Zakup usługi/ 7673.2_Purchase of service",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-07-02",
-        "end_date": "2021-08-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "85100000-0",
-                "description": "Usługi ochrony zdrowia"
-            }
-        ],
-        "EU": false,
-        "id": 2692,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "8422 Zakup i dostawa żywicy",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-07-05",
-        "end_date": "2021-08-05",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2693,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa plotera do nanoszenia kleju z dyspenserem kleju oraz regałów do składowania.",
-        "advertiser_name": "Enelion Sp. z o.o.",
-        "start_date": "2021-07-05",
-        "end_date": "2021-07-13",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "42611000-2",
-                "description": "Obrabiarki specjalnego zastosowania"
-            }
-        ],
-        "EU": false,
-        "id": 2694,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Optymalizacja i ewaluacja modeli do analizy sentymentu na deficytowych/szczątkowych danych biznesowych.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-07-06",
-        "end_date": "2021-07-15",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2695,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup materiałów plastikowych, szkła, naczynek, materiałów do prototypowania i konstrukcji czytnika oraz drobnego sprzętu laboratoryjnego i pomiarowego na potrzeby laboratorium B+R",
-        "advertiser_name": "GENEME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2021-07-15",
-        "end_date": "2021-07-26",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "18424300-0",
-                "description": "Rękawice jednorazowe"
-            },
-            {
-                "code": "31711000-3",
-                "description": "Artykuły elektroniczne"
-            },
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2696,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa oraz uruchomienie urządzenia laserowego (1 szt.)",
-        "advertiser_name": "Vivadental Sp. z o.o.",
-        "start_date": "2021-07-15",
-        "end_date": "2021-07-23",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33100000-1",
-                "description": "Urządzenia medyczne"
-            }
-        ],
-        "EU": false,
-        "id": 2697,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup serwisów oraz wsparcia technicznego dla posiadanej licencji bezterminowej oprogramowania ESET Endpoint Encryption Pro dla Agencji Rozwoju Pomorza S.A.",
-        "advertiser_name": "Agencja Rozwoju Pomorza S.A.",
-        "start_date": "2021-07-13",
-        "end_date": "2021-07-22",
+        "auction_name": "\"PWSIiP w Łomży dostępna i bez barier\"",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-12-28",
+        "end_date": "2021-01-20",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
@@ -2143,24 +1625,682 @@
             }
         ],
         "EU": false,
-        "id": 2698,
-        "city": "Gdańsk"
+        "id": 2668,
+        "city": "Łomża"
     },
     {
-        "auction_name": "Chlorowodorek guanidyny - zapytanie ofertowe 210713_02",
-        "advertiser_name": "Recepton Sp. z o.o.",
-        "start_date": "2021-07-13",
-        "end_date": "2021-07-22",
+        "auction_name": "KPK II – Zintegrowany Program Kształcenia w PWSIiP w Łomży etap II",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-08-28",
+        "end_date": "2020-09-09",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            }
+        ],
+        "EU": true,
+        "id": 2669,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "EvoBot 2 - wielojęzykowa platforma do tworzenia i uruchamiania botów głosowych dla osób nietechnicznych - kampania wizerunkowa",
+        "advertiser_name": "Evobot 2 Spółka z Ograniczoną Odpowiedzialnością",
+        "start_date": "2022-03-04",
+        "end_date": "2022-03-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79342000-3",
+                "description": "Usługi marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 2670,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Nr sprawy: KZp.272.32.20.KPK\nZorganizowanie i przeprowadzenie certyfikowanych kursów specjalistycznych z obszaru IT dla studentów V-VII semestru kierunku Informatyka I st. (studia inżynierskie stacjonarne) Państwowej Wyższej Szkoły Informatyki i Przedsiębiorczości w Łomży (moduł grupowy) w trybie on-line.",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-12-30",
+        "end_date": "2021-01-11",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 2671,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 3/2021/WOOBIBOO\nna organizację udziału Zamawiającego w targach Paperworld Middle East (Dubaj, Zjednoczone Emiraty Arabskie) oraz trzech indywidualnych wyjazdowych misji gospodarczych na rynku emirackim w związku z realizacją projektu pn. „Wprowadzenie tablicy manipulacyjnej Woobiboard oraz układanek edukacyjnych z potencjałem do internacjonalizacji na następujące rynki zagraniczne: Norwegia, Niemcy i Zjednoczone Emiraty Arabskie.” o numerze POPW.01.02.00-20-0017/20",
+        "advertiser_name": "WOOBIBOO PIOTR PODBIELSKI",
+        "start_date": "2021-11-16",
+        "end_date": "2021-11-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": true,
+        "id": 2672,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK II – Zintegrowany Program Kształcenia w PWSIiP w Łomży etap II",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-08-28",
+        "end_date": "2020-09-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            },
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            }
+        ],
+        "EU": true,
+        "id": 2673,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/PPP/2021/WSA\nna kompleksową organizację wyjazdu na wizyty studyjne 5 grup średnio po 8 os. – łącznie 40 osób (zapewnienie transportu międzynarodowego, wyżywienia, noclegów, przejazdów lokalnych w Polsce i Portugalii, ubezpieczenie uczestników, tłumaczenia)",
+        "advertiser_name": "Wyższa Szkoła Agrobiznesu w Łomży",
+        "start_date": "2021-04-22",
+        "end_date": "2021-05-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 2674,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/05/2021 - Wytwórnia Mas Bitumicznych o wydajności 240 ton na godzinę przy wilgotności 5%",
+        "advertiser_name": "Przedsiębiorstwo Wielobranżowe \"ZIEJA\" Ryszard Zieja",
+        "start_date": "2021-05-13",
+        "end_date": "2021-06-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "43410000-0",
+                "description": "Maszyny do obróbki minerałów"
+            },
+            {
+                "code": "43412000-4",
+                "description": "Mieszalniki"
+            },
+            {
+                "code": "43413000-1",
+                "description": "Mieszalniki betonu lub zaprawy"
+            }
+        ],
+        "EU": false,
+        "id": 2675,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Organizacja wyjazdu naukowego połączonego z konferencją naukowo-technologiczną w ramach projektu \"Efektywne kształcenie zawodowe w ASP w Łomży\"",
+        "advertiser_name": "Agencja Rozwoju Regionalnego S.A. w Łomży",
+        "start_date": "2021-12-14",
+        "end_date": "2021-12-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55000000-0",
+                "description": "Usługi hotelarskie, restauracyjne i handlu detalicznego"
+            }
+        ],
+        "EU": true,
+        "id": 2676,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 1/04/2021 ładowarka kołowa",
+        "advertiser_name": "Przedsiębiorstwo Wielobranżowe \"ZIEJA\" Ryszard Zieja",
+        "start_date": "2021-04-28",
+        "end_date": "2021-05-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42410000-3",
+                "description": "Urządzenia podnośnikowe i przeładunkowe"
+            }
+        ],
+        "EU": false,
+        "id": 2677,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 2/04/2021 mobilny zestaw krusząco-sortujący: mobilny przesiewacz trzypokładowy 1 szt, mobilna kruszarka stożkowa 1 szt.",
+        "advertiser_name": "Przedsiębiorstwo Wielobranżowe \"ZIEJA\" Ryszard Zieja",
+        "start_date": "2021-04-28",
+        "end_date": "2021-05-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42410000-3",
+                "description": "Urządzenia podnośnikowe i przeładunkowe"
+            }
+        ],
+        "EU": false,
+        "id": 2678,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zaproszenie do składania ofert na osobiste świadczenie usług w projekcie B+R",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-11-20",
+        "end_date": "2020-11-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73300000-5",
+                "description": "Projekt i realizacja badań oraz rozwój"
+            }
+        ],
+        "EU": true,
+        "id": 2679,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK III REG- Zintegrowany Program Kształcenia w PWSIiP w Łomży etap III nr POWR.03.05.00-00-ZR46/18",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-12-04",
+        "end_date": "2020-12-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80420000-4",
+                "description": "Usługi e-learning"
+            }
+        ],
+        "EU": true,
+        "id": 2680,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 2/2021/WOOBIBOO\nna zakup środka trwałego w postaci szlifierki szerokotaśmowej w związku z realizacją projektu pn. „Wprowadzenie tablicy manipulacyjnej Woobiboard oraz układanek edukacyjnych z potencjałem do internacjonalizacji na następujące rynki zagraniczne: Norwegia, Niemcy i Zjednoczone Emiraty Arabskie.”",
+        "advertiser_name": "WOOBIBOO PIOTR PODBIELSKI",
+        "start_date": "2021-07-02",
+        "end_date": "2021-07-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": true,
+        "id": 2681,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "TYBORY-ŻOCHY – odnawialne źródła energii w firmie ŻARNOWO Sp. z o.o.",
+        "advertiser_name": "Żarnowo Sp. z o.o.",
+        "start_date": "2022-01-24",
+        "end_date": "2022-02-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "09331200-0",
+                "description": "Słoneczne moduły fotoelektryczne"
+            }
+        ],
+        "EU": false,
+        "id": 2682,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "EvoBot 2 - wielojęzykowa platforma do tworzenia i uruchamiania botów głosowych dla osób nietechnicznych",
+        "advertiser_name": "Evobot 2 Spółka z Ograniczoną Odpowiedzialnością",
+        "start_date": "2022-01-25",
+        "end_date": "2022-02-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79342000-3",
+                "description": "Usługi marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 2683,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przedmiotem zamówienia jest nabycie okleiniarki - 1 szt.",
+        "advertiser_name": "CENTER-MEBEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+        "start_date": "2022-03-31",
+        "end_date": "2022-05-06",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 2684,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 1/MD/2022/WSA\nna kompleksową organizację wyjazdu na wizyty studyjne 10 grup średnio po 10 os. – łącznie 100 osób (zapewnienie transportu międzynarodowego, wyżywienia, noclegów, przejazdów lokalnych w Turyngii (Niemcy), ubezpieczenie uczestników, wsparcie tłumacza).",
+        "advertiser_name": "Wyższa Szkoła Agrobiznesu w Łomży",
+        "start_date": "2022-06-24",
+        "end_date": "2022-07-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55110000-4",
+                "description": "Hotelarskie usługi noclegowe"
+            }
+        ],
+        "EU": false,
+        "id": 2685,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr NR 04/1.2 POPW- Internacjonalizacja MŚP/2020 na budowę stanowiska wystawienniczego na czas uczestnictwa Zamawiającego w targach AIFF 14-17 lipiec 2022",
+        "advertiser_name": "PIANPOL STYŁA SPÓŁKA JAWNA",
+        "start_date": "2022-06-27",
+        "end_date": "2022-07-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 2686,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "EvoBot 2 - wielojęzykowa platforma do tworzenia i uruchamiania botów głosowych dla osób nietechnicznych - kampania sprzedażowa",
+        "advertiser_name": "Evobot 2 Spółka z Ograniczoną Odpowiedzialnością",
+        "start_date": "2022-07-28",
+        "end_date": "2022-08-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79342000-3",
+                "description": "Usługi marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 2687,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 2/2021 ”Przełamując falę”",
+        "advertiser_name": "Stowarzyszenie Youth Human Impact",
+        "start_date": "2021-02-24",
+        "end_date": "2021-03-04",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80580000-3",
+                "description": "Oferowanie kursów językowych"
+            }
+        ],
+        "EU": true,
+        "id": 2688,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "\"PIANPOL\"STYŁA- SPOŁKA JAWNA poprzez ekspansję firmy na nowy rynek zagraniczny\"",
+        "advertiser_name": "PIANPOL STYŁA SPÓŁKA JAWNA",
+        "start_date": "2021-05-07",
+        "end_date": "2021-05-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79956000-0",
+                "description": "Usługi w zakresie organizacji targów i wystaw"
+            }
+        ],
+        "EU": true,
+        "id": 2689,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK II – Zintegrowany Program Kształcenia w PWSIiP w Łomży etap II",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2021-06-02",
+        "end_date": "2021-06-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79997000-9",
+                "description": "Usługi organizowania podróży służbowych"
+            }
+        ],
+        "EU": false,
+        "id": 2690,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK – Kompleksowy Program Kształcenia w PWSIiP w Łomży",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-12-31",
+        "end_date": "2021-01-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            }
+        ],
+        "EU": false,
+        "id": 2691,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 1/2021 ”Przełamując falę”",
+        "advertiser_name": "Stowarzyszenie Youth Human Impact",
+        "start_date": "2021-01-13",
+        "end_date": "2021-01-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80580000-3",
+                "description": "Oferowanie kursów językowych"
+            }
+        ],
+        "EU": true,
+        "id": 2692,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przełamując Falę - 3/2020",
+        "advertiser_name": "Stowarzyszenie Youth Human Impact",
+        "start_date": "2020-10-22",
+        "end_date": "2020-10-30",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 2693,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "EvoBot 2 - wielojęzykowa platforma do tworzenia i uruchamiania botów głosowych dla osób nietechnicznych",
+        "advertiser_name": "Evobot 2 Spółka z Ograniczoną Odpowiedzialnością",
+        "start_date": "2022-01-09",
+        "end_date": "2022-01-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79342000-3",
+                "description": "Usługi marketingowe"
+            }
+        ],
+        "EU": false,
+        "id": 2694,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Centrum Integracji Społecznej „PRZYSTAŃ” w Łapach",
+        "advertiser_name": "Fundacja Vita Familiae",
+        "start_date": "2022-07-12",
+        "end_date": "2022-07-28",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 2695,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Centrum Integracji Społecznej PRZYSTAŃ w Łapach",
+        "advertiser_name": "Fundacja Vita Familiae",
+        "start_date": "2022-09-30",
+        "end_date": "2022-10-10",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "33770000-8",
+                "description": "Artykuły higieniczne z papieru"
+            }
+        ],
+        "EU": false,
+        "id": 2696,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "Przełamując Falę",
+        "advertiser_name": "Stowarzyszenie Youth Human Impact",
+        "start_date": "2020-09-29",
+        "end_date": "2020-10-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 2697,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "„Budowa kogeneracji gazowej o mocy 2 MWe w Grajewie”",
+        "advertiser_name": "GRUPA AGROCENTRUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "start_date": "2020-09-25",
+        "end_date": "2020-11-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 2698,
+        "city": "Łomża"
+    },
+    {
+        "auction_name": "KPK – Kompleksowy Program Kształcenia w PWSIiP w Łomży",
+        "advertiser_name": "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+        "start_date": "2020-12-30",
+        "end_date": "2021-01-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
+            },
+            {
+                "code": "80510000-2",
+                "description": "Usługi szkolenia specjalistycznego"
             }
         ],
         "EU": false,
         "id": 2699,
-        "city": "Gdańsk"
+        "city": "Łomża"
     }
 ]

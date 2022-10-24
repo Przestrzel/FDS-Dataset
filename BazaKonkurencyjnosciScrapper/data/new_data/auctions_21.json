@@ -1,1614 +1,960 @@
 [
     {
-        "auction_name": "Zakup kwasu borowego - zapytanie ofertowe 201125_03",
-        "advertiser_name": "Recepton Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2020-11-25",
-        "end_date": "2020-12-04",
+        "auction_name": "Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy prototypu miniturbiny i pompy (dotyczy Etapu 4) oraz Zakup materiału niezbędnego do wykonania oprzyrządowania technologicznego celem wytworzenia techniką odlewu detali do budowy modelu miniturbiny i pompy (dotyczy Etapu 5)",
+        "advertiser_name": "Hydro-Vacuum Spółka Akcyjna",
+        "start_date": "2022-06-21",
+        "end_date": "2022-06-28",
         "is_price_criterium": true,
-        "status": "Zamknięte",
+        "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
+                "code": "19520000-7",
+                "description": "Produkty z tworzyw sztucznych"
+            },
+            {
+                "code": "43415000-5",
+                "description": "Formy odlewnicze"
             }
         ],
         "EU": false,
         "id": 2100,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Segmentacja i etykietyzacja struktury dialogu.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2020-12-04",
-        "end_date": "2020-12-14",
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-08-19",
+        "end_date": "2022-08-26",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2101,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Organizacja \"Szkolenia z podstaw obsługi programów komputerowych Microsoft Office pakiet: Word i Exel oraz korzystania z Internetu\" dla 2 osób - Uczestniczek/Uczestników Projektu „GPS – Gotowość Praca Samodzielność II” w formie 2 kursów indywidualnych.",
-        "advertiser_name": "Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną koło w Gdańsku",
-        "start_date": "2020-12-04",
-        "end_date": "2020-12-14",
+        "auction_name": "POWER Biznes",
+        "advertiser_name": "Grudziądzkie Poręczenia Kredytowe Spółka z o.o.",
+        "start_date": "2022-08-29",
+        "end_date": "2022-09-05",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
+                "code": "80530000-8",
+                "description": "Usługi szkolenia zawodowego"
             }
         ],
         "EU": true,
         "id": 2102,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup drobnego sprzętu na potrzeby laboratorium B+R",
-        "advertiser_name": "Fish Farm Solutions sp. z o. o.",
-        "start_date": "2021-02-12",
-        "end_date": "2021-03-16",
+        "auction_name": "Rozbudowa budynku Ośrodka Rehabilitacyjno-Edukacyjno-Wychowawczego PROMYK o budynek Żłobka na działkach nr 31/59, 31/58, 31/13 w obrębie 73 położonych przy ul. Waryńskiego w Grudziądzu",
+        "advertiser_name": "Grudziądzki Ośrodek Edukacji SPINAKER S.C. Iwona Majorke, Sebastian Dróbka, Sandra Krauze",
+        "start_date": "2022-07-28",
+        "end_date": "2022-08-12",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                "code": "39143116-2",
+                "description": "Łóżeczka"
+            },
+            {
+                "code": "39150000-8",
+                "description": "Różne meble i wyposażenie"
             }
         ],
         "EU": false,
         "id": 2103,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zaangażowanie technika ds. eksperymentów transkryptomiki przestrzennej (Visium Spatial Gene Expression) do wykonania dzieła z zakresu prac badawczo-rozwojowych.",
-        "advertiser_name": "Gdański Uniwersytet Medyczny",
+        "auction_name": "Zakup, dostawa i montaż fabrycznie nowego sprzętu składającego się na kompleksowe wyposażenie ŻŁOBKA zgodnie ze szczegółowym zestawieniem/specyfikacją przedmiotowego sprzętu stanowiącą Załączniki nr 1 do Zapytania ofertowego z dn. 23.08.2022 r.",
+        "advertiser_name": "ALFA Malinowska Marzena",
+        "start_date": "2022-08-23",
+        "end_date": "2022-08-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "32322000-6",
+                "description": "Urządzenia multimedialne"
+            },
+            {
+                "code": "37400000-2",
+                "description": "Artykuły i sprzęt sportowy"
+            },
+            {
+                "code": "37500000-3",
+                "description": "Gry i zabawki, wyposażenie parków zabaw"
+            },
+            {
+                "code": "37520000-9",
+                "description": "Zabawki"
+            },
+            {
+                "code": "37530000-2",
+                "description": "Artykuły do zabaw na wolnym powietrzu, gier salonowych lub towarzyskich"
+            },
+            {
+                "code": "37535100-8",
+                "description": "Huśtawki"
+            },
+            {
+                "code": "37535200-9",
+                "description": "Wyposażenie placów zabaw"
+            },
+            {
+                "code": "37535240-1",
+                "description": "Zjeżdżalnie do placów zabaw"
+            },
+            {
+                "code": "37535260-7",
+                "description": "Tunele do placów zabaw"
+            },
+            {
+                "code": "37535270-0",
+                "description": "Piaskownice do placów zabaw"
+            },
+            {
+                "code": "39110000-6",
+                "description": "Siedziska, krzesła i produkty z nimi związane, i ich części"
+            },
+            {
+                "code": "39150000-8",
+                "description": "Różne meble i wyposażenie"
+            },
+            {
+                "code": "39162000-5",
+                "description": "Pomoce naukowe"
+            },
+            {
+                "code": "39173000-5",
+                "description": "Meble do przechowywania"
+            },
+            {
+                "code": "39290000-1",
+                "description": "Wyposażenie różne"
+            }
+        ],
+        "EU": false,
+        "id": 2104,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Pełnienie kompleksowego nadzoru inwestorskiego w ramach projektu pn. „Przebudowa z rozbudową infrastruktury turystycznej Gminnego Ośrodka Sportów Wodnych w Białym Borze na Jeziorze Rudnickim Wielkim wraz z wyposażeniem”",
+        "advertiser_name": "Gmina Grudziądz",
+        "start_date": "2021-03-29",
+        "end_date": "2021-04-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "71520000-9",
+                "description": "Usługi nadzoru budowlanego"
+            }
+        ],
+        "EU": false,
+        "id": 2105,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Podniesienie kwalifikacji zawodowych więźniów \nw celu ich powrotu na rynek pracy po zakończeniu odbywania kary pozbawienia wolności\"",
+        "advertiser_name": "OKRĘGOWY INSPEKTORAT SŁUŻBY WIĘZIENNEJ W BYDGOSZCZY",
+        "start_date": "2021-06-15",
+        "end_date": "2021-06-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            }
+        ],
+        "EU": false,
+        "id": 2106,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostępna administracja publiczna- szkolenia dla kadry",
+        "advertiser_name": "POLSKI ZWIĄZEK GŁUCHYCH",
+        "start_date": "2020-10-06",
+        "end_date": "2020-10-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55120000-7",
+                "description": "Usługi hotelarskie w zakresie spotkań i konferencji"
+            }
+        ],
+        "EU": false,
+        "id": 2107,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "DPF62-14 Prowadzenie szkoleń dla uczniów z zakresu e-sportu",
+        "advertiser_name": "TEB Edukacja Sp. z o.o.",
         "start_date": "2021-02-10",
         "end_date": "2021-02-18",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2104,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup odczynników do hodowli komórkowych - 210216_02",
-        "advertiser_name": "Recepton Sp. z o.o.",
-        "start_date": "2021-02-16",
-        "end_date": "2021-02-25",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2105,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i sukcesywna dostawa butelek/Purchase and successive delivery of bottles",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-02-16",
-        "end_date": "2021-02-23",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2106,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe na zakup urządzenia FOAMAT lub równoważnego 1 szt. (leasing), na potrzeby firmy Izopanel sp. z o.o. w ramach projektu „Prace B+R nad opracowaniem płyty warstwowej WPW oraz technologii wytworzenia rdzenia” w ramach Działania 1.1 Projekty B+R przedsiębiorstw Poddziałanie 1.1.1 Badania przemysłowe i prace rozwojowe realizowane przez przedsiębiorstwa Programu Operacyjnego Inteligentny Rozwój 2014 – 2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
-        "advertiser_name": "IZOPANEL SP. Z O.O.",
-        "start_date": "2021-02-15",
-        "end_date": "2021-02-25",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             },
             {
-                "code": "38300000-8",
-                "description": "Przyrządy do pomiaru"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             },
             {
-                "code": "38400000-9",
-                "description": "Przyrządy do badania właściwości fizycznych"
-            },
-            {
-                "code": "38432000-2",
-                "description": "Aparatura do analizowania"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
         "EU": true,
-        "id": 2107,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe Nr 1/162/2020 na wykonanie remontu elewacji, odtworzenie detali, remont ścian fundamentowych w budynku mieszkalnym STRAJKU DOKERÓW 19 w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-03-03",
-        "end_date": "2021-03-19",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
         "id": 2108,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i dostawa odczynników",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-03-01",
-        "end_date": "2021-03-31",
+        "auction_name": "DPF64-06 Prowadzenie szkoleń z zakresu fryzjerstwa",
+        "advertiser_name": "TEB Edukacja Sp. z o.o.",
+        "start_date": "2021-10-14",
+        "end_date": "2021-10-22",
         "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
+        "status": "Zamknięte",
         "cpv": [
             {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
         "EU": false,
         "id": 2109,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "2021-377-33932 Zakup i sukcesywna dostawa materiałów zużywalnych i odczynników do elektroforezy kapilarnej",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-02-23",
-        "end_date": "2021-03-25",
+        "auction_name": "Przeprowadzenie 12 cykli szkoleniowo-aktywizacyjnych dla skazanych odbywających karę pozbawienia wolności w jednostkach podległych OISW w Bydgoszczy organizowanych w ramach projektu pn.: „Podniesienie kwalifikacji zawodowych więźniów w celu ich powrotu na rynek pracy po zakończeniu odbywania kary pozbawienia wolności” finansowanego ze środków Programu Operacyjnego Wiedza Edukacja Rozwój 2014-2020.",
+        "advertiser_name": "OKRĘGOWY INSPEKTORAT SŁUŻBY WIĘZIENNEJ W BYDGOSZCZY",
+        "start_date": "2021-05-07",
+        "end_date": "2021-06-07",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33192500-7",
-                "description": "Probówki"
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
+            },
+            {
+                "code": "80400000-8",
+                "description": "Usługi edukacji osób dorosłych oraz inne"
             }
         ],
         "EU": false,
         "id": 2110,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i dostawa sprzętu IT",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2021-03-04",
-        "end_date": "2021-04-07",
+        "auction_name": "Dostępna administracja publiczna- szkolenia dla kadry",
+        "advertiser_name": "POLSKI ZWIĄZEK GŁUCHYCH",
+        "start_date": "2020-10-06",
+        "end_date": "2020-10-14",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "30237280-5",
-                "description": "Akcesoria zasilające"
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
             }
         ],
         "EU": false,
         "id": 2111,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "2021-377-34820 Zakup i sukcesywna dostawa materiałów zużywalnych.",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-03-01",
-        "end_date": "2021-03-08",
+        "auction_name": "\"Dostępna administracja publiczna- szkolenia dla kadry\"",
+        "advertiser_name": "POLSKI ZWIĄZEK GŁUCHYCH",
+        "start_date": "2021-09-13",
+        "end_date": "2021-09-21",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
             }
         ],
         "EU": false,
         "id": 2112,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "2021-377-35159 Zakup i dostawa materiałów zużywalnych.",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-03-02",
-        "end_date": "2021-03-09",
+        "auction_name": "DPF64-03 Zapytanie ofertowe na prowadzenie szkoleń dla nauczycieli",
+        "advertiser_name": "TEB Edukacja Sp. z o.o.",
+        "start_date": "2021-02-22",
+        "end_date": "2021-03-02",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2113,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Postępowanie nr 36835002 na przebudowę osiedlowej sieci ciepłowniczej DN600 w rejonie ul. Paderewskiego w Gdańsku",
-        "advertiser_name": "Gdańskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
-        "start_date": "2021-03-12",
-        "end_date": "2021-04-26",
+        "auction_name": "DPF62-17 Dostawa voucherów na egzamin",
+        "advertiser_name": "TEB Edukacja Sp. z o.o.",
+        "start_date": "2021-10-08",
+        "end_date": "2021-10-18",
         "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
+        "status": "Zamknięte",
         "cpv": [
             {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
         "EU": false,
         "id": 2114,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i sukcesywna dostawa odczynników",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-03-15",
-        "end_date": "2021-04-14",
+        "auction_name": "\" Dostępna administracja publiczna- szkolenia dla kadry\"",
+        "advertiser_name": "POLSKI ZWIĄZEK GŁUCHYCH",
+        "start_date": "2021-09-13",
+        "end_date": "2021-09-21",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
+                "code": "55120000-7",
+                "description": "Usługi hotelarskie w zakresie spotkań i konferencji"
             }
         ],
         "EU": false,
         "id": 2115,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Leasing oraz dostawa jednego fabrycznie nowego samochodu osobowego dla PKM S.A.",
-        "advertiser_name": "Pomorska Kolej Metropolitalna S.A.",
-        "start_date": "2021-03-15",
-        "end_date": "2021-03-23",
+        "auction_name": "Zapytanie ofertowe nr 14/2021 - Dostawa paczek produktów żywnościowych oraz kosmetyków i detergentów do Oddziałów PCK w Bydgoszczy, Toruniu, Włocławku i Grudziądzu",
+        "advertiser_name": "Kujawsko-Pomorski Oddział Okręgowy PCK",
+        "start_date": "2021-10-18",
+        "end_date": "2021-10-26",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "34110000-1",
-                "description": "Samochody osobowe"
+                "code": "15897300-5",
+                "description": "Paczki żywnościowe"
             }
         ],
         "EU": false,
         "id": 2116,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "ZAPYTANIE OFERTOWE NR 1/2021/1.1.1 – wykonanie zadań w charakterze Software developer",
-        "advertiser_name": "AssisTech sp. z o.o.",
-        "start_date": "2021-03-17",
-        "end_date": "2021-03-24",
+        "auction_name": "DPF62-16 Prowadzenie zajęć w ramach e-sportu dla uczniów",
+        "advertiser_name": "TEB Edukacja Sp. z o.o.",
+        "start_date": "2021-09-08",
+        "end_date": "2021-09-16",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "72000000-5",
-                "description": "Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
-        "EU": false,
+        "EU": true,
         "id": 2117,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "7644_Zakup i dostawa filtrów",
-        "advertiser_name": "POLPHARMA BIOLOGICS S.A",
-        "start_date": "2021-04-01",
-        "end_date": "2021-05-06",
+        "auction_name": "\"Przedsiębiorczy i wykwalifikowani\"",
+        "advertiser_name": "Lech Consulting Sp. z o. o.",
+        "start_date": "2021-01-28",
+        "end_date": "2021-02-05",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2118,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe Nr 1/REW/2021/NW3\nna wykonanie remontu elewacji 2 ściany szczytowe, remontu klatki schodowej – klatka A, remontu schodów drewnianych, wzmocnienie belek nośnych podestów i ich oparcia na ścianach klatki schodowej budynku przy ul. Śluza 4A-E w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-04-01",
-        "end_date": "2021-04-20",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2119,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa odczynnika",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-03-31",
-        "end_date": "2021-05-04",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2120,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE na wykonanie robót budowlanych - budowy hali produkcyjnej z częścią biurowo – socjalną na potrzeby firmy ATM LIGHTING Spółka z ograniczoną odpowiedzialnością w ramach Programu Operacyjnego Inteligentny Rozwój 2014-2020 (POIR)\nosi priorytetowej III. Wsparcie innowacji w przedsiębiorstwach\ndziałanie 3.2 Wsparcie wdrożeń wyników prac B+R poddziałanie 3.2.1. Badania na rynek",
-        "advertiser_name": "ATM Lighting sp. z o.o.",
-        "start_date": "2021-03-29",
-        "end_date": "2021-05-13",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2121,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Świadczenie usług programowania na podstawie umowy B2B",
-        "advertiser_name": "GENEME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-        "start_date": "2021-03-25",
-        "end_date": "2021-04-07",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "48000000-8",
-                "description": "Pakiety oprogramowania i systemy informatyczne"
-            }
-        ],
-        "EU": false,
-        "id": 2122,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Wyposażenie studia filmowego dla studentów",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2021-03-24",
-        "end_date": "2021-03-31",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38650000-6",
-                "description": "Sprzęt fotograficzny"
-            }
-        ],
-        "EU": false,
-        "id": 2123,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "2021-377-42756 Zakup i dostawa odczynników.",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-04-13",
-        "end_date": "2021-05-13",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2124,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Świadczenie usług programisty C++",
-        "advertiser_name": "Intema Sp. z o.o.",
-        "start_date": "2021-04-12",
-        "end_date": "2021-04-19",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73300000-5",
-                "description": "Projekt i realizacja badań oraz rozwój"
-            }
-        ],
-        "EU": false,
-        "id": 2125,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa sprzętu IT",
-        "advertiser_name": "Chronospace Spólka z ogrniczona odpowiedzialnością",
-        "start_date": "2021-04-10",
-        "end_date": "2021-04-20",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "30230000-0",
-                "description": "Sprzęt związany z komputerami"
-            }
-        ],
-        "EU": false,
-        "id": 2126,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "2021-377-42173 Zakup i sukcesywna dostawa materiałów zużywalnych.",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-04-09",
-        "end_date": "2021-04-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2127,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "DOSTAWA ODCZYNNIKÓW DO IMMUNOHISTOCHEMII",
-        "advertiser_name": "Uniwersytet Gdański",
-        "start_date": "2021-04-14",
-        "end_date": "2021-04-21",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2128,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe Nr 1/107/2021 na wykonanie remontu ścian z dociepleniem, odtworzenie detali w budynku mieszkalnym ul. KS. GÓRECKIEGO 8 w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-04-14",
-        "end_date": "2021-04-29",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2129,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup danych telefonicznych, konwersacyjnych sample rate 8khz język angielski.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "72300000-8",
-                "description": "Usługi w zakresie danych"
-            }
-        ],
-        "EU": false,
-        "id": 2130,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "nr 41/2021/Z231 Przeprowadzenie warsztatów grupowych z Microsoft 365 dla pracowników dydaktycznych Wyższej Szkoły Bankowej w Gdańsku",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2021-06-25",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2131,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe 2/06/2021 Jednostronna automatyczna okleiniarka wąskich płaszczyzn",
-        "advertiser_name": "EMKO Nadolscy Spółka Jawna",
-        "start_date": "2021-06-25",
-        "end_date": "2021-07-26",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "42611000-2",
-                "description": "Obrabiarki specjalnego zastosowania"
-            }
-        ],
-        "EU": false,
-        "id": 2132,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa materiałów zużywalnych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-08-10",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2133,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa pastuchów elektrycznych, w projekcie „Ochrona ssaków i ptaków morskich - kontynuacja” nr POIS.02.04.00-00-0042/18, w ramach działania 2.4 osi priorytetowej II Programu Operacyjnego Infrastruktura i Środowisko 2014-2020",
-        "advertiser_name": "GRUPA BADAWCZA PTAKÓW WODNYCH KULING",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "31680000-6",
-                "description": "Elektryczne artykuły i akcesoria"
-            }
-        ],
-        "EU": false,
-        "id": 2134,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup danych telefonicznych, konwersacyjnych sample rate 8khz język hiszpański.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "72300000-8",
-                "description": "Usługi w zakresie danych"
-            }
-        ],
-        "EU": false,
-        "id": 2135,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup danych telefonicznych, konwersacyjnych sample rate 8khz język rosyjski.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "72300000-8",
-                "description": "Usługi w zakresie danych"
-            }
-        ],
-        "EU": false,
-        "id": 2136,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Anotacja zbioru.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2137,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Optymalizacja i ewaluacja modeli klastrowania grup wypowiedzi.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2138,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe nr 2/06/2021/POWR/REG na organizację i przeprowadzenie szkoleń podnoszących kompetencje kadr kierowniczych i administracyjnych w zakresie Zarządzania Finansami- kadry i płace ze szczególnym uwzględnieniem specyfiki uczelni niepublicznych",
-        "advertiser_name": "Wyższa Szkoła Zdrowia w Gdańsku",
-        "start_date": "2021-06-10",
-        "end_date": "2021-06-18",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": true,
-        "id": 2139,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Kurs obsługi wózków jezdniowych podnośnikowych z mechanicznym napędem podnoszenia z wysięgnikiem oraz wózków jezdniowych podnośnikowych z mechanicznym napędem podnoszenia z osobą obsługującą podnoszoną wraz z ładunkiem na rzecz uczestnika projektu „System Aktywizacji Społeczno-Zawodowej w Gdańsku – komponent aktywnej integracji”.",
-        "advertiser_name": "Fundacja Oparcia Społecznego Aleksandry FOSA",
-        "start_date": "2021-06-14",
-        "end_date": "2021-06-23",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "42415000-8",
-                "description": "Wózki widłowe, pojazdy techniczne, kolejowe wózki ciągnące"
-            }
-        ],
-        "EU": false,
-        "id": 2140,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe: 1/WSZ/2021",
-        "advertiser_name": "TOWARZYSTWO EDUKACYJNE \"WIEDZA POWSZECHNA\"",
-        "start_date": "2021-06-13",
-        "end_date": "2021-06-21",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2141,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": ",,Zakup materiałów, odczynników oraz drobnego sprzętu na potrzeby laboratorium B+R\"",
-        "advertiser_name": "Instytut Biotechnologii i Medycyny Molekularnej",
-        "start_date": "2021-06-14",
-        "end_date": "2021-06-25",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            },
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2142,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "sPrawny ekspert pozarządowy (POWR.02.16.00-00-0096/19)",
-        "advertiser_name": "Pracodawcy Pomorza",
-        "start_date": "2021-06-18",
-        "end_date": "2021-06-25",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "79820000-8",
-                "description": "Usługi związane z drukowaniem"
-            },
-            {
-                "code": "79822000-2",
-                "description": "Usługi składu"
-            },
-            {
-                "code": "79970000-4",
-                "description": "Usługi publikacji"
-            },
-            {
-                "code": "92312210-6",
-                "description": "Usługi świadczone przez autorów"
-            }
-        ],
-        "EU": false,
-        "id": 2143,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "7680-Zakup i dostawa odczynników",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-06-19",
-        "end_date": "2021-07-19",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2144,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "7794_Zakup i sukcesywna dostawa odczynników",
-        "advertiser_name": "POLPHARMA BIOLOGICS S.A",
-        "start_date": "2021-06-22",
-        "end_date": "2021-07-22",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2145,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "\"Rozwój technologii otrzymywania eteru dimetylowego pod kątem zagospodarowania małych złóż węglowodorów\"",
-        "advertiser_name": "Politechnika Gdańska Wydział Chemiczny",
-        "start_date": "2021-06-30",
-        "end_date": "2021-07-08",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2146,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "wynajem sali konferencyjnych z cateringiem na seminaria",
-        "advertiser_name": "Regionalna Izba Gospodarcza Pomorza",
-        "start_date": "2021-08-02",
-        "end_date": "2021-08-11",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "55300000-3",
-                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
-            },
-            {
-                "code": "55330000-2",
-                "description": "Usługi kawiarniane"
-            },
-            {
-                "code": "70220000-9",
-                "description": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
-            }
-        ],
-        "EU": false,
-        "id": 2147,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Licencja na oprogramowanie do analizy danych - 210802_01",
-        "advertiser_name": "Recepton Sp. z o.o.",
-        "start_date": "2021-08-02",
-        "end_date": "2021-08-11",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "48000000-8",
-                "description": "Pakiety oprogramowania i systemy informatyczne"
-            }
-        ],
-        "EU": false,
-        "id": 2148,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "„Rozbudowa oraz unowocześnienie centrum szkolenia podyplomowego lekarzy dentystów i pozostałego personelu z branży stomatologicznej”",
-        "advertiser_name": "USŁUGI PROTETYCZNE JERZY ANDRYSKOWSKI",
-        "start_date": "2021-07-28",
-        "end_date": "2021-08-05",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33130000-0",
-                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
-            }
-        ],
-        "EU": true,
-        "id": 2149,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe 2/06/2021 Jednostronna automatyczna okleiniarka wąskich płaszczyzn",
-        "advertiser_name": "EMKO Nadolscy Spółka Jawna",
-        "start_date": "2021-06-25",
-        "end_date": "2021-07-26",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "42611000-2",
-                "description": "Obrabiarki specjalnego zastosowania"
-            }
-        ],
-        "EU": false,
-        "id": 2150,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa materiałów zużywalnych",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-08-10",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2151,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Dostawa pastuchów elektrycznych, w projekcie „Ochrona ssaków i ptaków morskich - kontynuacja” nr POIS.02.04.00-00-0042/18, w ramach działania 2.4 osi priorytetowej II Programu Operacyjnego Infrastruktura i Środowisko 2014-2020",
-        "advertiser_name": "GRUPA BADAWCZA PTAKÓW WODNYCH KULING",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "31680000-6",
-                "description": "Elektryczne artykuły i akcesoria"
-            }
-        ],
-        "EU": false,
-        "id": 2152,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup danych telefonicznych, konwersacyjnych sample rate 8khz język hiszpański.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "72300000-8",
-                "description": "Usługi w zakresie danych"
-            }
-        ],
-        "EU": false,
-        "id": 2153,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup danych telefonicznych, konwersacyjnych sample rate 8khz język rosyjski.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "72300000-8",
-                "description": "Usługi w zakresie danych"
-            }
-        ],
-        "EU": false,
-        "id": 2154,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Anotacja zbioru.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2155,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Optymalizacja i ewaluacja modeli klastrowania grup wypowiedzi.",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-06-24",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2156,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "\"Rozwój technologii otrzymywania eteru dimetylowego pod kątem zagospodarowania małych złóż węglowodorów\"",
-        "advertiser_name": "Politechnika Gdańska Wydział Chemiczny",
-        "start_date": "2021-06-30",
-        "end_date": "2021-07-08",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696300-8",
-                "description": "Odczynniki chemiczne"
-            }
-        ],
-        "EU": false,
-        "id": 2157,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "wynajem sali konferencyjnych z cateringiem na seminaria",
-        "advertiser_name": "Regionalna Izba Gospodarcza Pomorza",
-        "start_date": "2021-08-02",
-        "end_date": "2021-08-11",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "55300000-3",
-                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
-            },
-            {
-                "code": "55330000-2",
-                "description": "Usługi kawiarniane"
-            },
-            {
-                "code": "70220000-9",
-                "description": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
-            }
-        ],
-        "EU": false,
-        "id": 2158,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Licencja na oprogramowanie do analizy danych - 210802_01",
-        "advertiser_name": "Recepton Sp. z o.o.",
-        "start_date": "2021-08-02",
-        "end_date": "2021-08-11",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "48000000-8",
-                "description": "Pakiety oprogramowania i systemy informatyczne"
-            }
-        ],
-        "EU": false,
-        "id": 2159,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "„Rozbudowa oraz unowocześnienie centrum szkolenia podyplomowego lekarzy dentystów i pozostałego personelu z branży stomatologicznej”",
-        "advertiser_name": "USŁUGI PROTETYCZNE JERZY ANDRYSKOWSKI",
-        "start_date": "2021-07-28",
-        "end_date": "2021-08-05",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33130000-0",
-                "description": "Instrumenty i urządzenia stomatologiczne i specjalistyczne"
-            }
-        ],
-        "EU": true,
-        "id": 2160,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE\n\n\n\n\n\n\n\nna dostawę URZĄDZENIA WYSOKOCIŚNIENIOWEGO 1 szt. (leasing), na potrzeby „Izopanel” Sp. z o.o. w ramach projektu „Prace B+R nad opracowaniem płyty warstwowej WPW oraz technologii wytworzenia rdzenia” w ramach Działania 1.1 Projekty B+R przedsiębiorstw Poddziałanie 1.1.1 Badania przemysłowe i prace rozwojowe realizowane przez przedsiębiorstwa Programu Operacyjnego Inteligentny Rozwój 2014 – 2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
-        "advertiser_name": "IZOPANEL SP. Z O.O.",
-        "start_date": "2021-05-20",
-        "end_date": "2021-05-28",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "42924300-2",
-                "description": "Urządzenia natryskowe"
-            }
-        ],
-        "EU": true,
-        "id": 2161,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe nr 2/JUNECO/2021 - zakup i dostarczenie wyposażenia 3 żłobków",
-        "advertiser_name": "Juneco Sp. z o.o.",
-        "start_date": "2021-05-21",
-        "end_date": "2021-05-31",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "30213000-5",
-                "description": "Komputery osobiste"
-            },
-            {
-                "code": "37311000-1",
-                "description": "Instrumenty klawiszowe"
-            },
-            {
-                "code": "30213000-5",
-                "description": "Komputery osobiste"
-            },
-            {
-                "code": "37311000-1",
-                "description": "Instrumenty klawiszowe"
-            },
-            {
-                "code": "30213000-5",
-                "description": "Komputery osobiste"
-            },
-            {
-                "code": "37311000-1",
-                "description": "Instrumenty klawiszowe"
-            }
-        ],
-        "EU": false,
-        "id": 2162,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa koncentratorów",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-05-31",
-        "end_date": "2021-06-30",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
-            }
-        ],
-        "EU": false,
-        "id": 2163,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Opracowanie innowacyjnej technologii produkcji modułów i baterii litowo-jonowych do zastosowań w mobilnych i stacjonarnych magazynach energii oraz pojazdach elektrycznych, w szczególności w specjalistycznych maszynach górniczych",
-        "advertiser_name": "Northvolt Poland sp z o.o.",
-        "start_date": "2021-05-30",
-        "end_date": "2021-06-10",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "42410000-3",
-                "description": "Urządzenia podnośnikowe i przeładunkowe"
-            }
-        ],
-        "EU": false,
-        "id": 2164,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zapytanie ofertowe nr 2/06/2021/POWR/REG na organizację i przeprowadzenie szkoleń podnoszących kompetencje kadr kierowniczych i administracyjnych w zakresie Zarządzania Finansami- kadry i płace ze szczególnym uwzględnieniem specyfiki uczelni niepublicznych",
-        "advertiser_name": "Wyższa Szkoła Zdrowia w Gdańsku",
-        "start_date": "2021-06-10",
-        "end_date": "2021-06-18",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": true,
-        "id": 2165,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Projekt „Opracowanie dystrybucyjnego transformatora hybrydowego (DTH) jako aktywnego elementu nowoczesnych systemów Smart Grid” finansowany z umowy POIR.04.01.04-00-0018/17-00 w ramach Programu Operacyjnego Inteligentny Rozwój 2014-2020, którego liderem jest Instytut Elektrotechniki z siedzibą w Warszawie, a konsorcjantem Fabryka Transformatorów w Żychlinie i Politechnika Gdańska, współfinansowany ze środków Europejskiego Funduszu Rozwoju Regionalnego w ramach Działania 4.1.4 organizowanego przez Narodowe Centrum Badań i Rozwoju.",
-        "advertiser_name": "POLITECHNIKA GDAŃSKA, WYDZIAŁ ELEKTROTECHNIKI I AUTOMATYKI",
-        "start_date": "2021-06-09",
-        "end_date": "2021-06-17",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73300000-5",
-                "description": "Projekt i realizacja badań oraz rozwój"
-            },
-            {
-                "code": "73300000-5",
-                "description": "Projekt i realizacja badań oraz rozwój"
-            },
-            {
-                "code": "73300000-5",
-                "description": "Projekt i realizacja badań oraz rozwój"
-            },
-            {
-                "code": "73300000-5",
-                "description": "Projekt i realizacja badań oraz rozwój"
-            },
-            {
-                "code": "73300000-5",
-                "description": "Projekt i realizacja badań oraz rozwój"
-            }
-        ],
-        "EU": true,
-        "id": 2166,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Wielomodułowy program poprawy efektywności i jakości funkcjonowania Gdańskiego Uniwersytetu Medycznego",
-        "advertiser_name": "Gdański Uniwersytet Medyczny",
-        "start_date": "2021-06-08",
-        "end_date": "2021-06-16",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
-            }
-        ],
-        "EU": false,
-        "id": 2167,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Leasing operacyjny wraz z dostawą jednego, fabrycznie nowego odbiornika GNSS wraz z akcesoriami dla PKM S.A.",
-        "advertiser_name": "Pomorska Kolej Metropolitalna S.A.",
-        "start_date": "2021-05-14",
-        "end_date": "2021-05-24",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38112100-4",
-                "description": "Globalne systemy nawigacji i pozycjonowania (GPS lub równorzędne)"
-            }
-        ],
-        "EU": false,
-        "id": 2168,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE NR 4W/REW/2021/BAZA – WYKONANIE ROBÓT REMONTOWYCH I RENOWACYJNYCH- WM NA Stoku 12D",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-05-26",
-        "end_date": "2021-06-11",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45320000-6",
-                "description": "Roboty izolacyjne"
-            }
-        ],
-        "EU": false,
-        "id": 2169,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup odczynników - zapytanie ofertowe 210120_01",
-        "advertiser_name": "Recepton Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2021-01-20",
-        "end_date": "2021-01-29",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
-            }
-        ],
-        "EU": false,
-        "id": 2170,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE NR WMP3-5/1/2021 na realizację zamówienia dot. remontu elewacji wraz z dociepleniem budynku przy ul. Przyjemna 3-5 w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-01-21",
-        "end_date": "2021-02-12",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2171,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "SYSTEM AKTYWIZACJI SPOŁECZNO-ZAWODOWEJ W GDAŃSKU – KOMPONENT AKTYWNEJ INTEGRACJI",
-        "advertiser_name": "Fundacja Oparcia Społecznego Aleksandry FOSA",
-        "start_date": "2021-01-23",
-        "end_date": "2021-02-02",
-        "is_price_criterium": false,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "85000000-9",
-                "description": "Usługi w zakresie zdrowia i opieki społecznej"
-            }
-        ],
-        "EU": true,
-        "id": 2172,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Opracowanie immunologicznych preparatów do profilaktyki i leczenia stanów zapalnych wymienia krów (mastitis), alternatywnych dla konwencjonalnych chemioterapeutyków i antybiotyków.",
-        "advertiser_name": "Zakład Badawczo-Wdrożeniowy Ośrodka Salmonella IMMUNOLAB Sp. z o.o.",
-        "start_date": "2021-02-04",
-        "end_date": "2021-02-12",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38900000-4",
-                "description": "Różne przyrządy do badań lub testowania"
-            }
-        ],
-        "EU": false,
-        "id": 2173,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Rewitalizacja Oruni w Gdańsku - kompleksowe usługi społeczne dla mieszkańców dzielnicy",
-        "advertiser_name": "Gdańska Fundacja Innowacji Społecznej",
-        "start_date": "2021-02-04",
-        "end_date": "2021-02-15",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "98390000-3",
-                "description": "Inne usługi"
-            }
-        ],
-        "EU": false,
-        "id": 2174,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "2021-377-33932 Zakup i sukcesywna dostawa materiałów zużywalnych i odczynników do elektroforezy kapilarnej",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-02-23",
-        "end_date": "2021-03-25",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "33192500-7",
-                "description": "Probówki"
-            }
-        ],
-        "EU": false,
-        "id": 2175,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Realizacja usług obejmujących określenie strategii działań niezbędnych do opracowania nowego projektu wzorniczego, opracowanie projektów, prototypów nowego produktu i przeprowadzenie niezbędnych testów oraz doradztwo w zakresie wdrożenia nowego produktu.",
-        "advertiser_name": "Enelion Sp. z o.o.",
-        "start_date": "2021-04-30",
-        "end_date": "2021-05-10",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "79415200-8",
-                "description": "Usługi doradcze w zakresie projektowania"
-            }
-        ],
-        "EU": true,
-        "id": 2176,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Szkolenie stacjonarne: Pracownik księgowo - kadrowy z komponentem ECDL.",
-        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
-        "start_date": "2021-05-12",
-        "end_date": "2021-05-20",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "80000000-4",
-                "description": "Usługi edukacyjne i szkoleniowe"
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
             },
             {
                 "code": "80500000-9",
                 "description": "Usługi szkoleniowe"
             },
             {
-                "code": "80530000-8",
-                "description": "Usługi szkolenia zawodowego"
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
             },
             {
-                "code": "80533100-0",
-                "description": "Usługi szkolenia komputerowego"
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
             }
         ],
         "EU": false,
-        "id": 2177,
-        "city": "Gdańsk"
+        "id": 2118,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Wynajem długoterminowy samochodu osobowego realizowany w projekcie „μGranty B+R dla przedsiębiorstw\"” w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020, Osi Priorytetowej 01. Komercjalizacja wiedzy, Działania 01.01. Ekspansja przez innowacje, Poddziałania 01.01.01. Ekspansja przez innowacje – wsparcie dotacyjne.",
-        "advertiser_name": "Excento Sp. z o.o.",
-        "start_date": "2021-05-12",
+        "auction_name": "„Przedsiębiorczość i nowe kwalifikacje – szansą na sukces zawodowy”",
+        "advertiser_name": "Lech Consulting Sp. z o. o.",
+        "start_date": "2021-01-28",
+        "end_date": "2021-02-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2119,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zdolni Do Zmiany 2 - doradztwo zawodowe",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-02-19",
+        "end_date": "2021-03-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            },
+            {
+                "code": "85312320-8",
+                "description": "Usługi doradztwa"
+            }
+        ],
+        "EU": false,
+        "id": 2120,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "„Ratownik wodny- nowy zawód szansą rozwoju osób\ndefaworyzowanych z terenu województwa Kujawsko –\nPomorskiego” współfinansowany z Europejskiego Funduszu\nSpołecznego w ramach Osi priorytetowej 10. Innowacyjna\nedukacja, Działania 10.4 Edukacja dorosłych, Poddziałania 10.4.2\nEdukacja dorosłych na rzecz rynku pracy, Regionalnego Programu\nOperacyjnego Województwa Kujawsko-Pomorskiego na lata\n2014–2020.",
+        "advertiser_name": "WODNE OCHOTNICZE POGOTOWIE RATUNKOWE WOJEWÓDZTWA KUJAWSKO-POMORSKIEGO",
+        "start_date": "2021-02-23",
+        "end_date": "2021-03-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 2121,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - wybór wykładowcy do przeprowadzenia zajęć teoretycznych na kursach: spawanie TIG, spawanie MAG, spawanie MIG, spawanie MMA w Toruniu, Grudziądzu i Rypinie",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-05-13",
         "end_date": "2021-05-21",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "34110000-1",
-                "description": "Samochody osobowe"
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
             }
         ],
         "EU": false,
-        "id": 2178,
-        "city": "Gdańsk"
+        "id": 2122,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "ZAPYTANIE OFERTOWE\n\n\n\n\n\n\n\nna dostawę URZĄDZENIA WYSOKOCIŚNIENIOWEGO 1 szt. (leasing), na potrzeby „Izopanel” Sp. z o.o. w ramach projektu „Prace B+R nad opracowaniem płyty warstwowej WPW oraz technologii wytworzenia rdzenia” w ramach Działania 1.1 Projekty B+R przedsiębiorstw Poddziałanie 1.1.1 Badania przemysłowe i prace rozwojowe realizowane przez przedsiębiorstwa Programu Operacyjnego Inteligentny Rozwój 2014 – 2020 współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego.",
-        "advertiser_name": "IZOPANEL SP. Z O.O.",
-        "start_date": "2021-05-20",
-        "end_date": "2021-05-28",
+        "auction_name": "Zdolni Do Zmiany 2 - wybór instruktora do przeprowadzenia zajęć praktycznych na kursach spawania",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-07-28",
+        "end_date": "2021-08-05",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "42924300-2",
-                "description": "Urządzenia natryskowe"
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            }
+        ],
+        "EU": false,
+        "id": 2123,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zdolni Do Zmiany 2 - wybór wykładowcy i instruktora do przeprowadzenia zajęć teoretycznych i praktycznych na kursie murarz-tynkarz w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-08-20",
+        "end_date": "2021-08-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            },
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 2124,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - usługa wyżywienia uczestników",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-04-12",
+        "end_date": "2021-05-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            },
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            },
+            {
+                "code": "55321000-6",
+                "description": "Usługi przygotowywania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 2125,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "15/2021",
+        "advertiser_name": "Stowarzyszenie Wsparcia Społecznego \"ADITUS\"",
+        "start_date": "2021-12-06",
+        "end_date": "2021-12-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
         "EU": true,
-        "id": 2179,
-        "city": "Gdańsk"
+        "id": 2126,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zapytanie ofertowe nr 2/JUNECO/2021 - zakup i dostarczenie wyposażenia 3 żłobków",
-        "advertiser_name": "Juneco Sp. z o.o.",
-        "start_date": "2021-05-21",
-        "end_date": "2021-05-31",
+        "auction_name": "ZAPYTANIE OFERTOWE nr 1/SŚW/RPKP\nPRZEPROWADZANE ZGODNIE Z ZASADĄ KONKURENCYJNOŚCI\nw ramach projektu „Stała ścieżka włączenia” (RPKP.09.02.01-04-0026/21) realizowanego\nw ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego na lata 2014-2020, Działanie RPKP.09.02.00 Włączenie społeczne, RPKP.09.02.01 Aktywne włączenie społeczne\n\nPrzedmiotem zamówienia jest:\n- w zakresie części I przeprowadzenie usługi: Indywidualne i grupowe poradnictwo psychologiczne – w ramach zadania Instrumenty aktywnej integracji o charakterze społecznym – wsparcie indywidualne oraz grupowe w zakresie podniesienia kompetencji życiowych i umiejętności społeczno-zawodowych;\n- w zakresie części II przeprowadzenie usługi: Indywidualne i grupowe poradnictwo zawodowe – w ramach zadania Instrumenty aktywnej integracji o charakterze zawodowym.",
+        "advertiser_name": "Fundacja Instytut Edukacji",
+        "start_date": "2022-03-02",
+        "end_date": "2022-03-10",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "30213000-5",
-                "description": "Komputery osobiste"
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
             },
             {
-                "code": "37311000-1",
-                "description": "Instrumenty klawiszowe"
-            },
-            {
-                "code": "30213000-5",
-                "description": "Komputery osobiste"
-            },
-            {
-                "code": "37311000-1",
-                "description": "Instrumenty klawiszowe"
-            },
-            {
-                "code": "30213000-5",
-                "description": "Komputery osobiste"
-            },
-            {
-                "code": "37311000-1",
-                "description": "Instrumenty klawiszowe"
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
             }
         ],
         "EU": false,
-        "id": 2180,
-        "city": "Gdańsk"
+        "id": 2127,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup i dostawa koncentratorów",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-05-31",
-        "end_date": "2021-06-30",
+        "auction_name": "Dostawa wałów ryflowych oraz oprzyrządowania do tekturnicy",
+        "advertiser_name": "Firma Produkcyjno-Handlowa SEPPA S.C. Gil Jerzy, Węgrzyn Paweł",
+        "start_date": "2022-03-21",
+        "end_date": "2022-04-20",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "38000000-5",
-                "description": "Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego)"
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
             }
         ],
         "EU": false,
-        "id": 2181,
-        "city": "Gdańsk"
+        "id": 2128,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Opracowanie innowacyjnej technologii produkcji modułów i baterii litowo-jonowych do zastosowań w mobilnych i stacjonarnych magazynach energii oraz pojazdach elektrycznych, w szczególności w specjalistycznych maszynach górniczych",
-        "advertiser_name": "Northvolt Poland sp z o.o.",
-        "start_date": "2021-05-30",
-        "end_date": "2021-06-10",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "42410000-3",
-                "description": "Urządzenia podnośnikowe i przeładunkowe"
-            }
-        ],
-        "EU": false,
-        "id": 2182,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Stanowisko System Admin",
-        "advertiser_name": "Voicelab.AI sp. z o.o.",
-        "start_date": "2021-04-28",
-        "end_date": "2021-05-07",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2183,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Wykonanie prac adaptacyjno-remontowych pomieszczeń w istniejącym obiekcie, zlokalizowanym w Gdańsku na potrzeby utworzenia 40 nowych miejsc wychowania przedszkolnego.",
-        "advertiser_name": "Przedszkole Niepubliczne Smart Kids",
-        "start_date": "2021-04-30",
-        "end_date": "2021-05-17",
+        "auction_name": "ZAPYTANIE OFERTOWE nr 2/SŚW/RPKP\nPRZEPROWADZANE ZGODNIE Z ZASADĄ KONKURENCYJNOŚCI\nw ramach projektu „Stała ścieżka włączenia” (RPKP.09.02.01-04-0026/21) realizowanego\nw ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego na lata 2014-2020, Działanie RPKP.09.02.00 Włączenie społeczne, RPKP.09.02.01 Aktywne włączenie społeczne\n\nPrzedmiotem zamówienia jest:\n- w zakresie części I przeprowadzenie usługi: Instrumenty aktywnej integracji o charakterze zawodowym – pośrednictwo pracy;\n- w zakresie części II zakresie części II jest przeprowadzenie usługi: Instrumenty aktywnej integracji o charakterze zawodowym – zatrudnienie wspomagane.",
+        "advertiser_name": "HUMANEO",
+        "start_date": "2022-03-22",
+        "end_date": "2022-03-30",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "44112310-4",
-                "description": "Ścianki działowe"
+                "code": "79611000-0",
+                "description": "Usługi poszukiwania pracy"
             },
             {
-                "code": "44411000-4",
-                "description": "Wyroby sanitarne"
-            },
-            {
-                "code": "44621110-3",
-                "description": "Grzejniki centralnego ogrzewania"
-            },
-            {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            },
-            {
-                "code": "45300000-0",
-                "description": "Roboty instalacyjne w budynkach"
-            },
-            {
-                "code": "45332400-7",
-                "description": "Roboty instalacyjne w zakresie urządzeń sanitarnych"
-            },
-            {
-                "code": "45400000-1",
-                "description": "Roboty wykończeniowe w zakresie obiektów budowlanych"
-            },
-            {
-                "code": "45421130-4",
-                "description": "Instalowanie drzwi i okien"
-            },
-            {
-                "code": "45421146-9",
-                "description": "Instalowanie sufitów podwieszanych"
-            },
-            {
-                "code": "45421152-4",
-                "description": "Instalowanie ścianek działowych"
-            },
-            {
-                "code": "45431100-8",
-                "description": "Kładzenie terakoty"
-            },
-            {
-                "code": "45431200-9",
-                "description": "Kładzenie glazury"
-            },
-            {
-                "code": "45453000-7",
-                "description": "Roboty remontowe i renowacyjne"
+                "code": "80570000-0",
+                "description": "Usługi szkolenia w dziedzinie rozwoju osobistego"
             }
         ],
-        "EU": true,
-        "id": 2184,
-        "city": "Gdańsk"
+        "EU": false,
+        "id": 2129,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zapytanie ofertowe nr 28/2021/Z211 Przygotowanie sylabusów, case studies oraz manuali do przedmiotów na kierunkach Turystyka i Rekreacja, Pedagogika, Bezpieczeństwo Wewnętrzne, Stosunki Międzynarodowe, Zarządzanie oraz Multimedia i Grafika Komputerowa dla studiów I stopnia.",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2021-04-20",
-        "end_date": "2021-04-27",
+        "auction_name": "Akademia ZAWODowców 2 - wybór wykładowcy i instruktora do przeprowadzenia zajęć teoretycznych i praktycznych na kursach: zbrojarz-betoniarz w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2022-05-04",
+        "end_date": "2022-05-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            },
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 2130,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zakup i dostawa materiałów budowlanych (na szkolenie i egzamin) do realizacji kursu zbrojarz-betoniarz w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2022-05-04",
+        "end_date": "2022-06-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44111000-1",
+                "description": "Materiały budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 2131,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa elementów stanowisk badawczych",
+        "advertiser_name": "Firma Produkcyjno-Handlowa SEPPA S.C. Gil Jerzy, Węgrzyn Paweł",
+        "start_date": "2022-02-07",
+        "end_date": "2022-03-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 2132,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 4/SŚW/RPKP\nPRZEPROWADZANE ZGODNIE Z ZASADĄ KONKURENCYJNOŚCI\nw ramach projektu „Stała ścieżka włączenia” (RPKP.09.02.01-04-0026/21) realizowanego\nw ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego na lata 2014-2020, Działanie RPKP.09.02.00 Włączenie społeczne, RPKP.09.02.01 Aktywne włączenie społeczne.\n\nPrzedmiotem zamówienia jest:\n- w zakresie części I przeprowadzenie usługi aktywnej integracji o charakterze zawodowym – szkolenia zawodowego Opiekun do dzieci i osób starszych wraz z zapewnieniem przeprowadzenia zewnętrznych egzaminów certyfikujących dla 12 Uczestników projektu;\n- w zakresie części II zakresie części II jest przeprowadzenie usługi aktywnej integracji o charakterze zawodowym – szkolenia zawodowego Pracownik biurowy z obsługą magazynu wraz z zapewnieniem przeprowadzenia zewnętrznych egzaminów certyfikujących dla 12 Uczestników projektu.",
+        "advertiser_name": "HUMANEO",
+        "start_date": "2022-03-31",
+        "end_date": "2022-04-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            },
+            {
+                "code": "55520000-1",
+                "description": "Usługi dostarczania posiłków"
+            }
+        ],
+        "EU": false,
+        "id": 2133,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Przedsiębiorczość i nowe kwalifikacje - szansą na sukces zawodowy - II edycja",
+        "advertiser_name": "Lech Consulting Sp. z o. o.",
+        "start_date": "2022-06-15",
+        "end_date": "2022-06-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2134,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "DPF62-15 Szkolenie dla nauczycieli z zakresu e-sportu",
+        "advertiser_name": "TEB Edukacja Sp. z o.o.",
+        "start_date": "2021-07-21",
+        "end_date": "2021-07-29",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
@@ -1617,221 +963,523 @@
                 "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
-        "EU": false,
-        "id": 2185,
-        "city": "Gdańsk"
+        "EU": true,
+        "id": 2135,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zakup fiolek do chromatografii - zapytanie ofertowe 210420_02",
-        "advertiser_name": "Recepton Spółka z ograniczoną odpowiedzialnością",
-        "start_date": "2021-04-20",
-        "end_date": "2021-04-28",
+        "auction_name": "DPF62-13 Szkolenie C++ i egzamin CPA dla nauczycieli w Grudziądzu",
+        "advertiser_name": "TEB Edukacja Sp. z o.o.",
+        "start_date": "2021-02-08",
+        "end_date": "2021-02-16",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33793000-5",
-                "description": "Laboratoryjne wyroby szklane"
-            }
-        ],
-        "EU": false,
-        "id": 2186,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Stworzenie innowacyjnego układu do produkcji chłodu z układu odzysku ciepła na jednostkach pływających.",
-        "advertiser_name": "MARINE PROJECTS LTD SP. Z O.O.",
-        "start_date": "2021-05-07",
-        "end_date": "2021-06-08",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "31120000-3",
-                "description": "Generatory"
-            }
-        ],
-        "EU": false,
-        "id": 2187,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Leasing operacyjny wraz z dostawą jednego, fabrycznie nowego odbiornika GNSS wraz z akcesoriami dla PKM S.A.",
-        "advertiser_name": "Pomorska Kolej Metropolitalna S.A.",
-        "start_date": "2021-05-14",
-        "end_date": "2021-05-24",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "38112100-4",
-                "description": "Globalne systemy nawigacji i pozycjonowania (GPS lub równorzędne)"
-            }
-        ],
-        "EU": false,
-        "id": 2188,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "ZAPYTANIE OFERTOWE NR 4W/REW/2021/BAZA – WYKONANIE ROBÓT REMONTOWYCH I RENOWACYJNYCH- WM NA Stoku 12D",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-05-26",
-        "end_date": "2021-06-11",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "45320000-6",
-                "description": "Roboty izolacyjne"
-            }
-        ],
-        "EU": false,
-        "id": 2189,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Usługa chowu, podawanie preparatów opracowywanych przez Zamawiającego, pobór próbek oraz eutanazja szczurów",
-        "advertiser_name": "Zakład Badawczo-Wdrożeniowy Ośrodka Salmonella IMMUNOLAB Sp. z o.o.",
-        "start_date": "2021-05-24",
-        "end_date": "2021-06-02",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            }
-        ],
-        "EU": false,
-        "id": 2190,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Projekt nr POIR.04.01.04-00-0060/20-00 pt. „Nowatorskie konstrukcje specjalnego przeznaczenia jedno \ni dwutorowych słupów dla linii wysokich napięć wraz z układem łączności zasilanym bezpośrednio z linii wysokiego napięcia”, realizowany w ramach Programu Operacyjnego Inteligentny Rozwój 2014-2020, którego liderem jest ENERGA Invest Spółka z ograniczoną odpowiedzialnością, a konsorcjantem Politechnika Gdańska, współfinansowany ze środków Europejskiego Funduszu Rozwoju Regionalnego w ramach Działania 4.1.4 organizowanego przez Narodowe Centrum Badań i Rozwoju",
-        "advertiser_name": "POLITECHNIKA GDAŃSKA, WYDZIAŁ ELEKTROTECHNIKI I AUTOMATYKI",
-        "start_date": "2021-06-07",
-        "end_date": "2021-06-15",
-        "is_price_criterium": true,
-        "status": "Rozstrzygnięte",
-        "cpv": [
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
-            },
-            {
-                "code": "73100000-3",
-                "description": "Usługi badawcze i eksperymentalno-rozwojowe"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
         "EU": true,
-        "id": 2191,
-        "city": "Gdańsk"
+        "id": 2136,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zapytanie ofertowe Nr 1/143/2021 wykonanie remontu elewacji z dociepleniem, odtworzenie detali, remont izolacji pionowej i poziomej ścian przyziemia w budynku mieszkalnym ul. WOLNOŚCI 15 w Gdańsku",
-        "advertiser_name": "Gmina miasta Gdańska",
-        "start_date": "2021-06-08",
-        "end_date": "2021-06-23",
+        "auction_name": "DPF64-07 Prowadzenie szkoleń z zakresu fryzjerstwa",
+        "advertiser_name": "TEB Edukacja Sp. z o.o.",
+        "start_date": "2022-02-15",
+        "end_date": "2022-02-23",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "45000000-7",
-                "description": "Roboty budowlane"
-            }
-        ],
-        "EU": false,
-        "id": 2192,
-        "city": "Gdańsk"
-    },
-    {
-        "auction_name": "Zakup i dostawa produktu chemicznego",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-06-02",
-        "end_date": "2021-07-02",
-        "is_price_criterium": true,
-        "status": "Zamknięte",
-        "cpv": [
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
             {
-                "code": "24000000-4",
-                "description": "Produkty chemiczne"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
         "EU": false,
-        "id": 2193,
-        "city": "Gdańsk"
+        "id": 2137,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "ZO nr 61/2021/Z231 Wytworzenie w programie Ispring kursu e-learningowego",
-        "advertiser_name": "Wyższa Szkoła Bankowa w Gdańsku",
-        "start_date": "2021-09-01",
-        "end_date": "2021-09-07",
+        "auction_name": "DPF62-16 Prowadzenie zajęć w ramach e-sportu dla uczniów",
+        "advertiser_name": "TEB Edukacja Sp. z o.o.",
+        "start_date": "2021-09-08",
+        "end_date": "2021-09-16",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "72212931-4",
-                "description": "Usługi opracowywania oprogramowania szkoleniowego"
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
             }
         ],
-        "EU": false,
-        "id": 2194,
-        "city": "Gdańsk"
+        "EU": true,
+        "id": 2138,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "BIO/2021/9224 Zakup i sukcesywna dostawa mediów hodowlanych/Purchase and successive delivery of media",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-09-03",
-        "end_date": "2021-09-10",
+        "auction_name": "PUwG/2/2022 - Realizacja usługi wynajmu sprzętu na potrzeby realizacji szkoleń w projekcie „Podnoszenie umiejętności poprzez organizację dodatkowych zajęć i współpracę z pracodawcami oraz doposażenie pracowni przedmiotowych szkół zawodowych w Grudziądzu”.",
+        "advertiser_name": "SYNTEA Spółka Akcyjna",
+        "start_date": "2022-03-09",
+        "end_date": "2022-03-18",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "33696500-0",
-                "description": "Odczynniki laboratoryjne"
+                "code": "72610000-9",
+                "description": "Usługi dodatkowe w zakresie sprzętu komputerowego"
             }
         ],
         "EU": false,
-        "id": 2195,
-        "city": "Gdańsk"
+        "id": 2139,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "BIO/2021/9113 Zakup i dostawa odczynników",
-        "advertiser_name": "Polpharma Biologics S.A.",
-        "start_date": "2021-09-03",
-        "end_date": "2021-10-04",
+        "auction_name": "Zakup i instalacja zrobotyzowanego stanowiska szlifiersko-polerskiego.",
+        "advertiser_name": "Bydgoskie Zakłady Maszyn Gastronomicznych „MA-GA” Sp. z o.o.",
+        "start_date": "2021-07-09",
+        "end_date": "2021-08-11",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "24000000-4",
-                "description": "Produkty chemiczne"
+                "code": "42997300-4",
+                "description": "Roboty przemysłowe"
             }
         ],
-        "EU": false,
-        "id": 2196,
-        "city": "Gdańsk"
+        "EU": true,
+        "id": 2140,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Zapytanie ofertowe nr BZPU/OPK/01/BK/2021 - dostawa sprzętu i akcesoriów komputerowych wraz z urządzeniami peryferyjnymi, niezbędnych do realizacji projektu.",
-        "advertiser_name": "Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku",
-        "start_date": "2021-08-31",
-        "end_date": "2021-09-09",
+        "auction_name": "Rozbudowa obiektu Przedszkola Niepublicznego Zgromadzenia Sióstr Zmartwychwstania Pańskiego im. Dzieciątka Jezus w Grudziądzu o przestrzeń przeznaczoną na opiekę nad dziećmi do lat 3 – III postępowanie.",
+        "advertiser_name": "ZG.SS.ZMARTWYCHWSTANIA PAŃSKIEGO, PROWINCJA POZNAŃSKA",
+        "start_date": "2021-02-17",
+        "end_date": "2021-03-08",
         "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "30200000-1",
-                "description": "Urządzenia komputerowe"
+                "code": "45215220-5",
+                "description": "Roboty budowlane w zakresie budowy innych obiektów budowlanych niż ośrodki pobytowe"
             }
         ],
         "EU": false,
-        "id": 2197,
-        "city": "Gdańsk"
+        "id": 2141,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Szkolenie stacjonarne: „ABC Przedsiębiorczości” wraz z komponentem ECDL (elementy grafiki) z egzaminem.",
-        "advertiser_name": "Stowarzyszenie \"Wolna Przedsiębiorczość\" Oddział Terenowy w Gdańsku",
+        "auction_name": "\"Program pomocy osobom młodym w województwie kujawsko-pomorskim”",
+        "advertiser_name": "Alfa Projekt Sp. z o. o.",
+        "start_date": "2020-11-06",
+        "end_date": "2020-11-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2142,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"4 Kroki\"",
+        "advertiser_name": "Ośrodek Szkolenia i Rozwoju Kadr \"Denar\" Dorota Wierzgała",
+        "start_date": "2020-11-05",
+        "end_date": "2020-11-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2143,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostaw materiałów budowlanych (na szkolenie i egzamin) do realizacji kursu technolog/pracownik robót wykończeniowych w budownictwie w ramach projektu „Zbuduj Swoją Przyszłość”",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2020-09-15",
+        "end_date": "2020-09-23",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44111000-1",
+                "description": "Materiały budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 2144,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 18/2020 - Świadczenie specjalistycznych usług opiekuńczych - opieka wytchnieniowa - na rzecz opiekunów faktycznych osób niesamodzielnych/niepełnosprawnych w Toruniu, Grudziądzu, Włocławku i Bydgoszczy.",
+        "advertiser_name": "Kujawsko-Pomorski Oddział Okręgowy PCK",
+        "start_date": "2020-12-22",
+        "end_date": "2021-01-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79624000-4",
+                "description": "Usługi w zakresie pozyskiwania personelu pielęgniarskiego"
+            },
+            {
+                "code": "79624000-4",
+                "description": "Usługi w zakresie pozyskiwania personelu pielęgniarskiego"
+            },
+            {
+                "code": "79624000-4",
+                "description": "Usługi w zakresie pozyskiwania personelu pielęgniarskiego"
+            },
+            {
+                "code": "79624000-4",
+                "description": "Usługi w zakresie pozyskiwania personelu pielęgniarskiego"
+            }
+        ],
+        "EU": false,
+        "id": 2145,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "„Przedsiębiorczość i nowe kwalifikacje – szansą na sukces zawodowy”",
+        "advertiser_name": "Lech Consulting Sp. z o. o.",
+        "start_date": "2021-01-18",
+        "end_date": "2021-01-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2146,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Program pomocy osobom zwalnianym w województwie kujawsko-pomorskim - II edycja”",
+        "advertiser_name": "Alfa Projekt Sp. z o. o.",
+        "start_date": "2021-03-12",
+        "end_date": "2021-03-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2147,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zakup i dostawa materiałów budowlanych (na szkolenie i egzamin)",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-04-13",
+        "end_date": "2021-05-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44111000-1",
+                "description": "Materiały budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 2148,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Program pomocy osobom młodym w województwie kujawsko-pomorskim”",
+        "advertiser_name": "Alfa Projekt Sp. z o. o.",
+        "start_date": "2021-03-01",
+        "end_date": "2021-03-09",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2149,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zdolni Do Zmiany 2 - pośrednictwo pracy",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-04-22",
+        "end_date": "2021-04-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "79611000-0",
+                "description": "Usługi poszukiwania pracy"
+            },
+            {
+                "code": "79611000-0",
+                "description": "Usługi poszukiwania pracy"
+            },
+            {
+                "code": "79611000-0",
+                "description": "Usługi poszukiwania pracy"
+            }
+        ],
+        "EU": false,
+        "id": 2150,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zdolni Do Zmiany 2 - wybór wykładowcy do przeprowadzenia zajęć teoretycznych na kursach spawania",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-07-06",
+        "end_date": "2021-07-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            }
+        ],
+        "EU": false,
+        "id": 2151,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "„Ratownik wodny- nowy zawód szansą rozwoju osób\ndefaworyzowanych z terenu województwa Kujawsko –\nPomorskiego” współfinansowany z Europejskiego Funduszu\nSpołecznego w ramach Osi priorytetowej 10. Innowacyjna\nedukacja, Działania 10.4 Edukacja dorosłych, Poddziałania\n10.4.2 Edukacja dorosłych na rzecz rynku pracy, Regionalnego\nProgramu Operacyjnego Województwa Kujawsko-Pomorskiego na lata\n2014–2020.",
+        "advertiser_name": "WODNE OCHOTNICZE POGOTOWIE RATUNKOWE WOJEWÓDZTWA KUJAWSKO-POMORSKIEGO",
+        "start_date": "2021-05-28",
+        "end_date": "2021-06-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 2152,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Usługi cateringowe dla osób będących uczestnikami projektu „Trampolina 3”",
+        "advertiser_name": "Stowarzyszenie Wsparcia Społecznego \"ADITUS\"",
+        "start_date": "2021-08-05",
+        "end_date": "2021-08-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "15894200-3",
+                "description": "Posiłki gotowe"
+            }
+        ],
+        "EU": true,
+        "id": 2153,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zakup i dostawa materiałów budowlanych (na szkolenie i egzamin) do realizacji kursu dekarz w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-07-22",
+        "end_date": "2021-08-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44111000-1",
+                "description": "Materiały budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 2154,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zdolni Do Zmiany 2 - wybór wykładowcy do przeprowadzenia zajęć teoretycznych na kursach spawania",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-07-06",
+        "end_date": "2021-07-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            }
+        ],
+        "EU": false,
+        "id": 2155,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "„Ratownik wodny- nowy zawód szansą rozwoju osób\ndefaworyzowanych z terenu województwa Kujawsko –\nPomorskiego” współfinansowany z Europejskiego Funduszu\nSpołecznego w ramach Osi priorytetowej 10. Innowacyjna\nedukacja, Działania 10.4 Edukacja dorosłych, Poddziałania\n10.4.2 Edukacja dorosłych na rzecz rynku pracy, Regionalnego\nProgramu Operacyjnego Województwa Kujawsko-Pomorskiego na lata\n2014–2020.",
+        "advertiser_name": "WODNE OCHOTNICZE POGOTOWIE RATUNKOWE WOJEWÓDZTWA KUJAWSKO-POMORSKIEGO",
+        "start_date": "2021-05-28",
+        "end_date": "2021-06-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 2156,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zakup i dostawa materiałów budowlanych (na szkolenie i egzamin) do realizacji kursu dekarz w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-07-22",
+        "end_date": "2021-08-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44111000-1",
+                "description": "Materiały budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 2157,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 9/2021",
+        "advertiser_name": "Stowarzyszenie Wsparcia Społecznego \"ADITUS\"",
         "start_date": "2021-09-22",
         "end_date": "2021-09-30",
         "is_price_criterium": true,
@@ -1842,37 +1490,1249 @@
                 "description": "Usługi edukacyjne i szkoleniowe"
             },
             {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 2158,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Usługi cateringowe dla osób będących uczestnikami projektu „Trampolina 3”",
+        "advertiser_name": "Stowarzyszenie Wsparcia Społecznego \"ADITUS\"",
+        "start_date": "2021-08-05",
+        "end_date": "2021-08-18",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "15894200-3",
+                "description": "Posiłki gotowe"
+            }
+        ],
+        "EU": true,
+        "id": 2159,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zakup i dostawa materiałów szkoleniowych (na szkolenie i egzamin) do realizacji kursu spawanie MAG w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2022-04-27",
+        "end_date": "2022-05-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "14622000-7",
+                "description": "Stal"
+            },
+            {
+                "code": "09120000-6",
+                "description": "Paliwa gazowe"
+            },
+            {
+                "code": "31660000-0",
+                "description": "Elektrody węglowe"
+            }
+        ],
+        "EU": false,
+        "id": 2160,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa elementów stanowisk badawczych i elementów prototypu",
+        "advertiser_name": "Firma Produkcyjno-Handlowa SEPPA S.C. Gil Jerzy, Węgrzyn Paweł",
+        "start_date": "2022-06-08",
+        "end_date": "2022-07-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 2161,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - wynajem spawalni do realizacji kursów spawania w Grudziądzu oraz w Rypinie",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-08-31",
+        "end_date": "2021-09-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "70220000-9",
+                "description": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
+            },
+            {
+                "code": "70220000-9",
+                "description": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
+            }
+        ],
+        "EU": false,
+        "id": 2162,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zakup i dostawa materiałów szkoleniowych (na szkolenie i egzamin) do realizacji kursu spawanie TIG w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-12-22",
+        "end_date": "2022-01-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "14622000-7",
+                "description": "Stal"
+            },
+            {
+                "code": "09120000-6",
+                "description": "Paliwa gazowe"
+            },
+            {
+                "code": "31660000-0",
+                "description": "Elektrody węglowe"
+            }
+        ],
+        "EU": false,
+        "id": 2163,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zakup i dostawa materiałów szkoleniowych (na szkolenie i egzamin) do realizacji kursu spawanie MAG w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2022-08-02",
+        "end_date": "2022-09-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "14622000-7",
+                "description": "Stal"
+            },
+            {
+                "code": "09120000-6",
+                "description": "Paliwa gazowe"
+            },
+            {
+                "code": "31660000-0",
+                "description": "Elektrody węglowe"
+            }
+        ],
+        "EU": false,
+        "id": 2164,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Kurs florystyczny dla 10 uczestników z Grudziądza",
+        "advertiser_name": "Gmina Miasta Toruń",
+        "start_date": "2022-09-13",
+        "end_date": "2022-09-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2165,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 02/08/KPASZ/2020",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2020-08-25",
+        "end_date": "2020-09-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "73200000-4",
+                "description": "Usługi doradcze w zakresie badań i rozwoju"
+            },
+            {
+                "code": "73200000-4",
+                "description": "Usługi doradcze w zakresie badań i rozwoju"
+            },
+            {
+                "code": "79400000-8",
+                "description": "Usługi doradcze w zakresie działalności gospodarczej i zarządzania oraz podobne"
+            }
+        ],
+        "EU": true,
+        "id": 2166,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe Nr 01/08/KPASZ/2020",
+        "advertiser_name": "Certes Sp. z o.o.",
+        "start_date": "2020-08-19",
+        "end_date": "2020-08-27",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
                 "code": "80500000-9",
                 "description": "Usługi szkoleniowe"
             },
             {
-                "code": "80530000-8",
-                "description": "Usługi szkolenia zawodowego"
-            },
-            {
-                "code": "80533100-0",
-                "description": "Usługi szkolenia komputerowego"
+                "code": "55300000-3",
+                "description": "Usługi restauracyjne i dotyczące podawania posiłków"
             }
         ],
-        "EU": true,
-        "id": 2198,
-        "city": "Gdańsk"
+        "EU": false,
+        "id": 2167,
+        "city": "Grudziądz"
     },
     {
-        "auction_name": "Wygłoszenie 30-minutowego wykładu inauguracyjnego w formie zdalnej na\n V Pomorskiej Uczniowskiej Konferencji Naukowej, której tematem jest „Niewidzialny świat wirusów i bakterii\", realizowanej w projekcie Zdolni z Pomorza, finansowanym w Osi Priorytetowej 3. Działanie 3.2. Poddziałanie 3.2.2 Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020.",
-        "advertiser_name": "SAMORZĄD WOJEWÓDZTWA POMORSKIEGO",
-        "start_date": "2021-09-06",
-        "end_date": "2021-09-14",
-        "is_price_criterium": false,
+        "auction_name": "Zapytanie ofertowe nr 11/2020 - Dostawa rękawiczek jednorazowych nitrylowych, maseczek jednorazowych oraz płynu do dezynfekcji rąk do Oddziałów PCK w Bydgoszczy, Grudziądzu, Toruniu i Włocławku.",
+        "advertiser_name": "Kujawsko-Pomorski Oddział Okręgowy PCK",
+        "start_date": "2020-10-13",
+        "end_date": "2020-10-21",
+        "is_price_criterium": true,
         "status": "Rozstrzygnięte",
         "cpv": [
             {
-                "code": "80310000-0",
-                "description": "Usługi edukacji młodzieży"
+                "code": "18143000-3",
+                "description": "Akcesoria ochronne"
+            },
+            {
+                "code": "18143000-3",
+                "description": "Akcesoria ochronne"
+            },
+            {
+                "code": "18143000-3",
+                "description": "Akcesoria ochronne"
+            },
+            {
+                "code": "18143000-3",
+                "description": "Akcesoria ochronne"
+            },
+            {
+                "code": "18143000-3",
+                "description": "Akcesoria ochronne"
+            },
+            {
+                "code": "18143000-3",
+                "description": "Akcesoria ochronne"
+            },
+            {
+                "code": "18143000-3",
+                "description": "Akcesoria ochronne"
+            },
+            {
+                "code": "18143000-3",
+                "description": "Akcesoria ochronne"
+            },
+            {
+                "code": "33631600-8",
+                "description": "Środki antyseptyczne i dezynfekcyjne"
+            },
+            {
+                "code": "33631600-8",
+                "description": "Środki antyseptyczne i dezynfekcyjne"
+            },
+            {
+                "code": "33631600-8",
+                "description": "Środki antyseptyczne i dezynfekcyjne"
+            },
+            {
+                "code": "33631600-8",
+                "description": "Środki antyseptyczne i dezynfekcyjne"
+            }
+        ],
+        "EU": false,
+        "id": 2168,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Wybór wykładowcy oraz instruktora do prowadzenia zajęć na kursie „Monter instalacji budowlanych z uprawnieniami elektrycznymi do 1 kV” w ramach projektu Zbuduj Swoją Przyszłość",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-01-05",
+        "end_date": "2021-01-13",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2169,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Program pomocy osobom młodym w województwie kujawsko-pomorskim”",
+        "advertiser_name": "Alfa Projekt Sp. z o. o.",
+        "start_date": "2021-01-13",
+        "end_date": "2021-01-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2170,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Młodzi na rynku pracy",
+        "advertiser_name": "Lech Consulting Sp. z o. o.",
+        "start_date": "2021-02-11",
+        "end_date": "2021-02-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2171,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Kompleksowa aktywizacja zawodowa osób bezrobotnych”",
+        "advertiser_name": "Alfa Projekt Sp. z o. o.",
+        "start_date": "2021-03-11",
+        "end_date": "2021-03-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2172,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Rozbudowa obiektu Przedszkola Niepublicznego Zgromadzenia Sióstr\nZmartwychwstania Pańskiego im. Dzieciątka Jezus w Grudziądzu o przestrzeń\nprzeznaczoną na opiekę nad dziećmi do lat 3",
+        "advertiser_name": "ZG.SS.ZMARTWYCHWSTANIA PAŃSKIEGO, PROWINCJA POZNAŃSKA",
+        "start_date": "2021-03-27",
+        "end_date": "2021-04-12",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "45215220-5",
+                "description": "Roboty budowlane w zakresie budowy innych obiektów budowlanych niż ośrodki pobytowe"
+            }
+        ],
+        "EU": false,
+        "id": 2173,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - wybór wykładowcy i instruktora do przeprowadzenia zajęć teoretycznych i praktycznych na kursie dekarz w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-07-22",
+        "end_date": "2021-07-30",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            },
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 2174,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE nr 1/NM/08.05.02 „Nowe możliwości” - organizacja i przeprowadzenia kursów Prawa jazdy kat. C wraz z Kwalifikacją wstępną przyspieszoną do kat. C oraz organizacja i przeprowadzenie egzaminów wewnętrznych i zewnętrznego dla KWP",
+        "advertiser_name": "Akademickie Stowarzyszenie Inicjatyw Społeczno - Edukacyjnych",
+        "start_date": "2021-04-29",
+        "end_date": "2021-05-07",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80411000-8",
+                "description": "Usługi szkół jazdy"
+            },
+            {
+                "code": "80411000-8",
+                "description": "Usługi szkół jazdy"
+            }
+        ],
+        "EU": false,
+        "id": 2175,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - wybór wykładowcy i instruktora do przeprowadzenia zajęć teoretycznych i praktycznych na kursie: technolog (pracownik) robót wykończeniowych w budownictwie w Toruniu i Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-05-12",
+        "end_date": "2021-05-20",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            },
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            },
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            },
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 2176,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zdolni Do Zmiany 2 - wynajem spawalni do realizacji kursów spawania w Grudziądzu oraz w Rypinie",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-08-26",
+        "end_date": "2021-09-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "70220000-9",
+                "description": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
+            },
+            {
+                "code": "70220000-9",
+                "description": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
+            }
+        ],
+        "EU": false,
+        "id": 2177,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zdolni Do Zmiany 2 - wybór wykładowcy do przeprowadzenia zajęć teoretycznych na kursach spawania",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-07-28",
+        "end_date": "2021-08-05",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            }
+        ],
+        "EU": false,
+        "id": 2178,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zdolni Do Zmiany 2 - wybór wykładowcy i instruktora do przeprowadzenia zajęć teoretycznych i praktycznych na kursie: technolog robót wykończeniowych w budownictwie w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-12-06",
+        "end_date": "2021-12-14",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            },
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 2179,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - wybór wykładowcy i instruktora do przeprowadzenia zajęć teoretycznych i praktycznych na kursach: podstawy obsługi CNC z elementami prac ślusarskich oraz podstawy obsługi konwencjonalnych obrabiarek skrawających z elementami prac ślusarskich w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2021-10-22",
+        "end_date": "2021-11-03",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            },
+            {
+                "code": "80531100-6",
+                "description": "Usługi szkolenia przemysłowego"
+            }
+        ],
+        "EU": false,
+        "id": 2180,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zakup i dostawa materiałów budowlanych (na szkolenie i egzamin) do realizacji kursu murarz-tynkarz w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2022-02-22",
+        "end_date": "2022-03-25",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44111000-1",
+                "description": "Materiały budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 2181,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 3/21008/2022",
+        "advertiser_name": "MDDP Akademia Biznesu spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2022-04-25",
+        "end_date": "2022-05-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2182,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Przedsiębiorczość i nowe kwalifikacje - szansą na sukces zawodowy - II edycja",
+        "advertiser_name": "Lech Consulting Sp. z o. o.",
+        "start_date": "2022-05-23",
+        "end_date": "2022-05-31",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2183,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zdolni Do Zmiany 2 - zakup i dostawa materiałów szkoleniowych (na szkolenie i egzamin) do realizacji kursu spawanie MAG w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2022-03-29",
+        "end_date": "2022-04-08",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "14622000-7",
+                "description": "Stal"
+            },
+            {
+                "code": "09120000-6",
+                "description": "Paliwa gazowe"
+            },
+            {
+                "code": "31660000-0",
+                "description": "Elektrody węglowe"
+            }
+        ],
+        "EU": false,
+        "id": 2184,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zapytanie dotyczące wyboru wykładowcy i instruktora do przeprowadzenia zajęć teoretycznych i praktycznych na kursach: montażysta rusztowań budowlano-montażowych w Toruniu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2022-04-15",
+        "end_date": "2022-04-26",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            },
+            {
+                "code": "80531200-7",
+                "description": "Usługi szkolenia technicznego"
+            }
+        ],
+        "EU": false,
+        "id": 2185,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 2/21008/2022",
+        "advertiser_name": "Instytut ADN spółka z ograniczoną odpowiedzialnością sp. k.",
+        "start_date": "2022-04-14",
+        "end_date": "2022-05-17",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2186,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 7/NM/08.05.02 \"Nowe możliwości\" dotyczące wyboru Wykonawcy świadczącego usługę realizacji kursów zawodowych.",
+        "advertiser_name": "Akademickie Stowarzyszenie Inicjatyw Społeczno - Edukacyjnych",
+        "start_date": "2022-06-08",
+        "end_date": "2022-06-15",
+        "is_price_criterium": true,
+        "status": "Zamknięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2187,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "ZAPYTANIE OFERTOWE NR 4/21008/2022",
+        "advertiser_name": "MDDP Akademia Biznesu spółka z ograniczoną odpowiedzialnością",
+        "start_date": "2022-06-13",
+        "end_date": "2022-07-15",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2188,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa elementów stanowisk badawczych i elementów prototypu – zapytanie 2",
+        "advertiser_name": "SEPPA Sp. z o. o.",
+        "start_date": "2022-07-22",
+        "end_date": "2022-08-22",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            },
+            {
+                "code": "42000000-6",
+                "description": "Maszyny przemysłowe"
+            }
+        ],
+        "EU": false,
+        "id": 2189,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Akademia ZAWODowców 2 - zakup i dostawa materiałów budowlanych (na szkolenie i egzamin) do realizacji kursu murarz-tynkarz w Grudziądzu",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2022-08-02",
+        "end_date": "2022-09-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "44111000-1",
+                "description": "Materiały budowlane"
+            }
+        ],
+        "EU": false,
+        "id": 2190,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Zapytanie ofertowe nr 4/2022",
+        "advertiser_name": "Stowarzyszenie Wsparcia Społecznego \"ADITUS\"",
+        "start_date": "2022-09-19",
+        "end_date": "2022-09-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            },
+            {
+                "code": "80000000-4",
+                "description": "Usługi edukacyjne i szkoleniowe"
+            }
+        ],
+        "EU": true,
+        "id": 2191,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa materiałów elektrycznych (na szkolenie i egzamin) do realizacji kursu elektrycznego z uprawnieniami do 1 kV w ramach projektu Szansa na zmiany",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2020-09-11",
+        "end_date": "2020-09-24",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "31680000-6",
+                "description": "Elektryczne artykuły i akcesoria"
+            }
+        ],
+        "EU": false,
+        "id": 2192,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "„Przedsiębiorczość i nowe kwalifikacje – szansą na sukces zawodowy”",
+        "advertiser_name": "Lech Consulting Sp. z o. o.",
+        "start_date": "2020-09-21",
+        "end_date": "2020-09-29",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2193,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Program pomocy osobom młodym w województwie kujawsko-pomorskim”",
+        "advertiser_name": "Alfa Projekt Sp. z o. o.",
+        "start_date": "2020-11-30",
+        "end_date": "2020-12-08",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2194,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "Dostawa materiałów elektrycznych (na szkolenie i egzamin) do realizacji kursu elektrycznego z uprawnieniami do 1 kV w ramach projektu Szansa na zmiany",
+        "advertiser_name": "Zakład Doskonalenia Zawodowego",
+        "start_date": "2020-12-11",
+        "end_date": "2020-12-21",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "31680000-6",
+                "description": "Elektryczne artykuły i akcesoria"
+            }
+        ],
+        "EU": false,
+        "id": 2195,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "„Przedsiębiorczość i nowe kwalifikacje – szansą na sukces zawodowy”",
+        "advertiser_name": "Lech Consulting Sp. z o. o.",
+        "start_date": "2020-11-05",
+        "end_date": "2020-11-16",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2196,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Program pomocy osobom młodym w województwie kujawsko-pomorskim”",
+        "advertiser_name": "Alfa Projekt Sp. z o. o.",
+        "start_date": "2021-01-25",
+        "end_date": "2021-02-02",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2197,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Program pomocy osobom młodym w województwie kujawsko-pomorskim”",
+        "advertiser_name": "Alfa Projekt Sp. z o. o.",
+        "start_date": "2021-02-11",
+        "end_date": "2021-02-19",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            }
+        ],
+        "EU": false,
+        "id": 2198,
+        "city": "Grudziądz"
+    },
+    {
+        "auction_name": "\"Kompleksowa aktywizacja zawodowa osób bezrobotnych”",
+        "advertiser_name": "Alfa Projekt Sp. z o. o.",
+        "start_date": "2021-02-19",
+        "end_date": "2021-03-01",
+        "is_price_criterium": true,
+        "status": "Rozstrzygnięte",
+        "cpv": [
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
+            },
+            {
+                "code": "80500000-9",
+                "description": "Usługi szkoleniowe"
             }
         ],
         "EU": false,
         "id": 2199,
-        "city": "Gdańsk"
+        "city": "Grudziądz"
     }
 ]
