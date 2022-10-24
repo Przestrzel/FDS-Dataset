@@ -216,7 +216,7 @@ def get_auction_data(auction_link):
 def get_last_done_chunk(city_name):
     onlyfiles = [f for f in listdir(config.path_to_data) if isfile(join(config.path_to_data, f)) and f.startswith(city_name) and f.endswith(".json")]
     if len(onlyfiles) == 0:
-        return -1
+        return 0
     last_file = onlyfiles[-1]
     last_file_index = last_file.split(city_name, 1)[1].split('.json', 1)[0]
     return int(last_file_index)
@@ -254,10 +254,9 @@ for city in cities_to_scrap:
             for links in auctions_links:
                 file.write(f'{links}\n')
     auction_links_chunks = [auctions_links[x:x+LINKS_PER_FILE] for x in range(last_saved_file*LINKS_PER_FILE, len(auctions_links), LINKS_PER_FILE)]
-
     for index, links_chunk in enumerate(auction_links_chunks):
-        if index <= int(last_saved_file):
-            continue
+        #if index <= int(last_saved_file):
+        #    continue
         print(index)
         auctions = Auctions()
         for link in links_chunk:

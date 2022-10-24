@@ -1,0 +1,775 @@
+{
+    "auctions": [
+        {
+            "auction_name": "Zapytanie ofertowe nr 11/2022/OWES TŁOK 2 z dnia 12.04.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-04-12",
+            "end_date": "2022-04-22",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \na) Akceptują treść zapytania ofertowego bez zastrzeżeń oraz wypełnią i złożą w terminie ofertę na formularzu ofertowym stanowiącym Załącznik nr 1 do Zapytania ofertowego;\nb) Dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia.\nc) Znajdują się w sytuacji ekonomicznej i finansowej umożliwiającej wykonanie zamówienia;\nd) Gwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia;\ne) Zobowiążą się do podpisania umowy na warunkach określonych w ofercie.",
+                "Z możliwości realizacji zamówienia wykluczone są podmioty powiązane osobowo lub kapitałowo z Zamawiającym lub z osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru Wykonawcy, w szczególności poprzez:\na) Uczestnictwo w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb) Posiadanie udziałów lub co najmniej 10% akcji;\nc) Pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd) Pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, bocznej drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli;\ne) Inne, niż wskazane w lit. a-d przypadki, jeżeli wystąpi podejrzenie naruszenia zasady konkurencyjności poprzez istniejące powiązanie.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\na) Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\nb) Wzór umowy – zgodnie z Załącznikiem nr 2 do Zapytania ofertowego;\nc) Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego - zgodnie z Załącznikiem nr 3 do Zapytania ofertowego;\nd) Menu wyżywienia uwzględniający posiłki mięsne, wegetariańskie, wegańskie."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie nr 5/KP/FAA/2020 – zajęcia z orientacji przestrzennej",
+            "advertiser_name": "Fundacja Ari Ari",
+            "start_date": "2020-11-17",
+            "end_date": "2020-11-24",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Wykonawca posiada kwalifikacje zgodne z poniższymi wymaganiami lub dysponuje kadrą posiadającą kwalifikacje zgodne z poniższymi wymaganiami:\n\n• Wykształcenie wyższe kierunkowe z zakresu tyflopedagogiki lub z zakresu rehabilitacji osób z niepełnosprawnością wzroku LUB wykształcenie wyższe wraz z certyfikatami lub zaświadczeniami uprawniającymi do prowadzenia zajęć z zakresu czynności dnia codziennego, w tym orientacji przestrzennej.\n• Minimum 2 lata doświadczenia w realizacji zajęć/ warsztatów dla osób z niepełnosprawnością.\n\nPrzez min. 2 letnie doświadczenie zawodowe rozumie się zatrudnienie na okres 24 miesięcy lub realizację co najmniej 300 godzin zajęć/warsztatów dla osób z niepełnosprawnością liczone w okresie 3 ostatnich lat przed dniem złożenia oferty a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie.",
+                "Wykonawca nie jest powiązany z Zamawiającym osobowo lub kapitałowo, przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między Zamawiającym lub osobami upoważnionymi do zaciągania zobowiązań w imieniu Zamawiającego lub osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy a Wykonawcą, polegające w szczególności na:\n uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej, \n posiadaniu co najmniej 10% udziałów lub akcji, o ile niższy próg nie wynika \nz przepisów prawa lub nie został określony przez IZ PO, \n pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika, \n pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli.",
+                "Opis\n1) Formularz oferty wraz z wykazem doświadczenia\n2) Oświadczenie o braku powiązań z Zamawiającym\n3) Dokumentacja potwierdzająca kwalifikacje/ wiedzę/doświadczenie tj: skan dokumentu\npotwierdzającego wykształcenie wyższe, skany certyfikatów/zaświadczeń uprawniających do prowadzenia zajęć z zakresu czynności dnia codziennego - w tym orientacji przestrzennej (jeśli dotyczy), dokumenty potwierdzające doświadczenie tj. referencje, zaświadczenia, protokoły ze zrealizowanych usług, kopie umów itp."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Sylwia Pilarska - Detari",
+                    "price": "21600.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80500000-9",
+                    "description": "Usługi szkoleniowe"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie nr 6/KP/FAA/2020 – zajęcia z obsługi technologii mobilnych",
+            "advertiser_name": "Fundacja Ari Ari",
+            "start_date": "2020-11-18",
+            "end_date": "2020-11-25",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Wykonawca posiada kwalifikacje zgodne z poniższymi wymaganiami lub dysponuje kadrą posiadającą kwalifikacje zgodne z poniższymi wymaganiami:\n\n• Wykształcenie wyższe informatyczne i/lub certyfikaty o ukończonych szkoleniach/kursach IT uprawniających do prowadzenia zajęć informatycznych umożliwiające realizację przedmiotu zamówienia.\n• Minimum 3 lata doświadczenia w prowadzeniu zajęć informatycznych dla osób z niepełnosprawnością z zakresu obsługi komputera i sprzętu elektronicznego.\nPrzez min. 3 letnie doświadczenie zawodowe rozumie się zatrudnienie na okres 36 miesięcy lub realizację co najmniej 450 godzin zajęć informatycznych dla osób z niepełnosprawnością z zakresu obsługi komputera i sprzętu elektronicznego liczone w okresie 4 ostatnich lat przed dniem złożenia oferty a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie.",
+                "Wykonawca nie jest powiązany z Zamawiającym osobowo lub kapitałowo, przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między Zamawiającym lub osobami upoważnionymi do zaciągania zobowiązań w imieniu Zamawiającego lub osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy a Wykonawcą, polegające w szczególności na:\n uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej, \n posiadaniu co najmniej 10% udziałów lub akcji, o ile niższy próg nie wynika \nz przepisów prawa lub nie został określony przez IZ PO, \n pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika, \n pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli.",
+                "1) Formularz oferty wraz z wykazem doświadczenia\n2) Oświadczenie o braku powiązań z Zamawiającym\n3) Dokumentacja potwierdzająca kwalifikacje/ wiedzę/doświadczenie tj: skan dokumentu potwierdzającego wykształcenie wyższe, skany certyfikatów; skany dokumentów potwierdzające doświadczenie tj. referencje, zaświadczenia, protokoły ze zrealizowanych usług, kopie umów, itp."
+            ],
+            "offer_winners": [
+                {
+                    "name": "TYFLOKOM Kamil Kowalczyk",
+                    "price": "36000.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80500000-9",
+                    "description": "Usługi szkoleniowe"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 3/2021/OWES TŁOK 2 z dnia 15.04.2021 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2021-04-15",
+            "end_date": "2021-04-27",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \na) Akceptują treść zapytania ofertowego bez zastrzeżeń oraz wypełnią i złożą w terminie ofertę na formularzu ofertowym stanowiącym Załącznik nr 1 do Zapytania ofertowego;\nb) Dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n Posiadają udokumentowany dorobek zawodowy adekwatny do problematyki świadczonej usługi, \n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie, w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin trenerskich z zakresu na które składa ofertę, \n Posiadają wykształcenie wyższe - ukończyli studia zawodowe/magisterskie lub studia podyplomowe, \n Posiadają uprawnienia do prowadzenia szkolenia objętego przedmiotem zamówienia,\n Szkolenie powinny prowadzić osoby mające minimum 3-letnie doświadczenie zgodne z kierunkiem zamówienia;\n Posiadają aktualny wpis do rejestru instytucji szkoleniowych. Należy złożyć aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej,\n Są dyspozycyjne – posiadają możliwość świadczenia usługi w terminie i miejscu umówienia się z klientem oraz możliwość stawienia się w siedzibie Zamawiającego. \n Posiadają dobrą organizację w samodzielnych zadaniach.\nc) Znajdują się w sytuacji ekonomicznej i finansowej umożliwiającej wykonanie zamówienia;\nd) Gwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia;\ne) Zobowiążą się do podpisania umowy na warunkach określonych w ofercie.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. Program szkolenia – przygotowany przez Wykonawcę;\n3. Aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej;\n4. Załącznik nr 3 – CV;\n5. Załącznik nr 4 - Wykaz zrealizowanych usług, zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego.\n6. Załącznik nr 7 – Informacje przedstawiane w celu uznania kwalifikacji"
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 17/2022/OWES TŁOK 2 z dnia 10.06.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-06-10",
+            "end_date": "2022-06-20",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \nDysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n Posiadają udokumentowany dorobek zawodowy adekwatny do problematyki świadczonej usługi, \n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie, w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin trenerskich z zakresu na które składa ofertę, \n Posiadają wykształcenie wyższe kierunkowe - ukończyli studia zawodowe/magisterskie lub studia podyplomowe kierunkowe, \n Posiadają uprawnienia do prowadzenia szkolenia objętego przedmiotem zamówienia,\n Szkolenie powinny prowadzić osoby mające minimum 3-letnie doświadczenie zgodne z kierunkiem zamówienia,\n Są dyspozycyjne – posiadają możliwość świadczenia usługi w terminie i miejscu umówienia się z klientem oraz możliwość stawienia się w siedzibie Zamawiającego, \n Posiadają dobrą organizację pracy w samodzielnych zadaniach.",
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \nPosiadają aktualny wpis do rejestru instytucji szkoleniowych. Należy złożyć aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. CV - zgodnie z Załącznikiem nr 3 do Zapytania ofertowego\n3. Wykaz usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego - zgodnie z Załącznikiem nr 4 do Zapytania ofertowego\n4. Informacje przedstawiane w celu uznania kwalifikacji - zgodnie z Załącznikiem nr 7 do Zapytania ofertowego.\n5. Program szkolenia – przygotowany przez Wykonawcę – jako załącznik nr 8;\n6. Aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowe – jako załącznik nr 9."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 20/2022/OWES TŁOK 2 z dnia 30.06.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-06-30",
+            "end_date": "2022-07-11",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \na) Akceptują treść zapytania ofertowego bez zastrzeżeń oraz wypełnią i złożą w terminie ofertę na formularzu ofertowym stanowiącym Załącznik nr 1 do Zapytania ofertowego;\nb) Dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n Posiadają udokumentowany dorobek zawodowy adekwatny do problematyki świadczonej usługi, \n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie, w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin trenerskich z zakresu na które składa ofertę, \n Posiadają wykształcenie wyższe kierunkowe - ukończyli studia zawodowe/magisterskie lub studia podyplomowe kierunkowe, \n Posiadają uprawnienia do prowadzenia szkolenia objętego przedmiotem zamówienia,\n Szkolenie powinny prowadzić osoby mające minimum 3-letnie doświadczenie zgodne z kierunkiem zamówienia,\n Posiadają aktualny wpis do rejestru instytucji szkoleniowych. Należy złożyć aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej,\n Są dyspozycyjne – posiadają możliwość świadczenia usługi w terminie i miejscu umówienia się z klientem oraz możliwość stawienia się w siedzibie Zamawiającego, \n Posiadają dobrą organizację pracy w samodzielnych zadaniach.\nc) Znajdują się w sytuacji ekonomicznej i finansowej umożliwiającej wykonanie zamówienia;\nd) Gwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia co zweryfikowane zostanie na podstawie załącznika nr 3 do postępowania – CV;\ne) Zobowiążą się do podpisania umowy na warunkach określonych w ofercie.",
+                "1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. CV - zgodnie z Załącznikiem nr 3 do Zapytania ofertowego\n3. Wykaz usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego - zgodnie z Załącznikiem nr 4 do Zapytania ofertowego\n4. Program szkolenia – przygotowany przez Wykonawcę – jako załącznik nr 7;\n5. Aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowe – jako załącznik nr 8."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Centrum Szkoleniowe FRR sp. z o.o.",
+                    "price": "2450.00 PLN"
+                },
+                {
+                    "name": "Edugika Centrum Szkoleniowe Krzysztof Dąbrowski",
+                    "price": "7915.00 PLN"
+                },
+                {
+                    "name": "SEKA SA Oddział Bydgoszcz",
+                    "price": "13900.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 21/2022/OWES TŁOK 2 z dnia 14.07.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-07-14",
+            "end_date": "2022-07-22",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \na) Akceptują treść zapytania ofertowego bez zastrzeżeń oraz wypełnią i złożą w terminie ofertę na formularzu ofertowym stanowiącym Załącznik nr 1 do Zapytania ofertowego;\nb) Dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n Posiadają udokumentowany dorobek zawodowy adekwatny do problematyki świadczonej usługi, \n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie, w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin trenerskich z zakresu na które składa ofertę, \n Posiadają wykształcenie wyższe kierunkowe - ukończyli studia zawodowe/magisterskie lub studia podyplomowe kierunkowe, \n Posiadają uprawnienia do prowadzenia szkolenia objętego przedmiotem zamówienia,\n Szkolenie powinny prowadzić osoby mające minimum 3-letnie doświadczenie zgodne z kierunkiem zamówienia,\n Posiadają aktualny wpis do rejestru instytucji szkoleniowych. Należy złożyć aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej,\n Są dyspozycyjne – posiadają możliwość świadczenia usługi w terminie i miejscu umówienia się z klientem oraz możliwość stawienia się w siedzibie Zamawiającego, \n Posiadają dobrą organizację pracy w samodzielnych zadaniach.\nc) Znajdują się w sytuacji ekonomicznej i finansowej umożliwiającej wykonanie zamówienia;\nd) Gwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia co zweryfikowane zostanie na podstawie załącznika nr 3 do postępowania – CV;\ne) Zobowiążą się do podpisania umowy na warunkach określonych w ofercie.",
+                "1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. CV - zgodnie z Załącznikiem nr 3 do Zapytania ofertowego\n3. Wykaz usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego - zgodnie z Załącznikiem nr 4 do Zapytania ofertowego\n4. Program szkolenia – przygotowany przez Wykonawcę – jako załącznik nr 7;\n5. Aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowe – jako załącznik nr 8."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Centrum Szkoleniowe FRR Sp. z o. o.",
+                    "price": "2450.00 PLN"
+                },
+                {
+                    "name": "SEKA SA Oddział Bydgoszcz",
+                    "price": "13900.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 22/2022/OWES TŁOK 2 z dnia 26.07.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-07-26",
+            "end_date": "2022-08-03",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \na) Akceptują treść zapytania ofertowego bez zastrzeżeń oraz wypełnią i złożą w terminie ofertę na formularzu ofertowym stanowiącym Załącznik nr 1 do Zapytania ofertowego;\nb) Dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n Posiadają udokumentowany dorobek zawodowy adekwatny do problematyki świadczonej usługi, \n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie, w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin trenerskich z zakresu na które składa ofertę, \n Posiadają wykształcenie wyższe kierunkowe - ukończyli studia zawodowe/magisterskie lub studia podyplomowe kierunkowe, \n Posiadają uprawnienia do prowadzenia szkolenia objętego przedmiotem zamówienia,\n Szkolenie powinny prowadzić osoby mające minimum 3-letnie doświadczenie zgodne z kierunkiem zamówienia,\n Posiadają aktualny wpis do rejestru instytucji szkoleniowych. Należy złożyć aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej,\n Są dyspozycyjne – posiadają możliwość świadczenia usługi w terminie i miejscu umówienia się z klientem oraz możliwość stawienia się w siedzibie Zamawiającego, \n Posiadają dobrą organizację pracy w samodzielnych zadaniach.\nc) Znajdują się w sytuacji ekonomicznej i finansowej umożliwiającej wykonanie zamówienia;\nd) Gwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia co zweryfikowane zostanie na podstawie załącznika nr 3 do postępowania – CV;\ne) Zobowiążą się do podpisania umowy na warunkach określonych w ofercie.",
+                "1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. CV - zgodnie z Załącznikiem nr 3 do Zapytania ofertowego\n3. Wykaz usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego - zgodnie z Załącznikiem nr 4 do Zapytania ofertowego\n4. Program szkolenia – przygotowany przez Wykonawcę;\n5. Aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowe."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Centrum Szkoleniowe FRR sp. z o. o.",
+                    "price": "2450.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 24/2022/OWES TŁOK 2 z dnia 03.10.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-10-03",
+            "end_date": "2022-10-12",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \nDysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n Posiadają udokumentowany dorobek zawodowy adekwatny do problematyki świadczonej usługi, \n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie, w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin trenerskich z zakresu na które składa ofertę, \n Posiadają wykształcenie wyższe kierunkowe - ukończyli studia zawodowe/magisterskie lub studia podyplomowe kierunkowe, \n Posiadają uprawnienia do prowadzenia szkolenia objętego przedmiotem zamówienia,\n Szkolenie powinny prowadzić osoby mające minimum 3-letnie doświadczenie zgodne z kierunkiem zamówienia,\n Posiadają aktualny wpis do rejestru instytucji szkoleniowych. Należy złożyć aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej,\n Są dyspozycyjne – posiadają możliwość świadczenia usługi w terminie i miejscu umówienia się z klientem oraz możliwość stawienia się w siedzibie Zamawiającego, \n Posiadają dobrą organizację pracy w samodzielnych zadaniach.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. CV - zgodnie z Załącznikiem nr 3 do Zapytania ofertowego\n3. Wykaz usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego - zgodnie z Załącznikiem nr 4 do Zapytania ofertowego\n4. Program szkolenia – przygotowany przez Wykonawcę;\n5. Aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowe.",
+                "Z możliwości realizacji zamówienia wykluczone są podmioty powiązane osobowo lub kapitałowo z Zamawiającym lub z osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru Wykonawcy, w szczególności poprzez:\na) Uczestnictwo w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb) Posiadanie udziałów lub co najmniej 10% akcji;\nc) Pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd) Pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, bocznej drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli;\ne) Inne, niż wskazane w lit. a-d przypadki, jeżeli wystąpi podejrzenie naruszenia zasady konkurencyjności poprzez istniejące powiązanie.\n\nNa mocy art. 1 pkt 23 rozporządzenia 2022/576 do rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 229 z 31.7.2014, str. 1) z udziału w postępowaniu wykluczeni są rosyjscy wykonawcy działający na rzecz lub z udziałem:\na) obywateli rosyjskich lub osób fizycznych lub prawnych, podmiotów lub organów z siedzibą w Rosji;\nb) osób prawnych, podmiotów lub organów, do których prawa własności bezpośrednio lub pośrednio w ponad 50 % należą do podmiotu, o którym mowa w lit. a) niniejszego ustępu; lub\nc) osób fizycznych lub prawnych, podmiotów lub organów działających w imieniu lub pod kierunkiem podmiotu, o którym mowa w lit. a) lub b) niniejszego ustępu, w tym podwykonawców, dostawców lub podmiotów, na których zdolności polega się w rozumieniu dyrektyw w sprawie zamówień publicznych, w przypadku gdy przypada na nich ponad 10 % wartości zamówienia.\n\nZ możliwości realizacji zamówienia wykluczone są podmioty, które decyzją ministra SWiA, na podstawie art. 3 ust. 1 i 6 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835), zostały wpisane na listę osób i podmiotów, wobec których stosowane są środki, o których mowa w ustawie o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Centrum Szkoleniowe FRR SP. z o. o.",
+                    "price": "1650.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 10/2021/OWES TŁOK 2 z dnia 08.09.2021. r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2021-09-08",
+            "end_date": "2021-09-16",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \na) Akceptują treść zapytania ofertowego bez zastrzeżeń oraz wypełnią i złożą w terminie ofertę na formularzu ofertowym stanowiącym Załącznik nr 1 do Zapytania ofertowego;\nb) Dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia.\nc) Znajdują się w sytuacji ekonomicznej i finansowej umożliwiającej wykonanie zamówienia;\nd) Gwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia;\ne) Zobowiążą się do podpisania umowy na warunkach określonych w ofercie.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\na) Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\nb) Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego - zgodnie z Załącznikiem nr 3 do Zapytania ofertowego;\nc) Menu wyżywienia uwzględniający posiłki mięsne, wegetariańskie, wegańskie."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Spółdzielnia socjalna \"Zbójeński Kredens\"",
+                    "price": "43.00 PLN"
+                }
+            ],
+            "offer_losers": [
+                {
+                    "name": "Centrum Ekonomii Społecznej BONUM",
+                    "price": "57.00 PLN"
+                },
+                {
+                    "name": "VICTUS Sp. z o. o.",
+                    "price": "55.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                },
+                {
+                    "code": "55520000-1",
+                    "description": "Usługi dostarczania posiłków"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 7/2022/OWES TŁOK 2 z dnia 16.03.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-03-16",
+            "end_date": "2022-03-25",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \n\nDysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 200 godzin poradnictwa zawodowego w zakresie, na które składana jest oferta, przy czym 70% przepracowanych godzin było adresowanych do osób zagrożonych ubóstwem i/lub wykluczeniem społecznym oraz do przedstawicieli podmiotów ekonomii społecznej, w tym w szczególności do osób współpracujących z organizacjami pozarządowymi i spółdzielniami socjalnymi,\n Posiadają wykształcenie wyższe-ukończyli studia zawodowe/magisterskie lub studia podyplomowe kierunkowe, np. poradnictwo zawodowe.\n Posiadają min. 3 letnie doświadczenie zawodowe w zakresie, na które składana jest oferta zgodnie z przedmiotem zamówienia,\n Są dyspozycyjne – posiadają możliwość świadczenia usługi w terminie i miejscu umówienia się z klientem oraz możliwość stawienia się w siedzibie Zamawiającego. \n Posiadają umiejętności diagnostyczne pod kątem oceny predyspozycji i kompetencji osób na rynku pracy.\n Posiadają wysokie umiejętności interpersonalne oraz pracy pod presją czasu i stresu.\n Posiadają dobrą organizację w samodzielnych zadaniach.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. Załącznik nr 3 – CV;\n3. Załącznik nr 4- Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego – zgodnie z Załącznikiem nr 3 do Zapytania ofertowego.",
+                "Z możliwości realizacji zamówienia wykluczone są podmioty powiązane osobowo lub kapitałowo z Zamawiającym lub z osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru Wykonawcy, w szczególności poprzez:\na) Uczestnictwo w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb) Posiadanie udziałów lub co najmniej 10% akcji;\nc) Pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd) Pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, bocznej drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli;\ne) Inne, niż wskazane w lit. a-d przypadki, jeżeli wystąpi podejrzenie naruszenia zasady konkurencyjności poprzez istniejące powiązanie."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Lilla Załęska",
+                    "price": "98.00 PLN"
+                },
+                {
+                    "name": "Marzena Stanisławska",
+                    "price": "98.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "85312320-8",
+                    "description": "Usługi doradztwa"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 12/2021/OWES TŁOK 2 z dnia 13.09.2021 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2021-09-13",
+            "end_date": "2021-10-01",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \na) Akceptują treść zapytania ofertowego bez zastrzeżeń oraz wypełnią i złożą w terminie ofertę na formularzu ofertowym stanowiącym Załącznik nr 1 do Zapytania ofertowego;\nb) Dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n Posiadają udokumentowany dorobek zawodowy adekwatny do problematyki świadczonej usługi, \n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie, w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin trenerskich z zakresu na które składa ofertę, \n Posiadają wykształcenie wyższe kierunkowe - ukończyli studia zawodowe/magisterskie lub studia podyplomowe kierunkowe, \n Posiadają uprawnienia do prowadzenia szkolenia objętego przedmiotem zamówienia,\n Szkolenie powinny prowadzić osoby mające minimum 3-letnie doświadczenie zgodne z kierunkiem zamówienia,\n Posiadają aktualny wpis do rejestru instytucji szkoleniowych. Należy złożyć aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej,\n Są dyspozycyjne – posiadają możliwość świadczenia usługi w terminie i miejscu umówienia się z klientem oraz możliwość stawienia się w siedzibie Zamawiającego, \n Posiadają dobrą organizację pracy w samodzielnych zadaniach.\nc) Znajdują się w sytuacji ekonomicznej i finansowej umożliwiającej wykonanie zamówienia;\nd) Gwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia;\ne) Zobowiążą się do podpisania umowy na warunkach określonych w ofercie.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. Podpisany Wzór umowy – stanowiący załącznik nr 2 do Zapytania ofertowego;\n3. CV - zgodnie z Załącznikiem nr 3 do Zapytania ofertowego\n4. Wykaz usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego - zgodnie z Załącznikiem nr 4 do Zapytania ofertowego\n5. Podpisany Wzór umowy o powierzenie danych - stanowiący Załącznik nr 5 do Zapytania ofertowego,\n6. Podpisany Opis przedmiotu zamówienia - stanowiący Załącznik nr 6 do Zapytania ofertowego\n7. Informacje przedstawiane w celu uznania kwalifikacji - zgodnie z Załącznikiem nr 7 do Zapytania ofertowego.\n8. Program szkolenia – przygotowany przez Wykonawcę – jako załącznik nr 8;\n9. Aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowe – jako załącznik nr 9."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Stowarzyszenie Księgowych w Polsce, Oddział Okręgowy w Legnicy",
+                    "price": "1640.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 2/KP/FAA/2020 – wynajem sal",
+            "advertiser_name": "Fundacja Ari Ari",
+            "start_date": "2020-09-23",
+            "end_date": "2020-09-30",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Wykonawca składa oświadczenie spełnienia tego warunku na wzorze Zamawiającego oraz dołącza Wydruk z Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub Krajowego Rejestru Sądowego.",
+                "Wykonawca składa oświadczenie, iż dysponuje potencjałem technicznym umożliwiającym realizacje przedmiotu zmówienia ORAZ że ma możliwość zapewnienia sal zgodnych z przedmiotem zamówienia oraz miejscem realizacji i terminami zamówienia wskazanymi w zapytaniu.",
+                "Wykonawca składa oświadczenie, iż dysponuje osobami(obsługa techniczna, administracyjna sali wraz ze sprzątaniem) zdolnymi do wykonywania zamówienia.",
+                "Wykonawca składa oświadczenie, iż znajduje się w sytuacji finansowej i ekonomicznej zapewniającej wykonanie zamówienia.",
+                "Wykonawca nie jest powiązany z Zamawiającym osobowo lub kapitałowo.\n\nPrzez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między Zamawiającym lub osobami upoważnionymi do zaciągania zobowiązań w imieniu Zamawiającego lub osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy \na wykonawcą, polegające w szczególności na:\n Uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej,\n Posiadaniu co najmniej 10% udziałów lub akcji, o ile niższy próg nie wynika z przepisów prawa lub nie został określony przez IZ PO,\n Pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika,\n Pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli.",
+                "Opis\n1) Formularz oferty\n2) Oświadczenie o braku powiązań z Zamawiającym\n3) Oświadczenie o dysponowaniu potencjałem technicznym, osobami zdolnymi (obsługa techniczna, administracyjna sali wraz ze sprzątaniem) do wykonywania zamówienia oraz o znajdowaniu się w sytuacji finansowej i ekonomicznej zapewniającej wykonanie zamówienia;\n4) Oświadczenie o możliwości zapewnienia sal zgodnych z przedmiotem zamówienia oraz miejscem realizacji i terminami zamówienia wskazanymi w zapytaniu.\n5) Oświadczenie o posiadaniu uprawnień do wykonywania działalności i czynności objętych przedmiotem zamówienia.\n6) Wydruk z Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub Krajowego Rejestru Sądowego."
+            ],
+            "offer_winners": [
+                {
+                    "name": "TYFLOKOM Kamil Kowalczyk",
+                    "price": "3840.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "70220000-9",
+                    "description": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 8/2022/OWES TŁOK 2 z dnia 21.03.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-03-21",
+            "end_date": "2022-03-31",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n• Posiadają kwalifikacje, wiedzę i doświadczenie wymagane do prawidłowego wykonania zamówienia tj. posiadają minimum 3 letnie udokumentowane doświadczenie w realizacji usług eksperckich/doradczych/mentoringu z wymaganego w zapytaniu zakresu i/lub jest/był zatrudniony w okresie ostatnich trzech lat w placówce oświatowej dla dzieci o specjalnych potrzebach edukacyjnych w charakterze kadry zarządczej,\n• Posiadają doświadczenie w przeprowadzeniu min. 100 godzin mentoringu/doradztwa/usług eksperckich;\n\nGwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1) Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2) Załącznik nr 3 – CV;\n3) Załącznik nr 4 - Wykaz zrealizowanych usług."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Firma Szkoleniowa Krawczyk Izabela",
+                    "price": "150.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "85312320-8",
+                    "description": "Usługi doradztwa"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 1/KP/FAA/2020 – Mentor/Opiekun wsparcia.",
+            "advertiser_name": "Fundacja Ari Ari",
+            "start_date": "2020-09-23",
+            "end_date": "2020-09-30",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "Wykonawca posiada lub dysponuje kadrą, tj. 1 osobą oddelegowaną/skierowaną do realizacji przedmiotu zamówienia posiadającą:\n\ni. wykształcenie wyższe w minimum jednym z następujących zakresów: psychologia, pedagogika;\n\nii. Posiadającą minimum 2 lata doświadczenia z zakresu realizacji poradnictwa lub szkoleń lub warsztatów psychologicznych lub dot. Kompetencji/umiejętności społecznych lub dot. Warsztatów motywujących dla osób z niepełnosprawnościami.\n\nPrzez min. 2 letnie doświadczenie zawodowe rozumie się zatrudnienie na okres 24 miesięcy lub realizację co najmniej 300 godzin poradnictwa lub szkoleń lub warsztatów psychologicznych lub dot. Kompetencji/umiejętności społecznych lub warsztatów motywacyjnych dla osób z niepełnosprawnościami liczone w okresie 3 ostatnich lat przed dniem złożenia oferty a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie.",
+                "Wykonawca nie jest powiązany z Zamawiającym osobowo lub kapitałowo, przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między Zamawiającym lub osobami upoważnionymi do zaciągania zobowiązań w imieniu Zamawiającego lub osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru wykonawcy a Wykonawcą, polegające w szczególności na:\n uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej, \n posiadaniu co najmniej 10% udziałów lub akcji, o ile niższy próg nie wynika \nz przepisów prawa lub nie został określony przez IZ PO, \n pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika, \n pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli.",
+                "1) Formularz oferty wraz z wykazem doświadczenia\n2) Oświadczenie o braku powiązań z Zamawiającym\n3) Dokumentacja potwierdzająca kwalifikacje/ wiedzę/doświadczenie tj: skan dokumentu potwierdzającego wykształcenie wyższe, dokumenty potwierdzające doświadczenie tj. referencje, zaświadczenia, protokoły ze zrealizowanych usług, kopie umów itp."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Fundacja Rozwoju Integralnego",
+                    "price": "8640.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80500000-9",
+                    "description": "Usługi szkoleniowe"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 7/2021/OWES TŁOK 2 z dnia 14.07.2021 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2021-07-14",
+            "end_date": "2021-07-26",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \na) Akceptują treść zapytania ofertowego bez zastrzeżeń oraz wypełnią i złożą w terminie ofertę na formularzu ofertowym stanowiącym Załącznik nr 1 do Zapytania ofertowego;\nb) Dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia:\n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin usług w zakresie reintegracji zawodowej i społecznej przy czym odbiorcami usług były osoby zagrożone ubóstwem i/lub wykluczeniem społecznym. Ponadto posiadają uprawnienia do prowadzenia terapii uzależnień,\n Posiada min. 3-letnie doświadczenie w pracy z osobami uzależnionymi, udokumentowane (m.in. dyplom, zaświadczenie, rekomendacje, referencje, zaświadczenia itp.),\nc) Znajdują się w sytuacji ekonomicznej i finansowej umożliwiającej wykonanie zamówienia;\nd) Gwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia;\ne) Zobowiążą się do podpisania umowy na warunkach określonych w ofercie.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. Załącznik nr 3 – CV;\n3. Załącznik nr 4- Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego – zgodnie z Załącznikiem nr 3 do Zapytania ofertowego."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Ośrodek Nauczania Języków Obcych „Języki świata”",
+                    "price": "86.68 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "85310000-5",
+                    "description": "Usługi pracy społecznej"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 6/2022/OWES TŁOK 2 z dnia 07.03.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-03-07",
+            "end_date": "2022-03-21",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n• Posiadają kwalifikacje, wiedzę i doświadczenie wymagane do prawidłowego wykonania zamówienia tj. posiadają minimum 3 letnie udokumentowane doświadczenie w realizacji usług eksperckich/doradczych/mentoringu z wymaganego w zapytaniu zakresu i/lub jest/był zatrudniony w okresie ostatnich trzech lat w placówce oświatowej dla dzieci o specjalnych potrzebach edukacyjnych w charakterze kadry zarządczej,\n• Posiadają doświadczenie w przeprowadzeniu min. 100 godzin mentoringu/doradztwa/usług eksperckich;\n\nGwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1) Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2) Załącznik nr 3 – CV;\n3) Załącznik nr 4 - Wykaz zrealizowanych usług."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "FIRMA SZKOLENIOWA KRAWCZYK IZABELA",
+                    "price": "175.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "85312320-8",
+                    "description": "Usługi doradztwa"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 18/2022/OWES TŁOK 2 z dnia 10.06.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-06-10",
+            "end_date": "2022-06-20",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \nDysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia:\n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin usług zajęć w ramach kursu pedagogicznego w zakresie terapii ręki,\n Posiada min. 3-letnie doświadczenie zgodnie z przedmiotem zamówienia,\n Posiadają doświadczenie wyższe kierunkowe zgodne z przedmiotem zamówienia.",
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy posiadają aktualny wpis do rejestru instytucji szkoleniowych. Należy złożyć aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej,",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. Załącznik nr 3 – CV;\n3. Załącznik nr 4- Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego – zgodnie z Załącznikiem nr 3 do Zapytania ofertowego.\n4. Program szkolenia – przygotowany przez Wykonawcę – jako załącznik nr 6;\n5. Aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowe – jako załącznik nr 7."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 15/2022/OWES TŁOK 2 z dnia 06.05.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-05-06",
+            "end_date": "2022-05-18",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia:\n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin usług w zakresie reintegracji zawodowej i społecznej, przy czym odbiorcami usług były osoby zagrożone wykluczeniem społecznym.\n Posiada min. 5-letnie doświadczenie w pracy z osobami będącymi klientami podmiotów reintegracyjnych realizujących usługi reintegracji społecznej i zawodowej lub rynku pracy, udokumentowane (rekomendacje, referencje, zaświadczenia, wpis w cv itp.),\n Posiada dyplom ukończenia studiów na kierunku: Psychologia i/lub udokumentowane m.in. 10-letnie doświadczenie w pracy terapeutycznej z osobami uzależnionymi bądź nadużywającymi substancji odurzających i środków psychotropowych.",
+                "Z możliwości realizacji zamówienia wykluczone są podmioty powiązane osobowo lub kapitałowo z Zamawiającym lub z osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru Wykonawcy, w szczególności poprzez:\na) Uczestnictwo w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb) Posiadanie udziałów lub co najmniej 10% akcji;\nc) Pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd) Pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, bocznej drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli.\ne) Inne, niż wskazane w lit. a-d przypadki, jeżeli wystąpi podejrzenie naruszenia zasady konkurencyjności poprzez istniejące powiązanie.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1) Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2) Załącznik nr 3 – CV;\n3) Załącznik nr 4- Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego – zgodnie z Załącznikiem nr 3 do Zapytania ofertowego."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "85310000-5",
+                    "description": "Usługi pracy społecznej"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 13/2022/OWES TŁOK 2 z dnia 25.04.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-04-25",
+            "end_date": "2022-05-06",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia:\n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin usług w zakresie reintegracji zawodowej i społecznej, przy czym odbiorcami usług były osoby zagrożone wykluczeniem społecznym.\n Posiada min. 5-letnie doświadczenie w pracy z osobami będącymi klientami podmiotów reintegracyjnych realizujących usługi reintegracji społecznej i zawodowej lub rynku pracy, udokumentowane (rekomendacje, referencje, zaświadczenia, wpis w cv itp.),\n Posiada dyplom ukończenia studiów na kierunku: Psychologia i/lub udokumentowane m.in. 10-letnie doświadczenie w pracy terapeutycznej z osobami uzależnionymi bądź nadużywającymi substancji odurzających i środków psychotropowych.",
+                "Z możliwości realizacji zamówienia wykluczone są podmioty powiązane osobowo lub kapitałowo z Zamawiającym lub z osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru Wykonawcy, w szczególności poprzez:\na) Uczestnictwo w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb) Posiadanie udziałów lub co najmniej 10% akcji;\nc) Pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd) Pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, bocznej drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli.\ne) Inne, niż wskazane w lit. a-d przypadki, jeżeli wystąpi podejrzenie naruszenia zasady konkurencyjności poprzez istniejące powiązanie.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1) Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2) Załącznik nr 3 – CV;\n3) Załącznik nr 4- Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego – zgodnie z Załącznikiem nr 3 do Zapytania ofertowego."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Andrzej Burzyński",
+                    "price": "140.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "85310000-5",
+                    "description": "Usługi pracy społecznej"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 10/2022/OWES TŁOK 2 z dnia 12.04.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-04-12",
+            "end_date": "2022-04-22",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia:\n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin usług w zakresie reintegracji zawodowej i społecznej, przy czym odbiorcami usług były osoby zagrożone wykluczeniem społecznym.\n Posiada min. 5-letnie doświadczenie w pracy z osobami będącymi klientami podmiotów reintegracyjnych realizujących usługi reintegracji społecznej i zawodowej lub rynku pracy, udokumentowane (rekomendacje, referencje, zaświadczenia, wpis w cv itp.),\n Posiada dyplom ukończenia studiów na kierunku: Psychologia i/lub udokumentowane m.in. 10-letnie doświadczenie w pracy terapeutycznej z osobami uzależnionymi bądź nadużywającymi substancji odurzających i środków psychotropowych.",
+                "Z możliwości realizacji zamówienia wykluczone są podmioty powiązane osobowo lub kapitałowo z Zamawiającym lub z osobami wykonującymi w imieniu Zamawiającego czynności związane z przygotowaniem i przeprowadzeniem procedury wyboru Wykonawcy, w szczególności poprzez:\na) Uczestnictwo w spółce jako wspólnik spółki cywilnej lub spółki osobowej;\nb) Posiadanie udziałów lub co najmniej 10% akcji;\nc) Pełnienie funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;\nd) Pozostawanie w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, bocznej drugiego stopnia lub w stosunku przysposobienia, opieki lub kurateli.\ne) Inne, niż wskazane w lit. a-d przypadki, jeżeli wystąpi podejrzenie naruszenia zasady konkurencyjności poprzez istniejące powiązanie.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. Załącznik nr 3 – CV;\n3. Załącznik nr 4- Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego – zgodnie z Załącznikiem nr 3 do Zapytania ofertowego."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Andrzej Burzyński",
+                    "price": "175.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "85310000-5",
+                    "description": "Usługi pracy społecznej"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 23/2022/OWES TŁOK 2 z dnia 24.08.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-08-24",
+            "end_date": "2022-09-02",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \nDysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n Posiadają udokumentowany dorobek zawodowy adekwatny do problematyki świadczonej usługi, \n Posiadają uprawnienia do prowadzenia szkoleń objętych przedmiotem zamówienia. Wykonawca posiada wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców prowadzonego przez starostę właściwego ze względu na miejsce wykonywania działalności.\n Szkolenie powinny prowadzić osoby mające minimum 3-letnie doświadczenie zgodne z kierunkiem zamówienia;\n Posiadają aktualny wpis do rejestru instytucji szkoleniowych. Należy złożyć aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowej,\n Są dyspozycyjne – posiadają możliwość świadczenia usługi w terminie i miejscu umówienia się z klientem oraz możliwość stawienia się w siedzibie Zamawiającego.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. CV - zgodnie z Załącznikiem nr 3 do Zapytania ofertowego\n3. Wykaz usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego - zgodnie z Załącznikiem nr 4 do Zapytania ofertowego\n4. Program szkolenia – przygotowany przez Wykonawcę;\n5. Aktualne potwierdzenie wpisu instytucji szkoleniowej do RIS prowadzonego przez Wojewódzki Urząd Pracy właściwy ze względu na siedzibę instytucji szkoleniowe."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Ośrodek Szkolenia Kierowców-Przedsiębiorstwo Handlowo-Produkcyjno–Usługowe „Intarex” Jerzy Kuligowski",
+                    "price": "2490.00 PLN"
+                }
+            ],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "80530000-8",
+                    "description": "Usługi szkolenia zawodowego"
+                }
+            ],
+            "EU": false
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 5/2022/OWES TŁOK 2 z dnia 21.02.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-02-21",
+            "end_date": "2022-03-07",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia, tj. dysponują lub będą dysponować do realizacji zamówienia osobami, które:\n• Posiadają kwalifikacje, wiedzę i doświadczenie wymagane do prawidłowego wykonania zamówienia tj. posiadają minimum 3 letnie udokumentowane doświadczenie w realizacji usług eksperckich/doradczych/mentoringu z wymaganego w zapytaniu zakresu i/lub jest/był zatrudniony w okresie ostatnich trzech lat w placówce oświatowej dla dzieci o specjalnych potrzebach edukacyjnych w charakterze kadry zarządczej,\n• Posiadają doświadczenie w przeprowadzeniu min. 100 godzin mentoringu/doradztwa/usług eksperckich;\n\nGwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1) Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2) Załącznik nr 3 – CV;\n3) Załącznik nr 4 - Wykaz zrealizowanych usług."
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "85312320-8",
+                    "description": "Usługi doradztwa"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 6/2021/OWES TŁOK 2 z dnia 08.06.2021 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2021-06-08",
+            "end_date": "2021-06-17",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "1. O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy: \na) Akceptują treść zapytania ofertowego bez zastrzeżeń oraz wypełnią i złożą w terminie ofertę na formularzu ofertowym stanowiącym Załącznik nr 1 do Zapytania ofertowego;\nb) Dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia:\n Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin usług w zakresie reintegracji zawodowej i społecznej, przy czym odbiorcami usług były osoby zagrożone wykluczeniem społecznym.\n Posiada min. 5-letnie doświadczenie w pracy z osobami będącymi klientami podmiotów reintegracyjnych realizujących usługi reintegracji społecznej i zawodowej lub rynku pracy, udokumentowane (rekomendacje, referencje, zaświadczenia, wpis w cv itp.),\nc) Znajdują się w sytuacji ekonomicznej i finansowej umożliwiającej wykonanie zamówienia;\nd) Gwarantują, że osoby które będą uczestniczyć w wykonaniu zamówienia posiadają wszelkie wymagane kwalifikacje i doświadczenie niezbędne do wykonania zamówienia;\ne) Zobowiążą się do podpisania umowy na warunkach określonych w ofercie.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. Załącznik nr 3 – CV;\n3. Załącznik nr 4- Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego – zgodnie z Załącznikiem nr 3 do Zapytania ofertowego."
+            ],
+            "offer_winners": [],
+            "offer_losers": [
+                {
+                    "name": "Dominik Nowak Intuicja",
+                    "price": "80.00 PLN"
+                },
+                {
+                    "name": "Lidia Dobrolubow",
+                    "price": "80.00 PLN"
+                },
+                {
+                    "name": "Lilla Załęska",
+                    "price": "80.00 PLN"
+                },
+                {
+                    "name": "Marzena Stanisławska",
+                    "price": "80.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "85310000-5",
+                    "description": "Usługi pracy społecznej"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Zapytanie ofertowe nr 9/2022/OWES TŁOK 2 z dnia 31.03.2022 r.",
+            "advertiser_name": "Stowarzyszenie Kujawsko-Pomorski Ośrodek Wsparcia Inicjatyw Pozarządowych \"TŁOK\"",
+            "start_date": "2022-03-31",
+            "end_date": "2022-04-08",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy dysponują odpowiednim potencjałem technicznym oraz osobami zdolnymi do wykonania zamówienia:\n- Zapewniają, że osoba, która w imieniu Wykonawcy będzie realizowała zamówienie w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy, w tym okresie wykonała min. 300 godzin usług w zakresie reintegracji zawodowej i społecznej, przy czym odbiorcami usług były osoby zagrożone wykluczeniem społecznym.\n- Posiada min. 5-letnie doświadczenie w pracy z osobami będącymi klientami podmiotów reintegracyjnych realizujących usługi reintegracji społecznej i zawodowej lub rynku pracy, udokumentowane (rekomendacje, referencje, zaświadczenia, wpis w cv itp.),\n- Posiada dyplom ukończenia studiów na kierunku: Psychologia i/lub udokumentowane m.in. 10-letnie doświadczenie w pracy terapeutycznej z osobami uzależnionymi bądź nadużywającymi substancji odurzających i środków psychotropowych.",
+                "Oświadczenia i dokumenty, jakie muszą przedłożyć Wykonawcy:\n1. Wypełniony formularz ofertowy – zgodnie z Załącznikiem nr 1 do Zapytania ofertowego;\n2. Załącznik nr 3 – CV;\n3. Załącznik nr 4- Wykaz zrealizowanych usług zgodnie z warunkiem udziału w postępowaniu określonym w pkt. 5 zapytania ofertowego – zgodnie z Załącznikiem nr 3 do Zapytania ofertowego.",
+                "O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy znajdują się w sytuacji \nekonomicznej i finansowej umożliwiającej wykonanie zamówienia"
+            ],
+            "offer_winners": [],
+            "offer_losers": [],
+            "cpv": [
+                {
+                    "code": "85310000-5",
+                    "description": "Usługi pracy społecznej"
+                }
+            ],
+            "EU": true
+        },
+        {
+            "auction_name": "Spełnimy Twoje zawodowe marzenia 2",
+            "advertiser_name": "Gmina Miasta Toruń",
+            "start_date": "2022-06-15",
+            "end_date": "2022-06-27",
+            "is_price_criterium": true,
+            "status": "Rozstrzygnięte",
+            "conditions": [
+                "O udzielenie zamówienia publicznego mogą ubiegać się Wykonawcy, którzy spełniają warunki, dotyczące:\na) aktualny wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia\nkierowców zgodnie z ustawą z dnia 5 stycznia 2011 r. o kierujących pojazdami\n(tj. Dz U z 2021 r. poz. 720)",
+                "Dysponowanie kadrą prowadzącą szkolenie, która posiada wiedzę i minimum trzyletnie doświadczenie w prowadzeniu szkoleń/kursów o tematyce zgodnej z zamówieniem."
+            ],
+            "offer_winners": [
+                {
+                    "name": "Ośrodek Szkolenia Kierowców \"OŚKA\" Małgorzata Ośka",
+                    "price": "9072.00 PLN"
+                }
+            ],
+            "offer_losers": [
+                {
+                    "name": "Ośrodek Szkolenia Kierowców \"ELKA\"",
+                    "price": "11480.00 PLN"
+                },
+                {
+                    "name": "Przedsiębiorstwo Handlowo-Usługowe \"TURBO\" Rutecki Józef",
+                    "price": "10000.00 PLN"
+                }
+            ],
+            "cpv": [
+                {
+                    "code": "80500000-9",
+                    "description": "Usługi szkoleniowe"
+                }
+            ],
+            "EU": false
+        }
+    ]
+}
