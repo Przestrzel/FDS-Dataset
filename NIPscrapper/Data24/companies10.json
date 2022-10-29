@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1000,
+        "name": "MAT Usługi Informatyczne Sp. z o.o. Sp. komandytowa"
+    },
+    {
+        "id": 1001,
+        "name": "PROCAD S.A."
+    },
+    {
+        "id": 1002,
+        "name": "Roman Yarosevych"
+    },
+    {
+        "id": 1003,
+        "name": "PHU „Maroko” Beata Ropela"
+    },
+    {
+        "id": 1004,
+        "name": "Bartoszewska-Dogan Małgorzata"
+    },
+    {
+        "id": 1005,
+        "name": "Zakład Doskonalenia Zawodowego w Słupsku OKZ Bytów"
+    },
+    {
+        "id": 1006,
+        "name": "MrCertified Sp. z. o. o."
+    },
+    {
+        "id": 1007,
+        "name": "TECHELF Sp. z o.o."
+    },
+    {
+        "id": 1008,
+        "name": "MANBUD"
+    },
+    {
+        "id": 1009,
+        "name": "BUDOSERWIS Z.U.H. Sp. z o.o."
+    },
+    {
+        "id": 1010,
+        "name": "BizartBud Izabela Bongart"
+    },
+    {
+        "id": 1011,
+        "name": "Psychoterapia, Konsultacje, Szkolenia - Mariola Karaś - Karczewska"
+    },
+    {
+        "id": 1012,
+        "name": "Kosobudzki Ryszard \"Stalbet Projekt\""
+    },
+    {
+        "id": 1013,
+        "name": "8MG Group Magdalena Murańska"
+    },
+    {
+        "id": 1014,
+        "name": "Waldemar Lakowski Agencja Reklamowa Kleks"
+    },
+    {
+        "id": 1015,
+        "name": "DENTALSTORE Spółka z O.O. Spółka Komandytowa"
+    },
+    {
+        "id": 1016,
+        "name": "Usługi budowlane Marek Skolimowski"
+    },
+    {
+        "id": 1017,
+        "name": "B&ES Michał Leszczyński"
+    },
+    {
+        "id": 1018,
+        "name": "Biuro Obsługi Inwestycji „INWEST-WYBRZEŻE” Sp. z o.o."
+    },
+    {
+        "id": 1019,
+        "name": "Development Design Sp. z o.o."
+    },
+    {
+        "id": 1020,
+        "name": "MANAGEMENT Roman Billot"
+    },
+    {
+        "id": 1021,
+        "name": "SMARTCO Wojciech Orlik"
+    },
+    {
+        "id": 1022,
+        "name": "NM-D Sp. z o.o. Sp. k."
+    },
+    {
+        "id": 1023,
+        "name": "ACEL Sp. z o.o. Sp. k."
+    },
+    {
+        "id": 1024,
+        "name": "Perschmann Sp. z o.o. "
+    },
+    {
+        "id": 1025,
+        "name": "PHU FAKTOR Piotr Pachczyński"
+    },
+    {
+        "id": 1026,
+        "name": "ITerka24 POGOTOWIE INFORMATYCZNE MICHAŁ KAWCZYŃSKI"
+    },
+    {
+        "id": 1027,
+        "name": "ALITEC Piotr Pietrzak"
+    },
+    {
+        "id": 1028,
+        "name": "AMC VIBRO"
+    },
+    {
+        "id": 1029,
+        "name": "Grupa LBT Małgorzata Wojtysiak"
+    },
+    {
+        "id": 1030,
+        "name": "Lechstal Krzysztof Szeliga"
+    },
+    {
+        "id": 1031,
+        "name": "Ośrodek Szkolenia Kierowców VEKTRA Dariusz Tarnowski"
+    },
+    {
+        "id": 1032,
+        "name": "COMEL Spółka z ograniczoną odpowiedzialnością"
+    },
+    {
+        "id": 1033,
+        "name": "Oświata-Lingwista N.C.E. Sp. z o. o."
+    },
+    {
+        "id": 1034,
+        "name": "OSK Poldek Dagmara Romanowicz"
+    },
+    {
+        "id": 1035,
+        "name": "ALFA EDUKACJA Michał Grelus"
+    },
+    {
+        "id": 1036,
+        "name": "Business Masters Centrum Edukacji Jadwiga Drzewosz"
+    },
+    {
+        "id": 1037,
+        "name": "Inventum Sp. z o.o."
+    },
+    {
+        "id": 1038,
+        "name": "OŚWIATA – LINGWISTA NCE Sp. z o.o."
+    },
+    {
+        "id": 1039,
+        "name": "PRO-EDU Sp. j. D. Karmazyn R.Krokocki"
+    },
+    {
+        "id": 1040,
+        "name": "PREMA S.A."
+    },
+    {
+        "id": 1041,
+        "name": "TECHPRZEM Sp. z o.o."
+    },
+    {
+        "id": 1042,
+        "name": "ARCUS Bogna Puchaczewska"
+    },
+    {
+        "id": 1043,
+        "name": "Jakub Goździkowski"
+    },
+    {
+        "id": 1044,
+        "name": "HM Partners Stanisław Witkwoski"
+    },
+    {
+        "id": 1045,
+        "name": "MH Projekt – Projektowanie i wykonawstwo instalacji – Michał Hanowicz"
+    },
+    {
+        "id": 1046,
+        "name": "ABB Sp. z o.o. Sp. k."
+    },
+    {
+        "id": 1047,
+        "name": "Konsorcjum Bibus Menos Sp. z o.o. i WEGeuro Industria Electrica SA"
+    },
+    {
+        "id": 1048,
+        "name": "M&MR Trading Sp. z o.o."
+    },
+    {
+        "id": 1049,
+        "name": "RS-TEAM S.C. Grzegorz Romek, Jakub Szymaniak"
+    },
+    {
+        "id": 1050,
+        "name": "I-BS.PL SP.Z.O.O"
+    },
+    {
+        "id": 1051,
+        "name": "Grupa Promocyjna Maxpoint - Agnieszka Starak-Bartoszuk"
+    },
+    {
+        "id": 1052,
+        "name": "Firma usługowa \"MUCHA\" Zbigniew Muchowski"
+    },
+    {
+        "id": 1053,
+        "name": "CD Usługi Budowlane"
+    },
+    {
+        "id": 1054,
+        "name": "Fol Plast II M.A. Gostomscy, M. Szczypior - Spółka Jawna"
+    },
+    {
+        "id": 1055,
+        "name": "Bianco Zuzanna Białogłowska"
+    },
+    {
+        "id": 1056,
+        "name": "NM-D Sp. z o.o. Sp. komandytowa"
+    },
+    {
+        "id": 1057,
+        "name": "QUAY Biuro Handlowo - Usługowe Sp. z o.o."
+    },
+    {
+        "id": 1058,
+        "name": "Eur Consulting sp. Z. o.o."
+    },
+    {
+        "id": 1059,
+        "name": "SMAKPOL-CATERING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+    },
+    {
+        "id": 1060,
+        "name": "„Szansa” Weronika Pyda-Ledwoń"
+    },
+    {
+        "id": 1061,
+        "name": "ABB Sp. z o.o."
+    },
+    {
+        "id": 1062,
+        "name": "EMAO MARINE & OFFSHORE S.C."
+    },
+    {
+        "id": 1063,
+        "name": "M&MR Trading Polska Sp. z o.o."
+    },
+    {
+        "id": 1064,
+        "name": "SILESIA DENTAL Z. SYCZ K. MROZEK SP JAWNA"
+    },
+    {
+        "id": 1065,
+        "name": "SILESIA DENTAL Z. SYCZ, K.MROZEK SPÓŁKA JAWNA"
+    },
+    {
+        "id": 1066,
+        "name": "Ponar Wadowice S.A."
+    },
+    {
+        "id": 1067,
+        "name": "Politechnika Gdańska Wydział Oceanotechniki i Okrętownictwa"
+    },
+    {
+        "id": 1068,
+        "name": "Politechnika Gdańska"
+    },
+    {
+        "id": 1069,
+        "name": "Szkoła Języków Europejskich Universus sp. z o.o."
+    },
+    {
+        "id": 1070,
+        "name": "Effective Teaching Adam Stencel"
+    },
+    {
+        "id": 1071,
+        "name": "Fluent Jerzy Szwedowski"
+    },
+    {
+        "id": 1072,
+        "name": "Ośrodek Nauczania Języków Obcych „Języki Świata” Katarzyna Anna Rokicka"
+    },
+    {
+        "id": 1073,
+        "name": "Oxford Language Centre"
+    },
+    {
+        "id": 1074,
+        "name": "Mar-Ship Firma Prywatna Grzegorz Bugaj"
+    },
+    {
+        "id": 1075,
+        "name": "REM Elbląg Sp. Z o.o."
+    },
+    {
+        "id": 1076,
+        "name": "Wartsila Iberica S.A."
+    },
+    {
+        "id": 1077,
+        "name": "Polster Elektronika - Automatyka Sp. z o.o. Sp. komandytowa"
+    },
+    {
+        "id": 1078,
+        "name": "Cador Consulting sp. z o.o."
+    },
+    {
+        "id": 1079,
+        "name": "Amazon Filters Sp. z o. o."
+    },
+    {
+        "id": 1080,
+        "name": "Pall Poland Sp. z o. o."
+    },
+    {
+        "id": 1081,
+        "name": "Avantor Performance Materials Poland S.A."
+    },
+    {
+        "id": 1082,
+        "name": "Politechnika Gdańska Wydział Elektroniki, Telekomunikacji i Informatyki"
+    },
+    {
+        "id": 1083,
+        "name": "\"Oświata - Lingwista\" Nadbałtyckie Centrum Edukacji sp. z o.o."
+    },
+    {
+        "id": 1084,
+        "name": "Eppendorf Poland Sp. z o. o."
+    },
+    {
+        "id": 1085,
+        "name": "Lab Empire Sp. z o. o."
+    },
+    {
+        "id": 1086,
+        "name": "VWR International Sp z o. o."
+    },
+    {
+        "id": 1087,
+        "name": "Usługi Terapeutyczne Joanna Buraczek"
+    },
+    {
+        "id": 1088,
+        "name": "KONTEKST-Janusz Nowacki"
+    },
+    {
+        "id": 1089,
+        "name": "Paul Matthyssens"
+    },
+    {
+        "id": 1090,
+        "name": "Joanna Główczyńska"
+    },
+    {
+        "id": 1091,
+        "name": "Pracownia Psychologii, Seksuologii i Psychoterapii Beata Państwa - Wojciechowska"
+    },
+    {
+        "id": 1092,
+        "name": "Psychoterapia, Konsultacje, Szkolenia - Mariola Araś - Karczewska"
+    },
+    {
+        "id": 1093,
+        "name": "Charles River Microbial Solutions International limited"
+    },
+    {
+        "id": 1094,
+        "name": "Auto-Banasik Piotr Banasik"
+    },
+    {
+        "id": 1095,
+        "name": "Jarczak S.C."
+    },
+    {
+        "id": 1096,
+        "name": "Margo H.D. Kuźmiccy Sp. j."
+    },
+    {
+        "id": 1097,
+        "name": "BIOKOM"
+    },
+    {
+        "id": 1098,
+        "name": "Romina Kucharska"
+    },
+    {
+        "id": 1099,
+        "name": "Krzysztof Zieliński"
+    }
+]

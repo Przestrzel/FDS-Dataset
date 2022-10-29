@@ -102,18 +102,21 @@ def get_company_official_details(krs_number, legal_form, nip_number, owner_name,
 
 
 def get_supervisory_board(company_authorities_section, stock_company_div, supervisory_board):
+    tmp = stock_company_div.text
     if " RADA NADZORCZA " in stock_company_div.text:
         print("Rada nadzorcza")
-        board_members_names = company_authorities_section.find("div", {"class": "authority-name ng-star-inserted"})
+        board_members_names = stock_company_div.findAll("div", {"class": "authority-name ng-star-inserted"})
         new_member = ""
         for member in board_members_names:
             if member.text != "" and not member.text.startswith(" "):
                 new_member = member.text
-            elif member.text.startswith(" "):
-                new_member += member.text
                 print(new_member)
                 supervisory_board.append(new_member)
-                new_member = ""
+            # elif member.text.startswith(" "):
+            #     new_member += member.text
+            #     print(new_member)
+            #     supervisory_board.append(new_member)
+            #     new_member = ""
     return
 
 
@@ -121,15 +124,17 @@ def get_procuration_members(company_authorities_section, procuration_members, st
     if "PROKURA" in stock_company_div.text:
         print("Prokura")
         new_member = ""
-        board_members_names = company_authorities_section.find("div", {"class": "authority-name"})
+        board_members_names = stock_company_div.findAll("div", {"class": "authority-name"})
         for member in board_members_names:
             if member.text != "" and not member.text.startswith(" "):
                 new_member = member.text
-            elif member.text.startswith(" "):
-                new_member += member.text
                 print(new_member)
                 procuration_members.append(new_member)
-                new_member = ""
+            # elif member.text.startswith(" "):
+            #     new_member += member.text
+            #     print(new_member)
+            #     procuration_members.append(new_member)
+            #     new_member = ""
     return
 
 
@@ -139,15 +144,18 @@ def get_board_members(company_authorities_section, board_members_array):
 
         if board_members is not None:
             print("Czlonkowie zarzadu")
-            board_members_names = board_members.find("div", {"class": "authority-name"})
+            board_members.findAll
+            board_members_names = board_members.findAll("div", {"class": "authority-name"})
             for member in board_members_names:
                 if member.text != "" and not member.text.startswith(" "):
                     new_member = member.text
-                elif member.text.startswith(" "):
-                    new_member += member.text
                     print(new_member)
                     board_members_array.append(new_member)
-                    new_member = ""
+                # elif member.text.startswith(" "):
+                #     new_member += member.text
+                #     print(new_member)
+                #     board_members_array.append(new_member)
+                #     new_member = ""
     return
 
 
@@ -291,7 +299,8 @@ def replace_polish_characters(base_text):
         .replace("’", "'")\
         .replace('\xad', '')\
         .replace('\xae', '')\
-        .replace('\xe9', '')\
+        .replace('\xe9', '') \
+        .replace('\xe4', '') \
         .replace('\xfc', '')
     return return_text
 
@@ -341,9 +350,10 @@ if __name__ == '__main__':
     print("Start processing...")
 
     print("Companies list is fetched")
-    companies = Companies()
-    for i in range(30, 31):
-        with open(f'Data/companies' + str(i) + '.json', 'r', encoding='utf8') as f:
+    for i in range(0, 1):
+        companies = Companies()
+        with open(f'Data24/companies' + str(i) + '.json', 'r', encoding='utf8') as f:
+        #with open(f'ExampleData/example.json', 'r', encoding='utf8') as f:
             #companies_from_file = f.readlines()
 
             data = json.load(f)
@@ -352,12 +362,12 @@ if __name__ == '__main__':
                 companies_from_file.append((company['id'], company['name']))
 
             for company_from_file in companies_from_file:
-                print(company_from_file[1])
+                print("\n" + company_from_file[1])
                 company_to_add = check_single_auction_attender(company_from_file[1], company_from_file[0])
                 if company_to_add is not None:
                     companies.add_company(company_to_add)
 
-            with open(f'ProperOutputData/FetchedCompanies' + str(i) + '.json', 'w', encoding='utf8') as f:
+            with open(f'OutputData24/FullFetchedCompanies' + str(i) + '.json', 'w', encoding='utf8') as f:
                 json.dump(json.JSONDecoder().decode(companies.to_json()), f, ensure_ascii=False, indent=4)
 
     print("End processing...")

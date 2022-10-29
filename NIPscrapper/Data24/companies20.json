@@ -1,0 +1,402 @@
+[
+    {
+        "id": 2000,
+        "name": "Agencja Reklamowa KJM"
+    },
+    {
+        "id": 2001,
+        "name": "Diadal Group Mateusz Pasierbek"
+    },
+    {
+        "id": 2002,
+        "name": "F.H.U. Europartners Mirosław Dudek"
+    },
+    {
+        "id": 2003,
+        "name": "MIKODRUK COMPUTER S.C. Jacek i Sylwia Mikołajczyk"
+    },
+    {
+        "id": 2004,
+        "name": "MKK Sp. z o.o."
+    },
+    {
+        "id": 2005,
+        "name": "Ragnarok Studio Natalia Guzik-Ryś"
+    },
+    {
+        "id": 2006,
+        "name": "REKUS Kinga Świderska & Michał Świderski s.c."
+    },
+    {
+        "id": 2007,
+        "name": "Xdgifts"
+    },
+    {
+        "id": 2008,
+        "name": "Jarosław Mydlak"
+    },
+    {
+        "id": 2009,
+        "name": "KOMBIT PLUS Sp. z o. o."
+    },
+    {
+        "id": 2010,
+        "name": "Quad Pro sp. z o. o."
+    },
+    {
+        "id": 2011,
+        "name": "Pretender Adrian Wronka"
+    },
+    {
+        "id": 2012,
+        "name": "Katowicki Instytut Naukowo Medyczny Sp. z o.o."
+    },
+    {
+        "id": 2013,
+        "name": "Kartes-Med Sp. z o.o."
+    },
+    {
+        "id": 2014,
+        "name": "Zdrocen Sp. z o.o."
+    },
+    {
+        "id": 2015,
+        "name": "Manbroker Sp. z o.o."
+    },
+    {
+        "id": 2016,
+        "name": "Agnieszka Narowska"
+    },
+    {
+        "id": 2017,
+        "name": "Fundacja Akademia Rozwoju"
+    },
+    {
+        "id": 2018,
+        "name": "'KOPERTEX'' Katarzyna Gołębiewska-Wdziekońska"
+    },
+    {
+        "id": 2019,
+        "name": "Akademia Słońca Krzysztof Frąszczak"
+    },
+    {
+        "id": 2020,
+        "name": "GREENKO SP. Z O.O."
+    },
+    {
+        "id": 2021,
+        "name": "GKP Aero Sp. z o.o."
+    },
+    {
+        "id": 2022,
+        "name": "Compro Jola Olszewska"
+    },
+    {
+        "id": 2023,
+        "name": "PRIME COMPUTERS DARIUSZ LESZCZYŃSKI"
+    },
+    {
+        "id": 2024,
+        "name": "STUDIO SIEDEM ŻÓŁTOWSKI GRZEGORZ"
+    },
+    {
+        "id": 2025,
+        "name": "4MAT SP. ZO.O."
+    },
+    {
+        "id": 2026,
+        "name": "AGENCJA MARKETINGOWA K&M DESIGNS"
+    },
+    {
+        "id": 2027,
+        "name": "Agencja Promocyjna \"STYLLE\" s.c. I.Kosakowska, A. Kasprzak"
+    },
+    {
+        "id": 2028,
+        "name": "AGENCJA REKLAMOWA AYOA JÓZEF KRAŚNIEJ"
+    },
+    {
+        "id": 2029,
+        "name": "Agencja Reklamy Eureka Plus Barbara Fedorowicz Ryszard Fedorowicz"
+    },
+    {
+        "id": 2030,
+        "name": "GRAFSIDE TOMASZ GÓRNY"
+    },
+    {
+        "id": 2031,
+        "name": "LIBRA PRINT DANIEL PUŁAWSKI"
+    },
+    {
+        "id": 2032,
+        "name": "MIKODRUK COMPUTER S.C. JACEK I SYLWIA MIKOŁAJCZYK"
+    },
+    {
+        "id": 2033,
+        "name": "PPHU LIR ELZBIETA ZAJET"
+    },
+    {
+        "id": 2034,
+        "name": "Prestige sara Błaszczak"
+    },
+    {
+        "id": 2035,
+        "name": "STUDIO MRÓWKA JOANNA FORYŚ-MAZIAK"
+    },
+    {
+        "id": 2036,
+        "name": "TOP ARTS SP. ZO.O. ODDZIAŁ W WARSZAWIE"
+    },
+    {
+        "id": 2037,
+        "name": "Biuro tłumaczeń Jacek Łuczak"
+    },
+    {
+        "id": 2038,
+        "name": "AGIt Agnieszka Rydz"
+    },
+    {
+        "id": 2039,
+        "name": "Kornelia Filut Studio"
+    },
+    {
+        "id": 2040,
+        "name": "Lexus Audit Sp. z o.o."
+    },
+    {
+        "id": 2041,
+        "name": "Audit Lab Sp. z o.o."
+    },
+    {
+        "id": 2042,
+        "name": "Biuro Audytorskie Jerzy Cyran - Biegły Rewident"
+    },
+    {
+        "id": 2043,
+        "name": "Grupa Gumułka - Audyt Sp. z o.o. Sp. k."
+    },
+    {
+        "id": 2044,
+        "name": "KPW Audytor Sp. z o.o."
+    },
+    {
+        "id": 2045,
+        "name": "Damian Miszewski"
+    },
+    {
+        "id": 2046,
+        "name": "Agencja Wydawniczo - Reklamowa PRAGMATIC MEDIA Tomasz Barszcz"
+    },
+    {
+        "id": 2047,
+        "name": "Dariusz Juraś R5 Films"
+    },
+    {
+        "id": 2048,
+        "name": "Django Media Svitlana Hvozdyar"
+    },
+    {
+        "id": 2049,
+        "name": "Dżwignia Handlu Sp. zo.o."
+    },
+    {
+        "id": 2050,
+        "name": "FlashStudio Monika Paruszewska-Achtel"
+    },
+    {
+        "id": 2051,
+        "name": "Fundacja Mali Szczęśliwi im. Janusza Korczaka"
+    },
+    {
+        "id": 2052,
+        "name": "FYD-STUDIO Antoni Cepel"
+    },
+    {
+        "id": 2053,
+        "name": "Globalista. EU Marek Norowski"
+    },
+    {
+        "id": 2054,
+        "name": "Kamil Brzostowski"
+    },
+    {
+        "id": 2055,
+        "name": "LSW Group Michał Laskowski"
+    },
+    {
+        "id": 2056,
+        "name": "Magdalena Wójcik New Media"
+    },
+    {
+        "id": 2057,
+        "name": "Małpa Maciej Łojewski"
+    },
+    {
+        "id": 2058,
+        "name": "MEDIALORD SP. Z O.O."
+    },
+    {
+        "id": 2059,
+        "name": "MP Studios Bartosz Hamerlak"
+    },
+    {
+        "id": 2060,
+        "name": "Parkos Media"
+    },
+    {
+        "id": 2061,
+        "name": "Paweł Deryng Kontakt Media"
+    },
+    {
+        "id": 2062,
+        "name": "PCFE Jakub Kliszcz"
+    },
+    {
+        "id": 2063,
+        "name": "PeliCam Media"
+    },
+    {
+        "id": 2064,
+        "name": "PK Productions sp. z o.o."
+    },
+    {
+        "id": 2065,
+        "name": "QBEK STUDIO Jakub Cegielski"
+    },
+    {
+        "id": 2066,
+        "name": "RM-DRONE Remigiusz Majchrzak"
+    },
+    {
+        "id": 2067,
+        "name": "Silver Fox s.c. A. Zdanowicz, P. Strutyński"
+    },
+    {
+        "id": 2068,
+        "name": "STUDIO SIERMIX Sp. z o.o."
+    },
+    {
+        "id": 2069,
+        "name": "This is studio Adam Piasecki"
+    },
+    {
+        "id": 2070,
+        "name": "Zigzag Media Iwona Gniedziejko-Płuciennik"
+    },
+    {
+        "id": 2071,
+        "name": "ATMOTERM SA"
+    },
+    {
+        "id": 2072,
+        "name": "Instytut Badawczy IPC SP. Z O.O."
+    },
+    {
+        "id": 2073,
+        "name": "BOUNDLESS DEVELOPMENT Celestyna Miłoś"
+    },
+    {
+        "id": 2074,
+        "name": "CPOINT Sp. z o.o."
+    },
+    {
+        "id": 2075,
+        "name": "Medfile S.A. (lider)"
+    },
+    {
+        "id": 2076,
+        "name": "Quality Watch Sp. z o.o."
+    },
+    {
+        "id": 2077,
+        "name": "Biuro Tłumaczeń Jacek Łuczak"
+    },
+    {
+        "id": 2078,
+        "name": "GROY Translations Sp z o.o."
+    },
+    {
+        "id": 2079,
+        "name": "MASTER Agnieszka Burnus-Rychlewska"
+    },
+    {
+        "id": 2080,
+        "name": "Skrivanek sp. z o.o."
+    },
+    {
+        "id": 2081,
+        "name": "Wordlink Usługi Językowe Sp. z o.o."
+    },
+    {
+        "id": 2082,
+        "name": "LEMFAX PHU Joanna Godlewska"
+    },
+    {
+        "id": 2083,
+        "name": "Lexprint Karol Bałazy"
+    },
+    {
+        "id": 2084,
+        "name": "Dobre Strony Michał Bielecki"
+    },
+    {
+        "id": 2085,
+        "name": "TUTU Krzysztof Tutaj"
+    },
+    {
+        "id": 2086,
+        "name": "mapen Spółka Jawna Paweł Oksieńczuk, Mariusz Jóźwik"
+    },
+    {
+        "id": 2087,
+        "name": "BREKKO"
+    },
+    {
+        "id": 2088,
+        "name": "Mega System Zbigniew Dębski"
+    },
+    {
+        "id": 2089,
+        "name": "PRZEDSIĘBIORSTWO ZAOPATRZENIA SZKÓŁ \"CEZAS\" sp. z o.o."
+    },
+    {
+        "id": 2090,
+        "name": "AWM Technology Aneta Starzyk"
+    },
+    {
+        "id": 2091,
+        "name": "FHU Horyzont Krzysztof lech"
+    },
+    {
+        "id": 2092,
+        "name": "g.IT Solutions Michał Daszkiewicz"
+    },
+    {
+        "id": 2093,
+        "name": "Kombit Plus Spółka z ograniczoną odpowiedzialnością Sp. k."
+    },
+    {
+        "id": 2094,
+        "name": "MPC PAWEŁ OLEKSIEWICZ"
+    },
+    {
+        "id": 2095,
+        "name": "Prefer Z.Pilaszek Sp.Jawna"
+    },
+    {
+        "id": 2096,
+        "name": "PRO-PC Przemysław Cabaj"
+    },
+    {
+        "id": 2097,
+        "name": "Przedsiębiorstwo Handlowo-Usługowe MAAK Adrian Kozak"
+    },
+    {
+        "id": 2098,
+        "name": "Przedsiębiorstwo Zaopatrzenia Szkół \"Cezas\" sp. zo.o."
+    },
+    {
+        "id": 2099,
+        "name": "Przedsiębiorstwo Zaopatrzenia Szkół \"Cezas\" sp.z o.o."
+    }
+]

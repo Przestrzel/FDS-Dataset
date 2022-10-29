@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1100,
+        "name": "Agnieszka Zielonka"
+    },
+    {
+        "id": 1101,
+        "name": "Marissa Orlowski"
+    },
+    {
+        "id": 1102,
+        "name": "Aton Piotr Robakowski"
+    },
+    {
+        "id": 1103,
+        "name": "Dariusz Kłos"
+    },
+    {
+        "id": 1104,
+        "name": "Krzysztof Müller"
+    },
+    {
+        "id": 1105,
+        "name": "Łukasz Kryła"
+    },
+    {
+        "id": 1106,
+        "name": "Rafał Jółkowski"
+    },
+    {
+        "id": 1107,
+        "name": "OŚWIATA-LINGWISTA Nadbałtyckie Centrum Edukacji Sp. z o.o."
+    },
+    {
+        "id": 1108,
+        "name": "AKADEMIA KSZTAŁCENIA ZAWODOWEGO Sp. z o.o."
+    },
+    {
+        "id": 1109,
+        "name": "Centrum Biznesu i Promocji Kadr Sp. z o.o."
+    },
+    {
+        "id": 1110,
+        "name": "Ośrodek Szkolenia Dokształcania i Doskonalenia Kadr \"KURSOR\""
+    },
+    {
+        "id": 1111,
+        "name": "Mateusz Małachowski"
+    },
+    {
+        "id": 1112,
+        "name": "Polsko-Japońska Akademia Technik Komputerowych Dr hab. Jerzy Paweł Nowacki ul. Koszykowa 86 02-008 Warszawa"
+    },
+    {
+        "id": 1113,
+        "name": "AI Architects Sp. z o.o. Ul. Piotrkowska 222/7 90- 369 Łódź"
+    },
+    {
+        "id": 1114,
+        "name": "SEIN TNS Co., Ltd"
+    },
+    {
+        "id": 1115,
+        "name": "Fundacja Rozwoju ZHP Chorągwi Gdańskiej"
+    },
+    {
+        "id": 1116,
+        "name": "MARTIME CONSULTING POLAND"
+    },
+    {
+        "id": 1117,
+        "name": "Innovabion Sp. z o.o."
+    },
+    {
+        "id": 1118,
+        "name": "Asseco Data Systems SA"
+    },
+    {
+        "id": 1119,
+        "name": "Inter IT Sp. z o.o."
+    },
+    {
+        "id": 1120,
+        "name": "Asmedic sp. z o.o."
+    },
+    {
+        "id": 1121,
+        "name": "3M Poland Sp. z o.o."
+    },
+    {
+        "id": 1122,
+        "name": "Gdańskie Składy Drzewne"
+    },
+    {
+        "id": 1123,
+        "name": "Projmed Sp. z o.o.,"
+    },
+    {
+        "id": 1124,
+        "name": "P.P.H. SAWENA Zbigniew Dybowski"
+    },
+    {
+        "id": 1125,
+        "name": "„MITRON” Przedsiębiorstwo Instalacyjno-Budowlane Leszek Ossowski"
+    },
+    {
+        "id": 1126,
+        "name": "FORI Sp. z o.o."
+    },
+    {
+        "id": 1127,
+        "name": "KOMPLEX Lucyna Smerdel"
+    },
+    {
+        "id": 1128,
+        "name": "WITKO Group"
+    },
+    {
+        "id": 1129,
+        "name": "Mateusz Piernikarczyk"
+    },
+    {
+        "id": 1130,
+        "name": "Wykończenia Wnętrz - Docieplenia Usługi Leśne Dariusz Myszk"
+    },
+    {
+        "id": 1131,
+        "name": "Gpec Serwis Sp. z o.o"
+    },
+    {
+        "id": 1132,
+        "name": "Bałtycka Akademia Umiejętności Michalina Barańska"
+    },
+    {
+        "id": 1133,
+        "name": "MINDSAILORS Sp. z o.o."
+    },
+    {
+        "id": 1134,
+        "name": "Motywator Rozwoju Katarzyna Słupińska"
+    },
+    {
+        "id": 1135,
+        "name": "Dialog Centrum Edukacji i Profilaktyki"
+    },
+    {
+        "id": 1136,
+        "name": "Twoje Kompetencje Marzena Kowalczyk"
+    },
+    {
+        "id": 1137,
+        "name": "Polkomtel Sp. z o.o."
+    },
+    {
+        "id": 1138,
+        "name": "o North Serwis Marcin Stelmaszew"
+    },
+    {
+        "id": 1139,
+        "name": "part-AD Artur Dyrda Grzechynia"
+    },
+    {
+        "id": 1140,
+        "name": "Kazimierz Dariusz Kmiecik"
+    },
+    {
+        "id": 1141,
+        "name": "ENTERPRESS Marzena Żurek"
+    },
+    {
+        "id": 1142,
+        "name": "Igor Wasiewicz-Pawlaczyk"
+    },
+    {
+        "id": 1143,
+        "name": "Anna Kostecka"
+    },
+    {
+        "id": 1144,
+        "name": "CELLON S.A."
+    },
+    {
+        "id": 1145,
+        "name": "ProLAB Paula Barylak"
+    },
+    {
+        "id": 1146,
+        "name": "Firma Handlowo Usługowa SARDAW Marcin Plichta"
+    },
+    {
+        "id": 1147,
+        "name": "Fori sp. z o.o."
+    },
+    {
+        "id": 1148,
+        "name": "SPB Contech sp. z o.o."
+    },
+    {
+        "id": 1149,
+        "name": "I.T.A. Life Science Sp. z o.o."
+    },
+    {
+        "id": 1150,
+        "name": "TK Biotech Sp. z o.o. Sp.k."
+    },
+    {
+        "id": 1151,
+        "name": "Hardsoft-Telekom Jarosław Kaźmierczak"
+    },
+    {
+        "id": 1152,
+        "name": "NGE Polska Sp. z o.o."
+    },
+    {
+        "id": 1153,
+        "name": "SI4IT Sp. z o.o."
+    },
+    {
+        "id": 1154,
+        "name": "RESMA Sp. z o.o."
+    },
+    {
+        "id": 1155,
+        "name": "WARO Sp. z o.o."
+    },
+    {
+        "id": 1156,
+        "name": "Łukasz Mołda"
+    },
+    {
+        "id": 1157,
+        "name": "VVW International Sp. z o. o."
+    },
+    {
+        "id": 1158,
+        "name": "Zakład Budowlano - Dekarski Marek Plechowski"
+    },
+    {
+        "id": 1159,
+        "name": "GRUPA NDI S.A. ul. Powstańców Warszawy 19 81-718 Sopot NIP: 585-145-19-23 GRUPA NDI S.A. ul. Powstańców Warszawy 19 81-718 Sopot NIP 583-000-75-31"
+    },
+    {
+        "id": 1160,
+        "name": "Dekpol Budownictwo Sp. z o.o."
+    },
+    {
+        "id": 1161,
+        "name": "EastWave Building Company Sp. z o.o."
+    },
+    {
+        "id": 1162,
+        "name": "ERBUD S.A."
+    },
+    {
+        "id": 1163,
+        "name": "FineTech Construction Sp. z o.o."
+    },
+    {
+        "id": 1164,
+        "name": "Jakon Sp. z o.o."
+    },
+    {
+        "id": 1165,
+        "name": "MEGA S.A."
+    },
+    {
+        "id": 1166,
+        "name": "P&P Sp. z o.o."
+    },
+    {
+        "id": 1167,
+        "name": "PROJPRZEM Budownictwo Sp. z o.o."
+    },
+    {
+        "id": 1168,
+        "name": "PrzemBud Gdańsk S.A."
+    },
+    {
+        "id": 1169,
+        "name": "Scalio Sp. z o.o."
+    },
+    {
+        "id": 1170,
+        "name": "BADINO - Maciej Wierzbowski"
+    },
+    {
+        "id": 1171,
+        "name": "APPS GARDEN sp. z o.o."
+    },
+    {
+        "id": 1172,
+        "name": "Janusz Rupik PVP sp. z o.o."
+    },
+    {
+        "id": 1173,
+        "name": "Michał Czubenko"
+    },
+    {
+        "id": 1174,
+        "name": "Komputronik Biznes Sp. z o.o. w restrukturyzacji"
+    },
+    {
+        "id": 1175,
+        "name": "Roche Diagnostics Polska Sp. z o.o."
+    },
+    {
+        "id": 1176,
+        "name": "Zakład budowlano-dekarski Marek Plechowski"
+    },
+    {
+        "id": 1177,
+        "name": "Connect 2 Office s.c."
+    },
+    {
+        "id": 1178,
+        "name": "NORTH SERWIS Marcin Stelmaszew"
+    },
+    {
+        "id": 1179,
+        "name": "INTER-CHEM POZNAŃ Sp. z o. o."
+    },
+    {
+        "id": 1180,
+        "name": "Nova Centrum Edukacyjne Sp. z o. o."
+    },
+    {
+        "id": 1181,
+        "name": "Djpress – Dariusz Dalaszyński"
+    },
+    {
+        "id": 1182,
+        "name": "Lex Consulting Doradztwo Prawno-Gospodarcze Marcin Nowakowski"
+    },
+    {
+        "id": 1183,
+        "name": "Sartorius Stedim Poland Sp. z o.o."
+    },
+    {
+        "id": 1184,
+        "name": "Hurt-Chem Hurtownia Odczynników Chemicznych Piotr Bartocha"
+    },
+    {
+        "id": 1185,
+        "name": "SCANDIC POLEN sp. z o.o."
+    },
+    {
+        "id": 1186,
+        "name": "KOLDENTAL SP. ZO.O."
+    },
+    {
+        "id": 1187,
+        "name": "SELIGA MICROSCOPES SP. Z O.O."
+    },
+    {
+        "id": 1188,
+        "name": "ASTECO Polska Sp. z o.o."
+    },
+    {
+        "id": 1189,
+        "name": "Purinova Sp. z o.o."
+    },
+    {
+        "id": 1190,
+        "name": "Moje Bambino Sp. z o.o., Sp. k."
+    },
+    {
+        "id": 1191,
+        "name": "Firma Handlowa \"Piątka\" Teresa Bajor"
+    },
+    {
+        "id": 1192,
+        "name": "NOWA SZKOŁA SP. z o.o."
+    },
+    {
+        "id": 1193,
+        "name": "Pio Elektronik Piotr Klarzyński"
+    },
+    {
+        "id": 1194,
+        "name": "Andrzej Berg"
+    },
+    {
+        "id": 1195,
+        "name": "Leica Geosystems Sp. z o.o."
+    },
+    {
+        "id": 1196,
+        "name": "„FRESK” Dariusz Chmielewski Usługi Ochrony Zabytków"
+    },
+    {
+        "id": 1197,
+        "name": "Prospecta Sp. z o.o."
+    },
+    {
+        "id": 1198,
+        "name": "VWR Internationat Sp. z o.o."
+    },
+    {
+        "id": 1199,
+        "name": "E-S Przedsiębiorstwo Budowlano-Projektowe Edward Surowiec"
+    }
+]
